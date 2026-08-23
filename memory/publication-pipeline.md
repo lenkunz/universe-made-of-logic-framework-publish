@@ -25,7 +25,7 @@ Semantic work and publication work are separate.
 → `Work rebuilds publication Markdown under publish/articles/`
 → `Work generates images under publish/assets/images/<slug>/`
 → `Work embeds those images into the Markdown`
-→ `Article Slot + Image Caption comments are already present`
+→ `visible Article Slot / Image Caption production blockquotes are already present where needed`
 → `public QA / Substack update`
 
 ## Eight-article set
@@ -54,7 +54,7 @@ for targeted refreshes.
 
 ## Image workflow
 
-Publication images are now repository assets, not separate manual handoff files.
+Publication images are repository assets, not separate manual handoff files.
 
 Work should:
 
@@ -62,13 +62,17 @@ Work should:
 2. generate the images;
 3. commit them under `publish/assets/images/<article-slug>/`;
 4. embed them directly in the generated Markdown;
-5. place `<!-- Image Caption: ... -->` directly below each image.
+5. use a visible labelled blockquote such as `> **Image Caption:** ...` directly below an image when a caption/manual production marker is needed.
 
-Companion article references use:
+Companion article references use visible labelled blockquotes:
 
-`<!-- Article Slot: URL: ... -->`
+`> **Article Slot:** URL: ...`
 
 using the established URLs in `source/internal/url-list.md` / `publish/manifest.md`.
+
+Do not use hidden `<!-- ... -->` HTML comments for production instructions that the user needs to see outside a particular Markdown renderer.
+
+These production blockquotes are not ordinary quoted prose. At the final Substack step, perform the indicated action and remove/convert the production marker as appropriate.
 
 ## Private repo caveat
 
