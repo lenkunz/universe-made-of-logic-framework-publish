@@ -120,7 +120,8 @@ The normal Bits article workflow is now:
 - Work writes the publication-ready article;
 - Work generates the actual editorial image directly;
 - Work stores the image under the Bit's `article/` directory and embeds it in the article Markdown;
-- Work uses visible production blockquotes rather than hidden HTML comment blocks for article-card/caption/manual-publish instructions.
+- Work keeps visible `Article Slot` and `Image Caption` blockquotes as part of the finished public article when they are useful;
+- Work removes only internal-only notes such as `Publish Note` or `Image Brief for Work` once their job is done.
 
 There is **no separate Flow-prompt file in the normal Bits pipeline**.
 
@@ -148,15 +149,15 @@ The Bit package therefore normally contains:
 
 - the final article Markdown;
 - the generated image asset;
-- visible production guidance in blockquote form where manual Substack placement is still required.
+- visible reader-facing callouts in blockquote form for image captions and related-article handoffs where useful.
 
 Do not create a separate Flow prompt unless the user explicitly wants an alternate/regenerated Flow image workflow for that Bit.
 
-## Production markers in Markdown
+## Visible blockquotes in the final article
 
-Do not use invisible HTML comments for production instructions such as article-card placement or image-caption/manual-publish notes.
+Do not use invisible HTML comments for reader-facing article handoffs or image captions.
 
-Use explicit visible blockquotes with stable labels, for example:
+Use explicit visible blockquotes with stable labels:
 
 ```md
 > **Article Slot:** URL: https://...
@@ -166,11 +167,24 @@ Use explicit visible blockquotes with stable labels, for example:
 > **Image Caption:** concise caption text
 ```
 
+These are not temporary placeholders anymore. They are part of the final article's visual language and should normally remain visible in Substack after publication.
+
+This has two advantages:
+
+- the related article URL remains directly readable and needs less special slot maintenance;
+- the caption and handoff survive ordinary Markdown rendering instead of disappearing like HTML comments.
+
+Internal-only notes are different:
+
 ```md
 > **Publish Note:** upload the packaged image binary to Substack rather than relying on the private repository URL.
 ```
 
-These are production markers, not ordinary quoted prose. During the final Substack step, convert/remove them as appropriate after performing the indicated action.
+```md
+> **Image Brief for Work:** describe the visual purpose here.
+```
+
+Perform those instructions and remove the internal-only note from the public article once it is no longer needed.
 
 ## Topic selection / duplication check
 
@@ -206,6 +220,7 @@ idea
 → audio/<slug>.m4a
 → 04-work-prompt.md
 → Work generates article + image
+→ keep public Article Slot / Image Caption blockquotes
 → Substack publish
 → record URL/date in manifest + bits/index.md
 → optional Substack transcript only if later analysis needs it
