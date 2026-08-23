@@ -45,21 +45,20 @@ For each article:
 1. read its current canonical semantic source;
 2. identify any recent semantic corrections affecting it;
 3. rebuild the reader-facing article under the stable output path listed in `publish/manifest.md`;
-4. preserve or add the correct visible article-slot production blockquote using this exact form:
+4. preserve or add the correct visible article-slot blockquote using this exact form:
    - `> **Article Slot:** URL: https://...`
 5. use only the established URLs from `source/internal/url-list.md` / `publish/manifest.md`;
 6. audit whether the article needs a hero image and/or inline conceptual images;
 7. generate every image the final article actually needs;
 8. save each generated image under the article's folder in `publish/assets/images/`;
 9. embed each image directly in the article Markdown using a relative Markdown image link;
-10. when a caption is needed, put a visible production blockquote directly below the image using:
+10. when a caption is useful, put a visible blockquote directly below the image using:
    - `> **Image Caption:** concise caption text`
-11. use `> **Publish Note:** ...` or `> **Image Brief for Work:** ...` for other visible production instructions when needed;
-12. update the article file in place under `publish/articles/`.
+11. keep `Article Slot` and `Image Caption` blockquotes in the final reader-facing Markdown / Substack article;
+12. use `> **Publish Note:** ...` or `> **Image Brief for Work:** ...` only for temporary internal instructions, then remove those once their job is done;
+13. update the article file in place under `publish/articles/`.
 
-Do **not** hide production instructions inside `<!-- ... -->` HTML comments. The user needs these instructions to remain visible in ordinary Markdown viewers and copied source.
-
-Production blockquotes are not ordinary quoted prose. At the final Substack step, perform the indicated action and remove or convert the marker as appropriate.
+Do **not** hide article slots or image captions inside `<!-- ... -->` HTML comments.
 
 ## Image rule
 
@@ -75,9 +74,21 @@ The article Markdown should already contain the image reference, for example:
 
 `![Descriptive alt text](../assets/images/<article-slug>/<filename>.png)`
 
-followed, when a caption is needed, by:
+followed, when a caption is useful, by:
 
 `> **Image Caption:** concise caption text`
+
+That caption is intended to remain visible in the published article.
+
+## Related-article handoffs
+
+Use:
+
+`> **Article Slot:** URL: https://...`
+
+as the final reader-facing handoff to a related article.
+
+Do not treat it as a temporary placeholder that must be converted into a special embed later. The visible blockquote is itself an acceptable final presentation and reduces maintenance.
 
 ## Private repository note
 
@@ -106,9 +117,10 @@ By the end of the run, the repository should contain:
 - eight rebuilt Markdown files under `publish/articles/`;
 - all required generated images under `publish/assets/images/<article-slug>/`;
 - embedded Markdown image links already present in each article;
-- visible image-caption blockquotes where needed;
-- visible article-slot URL blockquotes using the eight established Substack URLs;
+- visible image-caption blockquotes where useful and retained as public content;
+- visible article-slot URL blockquotes using the eight established Substack URLs and retained as public content;
 - no hidden HTML production comments;
+- no temporary internal `Publish Note` / `Image Brief for Work` markers left behind once completed;
 - no temporary publication placeholders left behind.
 
 ## Final report
