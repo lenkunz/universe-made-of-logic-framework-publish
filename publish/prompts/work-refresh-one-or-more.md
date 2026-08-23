@@ -29,14 +29,16 @@ For each target article:
 
 1. rebuild the publication Markdown from the current source;
 2. write/update the stable path registered in `publish/manifest.md`;
-3. preserve/add visible `> **Article Slot:** URL: ...` blockquotes using only known URLs;
+3. preserve/add visible `> **Article Slot:** URL: ...` blockquotes using only known URLs and keep them in the final public article;
 4. generate any hero/inline image the final article needs;
 5. save generated images under the article's registered `publish/assets/images/<slug>/` folder;
 6. embed the images directly with relative Markdown syntax;
-7. when a caption is needed, add `> **Image Caption:** ...` directly below the image;
-8. use `> **Publish Note:** ...` or `> **Image Brief for Work:** ...` for any other production instruction that must remain visible outside a special Markdown renderer;
+7. when a caption is useful, add `> **Image Caption:** ...` directly below the image and keep it visible in the final public article;
+8. use `> **Publish Note:** ...` or `> **Image Brief for Work:** ...` only for temporary internal instructions, then remove them after the instruction has been completed;
 9. keep the output semantically faithful to current source.
 
-Do not use hidden `<!-- ... -->` HTML comments for production instructions.
+The visible **Article Slot** and **Image Caption** blockquotes are now part of the intended publication presentation. Do not convert them into special embeds merely because the article is ready to publish.
+
+Do not use hidden `<!-- ... -->` HTML comments for article slots, image captions, or production instructions.
 Do not copy stale article prose merely because the publication already exists.
 Do not invent URLs or framework claims.
