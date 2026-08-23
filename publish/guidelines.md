@@ -63,11 +63,13 @@ A refresh should therefore preserve:
 
 But the body should be rebuilt from current source semantics rather than blindly preserving stale publication prose.
 
-## 5. Visible production markers
+## 5. Visible reader-facing callouts and production notes
 
-Do **not** use hidden HTML comments such as `<!-- ... -->` for production instructions that the user needs to see when copying Markdown outside ChatGPT or GitHub.
+Do **not** use hidden HTML comments such as `<!-- ... -->` for article slots, image captions, or other instructions the user needs to see outside a special Markdown renderer.
 
-Production instructions must use visible, explicitly labelled blockquotes.
+Use visible, explicitly labelled blockquotes.
+
+Two of these forms are now part of the **final reader-facing article design** and should normally remain visible after publication:
 
 ### Article slots
 
@@ -85,13 +87,17 @@ If the URL is not known, use:
 
 and leave it empty for later completion.
 
+The blockquote itself is intentionally retained in the final Markdown / Substack article as a clean visible handoff to a related article. Do not replace it with a hidden slot marker merely to make the source cleaner.
+
 ### Image captions
 
-Place directly below the image when a caption is needed:
+Place directly below the image when a caption is useful:
 
 `> **Image Caption:** concise caption text`
 
-### Other manual publication notes
+The caption blockquote is intentionally retained in the final article. It is part of the visual rhythm, not an internal placeholder.
+
+### Internal-only notes
 
 Use an explicit label such as:
 
@@ -101,15 +107,15 @@ or:
 
 `> **Image Brief for Work:** ...`
 
-These blockquotes are production markers rather than ordinary quoted prose. During the final Substack publishing step, perform the indicated action and then remove or convert the marker as appropriate.
+These are production-only notes. Perform the indicated action and remove them from the public article when they are no longer useful.
 
 ### Why blockquotes are required
 
 HTML comment blocks can disappear in rendered Markdown viewers and therefore fail as portable copy/paste instructions.
 
-Visible labelled blockquotes remain readable in ordinary Markdown, GitHub, ChatGPT, and copied source.
+Visible labelled blockquotes remain readable in ordinary Markdown, GitHub, ChatGPT, copied source, and Substack.
 
-Do not restore `<!-- Article Slot ... -->`, `<!-- Image Caption ... -->`, or other invisible production-marker forms in new publication output.
+Do not restore `<!-- Article Slot ... -->`, `<!-- Image Caption ... -->`, or other invisible forms in new publication output.
 
 ## 6. Image generation and embedding
 
@@ -121,7 +127,7 @@ For every final image:
 2. generate an editorial conceptual image that supports that purpose;
 3. save the generated asset under `publish/assets/images/<article-slug>/`;
 4. embed it directly into the article Markdown;
-5. place a visible `> **Image Caption:** ...` blockquote directly below it when a caption is needed.
+5. place a visible `> **Image Caption:** ...` blockquote directly below it when a caption is useful, and keep that caption in the final article.
 
 Preferred repository Markdown form:
 
@@ -162,13 +168,14 @@ Do not pretend otherwise in generated instructions.
 The generated Markdown should be as close as possible to a complete publication package:
 
 - article body already rebuilt;
-- visible article-slot blockquotes already placed;
+- visible reader-facing article-slot blockquotes already placed and retained;
 - image Markdown already embedded;
-- visible image-caption blockquotes already placed where needed;
+- visible image-caption blockquotes already placed and retained where useful;
 - images already stored in the repo;
+- internal-only `Publish Note` / `Image Brief for Work` markers removed once their job is done;
 - no manual image-slot planning left to do.
 
-The goal is to eliminate repeated drag-and-drop asset management from the framework rebuild process while keeping any remaining production instructions visible in ordinary Markdown.
+The goal is to eliminate repeated drag-and-drop asset management while keeping the useful related-article and caption callouts as part of the article itself.
 
 ## 10. Tone and terminology
 
@@ -202,4 +209,5 @@ Do not:
 - leave image placeholders when a rebuild is expected to generate the image;
 - create timestamped duplicate publication files when the stable article should be updated in place;
 - use publication prose as semantic authority over newer source files;
-- hide production instructions inside HTML comments.
+- hide reader-facing article slots or image captions inside HTML comments;
+- remove `Article Slot` or `Image Caption` blockquotes merely because publication is complete.
