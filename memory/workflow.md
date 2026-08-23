@@ -23,6 +23,18 @@ Non-canonical project memory such as Working Notes, publication queues, URL list
 
 Conversation continuity. This is for active frontier, semantic traps, reasoning history, and workflow. It should make a new chat usable without a giant handoff prompt.
 
+### `publish/`
+
+The standing reader-facing publication pipeline.
+
+- `publish/manifest.md` registers the eight maintained Substack publication identities and their stable source/output/asset paths.
+- `publish/guidelines.md` owns the publication and image rules.
+- `publish/prompts/` contains reusable Work prompts.
+- `publish/articles/` contains Work-generated publication-ready Markdown.
+- `publish/assets/images/` contains generated article assets.
+
+The eight maintained framework articles are already-published Substack identities. Publication rebuilds update those identities rather than inventing new posts.
+
 ## Authority order
 
 1. User's current correction/instruction.
@@ -32,7 +44,9 @@ Conversation continuity. This is for active frontier, semantic traps, reasoning 
 5. `source/internal/` exploratory/editorial notes.
 6. Older Git history.
 
-If memory disagrees with source, source wins unless the user is explicitly making a new correction.
+`publish/` is downstream presentation, not semantic authority over newer `source/` files.
+
+If memory or publication prose disagrees with source, source wins unless the user is explicitly making a new correction.
 
 ## New-chat startup
 
@@ -49,6 +63,13 @@ Only then, if needed:
 6. `source/internal/working-notes.md`
 
 Do not ingest the whole repo by default.
+
+For publication work, additionally read:
+
+- `publish/README.md`
+- `publish/manifest.md`
+- `publish/guidelines.md`
+- the relevant prompt under `publish/prompts/`
 
 ## When the user says “sync this into the framework”
 
@@ -68,6 +89,7 @@ Do not ingest the whole repo by default.
 7. Update `memory/current-context.md` if the active frontier changed.
 8. Update `memory/reasoning-history.md` when an earlier interpretation is concluded, narrowed, redirected, superseded, or proven against.
 9. Commit with a short semantic message.
+10. If the change affects published material, provide or invoke the appropriate Work prompt from `publish/prompts/` for the downstream publication rebuild.
 
 Do not rewrite unrelated sources merely for wording consistency unless the user requests a publication rebuild.
 
@@ -83,46 +105,74 @@ Changes the source meaning or status.
 → `audit`
 → `canonical source update`
 → `status/change map`
+→ `memory sync if needed`
 
 ### Publication rebuild
 
-Takes already-settled source meaning and rebuilds reader-facing presentation.
+Takes settled source meaning and rebuilds the existing Substack publication identities.
+
+Default full-set flow:
 
 `canonical source`
-→ `Work / article rebuild`
-→ `image-slot audit`
-→ `generate needed images`
-→ `public QA`
-→ `publish`
+→ `publish/manifest identifies the eight existing publications`
+→ `Work reads publish rules + current source`
+→ `Work rebuilds publish/articles/*.md`
+→ `Work generates required images`
+→ `Work commits images under publish/assets/images/<article-slug>/`
+→ `Markdown embeds the repository image with relative syntax`
+→ `Article Slot + Image Caption comments are present`
+→ `public QA / Substack update`
+
+This is the main publication workflow from now on.
 
 Never use presentation prose as the authority for later semantic deduction if a newer canonical source exists.
 
 ## Image workflow for publication rebuilds
 
-When a Work prompt rebuilds an article:
+Work should not merely propose image slots.
 
-1. Preserve semantic image slots or create only slots that genuinely help understanding.
-2. For every final hero/inline slot, specify a **Visual Intent** before generating.
-3. Generate a copy-ready Flow/image prompt for each slot.
-4. Prefer one strong editorial conceptual relationship over decorative complexity.
-5. Avoid text, labels, equations, UI diagrams, generic cosmic-AI imagery, or visuals that silently add ontology.
-6. Use 16:9 framing for article hero images unless the publication context says otherwise.
-7. Images must not imply stronger physical claims than the source text earns.
+When a publication rebuild requires an image:
+
+1. identify the semantic purpose of the hero/inline image;
+2. generate the actual image;
+3. store it under `publish/assets/images/<article-slug>/`;
+4. embed it in the article Markdown using a relative Markdown link;
+5. place `<!-- Image Caption: ... -->` directly beneath it;
+6. prefer one strong editorial conceptual relationship over decorative complexity;
+7. avoid text, labels, equations, UI diagrams, generic cosmic-AI imagery, or visuals that silently add ontology;
+8. use 16:9 framing for article hero images unless the publication context says otherwise;
+9. do not imply stronger physical claims than the semantic source earns.
+
+Because the GitHub repository is private, embedded repository links are project packaging, not public Substack image hosting. The Substack update must ingest/upload the image binary rather than depend on a private GitHub hotlink.
+
+## Article-slot workflow
+
+Use `source/internal/url-list.md` and `publish/manifest.md` for established Substack identities.
+
+All eight maintained framework articles now have established URLs.
+
+Use the exact comment form:
+
+`<!-- Article Slot: URL: https://... -->`
+
+Do not invent or silently replace a published URL.
 
 ## Publication source order
 
-The main maintained reader-facing framework set is:
+The maintained reader-facing framework set is:
 
 1. Basics I — Resolution costs
 2. Basics II — Coarse is not blurry, weak, or absolute
 3. Basics III — One and one make three
 4. The Index of the Framework
-5. A Universe Made of Logic
-6. The Possibility Lane
+5. A Universe Made of Logic — Informational Topology Framework
+6. The Possibility Lane Framework (P-Lane)
 7. The Lane and the Rung
 8. Where the Framework Currently Stands
 
-The Hope is separate personal/metaphysical context, not framework authority.
+All eight are already-published Substack articles and should normally be updated in place.
+
+The Hope is separate personal/metaphysical context, not framework authority and not part of the canonical eight-publication rebuild unless explicitly requested.
 
 ## Status discipline
 
