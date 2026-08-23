@@ -1,8 +1,8 @@
 # Universe Made of Logic Framework — Source Repository
 
-This private repository is the durable source and continuity store for the **My GUT Deduction / Universe Made of Logic** project.
+This private repository is the durable source, continuity, and publication store for the **My GUT Deduction / Universe Made of Logic** project.
 
-It is designed so the project can survive chat-length limits without rebuilding context from a giant handoff prompt.
+It is designed so the project can survive chat-length limits without rebuilding context from a giant handoff prompt, and so publication rebuilds can be driven directly from the repository.
 
 ## Active layout
 
@@ -41,7 +41,7 @@ Includes:
 - `working-notes.md` — index into the preserved split Working Notes source;
 - `short-notes-queue.md` — index into the current split publication queue;
 - `bits-topic-checklist.md` — duplication/selection guard for Bits;
-- `url-list.md` — publication URLs.
+- `url-list.md` — established publication URLs.
 
 ### `source/the-hope-behind-the-framework.md`
 
@@ -62,7 +62,31 @@ Use `memory/conversation-index.md` to route “we discussed this before” quest
 
 Use `memory/reasoning-history.md` only when the older reasoning path matters.
 
-Use `memory/workflow.md` for source sync, publication rebuild, image, Bits, and migration workflow.
+Use `memory/workflow.md` for source sync, publication, image, Bits, and migration workflow.
+
+### `publish/`
+
+Standing downstream publication pipeline.
+
+- `publish/manifest.md` — registry of the eight maintained already-published framework articles, their source paths, output paths, asset folders, and established Substack URLs.
+- `publish/guidelines.md` — active publication/image rules.
+- `publish/prompts/` — reusable Work prompts.
+- `publish/articles/` — Work-generated publication-ready Markdown.
+- `publish/assets/images/` — Work-generated publication images embedded by the Markdown.
+
+The default publication workflow is now:
+
+`source semantic update`
+→ `publish manifest identifies affected article(s)`
+→ `Work reads source + publish instructions`
+→ `Work rebuilds Markdown`
+→ `Work generates/commits images`
+→ `Markdown embeds those images`
+→ `public QA / Substack update`
+
+For a complete refresh of the maintained framework set, use:
+
+`publish/prompts/work-rebuild-all-eight.md`
 
 ## Authority order
 
@@ -71,9 +95,12 @@ When material conflicts:
 1. the user's current correction / current discussion;
 2. active stable semantic sources directly under `source/`;
 3. `source/where-the-framework-stands.md` and `source/changes/`;
-4. `memory/` continuity files;
-5. `source/internal/` exploratory/editorial material;
-6. older Git history.
+4. `publish/guidelines.md` for publication behavior only;
+5. `memory/` continuity files;
+6. `source/internal/` exploratory/editorial material;
+7. older Git history.
+
+Publication output is downstream and never outranks the semantic source.
 
 The Hope remains personal/speculative even though this repository is private.
 
@@ -98,6 +125,7 @@ When a semantic correction changes framework ground:
 2. update the live status ledger if claim status changes;
 3. add/update a change map for foundational corrections;
 4. update `memory/current-context.md` when the active frontier changes;
-5. update reasoning history when an earlier interpretation is concluded, narrowed, redirected, superseded, or proven against.
+5. update reasoning history when an earlier interpretation is concluded, narrowed, redirected, superseded, or proven against;
+6. then rebuild affected publication output through `publish/`.
 
 For reader-facing publication, rebuild from current semantic sources rather than treating older public prose as semantic authority.
