@@ -3,7 +3,7 @@
 *What can open, and what can stand*
 
 ![One domain opens outward into possibility and gathers inward into independent support](../assets/images/the-lane-and-the-rung/hero.webp)
-<!-- Image Caption: Domain is the noun; Lane opens possibility and Rung marks what can stand through its own ground. -->
+> **Image Caption:** Domain is the noun; Lane opens possibility and Rung marks what can stand through its own ground.
 
 Why does Lane 4 share a number with Rung 4 if Lane 4 is not Rung 4?
 
@@ -30,7 +30,7 @@ That is why the numbers can match without the meanings collapsing.
 > **The domain is what stands. The Lane says what more it can open. The Rung says what it can stand through its own ground.**
 
 ![One relational domain is seen through outward possibility and inward support](../assets/images/the-lane-and-the-rung/one-domain-two-readings.webp)
-<!-- Image Caption: Lane and Rung are complementary readings of one domain, not two worlds. -->
+> **Image Caption:** Lane and Rung are complementary readings of one domain, not two worlds.
 
 ---
 
@@ -180,7 +180,7 @@ Both questions use the same present resolving budget.
 
 There is one stage, one budget, and two questions about what that ground can support.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/the-possibility-lane -->
+> **Article Slot:** https://soutame.substack.com/p/the-possibility-lane
 
 The Possibility Lane follows the widening question in full. Here, the important point is the asymmetry: one supported constraint may carry many unresolved continuations, while independent fine seating is selective.
 
@@ -293,7 +293,7 @@ The even Lane begins the stability problem created by that freedom.
 The even Lane does not wait for the odd Lane to finish. The stability problem appears as soon as the new freedom becomes consequential.
 
 ![Three capacity pairs overlap as freedom opens and stability develops](../assets/images/the-lane-and-the-rung/paired-capacities.webp)
-<!-- Image Caption: Onset, independent seating, and mature stabilisation are different milestones. -->
+> **Image Caption:** Onset, independent seating, and mature stabilisation are different milestones.
 
 ---
 
@@ -331,7 +331,7 @@ Lane 3 is not a class called “molecules.” Lane 5 is not “anything that act
 
 The recurring thing is the dependency, not a favoured object.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/the-index-of-the-framework -->
+> **Article Slot:** https://soutame.substack.com/p/the-index-of-the-framework
 
 ---
 
@@ -368,7 +368,7 @@ It is freedom made possible by ground.
 > **Ground does not merely constrain possibility. Good ground can enlarge it.**
 
 ![A small structured domain gains reach through a larger field of shared support](../assets/images/the-lane-and-the-rung/membership-freedom.webp)
-<!-- Image Caption: Good ground can enlarge a member's possibility rather than merely restrict it. -->
+> **Image Caption:** Good ground can enlarge a member's possibility rather than merely restrict it.
 
 The same economy returns at several grains.
 
@@ -418,7 +418,7 @@ Hosted does not mean fake, decorative, or inconsequential.
 
 It describes a mode of support.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/a-universe-made-of-logic-758 -->
+> **Article Slot:** https://soutame.substack.com/p/a-universe-made-of-logic-758
 
 The resolution-side article follows what must become consequential for possibility to gain ground. This bridge needs only the distinction: a capacity can operate, become reusable, and still not stand independently.
 
@@ -461,7 +461,7 @@ The current fine-side question is narrower:
 What must seat for the collective capacity to stand through fine ground of its own rather than only through member-supported coarse relation?
 
 ![Many fine domains form one coarse collective relation without a separate core](../assets/images/the-lane-and-the-rung/collective-domain.webp)
-<!-- Image Caption: The collective can act as one without yet choosing as one. -->
+> **Image Caption:** The collective can act as one without yet choosing as one.
 
 ---
 
@@ -490,7 +490,7 @@ Their functions are different.
 Their present mode of support is what they share.
 
 ![Independently supported lower structure meets real hosted upper capacity at a movable frontier](../assets/images/the-lane-and-the-rung/resolution-frontier.webp)
-<!-- Image Caption: The resolution frontier marks support, not an edge of existence. -->
+> **Image Caption:** The resolution frontier marks support, not an edge of existence.
 
 > **The Lane runs ahead. The Rung catches up. What catches up becomes ground for the Lane to run again.**
 
@@ -617,7 +617,7 @@ They do not prove that the corresponding Rung independently seats.
 
 That distinction is what makes the upper registration more than decoration.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/where-the-framework-currently-stands -->
+> **Article Slot:** https://soutame.substack.com/p/where-the-framework-currently-stands
 
 The live status article keeps the current boundary between derived structure, prospective architecture, and unresolved fine support.
 

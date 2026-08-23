@@ -3,7 +3,7 @@
 *“Coarse” is one of the framework's most important words—and one of the easiest to turn into something the framework does not mean.*
 
 ![A sharp coarse constraint holds several precise finer possibilities without becoming blurry](../assets/images/basics-2-coarse-is-not/hero.webp)
-<!-- Image Caption: Coarse can be exact and strong at its own grain while leaving finer distinctions open. -->
+> **Image Caption:** Coarse can be exact and strong at its own grain while leaving finer distinctions open.
 
 ---
 
@@ -333,6 +333,6 @@ The answer is where the arithmetic starts becoming strange.
 
 ---
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/basics-iii-one-and-one-make-three -->
+> **Article Slot:** https://soutame.substack.com/p/basics-iii-one-and-one-make-three
 
 *Next: **Basics III — One and one make three.***

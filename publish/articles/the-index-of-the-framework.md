@@ -3,7 +3,7 @@
 *A directory of the two views, level by level, with the surrounding framework articles kept in view. This is the map, not the territory.*
 
 ![One relational map opens outward as possibility and gathers inward as support](../assets/images/the-index-of-the-framework/hero.webp)
-<!-- Image Caption: The Index maps two readings of one stage: what can open and what can independently stand. -->
+> **Image Caption:** The Index maps two readings of one stage: what can open and what can independently stand.
 
 ---
 
@@ -77,22 +77,22 @@ Keep three milestones separate:
 
 This Index is meant to sit at the entrance to the framework rather than replace the longer explanations.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/the-possibility-lane -->
+> **Article Slot:** https://soutame.substack.com/p/the-possibility-lane
 
 **The Possibility Lane Framework (P-Lane)**  
 The widening view. It asks how much possibility can remain open from a given ground, what an aim constrains, and why possibility can run ahead of fine resolution.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/a-universe-made-of-logic-758 -->
+> **Article Slot:** https://soutame.substack.com/p/a-universe-made-of-logic-758
 
 **A Universe Made of Logic — the Informational Topology framework**  
 The narrowing view. It starts from relation, finite resolving budget, and the cost of distinction, then asks what structure can actually acquire enough support to stand.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/the-lane-and-the-rung -->
+> **Article Slot:** https://soutame.substack.com/p/the-lane-and-the-rung
 
 **The Lane and the Rung**  
 The bridge article. It explains why Lane and Rung share numbering without being identical, and why aim can be present while independent fine seating is still outstanding.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/where-the-framework-currently-stands -->
+> **Article Slot:** https://soutame.substack.com/p/where-the-framework-currently-stands
 
 **Where the Framework Currently Stands**  
 The live status ledger. Use it when you need to know whether something is derived, a candidate correspondence, completion pending, an unresolved mechanism, not established, or a guardrail.
@@ -101,9 +101,9 @@ The live status ledger. Use it when you need to know whether something is derive
 
 The three Basics pieces are the shortest route into the primitive language:
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/basics-i-resolution-costs -->
-<!-- Article Slot: URL: https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak -->
-<!-- Article Slot: URL: https://soutame.substack.com/p/basics-iii-one-and-one-make-three -->
+> **Article Slot:** https://soutame.substack.com/p/basics-i-resolution-costs
+> **Article Slot:** https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak
+> **Article Slot:** https://soutame.substack.com/p/basics-iii-one-and-one-make-three
 
 **Basics I — Resolution costs**  
 Why finite resolving capacity matters, and why making a distinction consequential has a price.
@@ -168,7 +168,7 @@ Later, a coarse Aim is a richer case of this same structure: the Aim itself is a
 > **Nothing ever actually separated from the origin. It only separated by relation.**
 
 ![A unique undivided origin differentiates while later compositions become new referable ones](../assets/images/the-index-of-the-framework/origin-and-recurrence.webp)
-<!-- Image Caption: Ontological Level 0 is unique; later relations can still compose new local starting points. -->
+> **Image Caption:** Ontological Level 0 is unique; later relations can still compose new local starting points.
 
 The stage was never left. It acquired more referable structure.
 

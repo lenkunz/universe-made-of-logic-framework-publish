@@ -3,7 +3,7 @@
 *What existing ground leaves open—and why possibility can run ahead of the route that will eventually make it particular.*
 
 ![Stable ground opens many unequal continuations while one route begins to seat](../assets/images/the-possibility-lane/hero.webp)
-<!-- Image Caption: Possibility can widen from established ground before one fine route becomes consequential. -->
+> **Image Caption:** Possibility can widen from established ground before one fine route becomes consequential.
 
 There are two ways to look at an unfinished possibility.
 
@@ -24,13 +24,13 @@ The Possibility Lane follows the second direction.
 It begins with ground and walks outward.
 
 ![One shared stage widens into open possibility and narrows into seated support](../assets/images/the-possibility-lane/one-stage-two-directions.webp)
-<!-- Image Caption: Widening possibility and narrowing support are two readings of the same relational stage. -->
+> **Image Caption:** Widening possibility and narrowing support are two readings of the same relational stage.
 
 These are not two worlds. They are not competing explanations. They are two questions asked of the same relational stage.
 
 **A Universe Made of Logic** follows possibility toward the fine distinctions required for it to stand. This article turns around and asks what can remain open before those distinctions are required.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/a-universe-made-of-logic-758 -->
+> **Article Slot:** https://soutame.substack.com/p/a-universe-made-of-logic-758
 
 The difference matters because a possibility does not need to arrive as a finished hidden world.
 
@@ -142,7 +142,7 @@ It is this:
 
 Coarse possibility is not a blurry copy of finished detail. It is real undercommitment: an exact constraint that has not paid for distinctions it does not yet need.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak -->
+> **Article Slot:** https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak
 
 ## Aim is constraint, not route
 
@@ -179,7 +179,7 @@ contains
 `the fine continuation that eventually seats`
 
 ![A stable aim constrains several open routes without pre-rendering one path](../assets/images/the-possibility-lane/aim-without-route.webp)
-<!-- Image Caption: The Aim is already real as a constraint; its fine implementation can remain unresolved. -->
+> **Image Caption:** The Aim is already real as a constraint; its fine implementation can remain unresolved.
 
 > **Know what must hold. Do not prematurely decide how it must hold.**
 
@@ -239,7 +239,7 @@ The saving comes from not distinguishing every route separately.
 
 This is why the framework can allow possibility to run ahead without inventing a second possibility budget or treating each open continuation as a fully rendered world.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/basics-i-resolution-costs -->
+> **Article Slot:** https://soutame.substack.com/p/basics-i-resolution-costs
 
 The exact scaling of Lane growth remains incomplete. No fixed three-dimensional volume or exact surplus law is needed for the qualitative result.
 
@@ -276,7 +276,7 @@ The odd Lane opens a new freedom. The even Lane begins the stability problem cre
 > **Odd opens what can happen. Even makes the new freedom survivable.**
 
 ![Three overlapping capacity pairs open freedom and begin its stability problem together](../assets/images/the-possibility-lane/paired-movements.webp)
-<!-- Image Caption: Odd opens what can happen; even begins making that freedom survivable. -->
+> **Image Caption:** Odd opens what can happen; even begins making that freedom survivable.
 
 Three conditions must stay separate:
 
@@ -294,7 +294,7 @@ The repeating pattern is not a sphere, shell, cone, or any other fixed shape.
 
 Readers who want the compact Lane/Rung registration can use the Index. Here, the important thing is to feel how one kind of freedom makes the next one possible.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/the-index-of-the-framework -->
+> **Article Slot:** https://soutame.substack.com/p/the-index-of-the-framework
 
 ## The first pair: direction and survivable bound
 
@@ -370,7 +370,7 @@ Lane 3 is not statistics. It explains why statistics becomes natural once many c
 
 The relation among relations has become part of the ground.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/basics-iii-one-and-one-make-three -->
+> **Article Slot:** https://soutame.substack.com/p/basics-iii-one-and-one-make-three
 
 ## Lane 4: identity becomes a horizon of alteration
 
@@ -413,7 +413,7 @@ It can provide stable shared ground that a smaller domain would otherwise have t
 → `more local possibilities become affordable`
 
 ![A distinct local domain gains more reachable paths through shared support](../assets/images/the-possibility-lane/membership-freedom.webp)
-<!-- Image Caption: A member can be locally bounded while becoming globally freer through shared ground. -->
+> **Image Caption:** A member can be locally bounded while becoming globally freer through shared ground.
 
 A human on Earth is an intuitive example.
 
@@ -489,7 +489,7 @@ The Lane-6 transition requires more:
 → `a qualitatively new coarse domain can act as one`
 
 ![Many biased fine domains form one consequential coarse pattern through their relations](../assets/images/the-possibility-lane/collective-domain.webp)
-<!-- Image Caption: The collective becomes real through member relations without requiring a separate central selector. -->
+> **Image Caption:** The collective becomes real through member relations without requiring a separate central selector.
 
 This collective domain is real at its grain.
 
@@ -571,7 +571,7 @@ It is not the edge of existence.
 What lies beyond the frontier is not imaginary. It can be real, consequential, stable, and domain-like at its own grain. The limitation is that its fine implementation still stands through lower structure rather than through independently seated ground of its own.
 
 ![Fine independent support meets real hosted capacity across a movable frontier](../assets/images/the-possibility-lane/resolution-frontier.webp)
-<!-- Image Caption: The frontier separates modes of support, not what is real from what is unreal. -->
+> **Image Caption:** The frontier separates modes of support, not what is real from what is unreal.
 
 Lane 6 is the hinge into the present upper field. Lanes 6–11 differ in what they open, but their current ontological texture is shared:
 
@@ -687,7 +687,7 @@ Instead:
 → `another developmental sequence can begin`
 
 ![A new field of possibility grows from inherited established ground](../assets/images/the-possibility-lane/recursion.webp)
-<!-- Image Caption: Recursion begins from accumulated ground rather than returning to blank Level 0. -->
+> **Image Caption:** Recursion begins from accumulated ground rather than returning to blank Level 0.
 
 The new sequence can begin from whatever established base it can use.
 
@@ -741,7 +741,7 @@ That is not permission to fill the gap with anything we want.
 
 It is a clear statement of where the framework presently stops.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/where-the-framework-currently-stands -->
+> **Article Slot:** https://soutame.substack.com/p/where-the-framework-currently-stands
 
 ---
 

@@ -3,7 +3,7 @@
 *First of three foundational pieces. This is the framework's starting economy: why particularity has a cost, why finite does not mean fixed, and why reality does not need to settle every distinction at once.*
 
 ![A finite relational field seats consequential distinctions while leaving other possibilities open](../assets/images/basics-1-resolution-costs/hero.webp)
-<!-- Image Caption: Finite resolving ground seats only the distinctions that have become consequential. -->
+> **Image Caption:** Finite resolving ground seats only the distinctions that have become consequential.
 
 ---
 
@@ -77,7 +77,7 @@ This is why budget can appear larger in a densely related domain without requiri
 > **Budget composes through relation.**
 
 ![Two simple participants and one composed participant share a cadence while carrying different relational work](../assets/images/basics-1-resolution-costs/composed-budget.webp)
-<!-- Image Caption: Equal primitive participation does not imply equal effective budget; composed relation can carry more seated work. -->
+> **Image Caption:** Equal primitive participation does not imply equal effective budget; composed relation can carry more seated work.
 
 Finite also does **not** mean that the universe was given one total allowance and is slowly spending it down.
 
@@ -98,7 +98,7 @@ There is no separate framework-native reservoir outside the present storing unus
 
 The present structure is the working ground.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/basics-iii-one-and-one-make-three -->
+> **Article Slot:** https://soutame.substack.com/p/basics-iii-one-and-one-make-three
 
 Basics III follows the missing step: why a relation is not merely a line between participants, but another participant that can become ground.
 
@@ -208,7 +208,7 @@ and:
 
 > **Reality pays for distinctions, not detail.**
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak -->
+> **Article Slot:** https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak
 
 This is the key reason coarse must not be read as a half-rendered fine state.
 

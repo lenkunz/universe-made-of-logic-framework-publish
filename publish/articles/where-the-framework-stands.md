@@ -3,7 +3,7 @@
 *What is derived, what corresponds, what is still being completed, what remains unresolved, and how earlier framings resolved. Updated as things move.*
 
 ![A relational terrain contains regions with different degrees and kinds of support](../assets/images/where-the-framework-stands/hero.webp)
-<!-- Image Caption: The framework is not one field of equal certainty; different claims stand on different kinds of support. -->
+> **Image Caption:** The framework is not one field of equal certainty; different claims stand on different kinds of support.
 
 ---
 
@@ -54,9 +54,9 @@ When an earlier formulation changes, this page records **how it resolved** rathe
 > **A deduction does not owe the answer that was hoped for. It owes a consequence. The route can fail while the deduction succeeds.**
 
 ![A status map separates derived ground, candidate correspondence, pending completion, and unresolved mechanisms](../assets/images/where-the-framework-stands/status-map.webp)
-<!-- Image Caption: Derived, candidate, incomplete, and unresolved claims remain connected without being collapsed. -->
+> **Image Caption:** Derived, candidate, incomplete, and unresolved claims remain connected without being collapsed.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/a-universe-made-of-logic-758 -->
+> **Article Slot:** https://soutame.substack.com/p/a-universe-made-of-logic-758
 
 ---
 

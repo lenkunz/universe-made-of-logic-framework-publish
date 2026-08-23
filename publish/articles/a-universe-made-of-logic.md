@@ -3,7 +3,7 @@
 *How relation becomes ground, why distinctions cost, and how richer structure can grow without changing the primitive.*
 
 ![Undivided ground differentiates and composes into increasingly rich relational topology](../assets/images/a-universe-made-of-logic/hero.webp)
-<!-- Image Caption: One primitive relation can keep becoming richer ground without changing its meaning. -->
+> **Image Caption:** One primitive relation can keep becoming richer ground without changing its meaning.
 
 Start with a question that sounds almost too small for what follows:
 
@@ -65,7 +65,7 @@ Those conditions must remain separate:
 
 > **Hosted is real. It just is not independently seated.**
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/the-possibility-lane -->
+> **Article Slot:** https://soutame.substack.com/p/the-possibility-lane
 
 The possibility-side article develops the widening direction. Here we will keep asking the narrowing question: what has to seat for a possibility to become part of the next ground?
 
@@ -130,7 +130,7 @@ Nothing had to leave the original ground.
 > **Nothing ever actually separated from the origin. It only separated by relation.**
 
 ![One continuous field differentiates into two roles along a shared relational seam](../assets/images/a-universe-made-of-logic/first-cut.webp)
-<!-- Image Caption: Nothing leaves the origin; the ground becomes distinguishable through relation. -->
+> **Image Caption:** Nothing leaves the origin; the ground becomes distinguishable through relation.
 
 ## One and one still make three
 
@@ -172,7 +172,7 @@ This is why *point* is grain-relative. An atom, person, planet, seated relation,
 
 > **A point is whatever participates as one at the grain of the current relation.**
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/basics-iii-one-and-one-make-three -->
+> **Article Slot:** https://soutame.substack.com/p/basics-iii-one-and-one-make-three
 
 ## The present ground supplies the present budget
 
@@ -260,7 +260,7 @@ The present is not a thin display in front of a more complete hidden machine. It
 
 Its state is its hardware.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/basics-i-resolution-costs -->
+> **Article Slot:** https://soutame.substack.com/p/basics-i-resolution-costs
 
 ## Resolution does not mean rendering everything
 
@@ -302,7 +302,7 @@ If the distinction is truly gone, later resolution cannot recreate arbitrary det
 
 Measurement does not escape this rule. A measuring domain can supply additional resolving structure and make a distinction consequential. It cannot choose the result freely.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak -->
+> **Article Slot:** https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak
 
 The first foundation is now in place:
 
@@ -464,7 +464,7 @@ The Index carries the full level-by-level map. What matters here is that relatio
 
 > **Established as logic does not automatically mean independently seated as structure.**
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/the-index-of-the-framework -->
+> **Article Slot:** https://soutame.substack.com/p/the-index-of-the-framework
 
 ---
 
@@ -1097,7 +1097,7 @@ An earlier route can also fail without making the deduction useless.
 
 The live claim-by-claim ledger belongs in the status article rather than being repeated here.
 
-<!-- Article Slot: URL: https://soutame.substack.com/p/where-the-framework-currently-stands -->
+> **Article Slot:** https://soutame.substack.com/p/where-the-framework-currently-stands
 
 ## What remains to be done
 
