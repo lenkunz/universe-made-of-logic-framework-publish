@@ -25,6 +25,7 @@ It is **not** the semantic authority for the framework.
 - `semantic-guardrails.md` — fixed meanings and recurring interpretation traps.
 - `reasoning-history.md` — important conversational corrections, dead branches, and why they resolved the way they did.
 - `workflow.md` — source sync, semantic audit, publication rebuild, image, Bits, and migration workflow.
+- `publication-pipeline.md` — the current default downstream publication flow through `publish/`, including the eight existing publication identities and repository-managed image assets.
 - `privacy-and-scope.md` — what is appropriate to preserve in the private memory layer.
 
 ## Authority order
@@ -51,7 +52,13 @@ A future chat working on the framework should normally read:
 5. `memory/reasoning-history.md` only when the discussion refers to an older correction or abandoned route
 6. `source/internal/working-notes.md` only when exploring unresolved branches
 
-For publication or editorial tasks, also read `memory/workflow.md` and the relevant queue/checklist under `source/internal/`.
+For publication or editorial tasks, also read:
+
+- `memory/publication-pipeline.md`
+- `publish/README.md`
+- `publish/manifest.md`
+- `publish/guidelines.md`
+- the relevant prompt under `publish/prompts/`
 
 ## Search rule
 
@@ -68,6 +75,7 @@ Examples:
 - old failed route / why wording changed → `memory/reasoning-history.md`
 - publication candidate / old Short idea → `source/internal/short-notes-queue.md`
 - Bits duplication check → `source/internal/bits-topic-checklist.md`
+- publication rebuild / image embedding / article URLs → `memory/publication-pipeline.md`, `publish/manifest.md`, `publish/guidelines.md`
 
 ## Maintenance rule
 
@@ -78,6 +86,7 @@ When a conversation materially changes the framework:
 3. add or update a semantic change map when the correction is foundational;
 4. update `memory/current-context.md` if the active frontier changed;
 5. update `memory/reasoning-history.md` if an old interpretation was concluded, narrowed, redirected, superseded, or proven against;
-6. update the relevant `source/internal/` queue when the conversation changes publication or research planning.
+6. update the relevant `source/internal/` queue when the conversation changes publication or research planning;
+7. rebuild affected reader-facing output through `publish/` when a publication refresh is required.
 
 Git history is the revision archive. Stable filenames should normally be updated in place.
