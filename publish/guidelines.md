@@ -63,11 +63,17 @@ A refresh should therefore preserve:
 
 But the body should be rebuilt from current source semantics rather than blindly preserving stale publication prose.
 
-## 5. Article-slot comments
+## 5. Visible production markers
 
-Use the established comment form exactly:
+Do **not** use hidden HTML comments such as `<!-- ... -->` for production instructions that the user needs to see when copying Markdown outside ChatGPT or GitHub.
 
-`<!-- Article Slot: URL: https://... -->`
+Production instructions must use visible, explicitly labelled blockquotes.
+
+### Article slots
+
+Use:
+
+`> **Article Slot:** URL: https://...`
 
 Use URLs from `source/internal/url-list.md` / `publish/manifest.md`.
 
@@ -75,9 +81,35 @@ Do not invent a URL.
 
 If the URL is not known, use:
 
-`<!-- Article Slot: URL: -->`
+`> **Article Slot:** URL:`
 
 and leave it empty for later completion.
+
+### Image captions
+
+Place directly below the image when a caption is needed:
+
+`> **Image Caption:** concise caption text`
+
+### Other manual publication notes
+
+Use an explicit label such as:
+
+`> **Publish Note:** ...`
+
+or:
+
+`> **Image Brief for Work:** ...`
+
+These blockquotes are production markers rather than ordinary quoted prose. During the final Substack publishing step, perform the indicated action and then remove or convert the marker as appropriate.
+
+### Why blockquotes are required
+
+HTML comment blocks can disappear in rendered Markdown viewers and therefore fail as portable copy/paste instructions.
+
+Visible labelled blockquotes remain readable in ordinary Markdown, GitHub, ChatGPT, and copied source.
+
+Do not restore `<!-- Article Slot ... -->`, `<!-- Image Caption ... -->`, or other invisible production-marker forms in new publication output.
 
 ## 6. Image generation and embedding
 
@@ -89,15 +121,11 @@ For every final image:
 2. generate an editorial conceptual image that supports that purpose;
 3. save the generated asset under `publish/assets/images/<article-slug>/`;
 4. embed it directly into the article Markdown;
-5. place the image-caption comment directly below it.
+5. place a visible `> **Image Caption:** ...` blockquote directly below it when a caption is needed.
 
 Preferred repository Markdown form:
 
 `![Descriptive alt text](../assets/images/<article-slug>/<filename>.png)`
-
-Then:
-
-`<!-- Image Caption: concise caption text -->`
 
 Use descriptive alt text rather than the filename.
 
@@ -134,13 +162,13 @@ Do not pretend otherwise in generated instructions.
 The generated Markdown should be as close as possible to a complete publication package:
 
 - article body already rebuilt;
-- article-slot comments already placed;
+- visible article-slot blockquotes already placed;
 - image Markdown already embedded;
-- image-caption comments already placed;
+- visible image-caption blockquotes already placed where needed;
 - images already stored in the repo;
 - no manual image-slot planning left to do.
 
-The goal is to eliminate repeated drag-and-drop asset management from the framework rebuild process.
+The goal is to eliminate repeated drag-and-drop asset management from the framework rebuild process while keeping any remaining production instructions visible in ordinary Markdown.
 
 ## 10. Tone and terminology
 
@@ -173,4 +201,5 @@ Do not:
 - invent Substack URLs;
 - leave image placeholders when a rebuild is expected to generate the image;
 - create timestamped duplicate publication files when the stable article should be updated in place;
-- use publication prose as semantic authority over newer source files.
+- use publication prose as semantic authority over newer source files;
+- hide production instructions inside HTML comments.
