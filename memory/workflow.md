@@ -35,6 +35,15 @@ The standing reader-facing publication pipeline.
 
 The eight maintained framework articles are already-published Substack identities. Publication rebuilds update those identities rather than inventing new posts.
 
+### `bits/`
+
+The standing Bits production pipeline.
+
+- `bits/README.md` owns the Bits workflow.
+- `bits/index.md` tracks episode production state.
+- `bits/_template/` contains the standard NotebookLM + Work package.
+- each Bit lives in its own stable slug directory with manifest, source list, NotebookLM dossier, audio prompt, Work prompt, article/image output, and audio folder.
+
 ## Authority order
 
 1. User's current correction/instruction.
@@ -70,6 +79,13 @@ For publication work, additionally read:
 - `publish/manifest.md`
 - `publish/guidelines.md`
 - the relevant prompt under `publish/prompts/`
+
+For Bits work, read:
+
+- `bits/README.md`
+- `bits/index.md`
+- `source/internal/bits-topic-checklist.md`
+- the relevant Bit manifest/package.
 
 ## When the user says “sync this into the framework”
 
@@ -120,8 +136,10 @@ Default full-set flow:
 → `Work generates required images`
 → `Work commits images under publish/assets/images/<article-slug>/`
 → `Markdown embeds the repository image with relative syntax`
-→ `Article Slot + Image Caption comments are present`
+→ `visible Article Slot + Image Caption blockquotes are present where useful`
 → `public QA / Substack update`
+
+The visible **Article Slot** and **Image Caption** blockquotes are part of the final publication design. Do not remove or convert them merely because the article is ready to publish.
 
 This is the main publication workflow from now on.
 
@@ -137,7 +155,7 @@ When a publication rebuild requires an image:
 2. generate the actual image;
 3. store it under `publish/assets/images/<article-slug>/`;
 4. embed it in the article Markdown using a relative Markdown link;
-5. place `<!-- Image Caption: ... -->` directly beneath it;
+5. when a caption helps the reader, place `> **Image Caption:** ...` directly beneath it and keep that blockquote in the final public article;
 6. prefer one strong editorial conceptual relationship over decorative complexity;
 7. avoid text, labels, equations, UI diagrams, generic cosmic-AI imagery, or visuals that silently add ontology;
 8. use 16:9 framing for article hero images unless the publication context says otherwise;
@@ -151,11 +169,17 @@ Use `source/internal/url-list.md` and `publish/manifest.md` for established Subs
 
 All eight maintained framework articles now have established URLs.
 
-Use the exact comment form:
+Use the exact visible form:
 
-`<!-- Article Slot: URL: https://... -->`
+`> **Article Slot:** URL: https://...`
+
+The blockquote itself is the final reader-facing related-article handoff. Keep it visible in the final Markdown / Substack article rather than converting it into a hidden comment or special embed.
 
 Do not invent or silently replace a published URL.
+
+Use hidden HTML comments neither for article slots nor image captions.
+
+Internal-only instructions may use visible labels such as `> **Publish Note:** ...` or `> **Image Brief for Work:** ...`; remove those once their job is complete.
 
 ## Publication source order
 
@@ -208,13 +232,27 @@ Preferred project rhythm from Working Notes:
 
 ## Bits workflow
 
+Use `bits/README.md` as the active Bits production authority.
+
 Before preparing a new Bits topic:
 
 1. read `source/internal/bits-topic-checklist.md`;
 2. read the latest published/RSS list if available;
 3. search the repo for the topic and close synonyms;
 4. compare against high-overlap families and prepared-but-unpublished topics;
-5. only then research and draft.
+5. only then research and create a Bit package from `bits/_template/`.
+
+Each Bit package normally contains:
+
+- `00-manifest.md`;
+- `01-sources-to-load.md`;
+- `02-notebooklm-source.md`;
+- `03-notebooklm-audio-prompt.md`;
+- `04-work-prompt.md`;
+- `article/` for Work-generated article + image;
+- `audio/` for the final NotebookLM `.m4a`.
+
+A separate Flow prompt and mandatory transcript are not part of the normal pipeline. Work generates the article image directly. Substack may generate a transcript after publication if one is later needed for analysis.
 
 A repeated framework concept is allowed, but the external topic/question should make genuinely new work happen.
 
