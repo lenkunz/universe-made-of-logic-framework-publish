@@ -42,6 +42,6 @@ Basics III — One and one make three
 https://soutame.substack.com/p/basics-iii-one-and-one-make-three
 
 
-Where the Framework Currently Stand
+Where the Framework Currently Stands
 
 https://soutame.substack.com/p/where-the-framework-currently-stands
