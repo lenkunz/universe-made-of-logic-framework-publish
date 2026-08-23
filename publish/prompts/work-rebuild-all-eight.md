@@ -45,16 +45,21 @@ For each article:
 1. read its current canonical semantic source;
 2. identify any recent semantic corrections affecting it;
 3. rebuild the reader-facing article under the stable output path listed in `publish/manifest.md`;
-4. preserve or add the correct article-slot comments using this exact form:
-   - `<!-- Article Slot: URL: https://... -->`
+4. preserve or add the correct visible article-slot production blockquote using this exact form:
+   - `> **Article Slot:** URL: https://...`
 5. use only the established URLs from `source/internal/url-list.md` / `publish/manifest.md`;
 6. audit whether the article needs a hero image and/or inline conceptual images;
 7. generate every image the final article actually needs;
 8. save each generated image under the article's folder in `publish/assets/images/`;
 9. embed each image directly in the article Markdown using a relative Markdown image link;
-10. put an image-caption comment directly below each image using:
-   - `<!-- Image Caption: ... -->`
-11. update the article file in place under `publish/articles/`.
+10. when a caption is needed, put a visible production blockquote directly below the image using:
+   - `> **Image Caption:** concise caption text`
+11. use `> **Publish Note:** ...` or `> **Image Brief for Work:** ...` for other visible production instructions when needed;
+12. update the article file in place under `publish/articles/`.
+
+Do **not** hide production instructions inside `<!-- ... -->` HTML comments. The user needs these instructions to remain visible in ordinary Markdown viewers and copied source.
+
+Production blockquotes are not ordinary quoted prose. At the final Substack step, perform the indicated action and remove or convert the marker as appropriate.
 
 ## Image rule
 
@@ -70,9 +75,9 @@ The article Markdown should already contain the image reference, for example:
 
 `![Descriptive alt text](../assets/images/<article-slug>/<filename>.png)`
 
-followed immediately by:
+followed, when a caption is needed, by:
 
-`<!-- Image Caption: concise caption text -->`
+`> **Image Caption:** concise caption text`
 
 ## Private repository note
 
@@ -101,8 +106,9 @@ By the end of the run, the repository should contain:
 - eight rebuilt Markdown files under `publish/articles/`;
 - all required generated images under `publish/assets/images/<article-slug>/`;
 - embedded Markdown image links already present in each article;
-- image-caption comments;
-- article-slot URL comments using the eight established Substack URLs;
+- visible image-caption blockquotes where needed;
+- visible article-slot URL blockquotes using the eight established Substack URLs;
+- no hidden HTML production comments;
 - no temporary publication placeholders left behind.
 
 ## Final report
