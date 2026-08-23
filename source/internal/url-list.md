@@ -40,3 +40,7 @@ https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak
 Basics III — One and one make three
 
 https://soutame.substack.com/p/basics-iii-one-and-one-make-three
+
+
+Where the Framework Currently Stand
+https://soutame.substack.com/p/where-the-framework-currently-stands
