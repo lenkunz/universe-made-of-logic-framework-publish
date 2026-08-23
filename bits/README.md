@@ -186,6 +186,34 @@ Internal-only notes are different:
 
 Perform those instructions and remove the internal-only note from the public article once it is no longer needed.
 
+## Automatic Google Drive mirror for NotebookLM
+
+NotebookLM-facing Markdown is automatically mirrored from GitHub into a dedicated Google Drive folder by:
+
+`.github/workflows/sync-notebooklm-drive.yml`
+
+Destination:
+
+`Universe Made of Logic - NotebookLM / GitHub Mirror`
+
+The mirror contains:
+
+- all Markdown under `source/`, preserved under `framework/`;
+- each real Bit package's `00-manifest.md`, `01-sources-to-load.md`, `02-notebooklm-source.md`, and `03-notebooklm-audio-prompt.md`;
+- the Bits production index.
+
+It deliberately excludes Work-only prompts, generated articles/images, audio files, and `_template`.
+
+After the one-time OAuth setup, pushes to `main` that change `source/**` or `bits/**` trigger the Drive sync automatically.
+
+One-time setup instructions live at:
+
+`bits/drive-sync-setup.md`
+
+The dedicated `GitHub Mirror` folder is machine-managed. Do not store manual-only Drive files inside it because the workflow uses true sync semantics.
+
+For NotebookLM, use each Bit's `01-sources-to-load.md` as the checklist for which mirrored Drive files to add to that notebook.
+
 ## Topic selection / duplication check
 
 Before starting a new Bit:
@@ -216,6 +244,7 @@ idea
 → 01-sources-to-load.md
 → 02-notebooklm-source.md
 → 03-notebooklm-audio-prompt.md
+→ GitHub automatically mirrors NotebookLM-facing files to Drive
 → NotebookLM Audio Overview
 → audio/<slug>.m4a
 → 04-work-prompt.md
