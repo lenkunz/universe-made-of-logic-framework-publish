@@ -79,15 +79,17 @@ Avoid:
 
 Use descriptive alt text in the Markdown.
 
-If a caption or manual publication note is needed, use a visible production blockquote directly below the image, for example:
+When a caption helps the reader, put this visible blockquote directly below the image:
 
 > **Image Caption:** concise caption text
 
-Do **not** use hidden HTML comment blocks for caption or placement instructions.
+The **Image Caption blockquote is part of the final public article**. Keep it visible in the Markdown and in Substack unless there is a specific editorial reason to omit that caption entirely.
 
-## Article cards / publication slots
+Do **not** replace it with a hidden HTML comment.
 
-When an article card or established Substack article handoff is needed, use a visible production blockquote:
+## Article cards / related-article handoffs
+
+When a related framework article should be surfaced, use a visible blockquote:
 
 > **Article Slot:** URL: https://...
 
@@ -99,7 +101,21 @@ If the URL is not known:
 
 leave it empty for later completion.
 
-Do **not** use `<!-- ... -->` HTML comment markers for production instructions.
+The **Article Slot blockquote is also part of the final public article**. Keep it visible as the reader-facing handoff rather than converting it into a hidden slot marker.
+
+Do **not** use `<!-- ... -->` HTML comment markers for article slots or image captions.
+
+## Internal-only notes
+
+If Work needs a temporary production instruction, use a labelled visible blockquote such as:
+
+> **Publish Note:** ...
+
+or:
+
+> **Image Brief for Work:** ...
+
+These are different from Article Slot / Image Caption. Perform the instruction and remove the internal-only note before final public delivery once it has served its purpose.
 
 ## Final QA
 
@@ -110,5 +126,7 @@ Before finishing:
 3. confirm no new primitive or stronger status was invented;
 4. confirm the article is readable without the audio;
 5. confirm the image is generated and embedded;
-6. confirm all production instructions use visible labeled blockquotes rather than HTML comments;
-7. confirm the package manifest can be updated to `article-ready` or later.
+6. confirm reader-facing `Article Slot` and `Image Caption` blockquotes remain visible where useful;
+7. confirm internal-only `Publish Note` / `Image Brief for Work` markers have been removed once completed;
+8. confirm no hidden HTML production markers were introduced;
+9. confirm the package manifest can be updated to `article-ready` or later.
