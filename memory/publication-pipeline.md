@@ -25,8 +25,10 @@ Semantic work and publication work are separate.
 → `Work rebuilds publication Markdown under publish/articles/`
 → `Work generates images under publish/assets/images/<slug>/`
 → `Work embeds those images into the Markdown`
-→ `visible Article Slot / Image Caption production blockquotes are already present where needed`
+→ `visible Article Slot / Image Caption blockquotes are present where useful`
 → `public QA / Substack update`
+
+The visible **Article Slot** and **Image Caption** blockquotes are now part of the intended reader-facing article presentation, not temporary placeholders.
 
 ## Eight-article set
 
@@ -62,17 +64,19 @@ Work should:
 2. generate the images;
 3. commit them under `publish/assets/images/<article-slug>/`;
 4. embed them directly in the generated Markdown;
-5. use a visible labelled blockquote such as `> **Image Caption:** ...` directly below an image when a caption/manual production marker is needed.
+5. when a caption helps the reader, place `> **Image Caption:** ...` directly below the image and keep it in the final article.
 
-Companion article references use visible labelled blockquotes:
+Companion article references use:
 
 `> **Article Slot:** URL: ...`
 
 using the established URLs in `source/internal/url-list.md` / `publish/manifest.md`.
 
-Do not use hidden `<!-- ... -->` HTML comments for production instructions that the user needs to see outside a particular Markdown renderer.
+Keep those Article Slot blockquotes visible in the final article. They are the reader-facing handoff and do not need to be replaced by a special article-card embed.
 
-These production blockquotes are not ordinary quoted prose. At the final Substack step, perform the indicated action and remove/convert the production marker as appropriate.
+Do not use hidden `<!-- ... -->` HTML comments for article slots, image captions, or publication instructions.
+
+Internal-only notes such as `> **Publish Note:** ...` or `> **Image Brief for Work:** ...` may be used during production, but should be removed once their task is complete.
 
 ## Private repo caveat
 
