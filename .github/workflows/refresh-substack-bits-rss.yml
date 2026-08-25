@@ -1,0 +1,116 @@
+name: Refresh Substack Bits RSS
+
+on:
+  push:
+    paths:
+      - 'bits/**'
+      - 'source/**'
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch and validate RSS
+        shell: bash
+        run: |
+          mkdir -p resource
+
+          tmp='resource/substack-bits-podcast.rss.tmp'
+          feed='resource/substack-bits-podcast.rss'
+          status='resource/substack-bits-podcast.status.json'
+          url='https://souta.me/rss/podcasts'
+
+          rm -f "$tmp"
+
+          http_status=$(curl -L -sS -o "$tmp" -w '%{http_code}' "$url")
+          curl_exit=$?
+
+          state='fetch-failed'
+          message='RSS fetch failed.'
+
+          if [ "$curl_exit" -eq 0 ] && [ "$http_status" = '200' ] && [ -s "$tmp" ]; then
+            python - "$tmp" <<'PY'
+import sys
+import xml.etree.ElementTree as ET
+
+path = sys.argv[1]
+try:
+    root = ET.parse(path).getroot()
+    tag = root.tag.lower()
+    if not (tag.endswith('rss') or tag.endswith('feed')):
+        raise ValueError(f'unexpected root tag: {root.tag}')
+except Exception as exc:
+    print(f'RSS validation failed: {exc}')
+    sys.exit(1)
+PY
+            validation_exit=$?
+
+            if [ "$validation_exit" -eq 0 ]; then
+              mv "$tmp" "$feed"
+              state='ok'
+              message='RSS refreshed successfully.'
+            else
+              rm -f "$tmp"
+              state='validation-failed'
+              message='HTTP 200 received, but the response was not valid RSS/Atom XML. Previous snapshot preserved.'
+            fi
+          else
+            rm -f "$tmp"
+            message="HTTP ${http_status}; curl exit ${curl_exit}. Previous good snapshot preserved."
+          fi
+
+          python - "$status" "$state" "$http_status" "$curl_exit" "$message" "$url" <<'PY'
+import json
+import sys
+
+path, state, http_status, curl_exit, message, url = sys.argv[1:]
+with open(path, 'w', encoding='utf-8') as f:
+    json.dump({
+        'state': state,
+        'source': url,
+        'http_status': int(http_status) if http_status.isdigit() else http_status,
+        'curl_exit': int(curl_exit),
+        'message': message,
+    }, f, indent=2)
+    f.write('\n')
+PY
+
+          echo "RSS sync state: $state"
+          echo "$message"
+
+          {
+            echo '## Substack Bits RSS refresh'
+            echo
+            echo "- State: $state"
+            echo "- HTTP status: $http_status"
+            echo "- curl exit: $curl_exit"
+            echo "- Source: $url"
+            echo "- Message: $message"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+          if [ "$state" != 'ok' ]; then
+            echo "::warning::$message"
+          fi
+
+      - name: Commit changed snapshot or status
+        shell: bash
+        run: |
+          if git diff --quiet -- resource/substack-bits-podcast.rss resource/substack-bits-podcast.status.json; then
+            echo 'No RSS or status changes to commit.'
+            exit 0
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add resource/substack-bits-podcast.rss resource/substack-bits-podcast.status.json 2>/dev/null || true
+          git commit -m 'Refresh Substack Bits RSS snapshot'
+          git push
