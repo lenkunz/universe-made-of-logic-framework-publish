@@ -2,9 +2,10 @@
 
 - **Task:** Bits Topic Pack
 - **Run timestamp:** 2026-08-25 15:56 Asia/Bangkok
+- **Updated:** 2026-08-25 17:45 Asia/Bangkok
 - **Selected title:** Why Does a Crack Turn?
-- **Status:** Package complete
-- **Repository source of truth checked:** `source/`, `source/internal/bits-topic-checklist.md`, `source/the-possibility-lane.md`
+- **Status:** Package complete, conceptual framework connection updated
+- **Repository source of truth checked:** `source/`, `source/internal/bits-topic-checklist.md`, `source/the-possibility-lane.md`, `source/basics-2-coarse-is-not.md`
 
 ---
 
@@ -30,7 +31,7 @@ It is:
 
 > When many continuations are physically possible, why does the crack continue *this* way?
 
-That turns fracture into a surprisingly rich problem about possibility, instability, and path selection.
+That turns fracture into a surprisingly rich problem about possibility, instability, path selection, and memory written into matter.
 
 ## A crack changes the stress around itself
 
@@ -153,9 +154,23 @@ There is a middle condition:
 
 **many routes remain possible, but they are not equally possible.**
 
+And once the crack moves, the material is no longer in the state it was in one moment earlier.
+
+The newly opened surface changes the geometry. Stress redistributes. Energy has been spent. A branch may have failed. A region that was once intact is now separated.
+
+The material carries the consequences of its own path forward.
+
+This is a simple physical form of memory.
+
+Not memory in the sense that the material contains a movie of everything that happened, but memory in the weaker and more useful sense that **what happened has changed what can happen next**.
+
+The past does not dictate one exact continuation.
+
+It changes the ground from which the next continuation is selected.
+
 That is the ordinary physics lesson of this Bit.
 
-## The framework connection: direction is not route
+## The framework connection: direction, history, and route
 
 My GUT Deduction has a concept that fits this distinction surprisingly well, but the boundary matters here: fracture mechanics is established science; the framework interpretation below is speculative and should not be read as a replacement for fracture mechanics.
 
@@ -175,21 +190,69 @@ And later:
 
 > **The aim survives. The route belongs to resolution.**
 
+The new clarification adds something important between those two statements.
+
+Aim is not acting on an empty universe.
+
+Every new resolution begins from ground inherited from earlier resolution.
+
+So the framework now separates three roles:
+
+`retained history`
+→ `what the next resolution begins from`
+
+`Aim`
+→ `what must still be satisfied`
+
+`resolution`
+→ `which finer continuation actually becomes consequential`
+
 A growing crack gives us an ordinary physical analogy for that structure.
 
-The applied load, current crack geometry, stress field, and material structure constrain the future. They define a biased field of continuations. But the final crack surface does not need to exist in detailed form before propagation reaches it.
+The applied load, current crack geometry, stress field, material structure, **and the crack's already-realized path** constrain the future. They define a biased field of continuations. But the final crack surface does not need to exist in detailed form before propagation reaches it.
 
-As the crack advances, one continuation becomes actual structure. That new structure changes the next field of possibilities.
+As the crack advances, one continuation becomes actual structure. That structure changes the next field of possibilities.
 
-In framework language, the interesting pattern is:
+In framework language, the pattern is now better written as:
 
-`present ground`
+`retained ground / history`
 → `unequal open continuations`
-→ `one continuation becomes consequential`
+→ `Aim or present bias constrains what must hold`
+→ `one distinction becomes consequential`
 → `new ground`
 → `new possibility field`
 
-This does **not** mean the framework derives fracture mechanics, predicts stress-intensity factors, or explains crack branching better than existing science. At present, this is best treated as an interpretive correspondence: fracture provides a concrete example of a broader distinction between **constraint** and **pre-rendered route**.
+This makes **coarse** more important, not less.
+
+A coarse historical constraint is not a blurry copy of the past and not a weak approximation.
+
+It can be exact about the consequences that must survive while remaining undercommitted about unnecessary detail.
+
+The framework's current shorthand is:
+
+> **Coarse is committed structure without unnecessary commitment.**
+
+That means the past can constrain **how fine resolution is allowed to proceed** without pre-rendering the entire future route.
+
+A failed branch can matter later without every microscopic event in that branch needing to remain separately rendered. A boundary can remain consequential without storing a complete cinematic record of how it formed.
+
+So the useful middle is not:
+
+`past → exact future`
+
+and not:
+
+`past disappears → future begins pristine`
+
+but:
+
+`past → constraint on future resolution`
+
+Or more simply:
+
+> **The past is memory, not a bind.**
+
+This does **not** mean the framework derives fracture mechanics, predicts stress-intensity factors, explains quantum mechanics, or explains crack branching better than existing science. At present, this remains an interpretive correspondence: fracture gives a concrete example of a broader distinction between **constraint**, **retained consequence**, and **pre-rendered route**.
 
 ## The deeper question hiding in broken glass
 
@@ -198,6 +261,16 @@ A crack is easy to misunderstand because the final line looks inevitable.
 Afterward, we see one route and forget the alternatives that were never taken.
 
 But fracture mechanics gives us a different picture. The crack tip is an evolving decision point with no mind doing the deciding. Physical constraints continuously reshape which continuations can survive. The route becomes definite by being made.
+
+And what has already been made does not vanish.
+
+It becomes part of the next mechanical problem.
+
+That gives us a cleaner way to think about history itself:
+
+**preserving the past does not require forcing the future to repeat it.**
+
+A history can survive as constraint while leaving later detail genuinely open.
 
 That leaves a useful question to carry into other systems:
 
@@ -231,7 +304,8 @@ Broken glass may be one of the simplest places to see the difference.
 
 ### Framework source used only for interpretation
 
-- `source/the-possibility-lane.md` — current GitHub source checked 2026-08-25. Relevant distinctions: possibility as an envelope rather than a finished hidden route; present ground can bias continuations; “A direction can be real before its complete implementation exists”; “The aim survives. The route belongs to resolution.”
+- `source/the-possibility-lane.md` — updated 2026-08-25. Relevant distinctions: possibility as an envelope rather than a finished hidden route; present ground can bias continuations; Aim specifies what must hold without containing the route; retained history becomes ground for later resolution; “The past is memory, not a bind.”
+- `source/basics-2-coarse-is-not.md` — updated 2026-08-25. Relevant distinction: stored history is not rendered detail; coarse memory can remain strongly constraining while leaving unnecessary finer distinctions unseated.
 
 **Status boundary:** The fracture-mechanics material above is external established science. The My GUT Deduction mapping is an interpretive correspondence, not evidence that the framework derives or replaces fracture mechanics.
 
@@ -241,7 +315,9 @@ Broken glass may be one of the simplest places to see the difference.
 
 Create a cinematic editorial landscape image in **16:9** for an essay titled **“Why Does a Crack Turn?”**
 
-Show a close macro view of a single crack advancing through a translucent or ceramic-like material. Ahead of the crack tip, suggest several *possible* continuations through subtle internal stress textures, faint branching grain boundaries, or delicate directional striations, but only one path has actually opened into a dark physical fracture. The visual idea is **many physically available continuations narrowing into one realized route**.
+Show a close macro view of a single crack advancing through a translucent or ceramic-like material. Ahead of the crack tip, suggest several *possible* continuations through subtle internal stress textures, faint branching grain boundaries, or delicate directional striations, but only one path has actually opened into a dark physical fracture. Behind the crack tip, let the already-open fracture visibly reshape the material around the active tip, so the image communicates that the path already taken has become part of the conditions for what can happen next.
+
+The visual idea is **many physically available continuations narrowing into one realized route, with the realized route changing the next field of possibilities**.
 
 Keep the image grounded in real material fracture rather than science-fiction. The crack tip should be the clear focal point, with rich surface detail and believable material texture. Let the unbroken region ahead feel structured and biased rather than random: some routes visually easier, some blocked by grains or inclusions. Avoid drawing arrows, equations, flowcharts, probability trees, or framework diagrams.
 
@@ -257,9 +333,13 @@ Open with: **“If a crack could continue in several directions, what makes it c
 
 Build the discussion in this order: start with the everyday illusion that a final crack line looks pre-existing; explain stress concentration at the crack tip, stress-intensity / energy-release ideas, and fracture toughness; then show why path selection is harder than merely predicting whether a crack grows. Emphasize how geometry, loading, local toughness, disorder, and the crack's own motion continuously reshape the next available routes. Use dynamic microbranching and the 2024–2025 disorder/phase-field work as the strongest examples.
 
-Then make the conceptual turn: a system can be strongly constrained without its exact future route being pre-rendered. Only here introduce the My GUT Deduction connection from the Possibility Lane: present ground can leave biased continuations open, and “direction” need not equal a fully resolved route.
+Then add the key historical step: once a crack advances, its past path becomes part of the present mechanical state. The newly created surface changes geometry and stress distribution. Explain this as a minimal physical form of memory: not a stored movie of the past, but past events remaining consequential because they change what can happen next.
 
-Keep the boundary explicit: fracture mechanics is established science; the framework mapping is an interpretive correspondence, not a derivation, proof, or replacement for fracture mechanics.
+Then make the conceptual turn: a system can be strongly constrained without its exact future route being pre-rendered. Only here introduce the My GUT Deduction connection from the Possibility Lane. Separate three roles clearly: retained history is what resolution begins from; Aim is what must still be satisfied; resolution is the particular finer continuation that seats.
+
+Emphasize the new framework distinction: **“The past is memory, not a bind.”** Coarse history can constrain later fine resolution without dictating one exact route, because coarse does not mean blurry or weak. It means committed structure without unnecessary commitment.
+
+Keep the boundary explicit: fracture mechanics is established science; the framework mapping is an interpretive correspondence, not a derivation, proof, explanation of quantum mechanics, or replacement for fracture mechanics.
 
 Close with: **“When we see one finished history, how often do we mistake the path that happened for a path that had to be fully specified in advance?”**
 
@@ -269,16 +349,16 @@ Close with: **“When we see one finished history, how often do we mistake the p
 
 This topic was selected because it adds a new external field, **fracture mechanics/material failure**, and a new central question, **path selection under constrained but unresolved alternatives**. It also brings fresh research material on dynamic crack branching, three-dimensional disorder, and phase-field fracture rather than swapping a new metaphor into an existing Bits structure.
 
-The natural framework connection is the current P-Lane distinction between **open possibility and finely seated route**: a direction or bias can already be real while the detailed implementation remains unresolved. The article deliberately uses this late and lightly.
+The natural framework connection is now slightly richer than the original package: the current P-Lane distinction between **open possibility and finely seated route** is joined by **retained history as present constraint**. A direction or Aim can remain real while its detailed implementation is unresolved, and the route already taken can become ground that constrains the next resolution without specifying it completely.
 
 ## Nearest overlap checked
 
 - **How possibilities earn their physical ground** — nearest conceptual overlap because both involve possibility becoming actual, but that Bit is a general Lane/Rung introduction. This package is an independently researched materials-science story about crack-path selection.
-- **Why Do Rules Create Freedom?** — shares constrained possibility, but its central mechanism is creativity under rules; this piece is about evolving mechanical bias, stress fields, disorder, and fracture.
+- **Why Do Rules Create Freedom?** — shares constrained possibility, but its central mechanism is creativity under rules; this piece is about evolving mechanical bias, stress fields, disorder, retained path consequence, and fracture.
 - **When Does a Crowd Become a Mind?** / **The Traffic Jam That Nobody Caused** — both involve emergent trajectories, but fracture is not a many-agent collective-intelligence story and does not reuse their central mechanism.
-- **Why precision is a trap** — both resist assuming complete fine detail is necessary, but this piece is not about overmeasurement or coarse description.
+- **Why precision is a trap** — both resist assuming complete fine detail is necessary, but this piece is not about overmeasurement. Here coarse retained history is itself consequential ground.
 - **Prepared “What If Reality Is the Dream That Learned to Anchor Dreams?”** — no substantive external-topic overlap.
 
 Repository search for `crack`, `fracture`, `stress`, `branch`, and related terms found no existing Bits package centered on fracture mechanics.
 
-The current checklist was updated 2026-08-23 and was treated as the primary published/prepared ledger. A public Substack RSS/feed could not be reliably retrieved through the available web index during this run, so no unsupported claim is made that the checklist is newer than every possible feed entry.
+The current checklist was updated 2026-08-23 and was treated as the primary published/prepared ledger. A public Substack RSS/feed could not be reliably retrieved through the available web index during the original run, so no unsupported claim is made that the checklist is newer than every possible feed entry.
