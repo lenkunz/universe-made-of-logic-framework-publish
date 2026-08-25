@@ -1,0 +1,47 @@
+name: Refresh Substack Bits RSS
+
+on:
+  push:
+    paths:
+      - 'bits/**'
+      - 'source/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-substack-bits-rss
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Download current Substack podcast RSS
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p resource
+          curl --fail --location --retry 3 --retry-delay 2 \
+            'https://api.substack.com/feed/podcast/10455398/s/443918.rss' \
+            --output resource/substack-bits-podcast.rss.tmp
+          grep -Eq '<rss|<feed' resource/substack-bits-podcast.rss.tmp
+          mv resource/substack-bits-podcast.rss.tmp resource/substack-bits-podcast.rss
+
+      - name: Commit refreshed RSS when changed
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- resource/substack-bits-podcast.rss; then
+            echo 'RSS snapshot unchanged.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add resource/substack-bits-podcast.rss
+          git commit -m 'Refresh Substack Bits RSS'
+          git push
