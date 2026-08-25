@@ -28,7 +28,7 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p resource
-          curl --fail --location --retry 3 --retry-delay 2 \
+          curl -vvv --fail --location --retry 3 --retry-delay 2 \
             'https://api.substack.com/feed/podcast/10455398/s/443918.rss' \
             --output resource/substack-bits-podcast.rss.tmp
           grep -Eq '<rss|<feed' resource/substack-bits-podcast.rss.tmp
