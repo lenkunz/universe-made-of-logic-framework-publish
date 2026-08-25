@@ -2,10 +2,10 @@
 
 Title: Why Does a Crack Turn?
 Slug: why-does-a-crack-turn
-Status: article-ready
+Status: published
 Created: 2026-08-25
-Published:
-Substack URL:
+Published: 2026-08-25
+Substack URL: https://soutame.substack.com/p/why-does-a-crack-turn
 
 ## Central question
 
@@ -24,7 +24,7 @@ Fracture mechanics gives a concrete example of a system whose future can be stro
 
 Closest published Bit(s): `How possibilities earn their physical ground`; `Why Do Rules Create Freedom?`; `Why precision is a trap`
 
-Closest prepared-but-unpublished Bit(s): `What If Reality Is the Dream That Learned to Anchor Dreams?`
+Closest prepared-but-unpublished Bit(s): `The Traffic Jam That Nobody Caused`
 
 Why this episode is distinct: It is a materials-science story centered on crack-path selection, stress fields, disorder, branching instability, and dynamically changing continuation fields. It does not reuse the central mechanism of the nearby Bits.
 
@@ -39,6 +39,8 @@ Why this episode is distinct: It is a materials-science story centered on crack-
 - Image: `article/why-does-a-crack-turn.webp`
 
 ## Publication notes
+
+Confirmed published by the Bits podcast RSS snapshot at `resource/substack-bits-podcast.rss`. RSS publication time: Tue, 25 Aug 2026 12:03:05 GMT (2026-08-25 19:03:05 +07:00). Published URL: https://soutame.substack.com/p/why-does-a-crack-turn
 
 Use the fracture-mechanics story first. Bring in the framework only after the ordinary physical picture is clear. Preserve the new distinction: past is retained constraint rather than a binding replay; coarse is committed structure without unnecessary commitment.
 
