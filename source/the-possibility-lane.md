@@ -2,12 +2,12 @@
 
 *How much can remain open from the ground that already exists — the widening side of the framework.*
 
-<!-- Revision: R20260823-1421-01 -->
-<!-- Updated: 2026-08-23 14:21 +07:00 -->
-<!-- Change: Clarifies the Cut as both resolved distinction and open remainder; Aim is a higher-order seated relational constraint, not something outside topology waiting to enter it. -->
+<!-- Revision: R20260825-1745-01 -->
+<!-- Updated: 2026-08-25 17:45 +07:00 -->
+<!-- Change: Clarifies that resolved history can persist as coarse consequential ground: past constraint guides later fine resolution without pre-rendering the route; Aim supplies what must hold while inherited ground shapes how it may still be reached. -->
 <!-- Audited source: the-possibility-lane-updated-2026-08-19.md -->
-<!-- Semantic consistency basis: Where the Framework Currently Stands R20260823-1421-01; The Index R20260823-1421-01; A Universe Made of Logic R20260823-1421-01; origin/budget update map R20260823-1310-01; Cut/Resolution update map R20260823-1421-01 -->
-<!-- Also incorporates deductions concluded during the 2026-08-21 P-Lane audit conversation -->
+<!-- Semantic consistency basis: Where the Framework Currently Stands R20260823-1421-01; The Index R20260823-1421-01; A Universe Made of Logic R20260823-1421-01; Basics II R20260825-1745-01; origin/budget update map R20260823-1310-01; Cut/Resolution update map R20260823-1421-01 -->
+<!-- Also incorporates deductions concluded during the 2026-08-21 P-Lane audit conversation and 2026-08-25 retained-history clarification -->
 <!-- Proposed canonical source. Public presentation may later be rebuilt in Work without changing these meanings. -->
 
 ---
@@ -41,6 +41,10 @@ Informational Topology asks what can actually seat.
 > **An Aim can already be resolved as a present constraint while its finer implementation remains unresolved.**
 
 A direction can therefore be real before its complete implementation exists.
+
+And because already-resolved history remains part of present ground, that direction never begins from a pristine blank unless no relevant constraint has yet seated.
+
+> **The future opens from inherited ground, not from amnesia.**
 
 That is the starting point.
 
@@ -183,6 +187,14 @@ And when one possibility does seat, the cycle repeats:
 → `new ground`
 → `new possibility opens`
 
+The new ground includes the consequential history of how the previous state was reached.
+
+It does not need to preserve every unused fine distinction from that history. It only needs to preserve what has become part of the present constraint.
+
+So the cycle is not memoryless.
+
+> **Resolution does not merely end possibility. It writes constraint into the next possibility field.**
+
 > **Growth happens outward in possibility and inward in resolution at the same time.**
 
 P-Lane owns the widening side.
@@ -216,6 +228,10 @@ So the framework-native form is:
 `already-seated bias`
 → `a field of supportable continuation`
 → `some continuations cheaper / more compatible than others`
+
+That already-seated bias can include retained history.
+
+A previous resolution may have changed boundaries, established relations, closed some continuations, or made others cheaper without specifying the next route in full.
 
 If no direction is preferred at the grain being considered, a sphere is a useful drawing.
 
@@ -325,6 +341,79 @@ The route can genuinely remain unresolved.
 
 > **The aim survives. The route belongs to resolution.**
 
+But Aim is not the only constraint acting on resolution.
+
+A real continuation also begins from the **history already seated into present ground**.
+
+That gives a second distinction:
+
+`Aim`
+→ `what must still be satisfied`
+
+while:
+
+`retained history / present ground`
+→ `what the next resolution is resolving from`
+
+These can work together without either one specifying the finished route.
+
+A failure can become remembered ground. A successful relation can become reusable ground. A boundary crossed earlier can change what is reachable now. None of those require the universe to keep a permanently fine replay of every step.
+
+What must survive is the consequential constraint.
+
+So:
+
+`past resolution`
+→ `coarse retained consequence`
+→ `biased field of still-compatible continuations`
+→ `new fine resolution`
+→ `new retained consequence`
+
+> **The past is memory, not a bind.**
+
+Here, “memory” means that what has become consequential remains part of the ground. “Not a bind” means that the ground need not prescribe one exact future route.
+
+The important middle is neither:
+
+`past → exact future`
+
+nor:
+
+`past disappears → future begins pristine`
+
+but:
+
+`past → constraint on future resolution`
+
+This also sharpens what **coarse** means.
+
+Coarse is not a weak or blurry copy of a fine route.
+
+A coarse historical constraint can be exact about what must remain consequential while leaving unused finer distinctions unseated.
+
+> **Coarse is committed structure without unnecessary commitment.**
+
+That structure can constrain **how fine resolution is allowed to become**. It can exclude some future distinctions, make others cheaper or more compatible, and leave several routes open at once.
+
+Aim therefore does not erase history in order to reach its target.
+
+History supplies inherited ground; Aim supplies a still-operative direction; resolution finds the finer continuation compatible with both.
+
+In shorthand:
+
+`retained ground + Aim + present relation`
+→ `unequal compatible continuations`
+→ `one distinction becomes consequential`
+→ `new ground`
+
+Without retained ground, Aim would be only direction applied to a pristine state.
+
+Without unresolved possibility, retained ground would become a script.
+
+The framework instead needs both:
+
+> **History gives the future a starting constraint. Aim gives it something still to satisfy. Resolution gives it a particular route.**
+
 This is not a transition from an Aim-layer into topology. The Aim is already topological constraint. What remains outstanding is which finer Cut becomes consequential next within that constraint and the rest of present ground.
 
 The narrower the aim becomes, the more distinctions it has already made consequential.
@@ -380,6 +469,8 @@ The economy comes from compression.
 One coarse constraint can preserve a large class of fine implementations without paying to distinguish each of them separately.
 
 > **A coarse aim can be cheap because one distinction can govern many fine routes.**
+
+Retained history can use the same economy. One consequential historical constraint can govern many later resolutions without re-rendering every detail of the event that established it.
 
 Both participants in a relation constrain what can seat.
 
@@ -984,6 +1075,8 @@ What was expensive to establish earlier does not have to be forgotten merely bec
 
 > **Recursion does not require amnesia.**
 
+This now includes more than reusable structure in the narrow sense. The inherited base carries the consequential residue of prior resolution: enough history to constrain the next sequence without requiring that history to be replayed in full detail.
+
 So keep separate:
 
 **Level 0**
@@ -1092,6 +1185,12 @@ The same pattern keeps returning:
 
 > **A good ground does not decide everything for what stands on it. It makes more things able to stand.**
 
+The retained past has the same double character.
+
+It closes routes incompatible with what has already become consequential, but it can also make new routes possible because later resolution inherits structure it no longer has to establish from nothing.
+
+Memory can therefore constrain and enable at the same time.
+
 ---
 
 # XXII. What P-Lane is for
@@ -1145,12 +1244,26 @@ The answer never stays still because successful resolution changes the ground.
 
 So the cycle is:
 
-`established ground`
+`established ground / retained history`
 → `possibility widens`
 → `bias / aim constrains what must hold`
 → `fine distinctions seat where consequential`
-→ `new structure becomes ground`
+→ `resolved consequence becomes new ground`
 → `possibility widens again`
+
+This makes the role of history explicit.
+
+A resolved route is not thrown away, but neither must every detail of it remain permanently fine.
+
+Enough of the past persists to constrain the present field. The rest can remain undercommitted unless another relation makes it consequential.
+
+So:
+
+> **Stored history is not rendered detail.**
+
+And:
+
+> **The past constrains resolution without becoming a complete script for the future.**
 
 At the resolution frontier, the Lane keeps running.
 
@@ -1160,7 +1273,7 @@ When the Rung does catch up, the former possibility becomes new fine ground.
 
 Then the next field opens.
 
-> **The aim names what can remain open. Resolution pays for what must become particular.**
+> **The aim names what must still hold. Resolution pays for what must become particular. History preserves what the next resolution must begin from.**
 
 > **What becomes particular becomes ground for what can open next.**
 
@@ -1172,4 +1285,4 @@ It can begin from whatever ground has already learned how to stand.
 
 ---
 
-*This is the canonical semantic source for the rebuilt Possibility Lane article. Its public Substack presentation may later be reorganised, shortened, illustrated, or given article-card placements in Work, but the presentation pass should not change the Lane meanings, the hosted/independent distinction, the resolution-frontier architecture, or the dependency structure stated here.*
+*This is the canonical semantic source for the rebuilt Possibility Lane article. Its public Substack presentation may later be reorganised, shortened, illustrated, or given article-card placements in Work, but the presentation pass should not change the Lane meanings, the hosted/independent distinction, the resolution-frontier architecture, the retained-history constraint, or the dependency structure stated here.*
