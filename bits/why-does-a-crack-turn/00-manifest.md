@@ -2,7 +2,7 @@
 
 Title: Why Does a Crack Turn?
 Slug: why-does-a-crack-turn
-Status: prepared
+Status: article-ready
 Created: 2026-08-25
 Published:
 Substack URL:
@@ -36,7 +36,7 @@ Why this episode is distinct: It is a materials-science story centered on crack-
 - Work prompt: `04-work-prompt.md`
 - Article: `article/why-does-a-crack-turn.md`
 - Audio: `audio/why-does-a-crack-turn.m4a`
-- Image: `article/<generated-image-file>`
+- Image: `article/why-does-a-crack-turn.webp`
 
 ## Publication notes
 
