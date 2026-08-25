@@ -2,7 +2,7 @@
 
 Title: The Frog Doesn't Solve Ballistics
 Slug: the-frog-doesnt-solve-ballistics
-Status: prepared
+Status: article-ready
 Created: 2026-08-25
 Published:
 Substack URL:
@@ -34,7 +34,7 @@ Why this Short is distinct: it owns the general mechanism of action through accu
 - Short source: `02-short-source.md`
 - Work prompt: `03-work-prompt.md`
 - Article: `article/the-frog-doesnt-solve-ballistics.md`
-- Image: `article/<generated-image-file>`
+- Image: `article/the-frog-doesnt-solve-ballistics.webp`
 
 ## Publication notes
 
