@@ -40,5 +40,7 @@ Why this Short is distinct: it owns the general mechanism of action through accu
 
 Prepared originally by Weekly Short Prep on 2026-08-25 and migrated into the canonical Short package structure.
 
+Publication status should be verified against `https://soutame.substack.com/feed`, falling back to `resource/substack-main-feed.rss` when direct access is unavailable. New Shorts use the suggested title, so exact or punctuation-normalized title matching is authoritative. Older Shorts may require cautious contextual matching.
+
 ## Post-publication notes
 
