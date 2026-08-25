@@ -1,6 +1,6 @@
 # Bits Topic Checklist — My GUT Deduction
 
-Updated: 2026-08-23  
+Updated: 2026-08-25  
 Purpose: prevent future Bits packages from duplicating an already-published topic, repeating the same central mechanism with a cosmetic new example, or preparing the same candidate twice.
 
 ## How to use this checklist
@@ -27,6 +27,32 @@ while:
 +
 `new research / new central question / new explanatory payoff`
 → **may be developed later**
+
+---
+
+## Publication sync rule
+
+The authoritative publication ledger is the Substack podcast RSS:
+
+`https://api.substack.com/feed/podcast/10455398/s/443918.rss`
+
+Because the suggested Bit title is also the title used for publication, exact RSS title matches can be used to move a prepared Bit into the Published section.
+
+If direct RSS access is unavailable, use the GitHub-maintained snapshot:
+
+`resource/substack-bits-podcast.rss`
+
+The workflow `.github/workflows/refresh-substack-bits-rss.yml` refreshes that snapshot whenever `bits/**` or `source/**` changes.
+
+For every Bits Topic Pack run:
+
+1. sync this checklist against the publication feed before selecting a topic;
+2. prepare and instantiate the new Bit package;
+3. ensure the new title is recorded under **Prepared but not published** unless already in the feed;
+4. sync against the feed again after package preparation;
+5. when an exact prepared title appears in RSS, move it to **Published Bits**, preserve its useful metadata, record the RSS publication date and Substack URL, and remove it from Prepared.
+
+A package existing under `bits/` is evidence that it was prepared, not that it was published.
 
 ---
 
@@ -180,6 +206,15 @@ while:
 
 # Prepared but not published
 
+- [x] **Why Does a Crack Turn?**
+  - Status: **PREPARED**
+  - External topic: fracture mechanics, crack-path selection, branching, disorder, and evolving local stress fields.
+  - Main question: when several continuations are physically possible, why does a crack continue this way rather than another?
+  - Framework hook: present ground can carry unequal continuations; Aim/direction need not pre-render a route; resolved history becomes coarse consequential ground that constrains later fine resolution.
+  - Closest published overlap: **How possibilities earn their physical ground**, **Why Do Rules Create Freedom?**, and **Why precision is a trap**.
+  - Why distinct: this is an independently researched materials-science story about path selection, crack-tip mechanics, disorder, and dynamically changing continuation fields rather than a generic possibility/constraint explanation.
+  - Package: `bits/why-does-a-crack-turn/`
+
 - [x] **The Traffic Jam That Nobody Caused**
   - Status: **HOLD / do not use as the next Bit yet**
   - External topic: phantom traffic jams / stop-and-go waves.
@@ -207,6 +242,7 @@ Use these as warning clusters. A future topic can reuse a framework concept, but
 - Why Does Forgetting Help Us Remember?
 - Why precision is a trap
 - When Practice Makes Thinking Disappear
+- Why Does a Crack Turn? — prepared; shares retained constraint, but its ordinary mechanism is fracture path selection
 
 ### Collective / emergent organisation
 - When Does a Crowd Become a Mind?
@@ -228,9 +264,10 @@ Use these as warning clusters. A future topic can reuse a framework concept, but
 - How possibilities earn their physical ground
 - Why Do Rules Create Freedom?
 - How High Can a Fish Swim?
+- Why Does a Crack Turn? — prepared; path selection under inherited constraint
 
 ### Hope / metaphysical origin thought experiments
-- What If Reality Is the Dream That Learned to Anchor Dreams? — prepared, package-ready
+- What If Reality Is the Dream That Learned to Anchor Dreams? — published
 - Reserve the first-consciousness / integrated-Aim question as a distinct future topic rather than folding it into the same episode.
 
 ### Physical correspondence clusters
@@ -263,10 +300,11 @@ Reject or hold a topic when:
 
 Before preparing a new Bits package:
 
-1. Read this checklist.
-2. Read the newest RSS / published episode list if available.
-3. Search Project sources for the candidate topic and close synonyms.
-4. Compare the candidate against both exact titles and the overlap families.
-5. Only then research and draft the package.
+1. Sync this checklist against the authoritative Substack podcast RSS, using `resource/substack-bits-podcast.rss` when direct access is unavailable.
+2. Search current framework sources for the candidate topic and close synonyms.
+3. Compare the candidate against both exact titles and the overlap families.
+4. Only then research and draft the package.
+5. Add the selected title to **Prepared but not published** when the package is created.
+6. Sync the checklist against the feed again after preparation and move any exact title matches to **Published Bits**.
 
 A topic mentioned briefly in an older Bit is **not automatically banned**. It should become a dedicated Bit only when the new piece has enough independent research, a distinct central question, and a different payoff to justify the repetition.
