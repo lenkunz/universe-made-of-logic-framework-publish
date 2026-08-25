@@ -10,7 +10,7 @@ Your paid subscription to **Pondering of the Universe** has ended.
 
 Nothing dramatic happened. Your place here did not end with the payment.
 
-I use paid subscription mainly to support the work and to keep the comment space small enough for careful discussion. It is not a border around the ideas.
+I use paid subscription mainly to keep the comment space small enough for careful discussion. It is not a border around the ideas.
 
 As long as you remain subscribed, you can keep receiving public posts and reading along as before. The main practical change is access to the paid comment space.
 

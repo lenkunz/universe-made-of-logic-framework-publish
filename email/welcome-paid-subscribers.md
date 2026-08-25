@@ -12,7 +12,7 @@ Before anything else, I want to make one thing clear:
 
 > **There is no hidden second framework behind the payment.**
 
-The ideas are here to be read. Paid subscription is mainly a way to support the time behind the work and to enter a smaller comment space where a long question does not disappear immediately under a crowd.
+The ideas are here to be read. Paid subscription is mainly the door to a smaller comment space where a long question does not disappear immediately under a crowd. Your payment also supports the time behind the work, but it does not buy a separate body of ideas.
 
 That comment space is not meant to require agreement.
 
@@ -27,4 +27,3 @@ You do not need to read everything before joining a conversation. Start wherever
 Thank you for giving this project more room to keep thinking.
 
 — Len
-

@@ -24,9 +24,8 @@ The framework itself is not divided into a public version and a secret paid vers
 
 Paid subscription primarily:
 
-- supports the time and work behind the publication;
 - opens the smaller paid comment space;
-- helps keep long discussion manageable.
+- helps keep long discussion manageable;
+- supports the time behind the publication as a welcome side effect, rather than buying a separate body of ideas.
 
 An expired paid subscription is therefore treated as a change in access, not a rejection, failure, or sad goodbye.
-
