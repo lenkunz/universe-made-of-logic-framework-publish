@@ -26,7 +26,6 @@ jobs:
       - name: Download current Substack podcast RSS
         shell: bash
         run: |
-          set -euo pipefail
           mkdir -p resource
           curl -vvv --fail --location --retry 3 --retry-delay 2 \
             'https://api.substack.com/feed/podcast/10455398/s/443918.rss' \
