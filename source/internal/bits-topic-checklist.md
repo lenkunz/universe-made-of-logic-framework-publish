@@ -162,24 +162,9 @@ while:
   - Framework hook: resolution cost / apparatus as participant.
   - Avoid repeating: generic “measurement changes what becomes resolved” framing.
 
----
-
-# Prepared but not published
-
-- [~] **The Traffic Jam That Nobody Caused**
-  - Status: **HOLD / do not use as the next Bit yet**
-  - External topic: phantom traffic jams / stop-and-go waves.
-  - Main question: how can a stable jam appear without a bottleneck or single culprit?
-  - Framework hook: Lane 3, law among lower relations.
-  - Exact published duplicate found in RSS: **No.**
-  - Exact older file-library match found: **No, outside this newly prepared package.**
-  - Conceptual overlap: **moderate to high** with **When Does a Crowd Become a Mind?**
-  - Why: both use a many-parts / relations-between-parts story where the larger pattern persists despite changing members.
-  - Distinctive material the traffic piece *does* add: instability threshold, backward-moving wave, ring-road experiment, and one-car damping experiment.
-  - Decision: keep it in reserve as a future dedicated complex-systems episode, but choose a lower-overlap topic for the next Bits package.
-
-- [~] **What If Reality Is the Dream That Learned to Anchor Dreams?**
-  - Status: **PACKAGE READY**
+- [x] **What If Reality Is the Dream That Learned to Anchor Dreams?**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/what-if-reality-is-the-dream-that
   - Source: `source/the-hope-behind-the-framework.md`
   - Mode: Hope-derived thought experiment / personal metaphysical hypothesis, explicitly not framework ground.
   - Main question: if reality began as logical relation rather than finished objects, what kind of logical organisation could persist long enough to become shared ground?
@@ -190,6 +175,22 @@ while:
   - Important boundary: do not turn this into quantum many-worlds, simulation theory, consciousness-first cosmology, God, or panpsychism.
   - Reserved follow-up: the Hope's **first consciousness / first integrated Aim** branch should remain a separate future Bit.
   - Package: `bits/reality-the-dream-that-learned-to-anchor-dreams/`
+
+---
+
+# Prepared but not published
+
+- [x] **The Traffic Jam That Nobody Caused**
+  - Status: **HOLD / do not use as the next Bit yet**
+  - External topic: phantom traffic jams / stop-and-go waves.
+  - Main question: how can a stable jam appear without a bottleneck or single culprit?
+  - Framework hook: Lane 3, law among lower relations.
+  - Exact published duplicate found in RSS: **No.**
+  - Exact older file-library match found: **No, outside this newly prepared package.**
+  - Conceptual overlap: **moderate to high** with **When Does a Crowd Become a Mind?**
+  - Why: both use a many-parts / relations-between-parts story where the larger pattern persists despite changing members.
+  - Distinctive material the traffic piece *does* add: instability threshold, backward-moving wave, ring-road experiment, and one-car damping experiment.
+  - Decision: keep it in reserve as a future dedicated complex-systems episode, but choose a lower-overlap topic for the next Bits package.
 
 ---
 
