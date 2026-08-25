@@ -2,10 +2,11 @@
 
 *Second of three foundational pieces. “Coarse” is one of the framework's most important words, and one of the easiest to accidentally turn into something the framework does not mean.*
 
-<!-- Revision: R20260820-2219-01 -->
-<!-- Updated: 2026-08-20 22:19 +07:00 -->
-<!-- Semantic basis: Framework Working State R20260820-2055-01; Where the Framework Currently Stands R20260820-2055-01; Index R20260820-2155-01 -->
-<!-- Supersedes: basics-2-coarse-is-not -->
+<!-- Revision: R20260825-1745-01 -->
+<!-- Updated: 2026-08-25 17:45 +07:00 -->
+<!-- Change: Clarifies coarse history as retained consequential constraint: memory need not render the past in full detail, but still limits how later fine resolution may proceed. -->
+<!-- Semantic basis: Framework Working State R20260820-2055-01; Where the Framework Currently Stands R20260820-2055-01; Index R20260820-2155-01; Possibility Lane R20260825-1745-01 -->
+<!-- Supersedes: basics-2-coarse-is-not R20260820-2219-01 -->
 
 ---
 
@@ -97,6 +98,55 @@ This is also why:
 > **Stored constraint is not the same thing as rendered detail.**
 
 A structure can constrain several later outcomes without already containing every one as a fully displayed internal copy.
+
+### Memory is consequence, not a replay
+
+The same distinction applies to history.
+
+A resolved past does not need to remain as a fully rendered movie in order to remain consequential.
+
+What matters is that enough of what happened has become seated ground to constrain what can happen next.
+
+So the framework should distinguish:
+
+`preserve the past`
+
+from:
+
+`re-render every past distinction forever`
+
+The first can be required without the second.
+
+A coarse memory may preserve that:
+
+`this relation happened`
+
+`this boundary was crossed`
+
+`this route failed`
+
+`this structure now exists because of it`
+
+while leaving finer historical detail unresolved unless another present relation needs it.
+
+> **Past is retained as consequential ground, not necessarily as a permanently fine replay.**
+
+This is why undercommitment is not weakness.
+
+A coarse memory can be exact about the distinctions that must survive while refusing to invent or preserve distinctions that never became consequential.
+
+And because that memory is now ground, it constrains the future field of resolution.
+
+`resolved history`
+→ `retained constraint`
+→ `some future continuations remain compatible`
+→ `others no longer are`
+
+> **Memory does not have to dictate the next route in order to constrain how that route may resolve.**
+
+The past therefore need not bind the future to repetition.
+
+It changes the ground from which the future is allowed to become particular.
 
 ---
 
@@ -281,6 +331,26 @@ until another relation splits them.
 
 The present ground still matters.
 
+This is especially important for retained history.
+
+A past constraint can leave several future continuations open while still excluding continuations incompatible with what has already seated.
+
+So:
+
+`past constraint`
+≠
+`exact future`
+
+and:
+
+`past constraint`
+≠
+`no constraint`
+
+The useful middle is:
+
+> **The past constrains the grain and shape of later resolution without requiring the later route to have been pre-rendered.**
+
 ---
 
 ## Candidate physical readings are a separate step
@@ -323,11 +393,14 @@ It may be:
 
 - sharply constraining rather than blurry;
 - enormous in scope rather than weak;
-- coarse under one relation and fine under another.
+- coarse under one relation and fine under another;
+- retained from resolved history without preserving a fully rendered replay.
 
 The key is not how detailed it looks.
 
 The key is **which distinctions the present structure has actually paid to preserve.**
+
+That includes history: what has already become consequential can survive as ground even while finer unused detail remains uncommitted.
 
 Basics III now asks what happens when two such points or domains actually bind.
 
