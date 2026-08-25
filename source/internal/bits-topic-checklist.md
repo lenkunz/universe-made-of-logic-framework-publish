@@ -32,21 +32,25 @@ while:
 
 ## Publication sync rule
 
-The authoritative publication ledger is the Substack podcast RSS:
+The preferred live publication source is the Cloudflare-proxied Bits RSS:
+
+`https://souta.me/rss/podcasts`
+
+Its upstream source is the Substack podcast RSS:
 
 `https://api.substack.com/feed/podcast/10455398/s/443918.rss`
 
 Because the suggested Bit title is also the title used for publication, exact RSS title matches can be used to move a prepared Bit into the Published section.
 
-If direct RSS access is unavailable, use the GitHub-maintained snapshot:
+If live access is unavailable, use the GitHub-maintained snapshot:
 
 `resource/substack-bits-podcast.rss`
 
-The workflow `.github/workflows/refresh-substack-bits-rss.yml` refreshes that snapshot whenever `bits/**` or `source/**` changes.
+The workflow `.github/workflows/refresh-substack-bits-rss.yml` refreshes that snapshot through the Cloudflare proxy. The snapshot is the durable fallback and should be preferred over guessing from package existence.
 
 For every Bits Topic Pack run:
 
-1. sync this checklist against the publication feed before selecting a topic;
+1. sync this checklist against the live proxied feed when reachable, otherwise the committed snapshot;
 2. prepare and instantiate the new Bit package;
 3. ensure the new title is recorded under **Prepared but not published** unless already in the feed;
 4. sync against the feed again after package preparation;
@@ -57,6 +61,46 @@ A package existing under `bits/` is evidence that it was prepared, not that it w
 ---
 
 # Published Bits
+
+## 2026-08-25
+
+- [x] **Why Does a Crack Turn?**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/why-does-a-crack-turn
+  - RSS publication time: 2026-08-25 19:03:05 +07:00.
+  - External topic: fracture mechanics, crack-path selection, branching, disorder, and evolving local stress fields.
+  - Main question: when several continuations are physically possible, why does a crack continue this way rather than another?
+  - Framework hook: present ground can carry unequal continuations; direction need not pre-render a route; resolved history becomes coarse consequential ground that constrains later fine resolution.
+  - Closest published overlap: **How possibilities earn their physical ground**, **Why Do Rules Create Freedom?**, and **Why precision is a trap**.
+  - Why distinct: this is an independently researched materials-science story about path selection, crack-tip mechanics, disorder, and dynamically changing continuation fields rather than a generic possibility/constraint explanation.
+  - Package: `bits/why-does-a-crack-turn/`
+
+## 2026-08-23
+
+- [x] **What If Reality Is the Dream That Learned to Anchor Dreams?**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/what-if-reality-is-the-dream-that
+  - RSS publication time: 2026-08-23 18:31:58 +07:00.
+  - Source: `source/the-hope-behind-the-framework.md`
+  - Mode: Hope-derived thought experiment / personal metaphysical hypothesis, explicitly not framework ground.
+  - Main question: if reality began as logical relation rather than finished objects, what kind of logical organisation could persist long enough to become shared ground?
+  - Central payoff: stable reality might be imagined not as the strongest temporary logical world, but as an organisation that turns successful relation into reusable ground and can carry compatible structures that once required separate hosting.
+  - Framework hook used as constraint: seated relation becomes ground; coarse compatible possibility need not be fully resolved; hosted and independently seated are distinct; anchoring supplies reusable support.
+  - Closest published overlap: **How possibilities earn their physical ground**, **The Universe on a Computational Budget**, and weakly **Why Do Rules Create Freedom?**
+  - Why distinct: those episodes explain framework architecture or ordinary constraint/freedom. This Bit owns a metaphysical origin thought experiment about temporary worlds of logic and self-reinforcing shared ground.
+  - Important boundary: do not turn this into quantum many-worlds, simulation theory, consciousness-first cosmology, God, or panpsychism.
+  - Reserved follow-up: the Hope's **first consciousness / first integrated Aim** branch should remain a separate future Bit.
+  - Package: `bits/reality-the-dream-that-learned-to-anchor-dreams/`
+
+## 2026-08-21
+
+- [x] **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/why-does-an-air-conditioner-have
+  - Primary topic: vapor-compression refrigeration, pressure, phase change, evaporation, condensation, and heat transfer.
+  - Main question: why must an air conditioner make the outdoor side hotter in order to cool the indoor side?
+  - Framework hook: one physical cycle as a test case for whether several surfaced quantities can correspond to one deeper relational change; the framework interpretation remains explicitly provisional where heat/pressure mapping is incomplete.
+  - Avoid repeating: generic HVAC loop or “cold is moved heat” explanation unless a future Bit isolates a genuinely different thermodynamic question.
 
 ## 2026-08-19
 
@@ -188,32 +232,9 @@ A package existing under `bits/` is evidence that it was prepared, not that it w
   - Framework hook: resolution cost / apparatus as participant.
   - Avoid repeating: generic “measurement changes what becomes resolved” framing.
 
-- [x] **What If Reality Is the Dream That Learned to Anchor Dreams?**
-  - Status: **PUBLISHED**
-  - URL: https://soutame.substack.com/p/what-if-reality-is-the-dream-that
-  - Source: `source/the-hope-behind-the-framework.md`
-  - Mode: Hope-derived thought experiment / personal metaphysical hypothesis, explicitly not framework ground.
-  - Main question: if reality began as logical relation rather than finished objects, what kind of logical organisation could persist long enough to become shared ground?
-  - Central payoff: stable reality might be imagined not as the strongest temporary logical world, but as an organisation that turns successful relation into reusable ground and can carry compatible structures that once required separate hosting.
-  - Framework hook used as constraint: seated relation becomes ground; coarse compatible possibility need not be fully resolved; hosted and independently seated are distinct; anchoring supplies reusable support.
-  - Closest published overlap: **How possibilities earn their physical ground**, **The Universe on a Computational Budget**, and weakly **Why Do Rules Create Freedom?**
-  - Why distinct: those episodes explain framework architecture or ordinary constraint/freedom. This Bit owns a metaphysical origin thought experiment about temporary worlds of logic and self-reinforcing shared ground.
-  - Important boundary: do not turn this into quantum many-worlds, simulation theory, consciousness-first cosmology, God, or panpsychism.
-  - Reserved follow-up: the Hope's **first consciousness / first integrated Aim** branch should remain a separate future Bit.
-  - Package: `bits/reality-the-dream-that-learned-to-anchor-dreams/`
-
 ---
 
 # Prepared but not published
-
-- [x] **Why Does a Crack Turn?**
-  - Status: **PREPARED**
-  - External topic: fracture mechanics, crack-path selection, branching, disorder, and evolving local stress fields.
-  - Main question: when several continuations are physically possible, why does a crack continue this way rather than another?
-  - Framework hook: present ground can carry unequal continuations; Aim/direction need not pre-render a route; resolved history becomes coarse consequential ground that constrains later fine resolution.
-  - Closest published overlap: **How possibilities earn their physical ground**, **Why Do Rules Create Freedom?**, and **Why precision is a trap**.
-  - Why distinct: this is an independently researched materials-science story about path selection, crack-tip mechanics, disorder, and dynamically changing continuation fields rather than a generic possibility/constraint explanation.
-  - Package: `bits/why-does-a-crack-turn/`
 
 - [x] **The Traffic Jam That Nobody Caused**
   - Status: **HOLD / do not use as the next Bit yet**
@@ -242,7 +263,7 @@ Use these as warning clusters. A future topic can reuse a framework concept, but
 - Why Does Forgetting Help Us Remember?
 - Why precision is a trap
 - When Practice Makes Thinking Disappear
-- Why Does a Crack Turn? — prepared; shares retained constraint, but its ordinary mechanism is fracture path selection
+- Why Does a Crack Turn? — published; shares retained constraint, but its ordinary mechanism is fracture path selection
 
 ### Collective / emergent organisation
 - When Does a Crowd Become a Mind?
@@ -264,7 +285,7 @@ Use these as warning clusters. A future topic can reuse a framework concept, but
 - How possibilities earn their physical ground
 - Why Do Rules Create Freedom?
 - How High Can a Fish Swim?
-- Why Does a Crack Turn? — prepared; path selection under inherited constraint
+- Why Does a Crack Turn? — published; path selection under inherited constraint
 
 ### Hope / metaphysical origin thought experiments
 - What If Reality Is the Dream That Learned to Anchor Dreams? — published
@@ -273,6 +294,7 @@ Use these as warning clusters. A future topic can reuse a framework concept, but
 ### Physical correspondence clusters
 - Gravity is the universe deleting space
 - Reality is a cosmic accounting system
+- Why Does an Air Conditioner Have to Make Something Hot to Make You Cold? — thermodynamic test case, with framework mapping still provisional
 
 ---
 
@@ -300,7 +322,7 @@ Reject or hold a topic when:
 
 Before preparing a new Bits package:
 
-1. Sync this checklist against the authoritative Substack podcast RSS, using `resource/substack-bits-podcast.rss` when direct access is unavailable.
+1. Sync this checklist against `https://souta.me/rss/podcasts` when reachable, otherwise `resource/substack-bits-podcast.rss`.
 2. Search current framework sources for the candidate topic and close synonyms.
 3. Compare the candidate against both exact titles and the overlap families.
 4. Only then research and draft the package.
