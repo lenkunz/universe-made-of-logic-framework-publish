@@ -36,7 +36,6 @@ jobs:
       - name: Commit refreshed RSS when changed
         shell: bash
         run: |
-          set -euo pipefail
           if git diff --quiet -- resource/substack-bits-podcast.rss; then
             echo 'RSS snapshot unchanged.'
             exit 0
