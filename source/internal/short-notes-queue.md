@@ -1,24 +1,46 @@
-# Short Notes — the queue — index
+# Short Notes — the queue
 
-Current preserved source: `R20260823-1421-01` / 2026-08-23 14:21 +07:00.
+<!-- Revision: R20260825-1818-01 -->
+<!-- Updated: 2026-08-25 18:18 +07:00 -->
+<!-- Change: Adds Part 5 as the current editorial correction/addition layer after retained-history, directional-prediction, publication, and Bits developments through 2026-08-25. -->
 
-The queue is split into ordered search-friendly parts:
+*Candidates in rough order of readiness. Each is meant to become a standalone piece with one question, one mechanism, and as little framework vocabulary as possible at the opening.*
 
-1. `short-notes-queue/part-01.md` — published pieces, Tier 1 opening, optics cluster, early structural/general-reader candidates.
-2. `short-notes-queue/part-02.md` — hosted/represented/meaning/coarse/opposition/apparatus and white-light candidates.
-3. `short-notes-queue/part-03.md` — optics continuation, common-ground/background/distance/redshift candidates, Tier 2, opening Tier 3.
-4. `short-notes-queue/part-04.md` — remaining Tier 3, quantitative debts, Closed by thinking, personal Tier 4, sequencing.
+This queue is split to preserve its history without repeatedly rewriting a very large working file.
 
-## Important 2026-08-23 status correction
+## Current reading rule
 
-The old open item **“Does aim-level constraint reach the topology?”** is no longer open.
+Read **Part 5 first when selecting what to prepare next**.
 
-It is preserved under **Closed by thinking** in part 4:
+Parts 1–4 preserve the earlier queue and reasoning path. Where an active editorial placement, readiness label, publication status, or old wording conflicts with Part 5, **Part 5 is the current editorial correction layer**.
 
-- a real Aim is already seated relational constraint at its grain;
-- there is no separate Aim-to-topology crossing;
-- the remaining open work is coarse-to-fine mapping: how that seated Aim combines with the rest of present ground so that one particular finer Cut becomes consequential.
+Semantic authority still belongs to the maintained framework source and `source/where-the-framework-stands.md`. The queue is publication planning, not framework ground.
 
-## Authority
+## Split source
 
-This is an editorial/publication queue, not framework ground. For claim status, use `source/where-the-framework-stands.md`.
+1. `source/internal/short-notes-queue/part-01.md`
+   - Published/archive opening material, early Tier 1 candidates, optics cluster, Lane/Rung and clock candidates.
+
+2. `source/internal/short-notes-queue/part-02.md`
+   - Hosted/represented distinctions, relation/opposition, coarse-ground notes, measurement/apparatus, white-light and related candidates.
+
+3. `source/internal/short-notes-queue/part-03.md`
+   - Optics continuation, shared-ground/domain notes, background/distance/redshift candidates, Tier 2, and opening Tier 3 material.
+
+4. `source/internal/short-notes-queue/part-04.md`
+   - Older remaining Tier 3 items, physical-completion debts, Closed-by-thinking record, personal/Tier 4 notes, and the previous sequencing snapshot.
+
+5. `source/internal/short-notes-queue/part-05.md`
+   - **Current through 2026-08-25.** Publication/preparation status corrections, retained-history consequences, directional-prediction methodology, new Tier 1–3 candidates, Hope follow-up, stale-item corrections, and refreshed sequencing.
+
+## Selection discipline
+
+Before preparing a Short:
+
+1. read Part 5;
+2. check the relevant older part for the candidate's original reasoning;
+3. check current canonical source/status for semantic drift;
+4. check the repository/feed for already-published or already-prepared material;
+5. prefer a genuinely new question over a new metaphor for an old piece.
+
+Do not maintain a hard published-piece count here. Use the publication feed/checklists for current publication state.
