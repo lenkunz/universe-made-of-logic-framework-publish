@@ -5,6 +5,8 @@ on:
     paths:
       - 'bits/**'
       - 'source/**'
+  schedule:
+    - cron: '17 * * * *'
   workflow_dispatch:
 
 permissions:
