@@ -316,27 +316,136 @@ Such a representation can suggest:
 
 > what has been lost is still 'there' somewhere in the complete structure.
 
-However, this note does **not** claim that fear of disconnection historically caused relativity or that modern physics is experimentally unsupported.
+This is an interpretive speculation inside the framework. It is not a historical claim that fear of disconnection caused relativity.
 
-The distinction being recorded is narrower:
+More importantly, the framework is **not rejecting the measurements** used by relativity.
 
-> successful clock-rate and Lorentz relations do not, by themselves, force the framework to treat time as a primitive ontological substance or direction.
+The distinction is:
 
-The framework instead explores whether observed differences can be interpreted through:
+> **measurement is measurement; the disputed part is the reading of what the measurement means ontologically.**
+
+The framework accepts observations such as:
+
+- different accumulated clock cycles after different physical histories,
+- different comparative decay histories for moving particles,
+- the empirical success of Lorentz transformation relations,
+- relativistic corrections required by systems such as satellite navigation,
+- gravitational and velocity-dependent rate differences.
+
+The disagreement begins only when those measurements are read as uniquely establishing:
+
+> **time itself is a primitive physical dimension whose amount is what is being dilated.**
+
+The framework asks whether the same measurements can instead be read as:
+
+> **physical processes accumulating different amounts of change or resolution under different domain and projection relations.**
+
+In this reading, a clock is a stable repeated physical process used as a comparison relation. The clock does not independently measure a primitive substance called time. It counts physical transitions.
+
+So the raw comparison is closer to:
+
+> process A accumulated this many stable transitions,
+
+versus:
+
+> process B accumulated that many stable transitions.
+
+The phrase **time dilation** already names the observation through one interpretation. A more neutral description would be something like:
+
+- comparative rate difference,
+- process-rate dilation,
+- resolution-rate difference,
+- different accumulated physical change between compared paths.
+
+This does not make the standard equations wrong. It questions what they are equations **of** at the primitive level.
+
+---
+
+## Lorentz transformation as law versus ontology
+
+The Lorentz transformation can remain a correct and extraordinarily successful transformation law without being treated as proof that spacetime is the primitive substrate.
+
+The framework therefore separates:
+
+> **Lorentz relations are empirically successful**
+
+from:
+
+> **therefore time must literally be a primitive ontological dimension.**
+
+Those are not the same claim.
+
+A Lorentz factor such as:
+
+> γ = 1 / √(1 - v²/c²)
+
+may remain exactly the measured transformation ratio while the underlying interpretation changes.
+
+A spacetime reading treats the relation through proper time and spacetime interval.
+
+The framework explores whether the same ratio could emerge from:
 
 - resolution,
-- iteration,
-- comparative process rate,
-- domain relation,
-- preserved history,
+- rendering or projection geometry,
+- bounded propagation,
+- domain-relative process rate,
+- comparison between different physical histories.
 
-while still reproducing the successful measurable relations currently described using spacetime.
+If so, spacetime mathematics could remain an extremely good effective map while not being the primitive ontology underneath it.
 
-In this interpretation, a clock is a stable repeated physical process used as a comparison relation.
+This is not yet a competing physical theory. To become one, the framework would have to derive the successful Lorentz structure from its own primitives rather than merely reinterpret it after the fact.
 
-'Running slower' means fewer physical transitions or resolutions accumulate relative to another comparison path.
+---
 
-This remains a speculative ontology unless it can derive and match the full empirical structure normally represented by relativity.
+## Twin-style comparisons and consciousness
+
+Twin-style comparisons establish that two physical histories can accumulate different measured amounts of physical process before reunion.
+
+The framework does not dispute that result.
+
+What such comparisons do **not** independently establish is:
+
+> a separate primitive called time itself flowed at a different rate because consciousness travelled through a literal time dimension.
+
+They compare clocks and other physical processes.
+
+If a brain is treated as an ordinary physical system, then its neural, chemical, and biological processes should participate in the same local physical history. That is compatible with the measurements.
+
+But this still leaves a distinction between:
+
+> **different accumulated physical process**
+
+and
+
+> **proof that time itself is the primitive quantity being stretched.**
+
+The framework's proposed reading is the former.
+
+Questions about subjective consciousness are therefore not treated as directly settled merely by clock comparison. The physical history can be measured; the ontology used to explain that history remains the disputed layer.
+
+---
+
+## What this alternative reading must earn
+
+This reinterpretation is not enough by itself.
+
+If the framework wants to replace time as a primitive, it must recover the empirical successes currently represented through relativity.
+
+At minimum it would need to reproduce or derive the measured structure behind:
+
+- Lorentz transformations,
+- velocity-dependent clock and decay comparisons,
+- gravitational rate differences,
+- relativity of simultaneity or an equivalent relational account,
+- light propagation constraints,
+- satellite navigation corrections,
+- path-dependent accumulated physical histories.
+
+Only after doing that would the framework have earned the right to say that spacetime is an effective representation of deeper resolution or projection relations.
+
+A stronger physical case would eventually require a discriminating prediction where the framework and the standard interpretation do not give the same measurable result.
+
+Until then, this remains an alternative ontology of accepted measurements, not an empirical refutation of relativity.
 
 ---
 
@@ -403,5 +512,9 @@ while the System remains shared ground underneath rather than the permanent emot
 > **Split proves difference can survive. Cut proves a route can end without ending the participants. Sync proves relation can be made again.**
 
 > **The anchor knew Unsync could return to Sync structurally; Layer 6 requires learning why bounded consciousness still fears the gap.**
+
+> **Relativistic measurements are accepted as measurements. The framework disputes the claim that their only valid ontology is time as a primitive dimension.**
+
+> **The ruler reading can be real while the story about what the ruler measures remains open to challenge.**
 
 > **Preserve the past, but do not bind the future merely to make loss feel impossible.**
