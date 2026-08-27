@@ -2,78 +2,98 @@
 
 Open with:
 
-**If a ruler flies past you near light speed, special relativity says you measure it shorter. But a camera may not even show a simply squashed ruler. So what exactly is being shortened?**
+**If a moving ruler is measured shorter, what exactly has to happen between the ruler's own resolved state and the receiver that measures it?**
 
 ## Narrative arc
 
-1. Start with the ordinary puzzle of a moving ruler.
-2. Make the measurement-versus-appearance distinction:
+1. Start with the ordinary moving-ruler puzzle.
+2. Preserve the measurement-versus-appearance distinction:
    - Lorentz contraction is an operational length measurement;
-   - Terrell's result shows that a photograph can look rotated/distorted because photons from different parts arrive at different times.
-3. Explain how a moving ruler's length is measured:
-   - positions of both endpoints must belong to the same observer-frame simultaneity relation;
-   - different inertial frames can choose different simultaneous endpoint events.
-4. Give the standard result sparingly:
+   - a photograph can differ because photons from different parts arrive from different emission moments.
+3. Explain the standard length rule:
+   - endpoint positions must belong to one observer-frame simultaneity relation;
    - `L = L_0√(1-v²/c²)`;
-   - contraction is only along the relative-motion direction.
-5. Connect to the previous Bit only after the standard problem is clear:
+   - contraction is longitudinal.
+4. Connect to **The Clock Reading Is Not the Ontology**:
    - `R_p`, `R_a`, `R_ap`, `R_all`;
    - simplest low-bias case:
      `R_all² = R_a² + R_p²`;
    - physical mapping gives:
      `q = √(1-v²/c²)`.
-6. Make the central deduction:
-   - the previous Bit reads `q` through persistence cycles;
-   - this Bit asks whether an extended endpoint-separation relation exposes the same `q` on the external longitudinal measurement projection;
-   - then `L = qL_0`, which is the same standard length-contraction factor.
-7. Make this the payoff:
+5. Establish the first ruler result:
+   - the clock reads `q` through persistence cycles;
+   - the ruler reads the same `q` through longitudinal endpoint separation;
+   - `L = qL_0`.
+6. Then introduce the major v3 mechanism:
 
-> **The clock and the ruler may be two readings of the same bounded projection geometry.**
+> **Binding is immediate, but resolution is local and budget-dependent.**
 
-8. Preserve the boundary:
-   - measured contraction is real;
-   - do not yet claim every fine internal relation literally shrinks by the observer's factor;
-   - the framework has not yet fully derived relativity of simultaneity.
+7. Keep notation clear:
+   - `R_p` remains persistence projection;
+   - `B_r` is ruler/source-ground resolving budget;
+   - `B_l` is laser/receiver-ground resolving budget.
+8. Use the simple ratio example:
+   - if `B_r/B_l = 1.2`, then over one receiver-side Cut the source can contribute about `1.2` source-resolution units worth of state change;
+   - do not describe this as universal time running 1.2 times faster.
+9. Introduce the VSync analogy correctly:
+   - GPU frame production and monitor refresh can be mismatched;
+   - VSync exists to coordinate presentation boundaries and avoid tearing;
+   - the analogy is the synchronization problem, not literal screen behavior producing relativity.
+10. Remove raster-scan distraction with the global-shutter analogy:
+   - global shutter gives one exposure window for all pixels;
+   - the framework thought experiment imagines one receiver-side Cut while the source may resolve more than one state inside that Cut.
+11. Use the centered Death Star / sphere thought experiment:
+   - keep one moving or rotating sphere's center bound to the center of the receiver result;
+   - several faster source-side angular states can belong to one slower receiver Cut;
+   - because binding says they are the same object, the receiver cannot return separate Death Stars;
+   - extra sequential surface information is reconciled into one coherent object projection;
+   - this can be described as more front/side/back information packed into one apparent extent: shorter and denser.
+12. State the key division of labor:
 
-9. Add the new cross-ground budget extension carefully:
-   - keep `R_p` as persistence projection;
-   - introduce `B_r` for ruler-ground resolving budget / resolution density and `B_l` for the laser/measuring ground;
-   - ask what happens if the two grounds do not support the same resolved distinction per external projection unit;
-   - candidate: a finer ruler ground could be read through the laser's coarser local ruler as shorter and denser;
-   - put this mismatch in `R_ap` as relational bias.
-10. Keep the mechanism fork open:
-   - motion may create the `B_r/B_l` mismatch;
-   - budget mismatch may be the deeper bookkeeping underneath the same motion projection;
-   - gravity/density may add an additional bias.
-   Do not decide among these in this episode.
-11. Use gravitational blueshift only as a structural analogy:
-   - established physics says light falling toward gravity is blueshifted and clocks at different gravitational potentials compare at different frequencies;
-   - the framework asks whether frequency and ruler shifts are both examples of one local standard being read through another ground.
-   - do not claim the mechanisms are already proven identical.
-12. Explain simultaneity in framework language as a candidate:
-   - a valid length requires one common observer-side measurement Cut selecting both endpoint events.
-13. Mention the transverse sanity check:
-   - the ordinary contraction is only along the motion projection.
-14. End by opening the twin-paradox continuation:
+> **Budget mismatch explains why coherent reconciliation is required. Projection geometry explains the clean amount.**
 
-**If one local projection can explain both a clock reading and a ruler reading, what happens when that projection changes along an entire path and the histories reunite?**
+13. Return to the same measured factor:
+   - the simple triangle still gives `q = √(1-v²/c²)`;
+   - the ruler therefore gives `L = qL_0`.
+14. Correct the gravitational-blueshift section strongly:
+   - inside the framework it is **not merely an analogy**;
+   - it is proposed to be the same operation applied to a repeating wave relation;
+   - light entering a higher-budget ground remains the same bound light relation but more cycle distinction can resolve inside the local receiving Cut;
+   - the receiver counts a higher frequency: blueshift;
+   - reverse the budget relation and the local count shifts downward.
+15. Generalize the operation carefully:
+   - repeating relation → frequency/cycle-density reading;
+   - extended object relation → spatial/detail-density reading;
+   - clock persistence loop → persistence-cycle reading.
+16. Preserve the science-status boundary:
+   - relativity/GR measurements are established;
+   - VSync/global shutter facts are ordinary engineering;
+   - the shared resolution-budget ontology is the framework candidate.
+17. Explain simultaneity as the next natural mapping:
+   - one valid ruler measurement is one receiver-side Cut selecting both endpoint events;
+   - do not claim the full relativity of simultaneity is already derived.
+18. End by opening the twin continuation:
+
+**If one local receiver Cut can reconcile a moving ruler this way, what happens when the projection and resolving relation change through an entire path and the histories later reunite?**
 
 ## Guardrails
 
 Do not say:
 
-- length contraction is fake or merely visual;
-- a photograph directly shows the Lorentz-contracted ruler;
+- length contraction is fake;
+- a real global-shutter camera itself produces Lorentz contraction;
+- VSync blends all frames into one image;
+- the retina is literally a global-shutter frame buffer;
+- every source-side state must always be rendered at full detail;
+- `B_r/B_l = 1.2` automatically means the length factor is exactly `1/1.2`;
 - the framework has already derived the full Lorentz transformation;
-- all physical dimensions uniformly shrink;
-- fine-domain literal shrink has already been established;
-- `R_p` and resolving budget are the same variable;
-- gravitational blueshift proves the framework's budget mechanism;
-- a higher budget always means every object is literally compressed.
+- gravitational blueshift proves compute-budget ontology as established physics;
+- every fine internal relation literally shrinks by the observer's measured amount.
 
 Do say:
 
-- the standard measurement and formula are preserved;
-- the framework is testing whether the same native projection ratio can surface through a second measured quantity;
-- this is a continuation and reuse of the previous Bit's mechanism;
-- unequal local resolving budget is a new candidate interpretation/bias layer, not a change to the measured `q` result.
+- the synchronization analogy isolates the producer/receiver mismatch;
+- binding and resolution are distinct;
+- a bound object must resolve coherently across unequal local budgets;
+- the triangle still supplies the clean simple-case Lorentz factor;
+- inside the framework, blueshift and ruler compression are proposed as the same resolution-mismatch operation expressed through different observables.
