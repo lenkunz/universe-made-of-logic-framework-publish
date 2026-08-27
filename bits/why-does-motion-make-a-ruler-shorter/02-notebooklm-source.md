@@ -252,6 +252,252 @@ That keeps the framework's older ruler principle intact:
 ---
 
 
+# Before comparing budgets, close the anchors
+
+There is one more correction before the VSync picture is complete.
+
+The previous version wrote:
+
+`B_r`
+
+for the ruler/source budget and:
+
+`B_l`
+
+for the laser/receiver budget.
+
+That notation is useful, but only as shorthand.
+
+The framework is relational.
+
+So a budget cannot be treated as a little number owned by an object independent of what the object is seated with.
+
+The real rule is:
+
+> **A budget comparison must include every consequential anchor relation participating in the question.**
+
+---
+
+# Two different questions that look almost identical
+
+Ask:
+
+> **How does the ruler resolve relative to the laser?**
+
+If those are the only consequential systems in the question, the pair itself is enough.
+
+They close against each other.
+
+You can treat the pair as:
+
+`B_lr`
+
+or keep the two-sided relation explicit.
+
+Now change the question slightly:
+
+> **How do the ruler and laser resolve while both live in this ordinary anchored space?**
+
+Now the ambient anchor matters.
+
+Call it:
+
+`a`
+
+The relation is no longer merely:
+
+`r ↔ l`
+
+It is:
+
+`r ↔ l ↔ a`
+
+If `a` affects both sides identically enough at the grain of the measurement, its contribution is common-mode and can be coarse-grained away.
+
+Then writing:
+
+`B_r ↔ B_l`
+
+is harmless shorthand.
+
+But if the ruler and laser are differently seated relative to `a`, the anchor does not cancel.
+
+Now the comparison must keep that distinction.
+
+---
+
+# Seat two relations, then compare again
+
+Three relations do not have to remain one ugly three-dimensional picture.
+
+The framework already has a way out:
+
+> **once a relation is stable enough, it can participate as one.**
+
+So the problem:
+
+`r ↔ l ↔ a`
+
+can be grouped as:
+
+`r + l → B_lr`
+
+then:
+
+`B_lr ↔ B_a`
+
+Or:
+
+`l + a → B_la`
+
+then:
+
+`B_la ↔ B_r`
+
+Or:
+
+`r + a → B_ra`
+
+then:
+
+`B_ra ↔ B_l`
+
+The plus sign here is not ordinary arithmetic.
+
+Each composite means:
+
+> **these relations have seated strongly enough that the downstream comparison can treat them as one coarse unit without forgetting the distinction that still matters.**
+
+That is exactly the same coarse-graining logic used elsewhere in the framework.
+
+---
+
+# Grouping should not invent physics
+
+This gives a useful new consistency rule.
+
+If:
+
+`B_lr ↔ B_a`
+
+and:
+
+`B_la ↔ B_r`
+
+are merely two ways of organizing the same complete relational problem, they should resolve to the same final physical comparison.
+
+If they do not, then one of the groupings erased or changed something consequential.
+
+So:
+
+> **Different grouping orders are equivalent only when they preserve the same consequential relations.**
+
+This is not ordinary algebraic associativity.
+
+It is relational closure invariance.
+
+---
+
+# Now return to the ruler and the receiver Cut
+
+The VSync mechanism survives almost unchanged.
+
+The correction is what the budget symbols mean.
+
+Instead of:
+
+> ruler owns `B_r`, laser owns `B_l`
+
+use:
+
+> ruler and laser are each resolved through their relevant anchor-closed grounds.
+
+So the meaningful mismatch is between something like:
+
+`B_ra`
+
+and:
+
+`B_la`
+
+or whatever equivalent closed decomposition matches the question.
+
+If the anchor is common enough to both sides, we can shorten those names back to:
+
+`B_r`
+
+and:
+
+`B_l`
+
+without pretending the anchor vanished from reality.
+
+Now suppose the source-side closed ground resolves more consequential state during one receiver-side Cut.
+
+Then:
+
+`more source-side resolution`
+→ `same already-bound object`
+→ `one receiver-side Cut`
+→ `coherent reconciliation`
+→ `more relational information packed into one surfaced result`
+
+For an extended ruler, that can surface as greater spatial/detail density and a shorter longitudinal projection.
+
+The triangle still supplies the clean simple ratio.
+
+The closure rule tells us **which budgets are actually allowed to enter the comparison**.
+
+---
+
+# Why this matters for blueshift even more
+
+This makes the gravitational blueshift claim cleaner too.
+
+Do not describe the light as carrying a naked budget number from place to place.
+
+The same light relation is resolved first through one anchored closure and later through another.
+
+Schematically:
+
+`source-side anchor closure`
+→ `same bound light relation`
+→ `receiver-side anchor closure`
+
+If the receiver-side closure supports more cycle distinctions per local Cut, the measured frequency rises.
+
+So inside the framework the common operation remains:
+
+> **cross-ground resolution remapping of one bound relation.**
+
+But the “ground” now means:
+
+> **an anchor-closed relational state, not an isolated object with a private computational allowance.**
+
+That is the correction.
+
+---
+
+# A compact rule for future formulas
+
+Whenever a formula contains something like:
+
+`B_x ↔ B_y`
+
+ask first:
+
+> **Which anchors make `x` and `y` meaningful for this question?**
+
+Then:
+
+- if the anchor contribution is common and non-consequential, absorb it;
+- if it distinguishes the sides, keep it;
+- if several relations are awkward, seat a stable subset into a composite;
+- if two valid groupings give different results, inspect what relation one grouping lost.
+
+That rule now belongs to the framework more broadly than this ruler Bit.
+
+
 # The missing mechanism: binding and resolution do not have to finish together
 
 The previous version of this Bit said that the ruler ground and the measuring ground might have different resolving budgets.
@@ -268,8 +514,8 @@ And the laser does not need to become the ruler's local ground.
 
 So give the two grounds separate resolving budgets:
 
-- `B_r` = resolving budget / resolution density of the ruler or source ground;
-- `B_l` = resolving budget / resolution density of the laser or receiver ground.
+- `B_r` = shorthand for the ruler/source resolving budget after the relevant anchor closure is understood;
+- `B_l` = shorthand for the laser/receiver resolving budget after the relevant anchor closure is understood.
 
 Keep these separate from `R_p`, which still means the fine persistence projection from the previous Bit.
 

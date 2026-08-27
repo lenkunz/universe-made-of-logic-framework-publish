@@ -3,8 +3,8 @@
 Title: **Why Does Motion Make a Ruler Shorter?**  
 Slug: `why-does-motion-make-a-ruler-shorter`  
 Created: 2026-08-27  
-Revision: **v3 — unequal-resolution synchronization / binding clarification**
-Status: **Article ready; audio pending**  
+Revision: **v4 — anchor-closed budget comparison**
+Status: **Prepared; publication sync pending**  
 Preparation mode: Manual run reproducing the current scheduled **Bits Topic Pack** workflow with a forced topic.
 
 ## Central question
@@ -216,6 +216,66 @@ with different observables:
 This is a framework claim, not an established interpretation of general relativity.
 
 
+## Anchor-closure correction
+
+The v3 synchronization mechanism remains, but `B_r` and `B_l` must not be read as isolated intrinsic budgets.
+
+A budget comparison is complete only after the consequential anchors of the question have been included.
+
+### Pair-only question
+
+If the only consequential question is:
+
+> ruler relative to laser
+
+then the pair can close against itself.
+
+Use a pair composite such as:
+
+`B_lr`
+
+or keep the ruler/laser relation explicit.
+
+### Ambient-ground question
+
+If the question is:
+
+> ruler and laser while both live in ordinary anchored space `a`
+
+then `a` is part of the comparison unless its contribution is common enough to coarse-grain away.
+
+Useful equivalent decompositions can include:
+
+`B_lr ↔ B_a`
+
+or:
+
+`B_la ↔ B_r`
+
+or:
+
+`B_ra ↔ B_l`
+
+provided every consequential relation is preserved.
+
+A common anchor may disappear from shorthand only when it creates no distinction between the two sides at the chosen grain.
+
+So the v3 notation:
+
+`B_r / B_l`
+
+should now be read as shorthand for the relevant **anchor-closed** source and receiver budgets.
+
+The synchronization mechanism becomes:
+
+`unequal anchor-closed resolving support`
+→ `different source resolution per receiver Cut`
+→ `one bound coherent reconciliation`
+→ `surfaced length/detail/frequency difference`
+
+This is a framework-wide correction, not a ruler-only patch.
+
+
 ## Standard-science boundary
 
 Established special-relativistic result:
@@ -270,8 +330,6 @@ This Bit is specifically about **special-relativistic inertial length measuremen
 - `bits/why-does-motion-make-a-ruler-shorter/02-notebooklm-source.md`
 - `bits/why-does-motion-make-a-ruler-shorter/03-notebooklm-audio-prompt.md`
 - `bits/why-does-motion-make-a-ruler-shorter/04-work-prompt.md`
-- `bits/why-does-motion-make-a-ruler-shorter/article/why-does-motion-make-a-ruler-shorter.md`
-- `bits/why-does-motion-make-a-ruler-shorter/image/why-does-motion-make-a-ruler-shorter.png`
 
 ## Publication sync status
 

@@ -1,63 +1,44 @@
-# Update Note — V3 Resolution Synchronization Mechanism
+# Update Note — V4 Anchor-Closed Budget Comparison
 
-This is a substantial semantic update to **Why Does Motion Make a Ruler Shorter?**
+V4 preserves the v3 resolution-synchronization mechanism and corrects what `B_r` and `B_l` mean.
 
-## What changed
+## New framework-wide rule
 
-The prior revision said unequal local resolving budgets could bias the cross-ground measurement.
+> **Before comparing budgets, close the anchors.**
 
-V3 makes the proposed mechanism explicit:
+A bare `B_x` is shorthand for a budget whose consequential anchor relations are already included, absorbed, or known to be common-mode.
 
-> **Binding can remain immediate/continuous while source and receiver resolution remain local and unequal.**
+If ambient anchor `a` matters, use explicit closures such as:
 
-If `B_r/B_l = 1.2`, one receiver-side Cut can contain 1.2 source-resolution worth of state change.
+- `B_ra`
+- `B_la`
+- `B_lr ↔ B_a`
 
-Because those source states belong to one already-bound object, the receiver does not get multiple objects. The framework candidate requires one coherent projection.
+or another equivalent decomposition that preserves the same consequential relations.
 
-For an extended object:
+## Common-anchor cancellation
 
-`more source resolutions per receiver Cut`
-→ `more state/detail belonging to one bound object`
-→ `more information seated into one receiver spatial Cut`
-→ `denser / contracted external projection`
+A common anchor may disappear from the explicit formula only when it creates no consequential distinction at the chosen grain.
 
-## VSync role
+## Closure invariance
 
-VSync is used to expose the producer/receiver cadence mismatch.
+Different grouping orders should resolve to the same result only when they preserve the same consequential relations.
 
-The universe is not claimed to literally run a display protocol.
+If grouping changes the result, inspect what relation was lost or changed.
 
-Ordinary computers can drop, repeat, buffer, interpolate, or tear.
+## Ruler mechanism after correction
 
-The framework candidate instead preserves binding and consequential resolution through coherent projection.
+`unequal anchor-closed source/receiver support`
+→ `different source resolution per receiver Cut`
+→ `binding keeps one coherent relation`
+→ `projection reconciles the mismatch`
+→ `length/detail/frequency reading`
 
-## Relation to the Lorentz factor
+The v3 distinction remains:
 
-Do not set:
-
-`q = B_l/B_r`
-
-without a later derivation.
-
-The existing triangle remains responsible for:
-
-`q = √(1-v²/c²)`
-
-Budget mismatch explains **why reconciliation is needed**.
-
-Projection geometry explains the clean simple **amount**.
-
-## Blueshift
-
-Within the framework, gravitational blueshift and ruler contraction are now stated as the same class of operation:
-
-> **cross-ground resolution remapping of one bound relation.**
-
-- periodic relation → more cycle distinctions → frequency shift;
-- extended relation → more state/detail per spatial Cut → density/length shift.
-
-This is a framework ontology candidate, not the established GR explanation.
+- budget mismatch explains why reconciliation is required;
+- projection geometry explains the clean simple contraction amount.
 
 Suggested commit message:
 
-`Rebuild ruler Bit around resolution synchronization`
+`Add anchor-closure rule and update ruler Bit`

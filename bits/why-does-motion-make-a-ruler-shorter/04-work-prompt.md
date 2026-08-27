@@ -89,6 +89,50 @@ Never use `R_p` to mean local resolving budget.
 
 ---
 
+# V4 semantic correction — anchor closure
+
+Before building the VSync explanation, correct the budget ontology.
+
+Do not present:
+
+`B_r`
+
+and:
+
+`B_l`
+
+as isolated intrinsic budgets owned by ruler and laser.
+
+Use the new framework source:
+
+`source/changes/2026-08-27-anchor-closure-and-relational-budget-comparison.md`
+
+Core rule:
+
+> **A budget comparison must include every consequential anchor relation participating in the question.**
+
+Explain briefly:
+
+- if the question is only ruler versus laser, the pair can close against itself;
+- if ordinary ambient anchor `a` is consequential, include it;
+- if the anchor contributes identically enough to both sides, it can be coarse-grained away;
+- otherwise compare anchor-closed composites such as `B_ra` and `B_la`, or an equivalent grouping such as `B_lr ↔ B_a`;
+- stable relations may seat into composites;
+- grouping order is only bookkeeping when the same consequential relations are preserved.
+
+Use this public sentence:
+
+> **Before comparing budgets, close the anchors.**
+
+Then the VSync mechanism becomes:
+
+> **differently anchor-closed grounds can resolve at unequal local cadences while remaining immediately bound.**
+
+Do not over-formalize this section.
+
+The main article remains about ruler contraction, not budget algebra.
+
+
 # VSync / receiver-Cut mechanism
 
 Use the VSync analogy precisely.

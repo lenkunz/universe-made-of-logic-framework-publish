@@ -53,6 +53,36 @@ Use only for the broader simple-law / many-bias boundary. It is not needed for t
 ---
 
 
+# V4 framework source — anchor closure
+
+Primary new framework source:
+
+`source/changes/2026-08-27-anchor-closure-and-relational-budget-comparison.md`
+
+Use it as semantic authority for all budget notation in this Bit.
+
+Required corrections:
+
+- `B_r` and `B_l` are not context-free intrinsic quantities;
+- before comparison, include every consequential anchor relation for the question;
+- when only ruler and laser matter, they may close against each other as a pair;
+- when ambient ground `a` is consequential, use anchor-closed composites such as `B_ra`, `B_la`, or an equivalent grouping such as `B_lr ↔ B_a`;
+- a common anchor may be coarse-grained away only when it creates no consequential distinction at the chosen grain;
+- valid grouping order must not change the result if the same consequential relations are preserved.
+
+Interpret the v3 synchronization rule as:
+
+> **different anchor-closed grounds can resolve at unequal local cadences while remaining immediately bound.**
+
+Do not write:
+
+`B_r/B_l`
+
+as though each symbol were an isolated object-owned budget.
+
+When shorthand is useful, state once that the relevant closure has already been absorbed.
+
+
 # V3 framework-native mechanism to preserve
 
 ## 1. Keep persistence projection and budget distinct

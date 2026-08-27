@@ -6,6 +6,25 @@ Open with:
 
 ## Narrative arc
 
+## V4 anchor-closure correction
+
+Before the VSync mechanism, add a short clarification:
+
+- `B_r` and `B_l` are shorthand, not context-free intrinsic budgets;
+- if only ruler and laser are consequential, they can close against each other;
+- if ambient anchor `a` is part of the question, include it unless its contribution is common-mode;
+- use examples such as `B_lr ↔ B_a`, `B_la ↔ B_r`, or `B_ra ↔ B_l`;
+- different grouping orders are equivalent only if they preserve the same consequential relations.
+
+Give the audience the simple rule:
+
+> **Before comparing budgets, close the anchors.**
+
+Then continue with the VSync mechanism using “anchor-closed source ground” and “anchor-closed receiver ground.”
+
+Do not turn this into a long algebra section.
+
+
 1. Start with ordinary length contraction:
    - moving ruler;
    - operational measurement, not merely photographic appearance;
