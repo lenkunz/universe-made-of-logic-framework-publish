@@ -3,8 +3,8 @@
 Title: **Why Does Motion Make a Ruler Shorter?**  
 Slug: `why-does-motion-make-a-ruler-shorter`  
 Created: 2026-08-27  
-Updated: 2026-08-27  
-Status: **Article ready; audio pending**  
+Revision: **v2 — cross-ground resolving-budget bias extension**  
+Status: **Prepared; publication sync pending**  
 Preparation mode: Manual run reproducing the current scheduled **Bits Topic Pack** workflow with a forced topic.
 
 ## Central question
@@ -12,8 +12,6 @@ Preparation mode: Manual run reproducing the current scheduled **Bits Topic Pack
 Special relativity says a ruler moving along its own length is measured shorter by the same factor that appears in relativistic clock-rate comparisons.
 
 Is that a second independent rule, or can the framework read both effects as two surfaced measurements of the same bounded projection geometry?
-
-And what changes if the ruler's local persistence ground and the measuring laser/observer ground do not carry the same effective resolving capacity?
 
 ## Central payoff
 
@@ -41,8 +39,6 @@ This Bit asks whether an extended persistent separation carried by the same doma
 
 which is the standard longitudinal length-contraction factor.
 
-The clean `q` result is explicitly the **simple low-bias / no-extra-budget-mismatch case**. A difference in effective resolving capacity between the measured ruler ground and measuring laser/observer ground is a further bias carried through `R_ap`, not part of the clean right-triangle baseline.
-
 ## Framework status
 
 ### Inherited current deduction candidate
@@ -51,10 +47,7 @@ The clean `q` result is explicitly the **simple low-bias / no-extra-budget-misma
 - a clock is a selected repeating persistence loop;
 - `R_a`, `R_p`, and `R_ap` can seat into one coarse `R_all`;
 - in the simplest low-bias two-projection case, `R_a` and `R_p` can be represented orthogonally;
-- under the physical correspondence `R_all ↔ c`, `R_a ↔ v`, the persistence ratio approaches the standard inverse-Lorentz factor;
-- budget is relational iteration capacity rather than universal time;
-- equal primitive participation does not require equal effective resolving capacity;
-- contribution and spend across an anchor relation need not be symmetric.
+- under the physical correspondence `R_all ↔ c`, `R_a ↔ v`, the persistence ratio approaches the standard inverse-Lorentz factor.
 
 ### New deduction candidate in this Bit
 
@@ -63,20 +56,47 @@ The clean `q` result is explicitly the **simple low-bias / no-extra-budget-misma
 - therefore the same framework geometry approaches the standard longitudinal length-contraction factor;
 - observer-frame simultaneity can be provisionally reread as selecting one common observer-side measurement Cut through the moving extended relation.
 
-### New biased cross-ground candidate
 
-The simple inertial result isolates the motion projection. It should not silently assume that every comparison ground carries identical effective resolving capacity.
+### New cross-ground budget candidate
 
-For local bookkeeping, distinguish the ruler-side persistence support from the measuring-laser/observer-side persistence support, for example:
+The simple ruler result remains:
 
-- `R_p,r` = ruler-side local persistence support;
-- `R_p,l` = laser/measurement-ground local persistence support.
+`L = qL_0`
 
-These are not new primitives. They mark the same persistence role seated in two different grounds.
+with:
 
-If `R_p,r` and `R_p,l` carry different effective resolving work per primitive iteration, `R_ap` gains an additional comparison bias. A measuring ground with a coarser local resolving scale may read the same ruler-side relational content as occupying a smaller measured interval, which also makes that content appear denser per measured interval.
+`q = √(1-v²/c²)`
 
-Structurally, this resembles the framework's candidate reading of gravitational redshift/blueshift: one local persistence standard is being compared through another ground's local ruler/clock. This is only a **shared structural analogy / physical-mapping candidate**, not a derived statement that inertial length contraction and gravitational blueshift are the same physical mechanism.
+But the new deduction adds a possible physical meaning underneath that projection.
+
+Use separate symbols for local resolving support so `R_p` does not do two jobs:
+
+- `B_r` = local resolving budget / resolution density of the ruler's ground;
+- `B_l` = local resolving budget / resolution density of the laser or measuring ground.
+
+If `B_r` and `B_l` are not equivalent for the cross-ground comparison, `R_ap` carries that mismatch as additional relational bias.
+
+Candidate interpretation:
+
+> **The measuring ground reads the ruler's persistent distinctions through its own local ruler. If the ruler's ground supports more resolved distinction per external projection unit, the same internal relational content may surface to the laser as a shorter and denser measured interval.**
+
+Important open fork:
+
+- motion itself may be what produces the relative `B_r/B_l` mismatch;
+- or the simple motion projection may be the surfaced geometry while budget-density mismatch is a deeper description of the same relation;
+- or an additional gravitational/density bias may alter the simple motion case.
+
+Do not choose among these yet.
+
+### Structural analogy to gravitational frequency shift
+
+Established general relativity predicts gravitational frequency shifts: light falling toward a gravitating source is blueshifted, and clocks at different gravitational potentials compare at different rates.
+
+The framework candidate is only a structural analogy:
+
+> **frequency, clock, and ruler measurements may all expose how one local persistence standard is read through another ground's ruler.**
+
+Do not say special-relativistic length contraction and gravitational blueshift are already proven to be the same physical mechanism.
 
 ### Important boundary
 
@@ -90,13 +110,7 @@ into:
 
 without a separate fine-domain mapping.
 
-Also do not fold unequal resolving-budget bias into the clean Lorentz factor without deriving that mapping.
-
-The current clean result remains:
-
-> **simple inertial projection, with no additional consequential cross-ground budget bias, approaches the standard longitudinal contraction factor.**
-
-The unequal-budget case is the next biased extension.
+The present Bit only needs the measured projection result. The new budget-density reading is an additional candidate interpretation of the cross-ground bias, not a replacement for the clean `q` result.
 
 ## Standard-science boundary
 
@@ -110,8 +124,6 @@ Length measurement requires endpoint positions assigned to the same observer-fra
 
 A photograph is not automatically such a measurement; finite light-travel-time effects can make a rapidly moving object look rotated rather than simply Lorentz-contracted.
 
-The resolving-budget extension is a framework candidate and should not be presented as an established modification of special relativity.
-
 ## Closest overlap
 
 ### Direct predecessor
@@ -124,13 +136,13 @@ That Bit owns:
 
 This Bit owns:
 
-> the second surfaced measurement: longitudinal ruler length, plus the boundary between the clean inertial projection and an additional cross-ground resolving-budget bias.
+> the second surfaced measurement: longitudinal ruler length.
 
 ### Nearby older ruler/cosmology family
 
 Existing Bits about shrinking rulers / cosmological scale comparison remain nearby in vocabulary, but they own remote cosmological comparison and redshift territory.
 
-This Bit is specifically about **special-relativistic inertial length measurement and simultaneity**, while only opening the resolving-budget/gravity analogy as a future biased mapping.
+This Bit is specifically about **special-relativistic inertial length measurement and simultaneity**.
 
 ## Package paths
 
@@ -139,9 +151,11 @@ This Bit is specifically about **special-relativistic inertial length measuremen
 - `bits/why-does-motion-make-a-ruler-shorter/02-notebooklm-source.md`
 - `bits/why-does-motion-make-a-ruler-shorter/03-notebooklm-audio-prompt.md`
 - `bits/why-does-motion-make-a-ruler-shorter/04-work-prompt.md`
-- `bits/why-does-motion-make-a-ruler-shorter/article/why-does-motion-make-a-ruler-shorter.md`
-- `bits/why-does-motion-make-a-ruler-shorter/image/why-does-motion-make-a-ruler-shorter.png`
 
 ## Publication sync status
 
-The repository RSS snapshot was checked during the Work build. The exact title was absent, so the Bit is not yet published. The article and hero image are ready; the audio overview remains pending.
+The preferred live Bits RSS could not be retrieved in this run, and the GitHub connector became unavailable before the repository RSS snapshot/checklist could be read.
+
+No publication state was guessed and no existing status was changed.
+
+A second sync remains required when either the live feed or repository snapshot is accessible.

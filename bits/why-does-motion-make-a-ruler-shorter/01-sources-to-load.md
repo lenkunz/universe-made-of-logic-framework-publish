@@ -28,24 +28,6 @@ Do not broaden the right-triangle case into a universal law.
 
 Use for exact inherited status and the v3 scope correction.
 
-### `source/changes/relation-origin-and-composed-budget.md`
-
-This source is now important for the new ruler/laser resolving-budget boundary.
-
-Preserve these canonical corrections:
-
-- budget is **relational iteration capacity**, not universal time;
-- equal primitive participation does not imply equal effective resolving capacity;
-- once relation seats, more relational work can be carried per primitive iteration without accelerating a universal cadence;
-- anchoring is relational and size-independent;
-- contribution and spend across an anchor relation need not be symmetric;
-- the gravity implication remains Candidate Correspondence rather than a derived gravitational equation.
-
-This supports the new distinction between:
-
-- the clean simple inertial projection case; and
-- an additional cross-ground bias when ruler-side and measuring-laser/observer-side persistence grounds carry different effective resolving capacities.
-
 ### `source/where-the-framework-stands.md`
 
 Use current maintained framework ground when available, especially:
@@ -70,48 +52,40 @@ Use only for the broader simple-law / many-bias boundary. It is not needed for t
 
 ---
 
-# New resolving-budget notation for this Bit
 
-The existing `R_p` notation describes a persistence role inside the simple projection geometry.
+## New framework update — unequal local resolving budgets
 
-For the new cross-ground comparison only, local subscripts may be used as bookkeeping:
+Preserve a separate notation for local resolving support:
 
-- `R_p,r` = ruler-side local persistence support;
-- `R_p,l` = laser/measurement-ground local persistence support.
+- `B_r` = ruler-ground resolving budget / resolution density;
+- `B_l` = laser/measuring-ground resolving budget / resolution density.
 
-These are **not new primitives** and should not replace the previous Bit's `R_p` definition.
+Do not rename either of these to `R_p`.
 
-They only make one question explicit:
+`R_p` remains the fine persistence projection from the previous Bit.
 
-> What if the measured ruler and the measuring ground do not carry the same effective resolving work per primitive iteration?
+New candidate:
 
-The clean Lorentz-like ruler result should be presented first as the low-bias / no-extra-budget-mismatch baseline.
+> **A cross-ground ruler measurement may depend not only on the clean anchor-relative projection but also on how much resolved distinction the ruler's ground supports relative to the measuring ground.**
 
-If `R_p,r` and `R_p,l` differ consequentially, that mismatch belongs in `R_ap` as an additional relation/bias. The simple right-angle geometry is then no longer guaranteed to be the whole comparison.
+If `B_r > B_l` in the relevant comparison, the same internal ruler relation may surface through the laser's coarser local projection as a smaller measured interval and therefore a denser external reading.
 
-Candidate qualitative reading:
+`R_ap` is the correct place to carry this mismatch/bias because it is the consequential relation between the two grounds.
 
-`ruler ground carries more fine distinction per local projection`
-→ `laser compares through a coarser local ruler`
-→ `same ruler-side relation occupies a smaller measured interval`
-→ `same relation is read as denser per measured interval`
+Do not yet decide whether:
 
-Treat this as a framework physical-mapping candidate, not established special relativity.
+1. motion itself creates the `B_r/B_l` mismatch;
+2. the budget mismatch is the deeper meaning of the same motion projection;
+3. gravity/density adds a separate bias on top of the inertial projection.
 
-## Gravity / blueshift analogy
+That is a later deduction.
 
-The useful analogy is structural:
+The simple inertial result remains valid as the clean case:
 
-- ruler length comparison asks how one persistent separation is read through another ground's local ruler;
-- gravitational redshift/blueshift asks how a wave/frequency relation is read through another ground's local clock/persistence standard.
+`L = L_0√(1-v²/c²)`
 
-Both may belong to a broader family of **cross-ground persistence comparisons**.
+The new material explains a possible deeper cross-ground interpretation rather than changing the measured formula.
 
-Do not say inertial length contraction and gravitational blueshift are already derived as one mechanism.
-
-The gravity route remains candidate correspondence.
-
----
 
 # External research
 
@@ -183,9 +157,36 @@ This is a strong opening hook because it prevents the public article from confus
 
 ---
 
+
+## Einstein Online — Gravitational redshift
+
+https://www.einstein-online.info/en/explandict/redshift-gravitational/
+
+Use only for the established comparison point:
+
+- in general relativity, light moving away from a gravitating source is redshifted;
+- light falling toward it is blueshifted;
+- gravitational frequency shift is related to gravitational clock-rate differences.
+
+This supports the **ordinary-physics side of the analogy only**.
+
+It does not establish the framework's resolving-budget explanation.
+
+## NIST — JILA Atomic Clocks Measure Einstein's General Relativity at Millimeter Scale
+
+https://www.nist.gov/news-events/news/2022/02/jila-atomic-clocks-measure-einsteins-general-relativity-millimeter-scale
+
+Use for:
+
+- experimentally measured gravitational clock-frequency differences between clocks at different elevations;
+- the fact that local frequency standards compare differently across gravitational potential.
+
+Again, this is empirical context, not evidence that “compute budget” is the established mechanism.
+
+
 # Research discipline
 
-Keep five layers distinct.
+Keep four layers distinct.
 
 ## 1. Established standard result
 
@@ -201,24 +202,22 @@ The simple bounded projection case already approaches the same complementary fac
 
 `q = √(1-v²/c²)`.
 
-## 3. New simple ruler candidate
+## 3. New framework candidate
 
 An extended persistent separation carried by the same domain may expose that same `q` when measured along the anchor-relative direction.
 
-This is the clean low-bias / no-extra-budget-mismatch baseline.
+## 4. New cross-ground budget candidate
 
-## 4. New biased cross-ground candidate
-
-If ruler-side and measuring-ground persistence supports carry different effective resolving capacities, the mismatch adds bias through `R_ap` and may change the cross-ground length/density reading beyond the simple baseline.
-
-The gravity/blueshift comparison is a structural analogy only.
+- local ruler and laser grounds may differ in resolving budget / resolution density;
+- that mismatch may be carried as bias through `R_ap`;
+- a higher-resolution ruler ground could surface to a coarser measuring ground as shorter and denser;
+- gravitational frequency shift is only a structural analogy for cross-ground ruler mismatch, not proof of a common mechanism.
 
 ## 5. Not yet earned
 
+- whether motion itself creates, exposes, or is identical to the proposed `B_r/B_l` mismatch;
 - literal fine-domain physical shrink versus external measurement projection;
 - complete framework-native derivation of relativity of simultaneity;
-- a quantitative law for unequal resolving-budget bias;
-- derivation of gravitational redshift/blueshift from the same mapping;
 - accelerated, rotating, stressed, gravitational, or many-bias cases.
 
-Do not present the speculative framework mappings as established physics.
+Do not present the speculative framework mapping as established physics.
