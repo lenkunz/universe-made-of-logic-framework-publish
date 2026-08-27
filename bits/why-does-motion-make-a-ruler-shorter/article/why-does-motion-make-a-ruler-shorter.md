@@ -12,11 +12,11 @@ Special relativity says you measure it shorter along its direction of motion.
 
 The easy picture is almost too easy:
 
-the ruler moves fast  
-→ the ruler gets squashed  
-→ you take a photograph of the shorter ruler
+ruler moves fast  
+→ ruler gets squashed  
+→ photograph the shorter ruler
 
-But the photograph does not have to show a neatly compressed stick.
+But a photograph does not have to show a neatly compressed stick.
 
 Light from the ruler's front and back does not begin its trip to the camera at the same moment. By the time those signals arrive together, the ruler has continued moving. James Terrell's 1959 paper, [*Invisibility of the Lorentz Contraction*](https://journals.aps.org/pr/abstract/10.1103/PhysRev.116.1041), showed why a rapidly moving object can photograph as rotated or distorted rather than as a simple longitudinal squash.
 
@@ -181,6 +181,120 @@ It cannot step outside its own ground and compare that ground against an untouch
 
 Whether the external projection also corresponds to literal fine-domain physical re-seating is a separate mapping. This Bit does not assume the answer.
 
+## What if the ruler and the laser do not carry the same resolving budget?
+
+The clean square-root result above is deliberately the simple case.
+
+It isolates the motion projection.
+
+But the framework's budget rule is more general than that simple picture.
+
+Budget is not a universal supply of time ticks. It is relational iteration capacity: how much seated relational work a domain can carry when it participates in the relation being resolved.
+
+That means equal primitive participation does not require equal **effective resolving capacity**.
+
+Two grounds can participate under the same basic rule while one already carries more compressed relational structure through each local participation.
+
+So, for this cross-ground comparison only, use a little local bookkeeping:
+
+- `R_p,r` for the ruler-side local persistence support;
+- `R_p,l` for the laser or measurement-ground local persistence support.
+
+These are not new primitives. They are the same persistence role viewed in two different local grounds.
+
+Now ask a new question:
+
+> **What if `R_p,r` and `R_p,l` are not effectively equal?**
+
+Suppose the ruler-side ground carries more fine relational distinction per local resolving participation than the laser-side ground.
+
+Nothing has to look strange from inside the ruler.
+
+Its atoms, endpoint relation, local ruler, and local processes are all co-seated with that local ground.
+
+But the laser measures through **its own** local ruler.
+
+So the cross-ground question becomes:
+
+> **How much ruler-side relational content fits into one measurement interval of the laser-side ground?**
+
+If the ruler-side relation carries more fine distinction per local projection, a coarser measuring ground could read the same relational content as occupying a smaller interval.
+
+Schematically:
+
+`more ruler-side effective resolving capacity`  
+→ `comparison through a coarser measuring ruler`  
+→ `same ruler relation fits into less measured length`  
+→ `shorter + denser external reading`
+
+This is a **candidate framework reading**, not an additional established law of special relativity.
+
+The important point is structural.
+
+The clean right triangle assumed no additional consequential mismatch between the two local persistence grounds.
+
+Once such a mismatch matters, the comparison has gained another bias.
+
+That bias belongs in `R_ap`.
+
+So:
+
+`motion projection only`  
++ `no extra consequential ground mismatch`  
+→ clean right-triangle baseline  
+→ `q = √(1-v²/c²)`
+
+while:
+
+`motion projection`  
++ `different effective resolving capacities`  
+→ extra `R_ap` bias  
+→ richer cross-ground geometry
+
+The unequal-budget case does not break the simple result.
+
+It tells us where the simple result stops.
+
+## Why that sounds a little like gravitational blueshift
+
+There is a useful analogy here, but only an analogy for now.
+
+A frequency comparison in gravity is not made by an observer who stands outside every local clock standard.
+
+A signal is emitted from one ground and later counted by a receiver using the receiver's own local clock.
+
+The framework can therefore put two questions beside one another.
+
+For length:
+
+`ruler-side persistent separation`  
+→ `cross-ground relation`  
+→ `laser-side local ruler`  
+→ measured length or density
+
+For frequency:
+
+`source-side repeating relation`  
+→ `cross-ground relation`  
+→ `receiver-side local clock`  
+→ measured frequency
+
+That suggests a broader candidate family:
+
+> **Cross-ground measurements may expose differences in local resolving support through whichever stable ruler is doing the comparison.**
+
+That ruler may be cycle count, spatial separation, density, or something else.
+
+But the status matters.
+
+This Bit does **not** claim that inertial length contraction and gravitational redshift or blueshift have already been derived as the same physical mechanism.
+
+Gravity is still a separate physical-mapping problem.
+
+The useful discovery is narrower:
+
+> **once the two grounds carry unequal effective resolving support, the same measurement architecture naturally has somewhere to put that additional bias.**
+
 ## Simultaneity as a measurement Cut
 
 The standard measurement rule now has a natural framework location.
@@ -203,17 +317,15 @@ But *resembles* is the correct status.
 
 The framework has not yet derived the full relativity of simultaneity from its primitives. It has found a promising place for the operational rule:
 
-`extended persistent endpoint relation`
-
-→ `one observer-side measurement Cut`
-
+`extended persistent endpoint relation`  
+→ `one observer-side measurement Cut`  
 → `one measured longitudinal cross-section`
 
 That is a candidate mapping, not completed ground.
 
 ## The transverse check
 
-The direction of the effect gives a useful test.
+The direction of the clean inertial effect gives a useful test.
 
 The anchor-relative projection occupies the direction of relative motion.
 
@@ -221,15 +333,15 @@ A ruler component measured along that same projection participates in the trade 
 
 A separation perpendicular to the motion does not lie on that same projection.
 
-So this simple mechanism does not predict that the entire ruler becomes uniformly smaller in every direction.
+So the simple mechanism does not predict that the entire ruler becomes uniformly smaller in every direction.
 
 It predicts a longitudinal measurement effect tied to the relative projection.
 
 That matches the standard directional result: the ordinary length-contraction factor applies parallel to motion, while transverse dimensions remain unchanged.
 
-This is not yet a full Lorentz transformation.
+The new unequal-budget branch should not be forced into that same directional rule yet.
 
-But it is the right kind of second hit.
+Once extra bias becomes consequential, its geometry has to be derived rather than assumed.
 
 ## Measurement is not a photograph
 
@@ -247,7 +359,7 @@ Those questions construct different relations.
 
 Finite light-travel time can reshape the photographic appearance even while the operational length measurement still gives the Lorentz-contracted result.
 
-The framework's candidate therefore attaches to the measured endpoint relation—not to a naive picture of a physically crushed ruler.
+The framework's candidate therefore attaches to the measured endpoint relation, not to a naive picture of a physically crushed ruler.
 
 > **A measurement is already a relation made under specific rules.**
 
@@ -265,21 +377,25 @@ The clock Bit found:
 
 as the available fine-persistence projection.
 
-This Bit finds the same `q` as the available longitudinal endpoint-separation projection:
+This Bit finds the same clean `q` as the available longitudinal endpoint-separation projection:
 
 `L = qL_0`
 
+And the resolving-budget clarification tells us something equally useful:
+
+> **The clean formula is the no-extra-budget-mismatch baseline. Different local resolving capacities add another relation rather than invalidating the baseline.**
+
 That does not prove the framework's ontology.
 
-It does change the next question.
+It does give the next questions a cleaner order.
 
-Instead of asking whether the framework can imitate one more formula, we can ask:
+First, test the simple projection wherever the simple assumptions apply.
 
-> **How many apparently separate relativistic readings are different measurements of the same bounded relation?**
+Then ask what new geometry appears when `R_ap` carries additional bias.
 
 The scope remains narrow.
 
-This result covers the simple inertial, low-bias case. It does not yet settle accelerated systems, rotation, material stress, strong gravity, many biased anchors, arbitrary extended domains, or literal fine-domain shrink.
+This Bit does not yet settle a quantitative unequal-budget law, literal fine-domain shrink, acceleration, rotation, material stress, strong gravity, many biased anchors, or arbitrary extended domains.
 
 Those add relations that the simple right triangle may not carry by itself.
 
@@ -305,5 +421,4 @@ That question belongs to the next Bit:
 
 The ruler does not need to carry that whole story.
 
-It has already given us the second reading.
-
+It has already given us the second reading, and now it has shown where the first extra bias can enter.
