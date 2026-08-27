@@ -4,7 +4,7 @@ Title: **Why Does Motion Make a Ruler Shorter?**
 Slug: `why-does-motion-make-a-ruler-shorter`  
 Created: 2026-08-27  
 Revision: **v2 — cross-ground resolving-budget bias extension**  
-Status: **Prepared; publication sync pending**  
+Status: **Article ready; audio pending**  
 Preparation mode: Manual run reproducing the current scheduled **Bits Topic Pack** workflow with a forced topic.
 
 ## Central question
@@ -151,11 +151,13 @@ This Bit is specifically about **special-relativistic inertial length measuremen
 - `bits/why-does-motion-make-a-ruler-shorter/02-notebooklm-source.md`
 - `bits/why-does-motion-make-a-ruler-shorter/03-notebooklm-audio-prompt.md`
 - `bits/why-does-motion-make-a-ruler-shorter/04-work-prompt.md`
+- `bits/why-does-motion-make-a-ruler-shorter/article/why-does-motion-make-a-ruler-shorter.md`
+- `bits/why-does-motion-make-a-ruler-shorter/image/why-does-motion-make-a-ruler-shorter.png`
 
 ## Publication sync status
 
-The preferred live Bits RSS could not be retrieved in this run, and the GitHub connector became unavailable before the repository RSS snapshot/checklist could be read.
+The rebuilt article and editorial image are ready in the package. The audio overview is still being regenerated.
 
-No publication state was guessed and no existing status was changed.
+The preferred live Bits RSS could not be retrieved during this build. The committed publication checklist does not list this exact title as published, so no publication state was guessed.
 
-A second sync remains required when either the live feed or repository snapshot is accessible.
+A second publication sync remains required after the audio and Substack post are ready.
