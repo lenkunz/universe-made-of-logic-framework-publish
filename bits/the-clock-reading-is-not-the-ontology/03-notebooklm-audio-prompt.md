@@ -2,7 +2,7 @@
 
 Open with:
 
-**Two clocks disagree exactly as relativity predicts. What if the interesting question is not whether the reading is wrong, but what relational structure forces that ratio?**
+**What if the surprising part is not that relativity has a formula, but that a different ontology can approach the same formula from its simplest geometry?**
 
 ## Narrative arc
 
@@ -15,10 +15,11 @@ Open with:
    - the anchor relation also carries persistence, `R_a`;
    - their seated relation is `R_ap`;
    - once the composite can participate as one, call it `R_all`.
-4. Explain the new deduction slowly and visually:
+4. Explain the **simplest low-bias case** slowly and visually:
    - `R_a` and `R_p` are independently consequential one-dimensional projections;
    - resolving one does not resolve the other;
-   - at that measuring grain they therefore occupy independent axes;
+   - `R_ap` carries no extra consequential bias between them at that grain;
+   - they can therefore be represented orthogonally;
    - the composite relation satisfies `R_all² = R_a² + R_p²`.
 5. Explain the bounded-resolution consequence:
    - both projections cannot independently claim the full bounded `R_all`;
@@ -29,11 +30,16 @@ Open with:
    - `R_a ↔ v`;
    - therefore `R_p/R_all = √(1-v²/c²)`.
 7. Point out that this is the familiar inverse-Lorentz rate factor, but do not claim the whole Lorentz transformation has been derived.
-8. Emphasize the deeper reusable insight:
+8. Make the same-formula result the centerpiece:
 
-> **Some formulas may be projection records of relational topology rather than primitives the ontology must import.**
+> **The framework did not import the rate formula as an axiom. Its simplest low-bias persistence/projection geometry approaches the same measured relation.**
 
-9. Treat the remaining relativity questions as the next audit targets, not as an attack:
+9. Add the scope correction:
+   - `R_ap` is not always a right angle;
+   - when bias becomes consequential, the angle itself carries information;
+   - with more projections and mutual biases, richer or numerical/statistical description may be needed;
+   - the user's rough “around four variables or fewer” idea is a working heuristic, not a hard cutoff.
+10. Treat the remaining relativity questions as the next audit targets, not as an attack:
    - simultaneity;
    - Doppler;
    - velocity composition;
@@ -41,7 +47,7 @@ Open with:
    - length contraction;
    - gravity;
    - causal structure.
-10. Close with:
+11. Close with:
 
 **If the same projection rule keeps generating those other relations too, then the equation was never the enemy. It was a clue to the topology underneath it.**
 
@@ -52,12 +58,15 @@ Do not say:
 - relativity's measurements are wrong;
 - this already derives all of special relativity;
 - `c` is proven to be primitive resolution;
-- orthogonality is experimentally proven by this deduction;
-- every future physical formula will reduce to Pythagorean geometry.
+- orthogonality is universal or experimentally proven by this deduction;
+- every future physical formula will reduce to Pythagorean geometry;
+- `R_ap` is universally equal to the linear-sum gap;
+- the roughly-four-variable heuristic is an established cutoff.
 
 Do say:
 
-- the framework now has a native candidate mechanism for the familiar rate factor;
-- the geometry is proposed to come from independently consequential one-dimensional projections;
+- the framework's simplest low-bias case approaches the same familiar rate factor;
+- the right triangle is a simple-case geometry, not a universal law;
+- `R_ap` carries relation/bias and can change the geometry;
 - the mapping to `v` and `c` is a physical correspondence step;
-- the same rule should now be audited against the rest of relativistic structure.
+- richer many-bias cases may naturally require richer descriptions.

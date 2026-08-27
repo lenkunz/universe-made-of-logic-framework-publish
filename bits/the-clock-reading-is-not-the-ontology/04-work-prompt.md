@@ -8,7 +8,7 @@ Slug:
 
 `the-clock-reading-is-not-the-ontology`
 
-This is a presentation-layer build using a **newer framework-native deduction** than the first package version.
+This is a presentation-layer build using the **v3 scope correction** of the framework-native deduction.
 
 Primary source:
 
@@ -38,7 +38,7 @@ The revised article should instead do:
 → `familiar rate factor appears under physical mapping`
 → `now test how far the same mechanism generalizes`
 
-The article should encourage the deduction while preserving status boundaries.
+The article should encourage the deduction while preserving status boundaries. The **same-formula result is the centerpiece**.
 
 ---
 
@@ -128,19 +128,61 @@ not:
 
 ---
 
-# Reusable significance
+# Scope correction — the triangle is the simple case
 
-Give the article a short section explaining why this deduction may matter beyond relativity.
+Do **not** present the right triangle as a universal resolution law.
 
-Candidate general rule:
+At the lowest measuring grain, the clean relation applies when:
 
-> **When one bounded composite relation contains multiple independently consequential lowest-grain projections, the geometry of those projections may determine the measured ratio before a separate phenomenon-specific formula is introduced.**
+- only a small number of projections are independently consequential;
+- `R_a` and `R_p` remain independent;
+- `R_ap` introduces no extra consequential bias between them at that grain.
 
-Treat this as a reusable deduction candidate.
+Then the simplest representation is orthogonal:
 
-Do not claim every law of physics reduces to this rule.
+`R_all² = R_a² + R_p²`
 
----
+More generally:
+
+> **`R_ap` is the consequential relation that determines how the projections participate together.**
+
+When bias becomes consequential:
+
+- the angle itself carries information;
+- the projections need not remain 90° apart;
+- the same component magnitudes can yield a different composite because their relation changed.
+
+Do not insert a general law-of-cosines derivation unless absolutely necessary. The article should stay concept-first and sparse in formulas.
+
+# More relations and the compact-law boundary
+
+With more independently consequential projections, `R_all` can carry richer or higher-dimensional relational structure.
+
+As pairwise biases multiply, the geometry becomes state-dependent and may be better represented numerically, statistically, or as a forecast rather than by one compact formula.
+
+Connect this carefully to the user's recurring intuition that compact law-like descriptions often remain manageable with a small number of consequential quantities, often roughly four or fewer.
+
+Treat that as a **working heuristic**, not an established cutoff.
+
+The stronger structural claim is:
+
+`few consequential relations + simple bias`
+→ `compact geometry / compact law`
+
+while:
+
+`many consequential relations + many changing biases`
+→ `state-dependent geometry / numerical-statistical description`
+
+# Same-formula significance
+
+The article should say clearly:
+
+> **The important result is that the framework's simplest low-bias projection geometry approaches the same measured relativistic rate formula.**
+
+This is more important than saying the framework has “less formula debt.”
+
+The equation may be the projection footprint of a simple topology.
 
 # Standard science
 
@@ -174,7 +216,7 @@ Possible targets:
 
 Frame these as:
 
-> **Can the same bounded independent-projection rule keep working?**
+> **Can the same relational mechanism keep producing the measured structure once bias or additional projections become consequential?**
 
 not:
 
@@ -221,4 +263,4 @@ No equations, labels, arrows, or text in the image.
 
 Avoid generic spacetime grids dominating the scene.
 
-The framework's projection concept should now be the visual center, not a fight between “geometry” and “process.”
+The foreground should show the clean simple projection case. Farther into the image, faint additional projections can begin to tilt or interact, hinting that richer biased cases do not remain a simple right triangle. The framework's projection concept should remain the visual center.

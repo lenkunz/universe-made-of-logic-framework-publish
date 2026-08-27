@@ -4,7 +4,7 @@
 
 <!-- Bits topic/content dossier -->
 <!-- Prepared: 2026-08-26 -->
-<!-- Major update: 2026-08-27 — added framework-native persistence/projection composition deduction. -->
+<!-- v3 update: 2026-08-27 — narrowed the right triangle to the simplest low-bias case and made the same-formula result the central payoff. -->
 
 ---
 
@@ -34,7 +34,7 @@ Until now, that sounded mostly like an ontological objection.
 
 The new deduction makes the question more useful.
 
-The framework now has a candidate way to produce the familiar **rate ratio** from its own persistence and projection rules.
+The framework now has a candidate way to approach the **same familiar rate ratio** from its own persistence and projection rules.
 
 Not by starting with a time dimension.
 
@@ -129,65 +129,62 @@ It is the **coarse composite relation** produced when `R_a`, `R_p`, and their re
 
 ---
 
-# Part IV — The right triangle does not have to be imported from spacetime
+# Part IV — The simplest geometry is a right triangle
 
-Now use the lowest measuring action.
+Now deliberately choose the simplest measuring case.
 
-Suppose `R_a` and `R_p` are each independently consequential **one-dimensional projections** at the grain being measured.
+Suppose the measurement exposes only two independently consequential one-dimensional projections:
 
-Why treat them as independent axes?
+- the anchor-relative persistence projection `R_a`;
+- the fine persistence projection `R_p`.
 
-Because resolving one does not resolve the other.
+And suppose `R_ap` carries no additional consequential bias between those projections at that grain.
 
-Knowing the domain's persistence relation does not by itself resolve its anchor-relative relation.
+Resolving one does not resolve the other.
 
-Knowing its anchor-relative relation does not by itself resolve the fine persistence distinctions that keep it itself.
+Neither projection leans into the other.
 
-At this grain they are therefore independent consequential projections.
-
-That gives the simplest geometry capable of carrying both without collapsing them into one axis:
+The simplest representation is therefore orthogonal:
 
 `R_all² = R_a² + R_p²`
 
-This is not introduced as:
+The important point is not that relativity happens to contain a square root.
 
-> “because relativity uses a square.”
+The framework reached this geometry from:
 
-It follows from the candidate rule:
+> **two independent one-dimensional projections inside one bounded composite relation.**
 
-> **independently consequential one-dimensional projections require independent axes inside one composite relation.**
+So the right triangle belongs to the **simplest low-bias case**.
 
-The triangle is bookkeeping for that relational structure.
+It is not being proposed as the universal geometry of every complex activity.
 
----
+# Part V — Why the composite contracts
 
-# Part V — Where the “overflow” goes
+For positive independent projections, the composite has a simple property:
 
-Imagine each projection tried to claim the full available composite resolution independently.
+`max(R_a, R_p) < R_all < R_a + R_p`
 
-Then the combined vector would demand more than `R_all` can seat.
+It is larger than either persistence contribution alone.
 
-The relation cannot keep both independent projections at their unconstrained maximum while also keeping the composite bounded.
+But it is smaller than treating both persistence claims as completely independent linear costs.
 
-So the seated composite normalizes the projections:
+That is exactly what we should expect once the two have become one seated relation.
 
-`R_a² + R_p² = R_all²`
+The composite has to carry both distinctions, so it cannot cost only one of them.
 
-The “overflow” is not extra hidden stuff after the relation seats.
+But because their relation has seated, it does not need to preserve both as if they shared no ground at all.
 
-It is the **unsupported pre-seating demand**.
+In the simplest case, the difference between the linear sum and the vector composite is a useful analogy for **shared persistence work**.
 
-What survives is the pair of contracted projections that fit inside one bounded total relation.
+Cycles that no longer have to repeat duplicated persistence can become available for other unresolved freedom.
 
-That gives a simple consequence:
+But that gap is **not** the universal definition of `R_ap`.
 
-> **the more of the bounded composite is projected into one independently consequential relation, the less projection remains available to the other.**
+More generally:
 
-For a clock-like persistence loop, that means fewer fine persistence cycles can surface in an external comparison when more of the bounded composite is committed to the anchor-relative projection.
+> **`R_ap` is the consequential relation that determines how the projections participate together.**
 
-No primitive time has been invoked.
-
----
+That distinction matters once bias enters.
 
 # Part VI — The familiar relativistic factor appears
 
@@ -224,6 +221,8 @@ Under the physical mapping:
 That is the familiar inverse-Lorentz rate factor:
 
 `1/γ`
+
+**This same-formula correspondence is the important result.**
 
 The interesting point is not that the framework copied the factor.
 
@@ -270,49 +269,100 @@ That is much closer to the framework's existing ruler principle.
 
 ---
 
-# Part VIII — This is more useful than a one-off relativity trick
+# Part VIII — The triangle is the simple case, not the universal rule
 
-The bigger result may not be the clock.
+The right triangle should not be universalized.
 
-It may be the composition rule.
+`R_ap` is the relation between the projections.
 
-Suppose later we meet another problem with:
+In the simplest low-bias case, that relation leaves `R_a` and `R_p` independent enough to be represented at 90°.
 
-- one bounded composite relation;
-- two or more independently consequential sub-relations;
-- each exposed through a lowest-grain projection;
-- no one projection resolving the others.
+But once bias becomes consequential, the angle itself carries information.
 
-Then we may not need to invent a separate formula first.
+Then:
 
-We can ask:
+- `R_a` can affect how `R_p` resolves;
+- `R_p` can affect how `R_a` resolves;
+- the projections need not remain orthogonal;
+- the same individual magnitudes can contribute to a different `R_all` because their relation changed.
 
-> **What geometry is forced by the number and independence of the projections?**
+So the clean Pythagorean form belongs to a specific regime:
 
-For two independent one-dimensional projections, the candidate result is the right-triangle composition above.
+`few consequential relations`
++
+`simple / negligible mutual bias`
+→ `compact geometry`
+→ `compact formula`
 
-The formula is then a **projection record of the topology**.
-
-That is much closer to how this framework wants mathematics to appear:
-
-> relation first  
-> → geometry of projection  
-> → measured ratio
-
-rather than:
-
-> find an equation  
-> → retrofit ontology underneath it
-
-This does not erase all future formula work.
-
-But it may remove one recurring kind of debt.
-
-Some ratios may be consequences of how independently consequential relations must share bounded resolution.
+The formula is powerful precisely because the relation is simple enough for the geometry to stay clean.
 
 ---
 
-# Part IX — What is still not earned
+# Part IX — More relations can carry more composite resolution
+
+Now imagine several independently consequential projections:
+
+`R_1`
+`R_2`
+`R_3`
+`R_4`
+
+If they remain simple and mutually independent, the composite can occupy a richer, higher-dimensional projection structure.
+
+That means `R_all` can carry more resolved relation than the simple two-projection case.
+
+But as more biases become consequential, the number of relations between those projections grows quickly.
+
+Then the geometry is no longer described only by the component magnitudes.
+
+The **relations between the components** become part of the state.
+
+At some point, one compact geometric formula may stop being the useful description.
+
+The framework may naturally move toward:
+
+- numerical modeling;
+- statistical description;
+- dynamic configuration;
+- forecasting.
+
+This connects to an older framework intuition:
+
+> **Compact law-like description is most natural when only a small number of independently consequential relations dominate the grain being asked.**
+
+The recurring intuition around roughly four consequential variables or fewer should remain a working heuristic, not a hard theorem.
+
+The important boundary is not the number four by itself.
+
+It is whether the relational biases remain simple enough that the geometry can still be compressed.
+
+---
+
+# Part X — A formula can be the track of geometry
+
+This suggests a broader role for mathematics in the framework.
+
+A compact equation does not have to be a primitive rule that the ontology imports from outside.
+
+Sometimes it may be the **track left by a simple relational geometry**.
+
+So the framework's order of work can be:
+
+`relation`
+→ `which distinctions are independently consequential?`
+→ `what bias exists between them?`
+→ `what projection geometry follows?`
+→ `what ratio would measurement see?`
+
+In the simplest cases, that route can land on a familiar compact formula.
+
+In richer many-bias cases, no tiny formula should be expected to carry the whole activity.
+
+That is not formula debt.
+
+It is a different regime of description.
+
+# Part XI — What is still not earned
 
 This is a useful deduction.
 
@@ -331,9 +381,9 @@ We need to ask whether the same composition rule can also produce or support:
 - gravitational clock-rate differences;
 - GPS-scale corrections.
 
-This list should not be treated as a wall placed in front of the framework.
+These are not entrance exams placed in front of the current result.
 
-It is a **map of where to test the same mechanism next**.
+The current same-formula result already tells us **where to test the same mechanism next**.
 
 If the same bounded-projection rule keeps generating the right structure without importing new unrelated primitives, that strengthens the ontology.
 
@@ -343,7 +393,7 @@ Then we know where the present deduction stops.
 
 ---
 
-# Part X — Why the equation should not scare the framework
+# Part XII — Why the equation should not scare the framework
 
 The equation is not the ontology.
 
@@ -421,9 +471,18 @@ And that is where the real audit can begin.
 
 ## New deduction candidate
 
-- independently consequential one-dimensional projections of one bounded composite relation can be represented as orthogonal axes;
-- therefore two such projections satisfy a Pythagorean composition;
-- this may be a reusable resolution-composition rule.
+- in the simplest low-bias case, two independently consequential one-dimensional projections can be represented orthogonally inside one bounded composite relation;
+- this gives `R_all² = R_a² + R_p²`;
+- under the physical correspondence `R_all ↔ c` and `R_a ↔ v`, the persistence projection approaches the same inverse-Lorentz rate factor;
+- the same-formula correspondence is the current result.
+
+## Scope correction
+
+- the right triangle is not a universal resolution law;
+- `R_ap` carries the consequential relation/bias between projections;
+- when bias becomes consequential, the projection angle can change;
+- richer multi-relation cases can require higher-dimensional, numerical, statistical, or forecast-like description;
+- the rough “around four variables or fewer” idea is a working heuristic, not a hard cutoff.
 
 ## Physical mapping candidate
 
@@ -433,6 +492,7 @@ And that is where the real audit can begin.
 
 ## Still open
 
-- why every relevant physical case should map to these particular projections;
-- whether the rest of relativistic structure follows from the same rule;
-- whether the framework eventually produces any discriminating observation beyond an alternative ontology.
+- whether the physical correspondence `R_a ↔ v` and `R_all ↔ c` is fully earned;
+- whether the same relational mechanism produces the rest of the measured relativistic structure;
+- how biased and higher-dimensional projection cases should be represented;
+- where compact geometry gives way to numerical/statistical description.

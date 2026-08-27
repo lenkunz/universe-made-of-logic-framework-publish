@@ -4,7 +4,8 @@ Title: **The Clock Reading Is Not the Ontology**
 Slug: `the-clock-reading-is-not-the-ontology`  
 Created: 2026-08-26  
 Updated: 2026-08-27  
-Status: **Article ready; audio pending**  
+Revision: **v3 — simple-projection scope correction**  
+Status: **Prepared but not published**  
 Preparation mode: Manual run reproducing the scheduled **Bits Topic Pack** workflow with a forced topic, then updated after a new framework-native persistence/projection deduction.
 
 ## Central question
@@ -17,7 +18,7 @@ When two clocks or physical processes accumulate different readings after differ
 
 The Bit accepts relativistic measurements as measurements.
 
-The revised framework section now contains a positive deduction path rather than only a burden list:
+The revised framework section now contains a positive deduction path rather than only a burden list. The important result is that the **simplest low-bias case approaches the same measured relativistic rate formula**:
 
 `fine persistence relation R_p`
 +
@@ -49,19 +50,54 @@ which is the familiar inverse-Lorentz rate factor.
 - Independently consequential distinctions can remain distinct while belonging to one relation.
 - Reality pays for consequential distinction rather than unnecessary fine detail.
 
-### New reusable deduction candidate
+### New deduction candidate — simplest low-bias projection case
 
-**Bounded independent projection composition**
+The right-triangle relation is **not** a universal rule for all resolution.
 
-At the lowest measuring grain, if two relations are independently consequential one-dimensional projections of one bounded composite relation, they can be represented as orthogonal components:
+It is the simplest case.
+
+At the lowest measuring grain, if two relations are independently consequential one-dimensional projections of one bounded composite relation, and the relation between them carries no additional consequential bias at that grain, the projections can be represented orthogonally:
 
 `R_all² = R_a² + R_p²`
 
-This is proposed as a reusable resolution-composition rule, not only a relativity trick.
+Under the physical correspondence:
 
-The reason for orthogonality is structural rather than imported geometry:
+`R_all ↔ c`
 
-> resolving one projection does not resolve the other, so they require independent axes at that grain.
+and:
+
+`R_a ↔ v`
+
+the persistence projection gives:
+
+`R_p / R_all = √(1 - v²/c²)`
+
+which is the familiar inverse-Lorentz rate factor.
+
+The important current result is:
+
+> **The framework's simplest unbiased projection geometry approaches the same measured rate formula from its own ontology.**
+
+### Scope correction — `R_ap` carries the relation, including bias
+
+`R_ap` should not be reduced to “saved overflow.”
+
+More generally:
+
+> **`R_ap` is the consequential relation that determines how `R_a` and `R_p` participate together.**
+
+In the simplest low-bias case, the relation leaves the two projections independent enough to use orthogonal geometry.
+
+When bias becomes consequential:
+
+- the angle itself carries information;
+- the projections need not remain 90° apart;
+- the same component magnitudes can contribute to a different `R_all` because their relation changed;
+- the clean Pythagorean relation is no longer sufficient by itself.
+
+With more independently consequential relations, the composite can occupy richer or higher-dimensional projection structure. As mutual biases multiply, the configuration may become better described numerically, statistically, or as a forecast rather than by one compact formula.
+
+The user's recurring intuition that compact law-like descriptions often remain manageable around a small number of consequential quantities, often roughly four or fewer, remains a **working heuristic**, not a hard mathematical cutoff.
 
 ### Physical mapping still pending
 
@@ -84,7 +120,7 @@ and also:
 ≠
 `full relativity already derived`
 
-The new triangle is evidence that the framework has a native route worth auditing, not permission to skip the rest of the mapping.
+The same-formula result is the important current deduction. The remaining audit asks whether the physical mapping is earned and whether the same relational mechanism continues into the other measured structures.
 
 ## Nearest overlap check
 
@@ -101,5 +137,3 @@ This Bit owns:
 - `bits/the-clock-reading-is-not-the-ontology/02-notebooklm-source.md`
 - `bits/the-clock-reading-is-not-the-ontology/03-notebooklm-audio-prompt.md`
 - `bits/the-clock-reading-is-not-the-ontology/04-work-prompt.md`
-- `bits/the-clock-reading-is-not-the-ontology/article/the-clock-reading-is-not-the-ontology.md`
-- `bits/the-clock-reading-is-not-the-ontology/image/the-clock-reading-is-not-the-ontology.webp`
