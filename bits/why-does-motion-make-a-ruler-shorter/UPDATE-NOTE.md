@@ -1,39 +1,63 @@
-# Update Note — Cross-Ground Resolving-Budget Bias
+# Update Note — V3 Resolution Synchronization Mechanism
 
-This revision preserves the clean inertial ruler result and adds the user's new candidate interpretation.
+This is a substantial semantic update to **Why Does Motion Make a Ruler Shorter?**
 
-## Preserved result
+## What changed
+
+The prior revision said unequal local resolving budgets could bias the cross-ground measurement.
+
+V3 makes the proposed mechanism explicit:
+
+> **Binding can remain immediate/continuous while source and receiver resolution remain local and unequal.**
+
+If `B_r/B_l = 1.2`, one receiver-side Cut can contain 1.2 source-resolution worth of state change.
+
+Because those source states belong to one already-bound object, the receiver does not get multiple objects. The framework candidate requires one coherent projection.
+
+For an extended object:
+
+`more source resolutions per receiver Cut`
+→ `more state/detail belonging to one bound object`
+→ `more information seated into one receiver spatial Cut`
+→ `denser / contracted external projection`
+
+## VSync role
+
+VSync is used to expose the producer/receiver cadence mismatch.
+
+The universe is not claimed to literally run a display protocol.
+
+Ordinary computers can drop, repeat, buffer, interpolate, or tear.
+
+The framework candidate instead preserves binding and consequential resolution through coherent projection.
+
+## Relation to the Lorentz factor
+
+Do not set:
+
+`q = B_l/B_r`
+
+without a later derivation.
+
+The existing triangle remains responsible for:
 
 `q = √(1-v²/c²)`
 
-and:
+Budget mismatch explains **why reconciliation is needed**.
 
-`L = qL_0`
+Projection geometry explains the clean simple **amount**.
 
-remain the simple measured projection correspondence.
+## Blueshift
 
-## New candidate
+Within the framework, gravitational blueshift and ruler contraction are now stated as the same class of operation:
 
-Use:
+> **cross-ground resolution remapping of one bound relation.**
 
-- `B_r` = ruler-ground resolving budget / resolution density;
-- `B_l` = laser/measuring-ground resolving budget / resolution density.
+- periodic relation → more cycle distinctions → frequency shift;
+- extended relation → more state/detail per spatial Cut → density/length shift.
 
-If the two grounds differ, `R_ap` can carry that mismatch as cross-ground bias.
-
-A ruler ground supporting more resolved distinction per external projection unit may be read through the measuring ground as:
-
-- shorter;
-- denser.
-
-The package deliberately leaves open whether:
-
-- motion creates this budget mismatch;
-- the mismatch is the deeper bookkeeping of the same motion projection;
-- gravity/density introduces an additional bias.
-
-Gravitational blueshift is included only as a structural analogy for comparing local standards across different grounds.
+This is a framework ontology candidate, not the established GR explanation.
 
 Suggested commit message:
 
-`Add cross-ground budget bias to ruler contraction Bit`
+`Rebuild ruler Bit around resolution synchronization`

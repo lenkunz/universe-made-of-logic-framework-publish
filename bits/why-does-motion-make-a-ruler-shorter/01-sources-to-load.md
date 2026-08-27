@@ -34,7 +34,6 @@ Use current maintained framework ground when available, especially:
 
 - time is not primitive;
 - clocks are repeating persistence loops;
-- binding/relation and resolution are distinct operations;
 - a ruler co-seated with the same ground cannot independently reveal a uniform change of that ground;
 - coordinates are bookkeeping over relation rather than automatically primitive ontology;
 - physical mapping must preserve measurement rather than deny it.
@@ -53,155 +52,134 @@ Use only for the broader simple-law / many-bias boundary. It is not needed for t
 
 ---
 
-# New framework update — immediate binding, local resolution
 
-This revision replaces the older vague “cross-ground budget bias” extension with a more explicit mechanism.
+# V3 framework-native mechanism to preserve
 
-Preserve separate notation:
+## 1. Keep persistence projection and budget distinct
 
-- `R_p` = fine persistence projection from the previous Bit;
-- `B_r` = local resolving budget / resolution density of the ruler or source ground;
-- `B_l` = local resolving budget / resolution density of the laser or receiving ground.
+Do not overload `R_p`.
 
-Do **not** collapse `B_r`, `B_l`, and `R_p` into one variable.
+Use:
 
-## Core rule
+- `R_p` = fine persistence projection inherited from the clock Bit;
+- `B_r` = ruler/source-ground resolving budget or resolution density;
+- `B_l` = laser/receiver-ground resolving budget or resolution density;
+- `R_ap` = consequential binding/reconciliation relation between the grounds.
 
-> **Binding is immediate; resolution is local and budget-dependent.**
+## 2. Binding is immediate; resolution is local
 
-Therefore two already-bound grounds do not need to resolve the bound relation at identical rates.
+The candidate mechanism is:
+
+> **Binding does not need to wait for both grounds to finish the same number of resolution cycles.**
+
+The ruler and receiver can remain related as one event/object while `B_r` and `B_l` differ.
 
 If:
 
-`B_r > B_l`
+`B_r / B_l = 1.2`
 
-then during one receiver-side resolution Cut, more than one ruler/source-side resolution-state worth of change can belong to that same bound event.
+then one receiver-side Cut can contain 1.2 source-side resolutions worth of state change.
 
-A simple average example:
+Do not describe this as 1.2 separate objects.
 
-`B_r/B_l = 1.2`
+The source states belong to one bound continuing relation.
 
-means one `B_l` Cut receives roughly `1.2` ruler-side resolution units worth of state change over the corresponding comparison interval.
+## 3. The VSync problem
 
-The receiver does not get multiple disconnected rulers because the identity/relation is already bound.
+Use the graphics analogy only to reveal the abstract mismatch:
 
-The framework therefore requires a **coherent reconciliation** of the extra source-side resolution into one receiver-side projection.
+`producer resolution cadence ≠ receiver resolution cadence`
 
-## Centered moving-sphere intuition
+An ordinary computer can:
 
-Use the Death-Star/sphere thought experiment when useful.
+- drop source frames;
+- repeat frames;
+- buffer;
+- interpolate;
+- tear.
 
-Imagine a fast moving or rotating sphere whose identity/center is kept fixed at the center of the receiver-side measurement/perception.
+The framework candidate cannot freely use those cheats if consequential resolution and binding must both be preserved.
 
-Several source-side angular states can occur during one slower receiver Cut.
+So the mismatch must resolve as one coherent projection.
 
-Because binding keeps them as the same centered object, the receiver does not resolve them as separate copies.
+For an idealized all-at-once receiver / global measurement Cut, several source-side states can contribute to one receiver-side result.
 
-Instead, information that would be sequential on the faster source side can contribute to one coherent receiver-side object state.
+A center-locked moving sphere with visible landmarks is the clearest intuition:
 
-That can make a little more front/side/back surface information appear packed into the same apparent extent.
+- source ground resolves slightly different angular/surface states;
+- the center remains one bound center;
+- receiver produces one coherent object;
+- extra source state becomes additional surface/detail information compressed into one receiver-side shape.
 
-Within the framework, this is the intuitive mechanism behind “shorter and denser.”
+Do not claim that real global-shutter cameras or human retinas literally implement the framework.
 
-Do not claim a real camera literally performs this framework reconciliation.
+They are analogies for an integration/receiver Cut.
 
-## VSync analogy
+## 4. What budget mismatch explains and what geometry explains
 
-The VSync analogy is about the **producer/receiver cadence problem**.
+Budget mismatch explains:
 
-A GPU can render frames at a different cadence from a display's refresh. Without synchronization, the display can show parts of different producer frames in one refresh, producing tearing.
+> **why cross-ground reconciliation is required.**
 
-VSync solves one version of the mismatch by coordinating presentation with refresh boundaries.
+The previous triangle explains:
 
-The framework's universe is stricter than a graphics system:
+> **the clean simple projection ratio in the low-bias inertial case.**
 
-- it cannot simply drop a consequential bound state;
-- it cannot duplicate an old state as if nothing happened;
-- it cannot tear one bound object into unrelated identities;
-- it must reconcile the mismatch into one coherent resolved relation.
+Keep both.
 
-Use VSync as an intuition for **why synchronization is needed**, not as the physical cause of relativistic contraction.
-
-## Global-shutter analogy
-
-A global-shutter sensor is a cleaner physical receiver analogy than a rolling raster display because all sensor pixels share one exposure window.
-
-This removes the distracting line-by-line time offset of rolling shutter.
-
-The framework thought experiment goes further: even with a global receiver Cut, the source and receiver may have unequal resolving budgets, so several source-side states can belong to one receiver-side integration window.
-
-The framework then asks how one bound identity is coherently projected across that mismatch.
-
-## Relation to the triangle
-
-Do not make the synchronization story replace the projection geometry.
-
-They answer different questions:
-
-> **Budget mismatch explains why coherent reconciliation is required.**
-
-> **The simple projection geometry explains the clean amount of the measured contraction.**
-
-For the simple inertial case:
-
-`R_all² = R_a² + R_p²`
-
-and under:
-
-`R_all ↔ c`
-
-`R_a ↔ v`
-
-we still get:
+Do not replace:
 
 `q = √(1-v²/c²)`
 
-and:
+with:
 
-`L = qL_0`
+`q = B_l/B_r`
 
----
+unless a later deduction earns that equality.
 
-# Gravitational blueshift — same proposed operation inside the framework
+## 5. Blueshift is the same framework operation
 
-The previous version called gravitational blueshift only an analogy. Correct that.
+Within the framework candidate, use stronger wording than “analogy.”
 
-Inside the framework's candidate ontology, it is proposed to be the **same resolution-budget operation applied to a wave relation**.
+The proposed common operation is:
 
-For light moving from a lower-budget ground into a higher-budget ground:
+> **one bound relation is resolved under a receiver ground with a different local resolution budget.**
 
-1. the light relation remains bound;
-2. the receiving ground has more local resolution budget available to resolve that same relation;
-3. more cycle distinction can be resolved inside the receiving ground's local measurement Cut;
-4. the local receiver therefore counts a higher frequency: blueshift.
+For light entering a higher-budget ground:
 
-Reverse the budget relation and the same framework mechanism gives a lower resolved cycle count: redshift.
+- more cycle distinctions can resolve per receiver-side Cut;
+- the receiver counts a higher frequency;
+- this surfaces as blueshift.
 
-For the ruler/object case:
+For an extended ruler/object observed from a lower-budget receiver:
 
-1. the object remains bound as one identity/relation;
-2. the source/ruler ground resolves more state per receiver Cut;
-3. the receiver must reconcile that extra state into one coherent spatial/perceptual result;
-4. the same relational content can therefore surface as a shorter and denser projection.
+- more source-side state can belong to one receiver-side spatial Cut;
+- the receiver must represent that information coherently;
+- the external result can be denser and longitudinally contracted.
 
-The **operation is the same inside the framework**:
+Thus:
 
-`same bound relation`
-+
-`different local resolving budget`
-→ `different amount/form of resolved distinction inside one receiving Cut`
+`cross-ground resolution remapping`
+→ periodic observable: **frequency shift**
 
-The observable depends on what is being read:
+`cross-ground resolution remapping`
+→ extended observable: **spatial/detail density and length shift**
 
-- repeating wave/cycle relation → frequency shift;
-- extended bound object/separation relation → spatial compression / density shift.
+This is the framework's proposed shared mechanism.
 
-Keep the science status clear:
+It is **not** the established GR explanation of gravitational blueshift.
 
-- gravitational redshift/blueshift and relativistic length contraction are established measurements in standard relativity/GR;
-- the shared resolving-budget mechanism is the framework's candidate ontology, not established physics.
+## 6. Standard visual relativity remains separate
 
----
+Keep the Terrell / photographic discussion, but explicitly separate it.
+
+Established relativistic optics says a fast object's photograph can look rotated/distorted because photons from different parts of the object have different travel times.
+
+The framework's v3 mechanism is different:
+
+> unequal source/receiver resolution + immediate binding + one receiver-side Cut.
+
+Do not present the visual resemblance as evidence that the framework has been experimentally confirmed.
 
 # External research
 
@@ -250,96 +228,103 @@ Use for:
 - relation between length contraction and time dilation;
 - the fact that observers in relative motion can assign different distances because simultaneous endpoint events differ between frames.
 
+## OpenStax Physics — Consequences of Special Relativity
+
+https://openstax.org/books/physics/pages/10-2-consequences-of-special-relativity
+
+Use for a simple general-audience connection:
+
+- relative speed is shared while measured time/distance assignments differ;
+- length contraction and time dilation use the same relativistic factor.
+
 ## Terrell — Invisibility of the Lorentz Contraction, Physical Review 116 (1959)
 
 https://journals.aps.org/pr/abstract/10.1103/PhysRev.116.1041
 
-Use for the standard measurement-versus-photographic-appearance distinction.
+Use for the important measurement-versus-appearance distinction:
 
-Do not use Terrell as evidence for the framework's resolution-compositing mechanism. The standard explanation is finite light-travel-time geometry within relativity.
+- a photograph of a rapidly moving object does not simply display textbook Lorentz contraction;
+- finite light-travel-time / aberration effects can make a moving object appear rotated;
+- corrected measurement can still recover the relativistic contraction.
 
-## NVIDIA — Adaptive VSync
+This is a strong opening hook because it prevents the public article from confusing “measured shorter” with “looks visually squashed.”
 
-https://www.nvidia.com/en-us/geforce/technologies/adaptive-vsync/technology/
+---
 
-Use only for the engineering analogy:
-
-- producer frame rate and display refresh can differ;
-- disabling synchronization when the producer is faster can produce screen tearing;
-- VSync coordinates presentation with refresh boundaries.
-
-Do not imply VSync blends all producer frames or causes physical contraction.
-
-## Basler — Electronic Shutter Types / Global Shutter
-
-https://docs.baslerweb.com/electronic-shutter-types
-
-Use for:
-
-- global shutter: all pixels begin and end exposure during the same exposure window;
-- rolling shutter: rows are exposed with temporal offsets;
-- the global-shutter analogy removes line-by-line temporal skew from the thought experiment.
 
 ## Einstein Online — Gravitational redshift
 
 https://www.einstein-online.info/en/explandict/redshift-gravitational/
 
-Use for the established result:
+Use only for the established comparison point:
 
-- light moving away from a gravitating source is redshifted;
-- light falling toward it is blueshifted.
+- in general relativity, light moving away from a gravitating source is redshifted;
+- light falling toward it is blueshifted;
+- gravitational frequency shift is related to gravitational clock-rate differences.
 
-Do not use this as evidence for compute/resolution budget as the standard mechanism.
+This supports the **ordinary-physics side of the analogy only**.
+
+It does not establish the framework's resolving-budget explanation.
 
 ## NIST — JILA Atomic Clocks Measure Einstein's General Relativity at Millimeter Scale
 
 https://www.nist.gov/news-events/news/2022/02/jila-atomic-clocks-measure-einsteins-general-relativity-millimeter-scale
 
-Use for experimentally measured gravitational clock-frequency differences across gravitational potential.
+Use for:
 
----
+- experimentally measured gravitational clock-frequency differences between clocks at different elevations;
+- the fact that local frequency standards compare differently across gravitational potential.
+
+Again, this is empirical context, not evidence that “compute budget” is the established mechanism.
+
+
+## External-science use of gravitational blueshift sources
+
+Use established sources only to support:
+
+- gravitational frequency shift is a measured/predicted relativistic effect;
+- light received deeper in a gravitational potential can be blueshifted relative to a higher-potential standard;
+- clocks at different gravitational potentials compare at different frequencies.
+
+Then clearly mark the framework step:
+
+> **The claim that this and ruler contraction are the same cross-ground resolution-remapping operation is a framework deduction candidate, not a statement from those sources.**
+
 
 # Research discipline
 
-Keep these layers distinct.
+Keep four layers distinct.
 
-## 1. Established standard results
+## 1. Established standard result
 
-- longitudinal length contraction:
-  `L = L_0√(1-v²/c²)`;
-- observer-frame length uses simultaneous endpoint positions;
-- photographic appearance is not identical to the operational length measurement;
-- gravitational frequency shift is real and measured;
-- VSync/global shutter are ordinary engineering mechanisms with the limited meanings above.
+A moving ruler's longitudinal length in another inertial frame is:
+
+`L = L_0√(1-v²/c²)`
+
+with length defined through frame-appropriate simultaneous endpoint positions.
 
 ## 2. Inherited framework deduction candidate
 
-The simple bounded projection case already approaches:
+The simple bounded projection case already approaches the same complementary factor:
 
 `q = √(1-v²/c²)`.
 
-## 3. New framework mechanism candidate
+## 3. New framework candidate
 
-- binding is immediate;
-- resolution is local and budget-dependent;
-- unequal `B_r/B_l` means multiple source-side resolution-state worth of change can belong to one receiver-side Cut;
-- the bound identity must be coherently reconciled rather than torn into disconnected objects;
-- for an extended object, excess source-side state can surface as denser/compressed spatial information;
-- the triangle determines the clean simple-case amount.
+An extended persistent separation carried by the same domain may expose that same `q` when measured along the anchor-relative direction.
 
-## 4. Same-operation gravitational mapping candidate
+## 4. New cross-ground budget candidate
 
-Inside the framework, gravitational blueshift and ruler compression are proposed to be the same underlying operation applied to different kinds of bound relation:
+- local ruler and laser grounds may differ in resolving budget / resolution density;
+- that mismatch may be carried as bias through `R_ap`;
+- a higher-resolution ruler ground could surface to a coarser measuring ground as shorter and denser;
+- gravitational frequency shift is only a structural analogy for cross-ground ruler mismatch, not proof of a common mechanism.
 
-`different local budget`
-→ `different resolved distinction per receiving Cut`.
+## 5. Not yet earned
 
-This is a framework claim, not established physical ontology.
+- whether motion itself creates, exposes, or is identical to the proposed `B_r/B_l` mismatch;
+- literal fine-domain physical shrink versus external measurement projection;
+- complete framework-native derivation of relativity of simultaneity;
+- accelerated, rotating, stressed, gravitational, or many-bias cases.
 
-## 5. Still open
-
-- quantitative derivation connecting the exact `B_r/B_l` rate ratio to `q` beyond the simple projection correspondence;
-- whether literal fine-domain re-seating/shrink accompanies the receiver-side projection;
-- full framework-native derivation of relativity of simultaneity;
-- acceleration, rotation, material stress, strong gravity, and many-bias cases;
-- how biological perception implements its own receiver integration, since the retina is not literally a global-shutter frame buffer.
+Do not present the speculative framework mapping as established physics.
