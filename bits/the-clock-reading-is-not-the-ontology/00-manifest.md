@@ -5,7 +5,7 @@ Slug: `the-clock-reading-is-not-the-ontology`
 Created: 2026-08-26  
 Updated: 2026-08-27  
 Revision: **v3 — simple-projection scope correction**  
-Status: **Prepared but not published**  
+Status: **Article ready; audio pending**  
 Preparation mode: Manual run reproducing the scheduled **Bits Topic Pack** workflow with a forced topic, then updated after a new framework-native persistence/projection deduction.
 
 ## Central question
@@ -137,3 +137,5 @@ This Bit owns:
 - `bits/the-clock-reading-is-not-the-ontology/02-notebooklm-source.md`
 - `bits/the-clock-reading-is-not-the-ontology/03-notebooklm-audio-prompt.md`
 - `bits/the-clock-reading-is-not-the-ontology/04-work-prompt.md`
+- `bits/the-clock-reading-is-not-the-ontology/article/the-clock-reading-is-not-the-ontology.md`
+- `bits/the-clock-reading-is-not-the-ontology/image/the-clock-reading-is-not-the-ontology.webp`
