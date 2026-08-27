@@ -3,7 +3,7 @@
 Title: **The Clock Reading Is Not the Ontology**  
 Slug: `the-clock-reading-is-not-the-ontology`  
 Created: 2026-08-26  
-Status: **Prepared but not published**  
+Status: **Article ready; audio pending**  
 Preparation mode: Manual run reproducing the scheduled **Bits Topic Pack** workflow with a forced topic.
 
 ## Central question
@@ -68,19 +68,21 @@ The ordinary research foreground is atomic clocks, moving clocks/ions, muon deca
 
 ## Package paths
 
-- `bits/the-clock-reading-is-not-the-ontology/00-manifest.md`
-- `bits/the-clock-reading-is-not-the-ontology/01-sources-to-load.md`
-- `bits/the-clock-reading-is-not-the-ontology/02-notebooklm-source.md`
-- `bits/the-clock-reading-is-not-the-ontology/03-notebooklm-audio-prompt.md`
-- `bits/the-clock-reading-is-not-the-ontology/04-work-prompt.md`
+- `bits/the-clock-reading-is-not-the-ontology-package/the-clock-reading-is-not-the-ontology/00-manifest.md`
+- `bits/the-clock-reading-is-not-the-ontology-package/the-clock-reading-is-not-the-ontology/01-sources-to-load.md`
+- `bits/the-clock-reading-is-not-the-ontology-package/the-clock-reading-is-not-the-ontology/02-notebooklm-source.md`
+- `bits/the-clock-reading-is-not-the-ontology-package/the-clock-reading-is-not-the-ontology/03-notebooklm-audio-prompt.md`
+- `bits/the-clock-reading-is-not-the-ontology-package/the-clock-reading-is-not-the-ontology/04-work-prompt.md`
+- `bits/the-clock-reading-is-not-the-ontology-package/the-clock-reading-is-not-the-ontology/article/the-clock-reading-is-not-the-ontology.md`
+- `bits/the-clock-reading-is-not-the-ontology-package/the-clock-reading-is-not-the-ontology/image/the-clock-reading-is-not-the-ontology.png`
 
 ## Publication sync status
 
-The live Bits RSS could not be fetched from the current environment. The GitHub connector also became unavailable before the repository RSS snapshot and newest checklist could be read.
+The GitHub-maintained Bits RSS snapshot was refreshed on 2026-08-26 and contains no exact title match for this Bit.
 
 Therefore:
 
-- no publication status was guessed;
-- no existing Bit was moved between prepared/published states;
-- the package is marked **Prepared but not published**;
-- a second publication sync still needs to run when GitHub/live RSS access is available.
+- the Bit remains **not published**;
+- the article and editorial image are ready;
+- the audio overview is still being generated;
+- publication status should be checked again after the audio is published.
