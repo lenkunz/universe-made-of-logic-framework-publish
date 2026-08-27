@@ -6,7 +6,44 @@ No. Perception is Stage-side resolution of relation against a domain.
 ## 2. What are Light, Space, Stage?
 Light = relation. Space = domain/anchor. Stage = measurable resolution where relation meets domain. Root: `Relation + Domain → Stage`. No primitive time term.
 
-## 3. Is Stage an illusion?
+#
+# 2A. What are Afference and Efference?
+
+**Afference**:
+
+> relation reaching inward, perception side of the domain.
+
+**Efference**:
+
+> relation reaching outward, perception side of Space.
+
+Both require budget.
+
+They are relative orientations, not two absolute substances.
+
+# 2B. What happens at Stage?
+
+Orientation can flip.
+
+> **One domain's Efference can become another domain's Afference when the same relation is resolved against the new domain.**
+
+This is the mechanism hidden inside the older sentence “Stage is where Light meets Space.”
+
+# 2C. How does this connect to persistence?
+
+Candidate root loop:
+
+`Afference`
+→ `domain resolution`
+→ `Efference`
+→ `Stage`
+→ `Afference`
+
+A sufficiently stable loop can provide / sustain persistence budget and let the same coarse domain continue.
+
+Do not turn this into a free-energy claim or a fixed numerical law.
+
+# 3. Is Stage an illusion?
 No. **Stage is resolved reality.**
 
 ## 4. Is distance primitive?
