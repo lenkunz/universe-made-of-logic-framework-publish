@@ -4,7 +4,7 @@ Title: **Why Does Motion Make a Ruler Shorter?**
 Slug: `why-does-motion-make-a-ruler-shorter`  
 Created: 2026-08-27  
 Revision: **v4 — anchor-closed budget comparison**
-Status: **Prepared; publication sync pending**  
+Status: **Article ready; audio pending**  
 Preparation mode: Manual run reproducing the current scheduled **Bits Topic Pack** workflow with a forced topic.
 
 ## Central question
