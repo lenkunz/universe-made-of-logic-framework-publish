@@ -1,6 +1,6 @@
 # Why Does Motion Make a Ruler Shorter?
 
-*The formula may be the easy part. The harder question is how one bound object stays coherent when source and receiver do not resolve at the same rate.*
+*The formula may be the easy part. The harder question is what has to be compared before the formula means anything.*
 
 ![One centered calibration sphere carries several faint source-side surface states into one crisp, slightly compressed receiver-side result](../image/why-does-motion-make-a-ruler-shorter.png)
 
@@ -10,7 +10,7 @@ Imagine a one-metre ruler flying past you at a serious fraction of the speed of 
 
 Special relativity says that, if the ruler is aligned with its motion, you measure it as shorter than one metre.
 
-The easy picture is almost too easy.
+The tempting picture is almost too easy.
 
 The ruler moves fast.
 
@@ -20,7 +20,7 @@ Done.
 
 Except a camera does not necessarily record a neatly squashed ruler.
 
-James Terrell showed why in 1959. Light leaving different parts of a fast-moving object does not reach the camera from the same emission moment. Those travel-time differences can make a moving object photograph as rotated or distorted rather than as a clean compressed shape. [Terrell's original paper](https://journals.aps.org/pr/abstract/10.1103/PhysRev.116.1041) makes that distinction explicit.
+James Terrell showed why in 1959. Light leaving different parts of a fast-moving object does not reach a camera from the same emission moment. Those travel-time differences can make the object photograph as rotated or distorted rather than as a clean compressed shape. [Terrell's original paper](https://journals.aps.org/pr/abstract/10.1103/PhysRev.116.1041) makes that distinction explicit.
 
 So before asking what contraction *is*, keep the measurement clear:
 
@@ -44,7 +44,7 @@ The operational rule is stricter:
 
 > **Measure both endpoint positions at the same time in the measuring frame.**
 
-This is where simultaneity matters. Events at separated places do not arrive with one frame-independent tag saying *these happened together*. Different inertial frames can select different endpoint-event pairs as simultaneous, so they can assign different lengths to the same moving ruler. [Einstein Online's explanation of “now”](https://www.einstein-online.info/en/spotlight/Now/) gives a useful standard account of that problem.
+Events at separated places do not carry one frame-independent label saying *these happened together*. Different inertial frames can select different endpoint-event pairs as simultaneous, so they can assign different lengths to the same moving ruler. [Einstein Online's explanation of “now”](https://www.einstein-online.info/en/spotlight/Now/) gives a useful standard account of that problem.
 
 The disagreement is not an instrument failure.
 
@@ -62,7 +62,7 @@ or:
 
 `L = L_0/γ`
 
-The measured component parallel to the motion contracts. Transverse dimensions do not receive the same factor. [OpenStax derives the standard relation](https://openstax.org/books/university-physics-volume-3/pages/5-4-length-contraction), and [Einstein Online gives the compact directional definition](https://www.einstein-online.info/en/explandict/length-contraction/).
+Only the component parallel to the motion receives this contraction factor. [OpenStax derives the standard relation](https://openstax.org/books/university-physics-volume-3/pages/5-4-length-contraction), and [Einstein Online gives the compact directional definition](https://www.einstein-online.info/en/explandict/length-contraction/).
 
 Now notice the square root:
 
@@ -84,42 +84,117 @@ But it still leaves a deeper question:
 
 > **Why does one moving, extended object need a contracted receiver-side projection at all?**
 
-This is where the new mechanism begins.
+This is where the comparison has to become properly relational.
+
+## Before comparing budgets, close the anchors
+
+It is easy to write a symbol such as `B_r` and quietly imagine that the ruler owns a little private budget.
+
+Then write `B_l` and imagine the laser owns another.
+
+But the framework does not begin with isolated objects carrying context-free numbers.
+
+A ruler is seated through relations.
+
+A laser is seated through relations.
+
+Their budgets become meaningful inside the consequential ground of the question being asked.
+
+So the rule is:
+
+> **Before comparing budgets, close the anchors.**
+
+Suppose the only consequential question is:
+
+> How does ruler `r` resolve relative to laser `l`?
+
+Then the pair can close against itself:
+
+`r ↔ l`
+
+No third anchor needs to be invented merely because more of reality exists.
+
+Now change the question:
+
+> How do the ruler and laser resolve while both live in anchored ground `a`?
+
+The relation is now:
+
+`r ↔ l ↔ a`
+
+If `a` supports both sides in a common enough way, it creates no distinction at the grain of this measurement. We may coarse-grain it out of the written formula.
+
+That does not mean the anchor disappeared.
+
+It means the comparison does not need to pay for that common detail again.
+
+But if ruler and laser are differently seated relative to `a`, the anchor cannot be erased. The comparison must use anchor-closed grounds such as:
+
+`B_ra ↔ B_la`
+
+The same complete problem can sometimes be grouped another way:
+
+`B_lr ↔ B_a`
+
+Stable relations can seat into a composite and participate as one. But grouping is only bookkeeping when every consequential relation survives.
+
+> **If a different grouping changes the result, something consequential was lost, changed, or made newly relevant.**
+
+This is not ordinary algebraic associativity.
+
+It is closure invariance.
+
+## The coarseness ratio now has a proper question
+
+Once the anchors are closed, the relative resolution can be written cleanly.
+
+For example:
+
+`B_ra/B_la = 1.2`
+
+This means that, for this anchor-closed comparison, one laser/receiver Cut contains `1.2` ruler/source resolutions worth of consequential state change.
+
+It does not mean the receiver gets `1.2` rulers.
+
+It does not mean the ruler owns `1.2` times as much universal time.
+
+And it does not yet mean the ruler's measured length is multiplied by `1/1.2`.
+
+It says something more precise:
+
+> **Relative coarseness is how much source-side resolved relation must seat into one receiver-side Cut after the consequential anchors have been closed.**
+
+When the anchor contribution is common enough to absorb, the older shorthand can return:
+
+`B_r/B_l = 1.2`
+
+But now we know what it hides.
+
+`B_r` means the ruler-side budget after the relevant closure is understood.
+
+`B_l` means the receiver-side budget after the relevant closure is understood.
+
+Equal-looking bare symbols never prove that their relational grounds are equal.
 
 ## Binding and resolution do not have to finish together
 
-The framework separates two things that are easy to merge in ordinary language.
+The framework separates two things that ordinary language often merges.
 
 **Binding** says which changing states belong to the same continuing relation.
 
 **Resolution** says which distinctions become consequential in a local ground.
 
-The v3 candidate is:
+The candidate mechanism is:
 
-> **Binding can remain immediate and continuous while resolution remains local.**
+> **Differently anchor-closed grounds can resolve at unequal local cadences while remaining immediately bound.**
 
-The ruler does not have to wait for the laser's ground to resolve at exactly the same cadence before the two can remain related.
+The ruler does not have to wait for the laser's ground to complete the same number of resolution cycles before the two remain related.
 
 The laser also does not become the ruler's local ground merely because it measures the ruler.
 
-So give the two sides separate local resolving support:
-
-- `B_r`: the resolving budget or resolution density of the ruler/source ground;
-- `B_l`: the resolving budget or resolution density of the laser/receiver ground.
-
-These are not another name for `R_p`. `R_p` will return later as the fine persistence projection.
-
-Now suppose:
-
-`B_r/B_l = 1.2`
-
-This does not mean the receiver gets `1.2` rulers.
-
-It means one receiver-side Cut can contain `1.2` source-resolution worth of state change.
-
 The object is already bound as one object.
 
-The resolution boundaries are local.
+The resolution boundaries remain local.
 
 That creates a synchronization problem.
 
@@ -127,15 +202,15 @@ That creates a synchronization problem.
 
 A GPU and a display do not have to run at the same cadence.
 
-The producer can finish new frames faster than the receiver presents them. Ordinary computing has several ways to survive that mismatch. It can drop a state, repeat one, wait, buffer, interpolate, or let pieces of different states appear together. Screen tearing is one familiar result, and [NVIDIA's VSync explanation](https://www.nvidia.com/en-us/geforce/technologies/adaptive-vsync/technology/) describes the ordinary display problem.
+The producer can finish new frames faster than the receiver presents them. Ordinary computing can survive that mismatch by dropping, repeating, buffering, interpolating, or tearing states. [NVIDIA's VSync explanation](https://www.nvidia.com/en-us/geforce/technologies/adaptive-vsync/technology/) describes the ordinary display problem.
 
 Reality is not being claimed to run a display protocol.
 
-VSync only exposes the question:
+VSync only exposes the abstract question:
 
 > **What happens when one side produces consequential state faster than the other side closes one resolved result?**
 
-The framework candidate cannot casually choose every computer escape route.
+The framework candidate cannot casually use every computer escape route.
 
 If a distinction was consequential, simply dropping it needs an account.
 
@@ -145,17 +220,15 @@ So the receiver faces a stricter task:
 
 > **Several valid source-side resolutions must seat into one coherent receiver-side projection.**
 
-The old monitor's line-by-line scan is not the important part.
+A clean analogy is a global shutter. In an actual global-shutter camera, all sensor pixels begin and end exposure together, even though readout can happen later. [Basler's camera documentation](https://docs.baslerweb.com/electronic-shutter-types) explains that engineering distinction.
 
-A cleaner analogy is a global shutter. In an actual global-shutter camera, all sensor pixels begin and end exposure together, even though readout can still happen later. [Basler's camera documentation](https://docs.baslerweb.com/electronic-shutter-types) explains that engineering distinction.
-
-Now go one step further and imagine an idealized receiver that resolves its entire field in one common Cut.
+Now imagine an idealized receiver that resolves its entire field in one common Cut.
 
 No scanline tearing.
 
-No top half from one state and bottom half from another.
+No upper half from one object-state and lower half from another.
 
-Yet the source and receiver can still carry unequal local resolution.
+Yet the source and receiver can still carry unequal anchor-closed resolution.
 
 What can one coherent result contain?
 
@@ -167,7 +240,7 @@ Give it clear surface landmarks so its changing orientation matters.
 
 Then lock the sphere's center to the center of the receiver-side comparison.
 
-During one slower receiver Cut, the faster source ground may resolve:
+During one receiver Cut, the faster source ground may resolve:
 
 `state A`
 
@@ -183,7 +256,7 @@ These are not three spheres.
 
 They are ordered changes of one sphere around one bound center.
 
-The receiver therefore cannot solve the mismatch by returning separate ghost objects.
+The receiver therefore cannot solve the mismatch by returning ghost objects.
 
 If one coherent object must result, some distinction that was sequential on the source side can become simultaneously represented surface relation inside the receiver-side shape.
 
@@ -191,41 +264,41 @@ A little more front relation.
 
 A little more side relation.
 
-A little later or farther-back surface relation.
+A little later surface relation.
 
 All belonging to one centered result.
 
-For a perfectly featureless sphere, symmetry could hide much of this. Give it asymmetric marks, seams, lights, or engraved arcs, and the relation becomes easier to see.
+For a featureless sphere, symmetry could hide much of this. Give it asymmetric marks, seams, lights, or engraved arcs, and the relation becomes easier to see.
 
 > **More source-side state can become more receiver-side spatial detail without becoming more objects.**
 
-This is the new meaning of *shorter and denser*.
+This is the intuitive mechanism behind *shorter and denser*.
 
-## Sequence becomes spatial/detail density
+## Sequence becomes spatial detail
 
-The useful movement is:
+The movement is:
 
-`more source resolution per receiver Cut`
+`unequal anchor-closed resolving support`
 
-→ `more object-state distinction inside one receiver event`
+→ `different source resolution per receiver Cut`
 
-→ `more relational information must belong to one coherent projection`
+→ `one bound coherent reconciliation`
 
-→ `denser spatial/detail reading`
+→ `surfaced length, detail, or frequency difference`
 
 The receiver does not gain extra universal time.
 
 Time is not being introduced as a primitive container here.
 
-There is only an ordering of source-side resolution and one receiver-side rule for what belongs to its resolved result.
+There is an ordering of source-side resolution and one receiver-side rule for what belongs to its resolved result.
 
 Because binding preserves one object, the additional source-side distinction cannot simply become disconnected time slices.
 
-It can surface as added detail density inside the one receiver-side extent.
+It can surface as added detail density inside one receiver-side extent.
 
-For an extended object moving along one direction, that makes a contracted longitudinal reading a natural candidate.
+For an extended object moving along one direction, a contracted longitudinal reading becomes a natural candidate.
 
-But this does not yet tell us the exact amount.
+But the anchor-closed budget ratio does not yet tell us the exact contraction amount.
 
 That job still belongs to the projection geometry.
 
@@ -233,9 +306,9 @@ That job still belongs to the projection geometry.
 
 Keep those roles separate.
 
-The budget mismatch explains why coherent reconciliation is required:
+The anchor-closed budget mismatch explains why coherent reconciliation is required:
 
-`B_r ≠ B_l`
+`B_ra ≠ B_la`
 
 The simple low-bias geometry from the clock Bit supplies the candidate shape of that reconciliation:
 
@@ -260,25 +333,25 @@ the complementary ratio becomes:
 
 Do not replace that with:
 
-`q = B_l/B_r`
+`q = B_la/B_ra`
 
 That equality has not been derived.
 
 The division is exact:
 
-> **Unequal budget explains why reconciliation is needed. Projection geometry supplies the simple clean amount.**
+> **Anchor-closed budget mismatch explains why reconciliation is needed. Projection geometry supplies the simple clean amount.**
 
 ## Now return to the ruler
 
 A ruler is an extended, persistent relation between distinguishable endpoints.
 
-If its source ground resolves more state during one receiver Cut, the receiver still has to preserve:
+If its source closure resolves more state during one receiver Cut, the receiver still has to preserve:
 
 - one ruler;
 - one bound endpoint relation;
 - one coherent receiver-side spatial result.
 
-The source-side distinction therefore contributes to the one receiver-side projection instead of becoming several disconnected rulers.
+The source-side distinction therefore contributes to one receiver-side projection instead of becoming several disconnected rulers.
 
 In the clean simple case, the projection ratio is `q`, so:
 
@@ -296,11 +369,11 @@ But now the framework has a more concrete candidate for what the projection is d
 
 The ruler is not mechanically crushed.
 
-The receiver-side longitudinal extent is contracted while carrying a denser account of the same bound relation.
+Its receiver-side longitudinal extent is contracted while carrying a denser account of the same bound relation.
 
-> **The clock and the ruler may be two readings of the same bounded projection geometry—and the budget mismatch may explain why that geometry has work to do.**
+> **The clock and the ruler may be two readings of the same bounded projection geometry—and anchor-closed coarseness may explain why that geometry has work to do.**
 
-## Blueshift is the same framework operation
+## Blueshift closes its anchors too
 
 Now replace the ruler with a periodic relation such as light.
 
@@ -312,33 +385,29 @@ That is where the standard account stops and the framework candidate begins.
 
 Inside the framework, gravitational blueshift and ruler contraction are proposed as the **same cross-ground resolution-remapping operation**.
 
-For light entering a higher-budget receiver ground:
+But light does not carry a naked private budget from place to place.
 
-`same bound periodic relation`
+The same bound light relation is resolved first through one anchor-closed ground and later through another:
 
-→ `more cycle distinctions resolved per receiver Cut`
+`source-side anchor closure`
 
-→ `higher measured frequency`
+→ `same bound light relation`
 
-For an extended object crossing unequal grounds:
+→ `receiver-side anchor closure`
 
-`same bound extended relation`
+If the receiver-side closure supports more cycle distinctions per local Cut, the measured frequency rises.
 
-→ `more source-side state reconciled into one spatial Cut`
+For a periodic relation, the mismatch surfaces as **cycle or frequency count**.
 
-→ `greater detail density and shorter measured extent`
+For an extended relation, it surfaces as **spatial/detail density and measured length**.
 
 Different observable.
 
 Same proposed operation.
 
-Periodic relation surfaces the mismatch as **frequency count**.
-
-Extended relation surfaces it as **spatial/detail density and length**.
-
 This is stronger than a visual analogy inside the framework.
 
-It is also not established relativity ontology. Calling it the same operation is a framework unification candidate that still needs quantitative completion.
+It is also not established relativity ontology. The shared-operation claim remains a framework unification candidate that still needs quantitative completion.
 
 ## What has—and has not—been claimed
 
@@ -352,17 +421,25 @@ The current candidate is:
 
 > **The receiver-side coherent projection of the bound extended relation is shorter because more source-side resolved state is reconciled into one receiver-side Cut.**
 
-It does not yet establish that every fine internal separation inside the ruler literally shrinks by the external observer's factor.
+The anchor-closure rule now tells us which relations must be included before a budget comparison is allowed.
+
+It does not provide a universal arithmetic operator for combining arbitrary budgets.
+
+It does not prove that all groupings are mathematically associative.
+
+It does not establish that every fine internal separation inside the ruler literally shrinks by the external observer's factor.
 
 It does not say a camera, retina, monitor, or GPU is literally the universe's mechanism.
 
-It does not derive the Lorentz factor from `B_r/B_l` alone.
+It does not derive the Lorentz factor from a budget ratio alone.
 
 It does not claim Terrell rotation is caused by multi-resolution seating.
 
 And it does not claim gravitational blueshift experimentally proves computational budget.
 
 The camera and VSync examples reveal the synchronization problem.
+
+Anchor closure makes the comparison complete.
 
 The triangle supplies the clean simple projection.
 
@@ -390,6 +467,8 @@ But it now has a natural place for the operational rule:
 
 `one bound extended relation`
 
+→ `one anchor-closed receiver comparison`
+
 → `one receiver-side Cut`
 
 → `one measured longitudinal cross-section`
@@ -406,7 +485,7 @@ The travelling relation changes, turns, reverses orientation, and later reunites
 
 So the next question almost asks itself:
 
-> **If clocks, ruler contraction, and gravitational frequency shift can all be read as the same cross-ground resolution-remapping problem, what happens when that relation changes along an entire path?**
+> **If clocks, ruler contraction, and gravitational frequency shift can all be read as cross-ground resolution-remapping problems, what happens when the anchor-closed relation changes along an entire path?**
 
 That belongs to the next Bit:
 
@@ -416,4 +495,6 @@ This ruler can stop here.
 
 It has done more than become shorter.
 
-It has exposed the synchronization problem hiding underneath the measurement.
+It has shown that coarseness is not a private property of one object.
+
+It is a relation between closed grounds—and every consequential anchor has to arrive before the comparison can begin.
