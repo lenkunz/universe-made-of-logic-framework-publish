@@ -4,7 +4,7 @@ Title: **Why Does Motion Make a Ruler Shorter?**
 Slug: `why-does-motion-make-a-ruler-shorter`  
 Created: 2026-08-27  
 Revision: **v3 — unequal-resolution synchronization / binding clarification**
-Status: **Prepared; publication sync pending**  
+Status: **Article ready; audio pending**n sync pending**  
 Preparation mode: Manual run reproducing the current scheduled **Bits Topic Pack** workflow with a forced topic.
 
 ## Central question
@@ -270,6 +270,8 @@ This Bit is specifically about **special-relativistic inertial length measuremen
 - `bits/why-does-motion-make-a-ruler-shorter/02-notebooklm-source.md`
 - `bits/why-does-motion-make-a-ruler-shorter/03-notebooklm-audio-prompt.md`
 - `bits/why-does-motion-make-a-ruler-shorter/04-work-prompt.md`
+- `bits/why-does-motion-make-a-ruler-shorter/article/why-does-motion-make-a-ruler-shorter.md`
+- `bits/why-does-motion-make-a-ruler-shorter/image/why-does-motion-make-a-ruler-shorter.png`
 
 ## Publication sync status
 

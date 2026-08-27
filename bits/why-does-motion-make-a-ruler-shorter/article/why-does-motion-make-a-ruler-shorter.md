@@ -2,57 +2,57 @@
 
 *The formula may be the easy part. The harder question is how one bound object stays coherent when source and receiver do not resolve at the same rate.*
 
-![Two identical precision rulers are compared through optical gates: the moving ruler remains intact while the selected longitudinal interval is shorter than the stationary reference](../image/why-does-motion-make-a-ruler-shorter.png)
+![One centered calibration sphere carries several faint source-side surface states into one crisp, slightly compressed receiver-side result](../image/why-does-motion-make-a-ruler-shorter.png)
 
-> **Image Caption:** The ruler is not being mechanically crushed. The receiver selects one coherent measurement of a bound object whose source-side state does not have to resolve at the same rate.
+> **Image Caption:** Several source-side states belong to one bound object. The receiver does not return several spheres. It resolves one coherent, detail-dense result.
 
 Imagine a one-metre ruler flying past you at a serious fraction of the speed of light.
 
 Special relativity says that, if the ruler is aligned with its motion, you measure it as shorter than one metre.
 
-That sounds like a picture.
+The easy picture is almost too easy.
 
-The ruler moves fast. The ruler gets squashed. Done.
+The ruler moves fast.
+
+The ruler gets squashed.
+
+Done.
 
 Except a camera does not necessarily record a neatly squashed ruler.
 
-James Terrell showed why in 1959. Light leaving different parts of a fast-moving object does not reach a camera from the same emission moment. Those travel-time differences can make a moving object photograph as rotated or distorted rather than as a simple compressed shape. [Terrell's original paper](https://journals.aps.org/pr/abstract/10.1103/PhysRev.116.1041) makes that distinction explicit.
+James Terrell showed why in 1959. Light leaving different parts of a fast-moving object does not reach the camera from the same emission moment. Those travel-time differences can make a moving object photograph as rotated or distorted rather than as a clean compressed shape. [Terrell's original paper](https://journals.aps.org/pr/abstract/10.1103/PhysRev.116.1041) makes that distinction explicit.
 
-So keep one thing clean from the start:
+So before asking what contraction *is*, keep the measurement clear:
 
-> **Length contraction is a measurement result, not merely what a fast object looks like in one photograph.**
+> **Length contraction is an operational result, not merely what a fast object looks like in one photograph.**
 
-That gives us the better question.
+The framework does not reject the measurement.
 
-How does one moving ruler become one measured object at all?
+It asks what kind of relation could produce it.
 
-## A length needs two endpoint events
+## A moving length needs one common comparison
 
 For a ruler resting beside you, length feels almost automatic.
 
-Find one end. Find the other. Subtract their positions.
+Find one endpoint. Find the other. Subtract their positions.
 
 For a moving ruler, the word *when* enters the problem.
 
-If you record the rear endpoint now and the front endpoint a moment later, the ruler has moved between those two readings. That pair does not define its length in your frame.
+If you record the rear endpoint now and the front endpoint a moment later, the ruler moves between the two readings. That pair does not define its length in your frame.
 
 The operational rule is stricter:
 
 > **Measure both endpoint positions at the same time in the measuring frame.**
 
-This is where simultaneity matters. Events at separated places do not come with one frame-independent tag saying *these happened together*. Different inertial frames can select different endpoint-event pairs as simultaneous, so they can assign different lengths to the same moving ruler. [Einstein Online's explanation of “now”](https://www.einstein-online.info/en/spotlight/Now/) gives a useful standard account of that problem.
+This is where simultaneity matters. Events at separated places do not arrive with one frame-independent tag saying *these happened together*. Different inertial frames can select different endpoint-event pairs as simultaneous, so they can assign different lengths to the same moving ruler. [Einstein Online's explanation of “now”](https://www.einstein-online.info/en/spotlight/Now/) gives a useful standard account of that problem.
 
 The disagreement is not an instrument failure.
 
 It belongs to how the comparison is constructed.
 
-## The standard result
+## The familiar square root appears twice
 
-Let:
-
-`L_0`
-
-be the ruler's rest length, measured in the frame where the ruler is stationary.
+Let `L_0` be the ruler's rest length, measured in the frame where the ruler is stationary.
 
 For an inertial frame in which the ruler moves at speed `v` along its own length, special relativity gives:
 
@@ -62,209 +62,112 @@ or:
 
 `L = L_0/γ`
 
-The measured component parallel to the motion contracts. Transverse dimensions do not receive the same factor. [OpenStax derives the standard relation](https://openstax.org/books/university-physics-volume-3/pages/5-4-length-contraction), and [Einstein Online gives the compact definition](https://www.einstein-online.info/en/explandict/length-contraction/).
+The measured component parallel to the motion contracts. Transverse dimensions do not receive the same factor. [OpenStax derives the standard relation](https://openstax.org/books/university-physics-volume-3/pages/5-4-length-contraction), and [Einstein Online gives the compact directional definition](https://www.einstein-online.info/en/explandict/length-contraction/).
 
-Now notice the equation.
+Now notice the square root:
 
-The same complementary square-root factor already appeared in the previous Bit's clock/process comparison.
+`√(1-v²/c²)`
 
-That is where My GUT Deduction gets interesting.
+It is the same complementary factor that appears in relativistic clock-rate comparisons.
 
-## The factor the clock already found
-
-The previous Bit, **The Clock Reading Is Not the Ontology**, began without making time primitive.
-
-It used:
-
-- `R_p`: fine persistence projection;
-- `R_a`: anchor-relative projection;
-- `R_ap`: the consequential relation between them;
-- `R_all`: the bounded composite that carries them together.
-
-In the simplest low-bias case, only two independently consequential one-dimensional projections matter. If `R_ap` adds no further directional bias at that grain, the simplest geometry is orthogonal:
-
-`R_all² = R_a² + R_p²`
-
-This right triangle is not a universal law of the framework. It is the clean two-projection case.
-
-Then make the candidate physical correspondence:
-
-`R_all ↔ c`
-
-`R_a ↔ v`
-
-The complementary persistence ratio becomes:
-
-`q = R_p/R_all = √(1-v²/c²)`
-
-That is the familiar inverse-Lorentz rate factor.
-
-The previous Bit's important result was not “maybe clocks mean something else.”
-
-It was:
-
-> **The framework's simplest native projection geometry approached the same measured rate formula.**
-
-Now ask what that same `q` does to an extended object.
-
-## A ruler is a bound persistent relation
-
-A physical ruler is not fundamentally two unrelated marks.
-
-It must preserve a consequential relation among its parts, including a stable separation between its endpoints.
-
-Call its rest-domain separation:
-
-`L_0`
-
-The whole ruler also participates in the anchor-relative relation used by the external measuring ground.
-
-So the first framework question is simple:
-
-> **How much of that bound endpoint relation is available on the observer's longitudinal measuring projection?**
-
-In the clean low-bias case, use the same complementary fraction:
-
-`q`
-
-Then:
-
-`L = qL_0`
-
-and because:
+The previous Bit, **The Clock Reading Is Not the Ontology**, found a framework-native route to that factor in its simplest low-bias persistence geometry. Call the ratio:
 
 `q = √(1-v²/c²)`
 
-we get:
+The clock reads `q` through comparable persistence cycles.
 
-`L = L_0√(1-v²/c²)`
+The ruler reads the same `q` through longitudinal separation.
 
-The standard formula has not changed.
-
-The proposed route to it has.
-
-> **The clock and the ruler may be two readings of the same bounded projection geometry.**
-
-Ask how many fine cycles remain available and `q` surfaces as a process-rate reading.
-
-Ask how much longitudinal separation remains available and `q` surfaces as a length reading.
-
-That already gives us one mechanism reused twice.
+That suggests one geometry with two readings.
 
 But it still leaves a deeper question:
 
-Why does a moving extended object need that projection in the first place?
+> **Why does one moving, extended object need a contracted receiver-side projection at all?**
 
-## Binding is immediate. Resolution is not.
+This is where the new mechanism begins.
 
-This is the important update.
+## Binding and resolution do not have to finish together
 
-The framework separates **binding** from **resolution**.
+The framework separates two things that are easy to merge in ordinary language.
 
-A relation can already be bound as the same object or event while different grounds still resolve that relation with different local budgets.
+**Binding** says which changing states belong to the same continuing relation.
 
-Use two new symbols:
+**Resolution** says which distinctions become consequential in a local ground.
 
-- `B_r`: the local resolving budget or resolution density of the ruler/source ground;
-- `B_l`: the local resolving budget or resolution density of the laser/receiver ground.
+The v3 candidate is:
 
-Do not confuse either one with `R_p`. `R_p` is still the fine persistence projection.
+> **Binding can remain immediate and continuous while resolution remains local.**
+
+The ruler does not have to wait for the laser's ground to resolve at exactly the same cadence before the two can remain related.
+
+The laser also does not become the ruler's local ground merely because it measures the ruler.
+
+So give the two sides separate local resolving support:
+
+- `B_r`: the resolving budget or resolution density of the ruler/source ground;
+- `B_l`: the resolving budget or resolution density of the laser/receiver ground.
+
+These are not another name for `R_p`. `R_p` will return later as the fine persistence projection.
 
 Now suppose:
 
-`B_r > B_l`
-
-For a deliberately simple example, imagine:
-
 `B_r/B_l = 1.2`
 
-Over one receiver-side resolution interval, the ruler/source side can contribute about `1.2` source-resolution units worth of state change.
+This does not mean the receiver gets `1.2` rulers.
 
-That sounds impossible only if we assume every ground must share one universal frame boundary.
+It means one receiver-side Cut can contain `1.2` source-resolution worth of state change.
 
-The framework says they do not.
-
-The object is already bound.
+The object is already bound as one object.
 
 The resolution boundaries are local.
 
-So the real problem becomes a synchronization problem.
+That creates a synchronization problem.
 
-## The VSync problem, without pretending reality is a monitor
+## The useful part of VSync
 
-A GPU and a display do not have to run at the same rate.
+A GPU and a display do not have to run at the same cadence.
 
-The GPU can produce new frames faster than the display refreshes. On an ordinary raster display, a new producer frame can arrive while the screen is still scanning out the previous one. The result can be screen tearing.
+The producer can finish new frames faster than the receiver presents them. Ordinary computing has several ways to survive that mismatch. It can drop a state, repeat one, wait, buffer, interpolate, or let pieces of different states appear together. Screen tearing is one familiar result, and [NVIDIA's VSync explanation](https://www.nvidia.com/en-us/geforce/technologies/adaptive-vsync/technology/) describes the ordinary display problem.
 
-VSync exists to coordinate presentation with the display's refresh boundaries so that mismatch does not appear as torn pieces of different frames. [NVIDIA's description of Adaptive VSync](https://www.nvidia.com/en-us/geforce/technologies/adaptive-vsync/technology/) gives the ordinary engineering version.
+Reality is not being claimed to run a display protocol.
 
-That is not the framework mechanism.
+VSync only exposes the question:
 
-It exposes the **problem**.
+> **What happens when one side produces consequential state faster than the other side closes one resolved result?**
 
-> **What happens when one side produces valid state faster than the other side can present or resolve it?**
+The framework candidate cannot casually choose every computer escape route.
 
-A computer has cheap cheats.
+If a distinction was consequential, simply dropping it needs an account.
 
-It can drop a frame.
+If the ruler is one already-bound ruler, tearing it into unrelated identities also fails.
 
-Repeat one.
+So the receiver faces a stricter task:
 
-Buffer one.
+> **Several valid source-side resolutions must seat into one coherent receiver-side projection.**
 
-Wait.
+The old monitor's line-by-line scan is not the important part.
 
-Tear.
+A cleaner analogy is a global shutter. In an actual global-shutter camera, all sensor pixels begin and end exposure together, even though readout can still happen later. [Basler's camera documentation](https://docs.baslerweb.com/electronic-shutter-types) explains that engineering distinction.
 
-The framework's universe has a stricter problem if the distinction is consequential.
+Now go one step further and imagine an idealized receiver that resolves its entire field in one common Cut.
 
-The moving ruler is already one bound ruler.
+No scanline tearing.
 
-It cannot become several unrelated rulers merely because source and receiver resolution boundaries do not line up.
+No top half from one state and bottom half from another.
 
-So the receiver must reconcile the mismatch into one coherent result.
+Yet the source and receiver can still carry unequal local resolution.
 
-That is the part that matters.
+What can one coherent result contain?
 
-## Remove the old monitor's line-by-line distraction
+## Center-lock one marked sphere
 
-A raster display adds another timing problem because the image itself is drawn line by line.
+Use a sphere because its bound center is easy to keep fixed.
 
-A cleaner physical analogy is a global-shutter camera.
+Give it clear surface landmarks so its changing orientation matters.
 
-With a global shutter, all sensor pixels share the same exposure window instead of rows being exposed at different times. [Basler's global-shutter documentation](https://docs.baslerweb.com/electronic-shutter-types) makes that distinction explicit.
+Then lock the sphere's center to the center of the receiver-side comparison.
 
-Now imagine an even cleaner impossible receiver.
-
-It resolves the whole bound object in one receiver-side Cut.
-
-No top-half-from-state-A and bottom-half-from-state-B tearing.
-
-No rolling-shutter skew.
-
-But the source ground can still resolve faster than the receiver ground.
-
-Now the mismatch is naked:
-
-> **Several source-side resolution states can belong to one receiver-side Cut of the same already-bound object.**
-
-What does one coherent result look like?
-
-## Center the Death Star
-
-Take the easiest shape: a sphere like the Death Star.
-
-Give it visible surface features so rotation matters.
-
-Now let it move past or rotate relative to the receiver.
-
-Add one condition:
-
-> **The receiver's focus/binding keeps the Death Star's center fixed at the center of the resolved frame.**
-
-That removes the easy answer where every source state simply appears as another translated copy.
-
-Suppose the faster source side resolves:
+During one slower receiver Cut, the faster source ground may resolve:
 
 `state A`
 
@@ -276,277 +179,220 @@ then part of:
 
 `state C`
 
-inside one slower receiver Cut.
+These are not three spheres.
 
-Binding says these are not Death Star A, Death Star B, and Death Star C.
+They are ordered changes of one sphere around one bound center.
 
-They are state change of **one Death Star**.
+The receiver therefore cannot solve the mismatch by returning separate ghost objects.
 
-So the receiver cannot solve the mismatch by presenting several disconnected identities.
+If one coherent object must result, some distinction that was sequential on the source side can become simultaneously represented surface relation inside the receiver-side shape.
 
-If one coherent centered object must be returned, information that is sequential on the faster side has to be reconciled into one receiver-side projection.
+A little more front relation.
 
-For a perfectly featureless sphere, the silhouette hides most of the effect because every rotation looks alike.
+A little more side relation.
 
-Give the sphere a dish, trenches, or lights and the intuition becomes easier.
+A little later or farther-back surface relation.
 
-A little more front information, a little side information, and a little later or farther-back surface information can all belong to one receiver-side object result.
+All belonging to one centered result.
 
-Not as ghost copies.
+For a perfectly featureless sphere, symmetry could hide much of this. Give it asymmetric marks, seams, lights, or engraved arcs, and the relation becomes easier to see.
 
-Not as a torn frame.
+> **More source-side state can become more receiver-side spatial detail without becoming more objects.**
 
-As more resolved surface relation packed into one apparent extent.
+This is the new meaning of *shorter and denser*.
 
-That is what **shorter and denser** now means inside the framework.
+## Sequence becomes spatial/detail density
 
-## More source-side state becomes more receiver-side density
+The useful movement is:
 
-The useful chain is:
-
-`more source-side resolution per receiver Cut`
+`more source resolution per receiver Cut`
 
 → `more object-state distinction inside one receiver event`
 
-→ `greater relational information density inside the same bound identity`
+→ `more relational information must belong to one coherent projection`
 
-→ `compressed external spatial projection`
+→ `denser spatial/detail reading`
 
-The receiver does not receive extra universal time.
+The receiver does not gain extra universal time.
 
-It receives more resolved state of the same bound relation than its own local ground would have produced independently during that Cut.
+Time is not being introduced as a primitive container here.
 
-Because the object remains one object, the extra source-side distinction does not have to appear as extra disconnected time slices.
+There is only an ordering of source-side resolution and one receiver-side rule for what belongs to its resolved result.
 
-It can become part of the spatial/detail density of the single receiver-side result.
+Because binding preserves one object, the additional source-side distinction cannot simply become disconnected time slices.
 
-This gives the contraction a mechanism that the older phrase “higher budget looks shorter” did not have.
+It can surface as added detail density inside the one receiver-side extent.
 
-## The triangle still tells us how much
+For an extended object moving along one direction, that makes a contracted longitudinal reading a natural candidate.
 
-The VSync/global-shutter story does **not** replace the projection geometry.
+But this does not yet tell us the exact amount.
 
-They do different jobs.
+That job still belongs to the projection geometry.
 
-The budget mismatch explains:
+## Budget mismatch gives the problem. Geometry gives the amount.
 
-> **why coherent reconciliation is required at all.**
+Keep those roles separate.
 
-The triangle explains:
+The budget mismatch explains why coherent reconciliation is required:
 
-> **the clean amount of the projection in the simplest low-bias inertial case.**
+`B_r ≠ B_l`
 
-So the route becomes:
+The simple low-bias geometry from the clock Bit supplies the candidate shape of that reconciliation:
 
-`immediate binding`
-+
-`unequal local resolution budgets`
-→ `one coherent receiver-side reconciliation is required`
+- `R_p`: fine persistence projection;
+- `R_a`: anchor-relative projection;
+- `R_ap`: the consequential binding and reconciliation relation;
+- `R_all`: the bounded composite carrying them together.
 
-then:
+In the clean case, `R_ap` introduces no further directional bias at the grain being asked, so:
 
 `R_all² = R_a² + R_p²`
-→ `q = √(1-v²/c²)`
 
-then:
+Under the candidate physical correspondence:
+
+`R_all ↔ c`
+
+`R_a ↔ v`
+
+the complementary ratio becomes:
+
+`q = R_p/R_all = √(1-v²/c²)`
+
+Do not replace that with:
+
+`q = B_l/B_r`
+
+That equality has not been derived.
+
+The division is exact:
+
+> **Unequal budget explains why reconciliation is needed. Projection geometry supplies the simple clean amount.**
+
+## Now return to the ruler
+
+A ruler is an extended, persistent relation between distinguishable endpoints.
+
+If its source ground resolves more state during one receiver Cut, the receiver still has to preserve:
+
+- one ruler;
+- one bound endpoint relation;
+- one coherent receiver-side spatial result.
+
+The source-side distinction therefore contributes to the one receiver-side projection instead of becoming several disconnected rulers.
+
+In the clean simple case, the projection ratio is `q`, so:
 
 `L = qL_0`
 
-The formula survives.
+and therefore:
 
-The new mechanism explains what the projection is doing.
+`L = L_0√(1-v²/c²)`
 
-## Gravitational blueshift is the same operation here
+The familiar Lorentz length-contraction factor survives.
 
-This is where the previous version of this Bit was too cautious.
+But now the framework has a more concrete candidate for what the projection is doing:
 
-I originally called gravitational blueshift only an analogy.
+> **The receiver reconciles more source-side resolved relation into one coherent spatial Cut.**
 
-Inside this framework, that is not the intended claim.
+The ruler is not mechanically crushed.
 
-It is proposed to be the **same operation**, applied to a different kind of bound relation.
+The receiver-side longitudinal extent is contracted while carrying a denser account of the same bound relation.
 
-Take light moving from a lower resolving-budget ground into a higher resolving-budget ground.
+> **The clock and the ruler may be two readings of the same bounded projection geometry—and the budget mismatch may explain why that geometry has work to do.**
 
-The light does not become a disconnected new beam at the boundary.
+## Blueshift is the same framework operation
 
-The relation remains bound.
+Now replace the ruler with a periodic relation such as light.
 
-But the receiving ground can resolve more distinction of that same repeating relation inside its local Cut.
+Standard general relativity predicts gravitational frequency shift. Light moving away from a gravitating source is redshifted; light falling toward it is blueshifted. [Einstein Online summarizes the established result](https://www.einstein-online.info/en/explandict/redshift-gravitational/), and [NIST has measured gravitational clock-frequency differences across millimetre-scale height differences](https://www.nist.gov/news-events/news/2022/02/jila-atomic-clocks-measure-einsteins-general-relativity-millimeter-scale).
 
-For a wave, extra resolved distinction appears as extra cycle count.
+General relativity does not explain those measurements using resolving budget.
 
-So the framework reads it as:
+That is where the standard account stops and the framework candidate begins.
 
-`same bound light`
-+
-`higher local resolving budget`
-→ `more resolved cycles per local receiving Cut`
+Inside the framework, gravitational blueshift and ruler contraction are proposed as the **same cross-ground resolution-remapping operation**.
+
+For light entering a higher-budget receiver ground:
+
+`same bound periodic relation`
+
+→ `more cycle distinctions resolved per receiver Cut`
+
 → `higher measured frequency`
 
-That is the proposed blueshift mechanism.
+For an extended object crossing unequal grounds:
 
-Reverse the budget relation and the receiving ground resolves fewer cycles per local Cut, giving the corresponding redshift reading.
+`same bound extended relation`
 
-The standard gravitational frequency shift is real and well tested. [Einstein Online summarizes the standard effect](https://www.einstein-online.info/en/explandict/redshift-gravitational/), and [NIST has measured gravitational clock-rate differences over millimetre-scale height differences](https://www.nist.gov/news-events/news/2022/02/jila-atomic-clocks-measure-einsteins-general-relativity-millimeter-scale).
+→ `more source-side state reconciled into one spatial Cut`
 
-General relativity does **not** explain that result using “compute budget.”
-
-That part is the framework's ontology.
-
-But inside the framework, the operation is the same as the ruler case:
-
-`same bound relation`
-+
-`different local resolving budget`
-→ `different amount or form of distinction resolved inside one receiving Cut`
-
-For light, the receiver reads **cycle density**.
-
-For an extended ruler, it reads **spatial/detail density**.
-
-For a clock-like persistence loop, it reads **persistence cycles**.
+→ `greater detail density and shorter measured extent`
 
 Different observable.
 
 Same proposed operation.
 
-## So what exactly became shorter?
+Periodic relation surfaces the mismatch as **frequency count**.
+
+Extended relation surfaces it as **spatial/detail density and length**.
+
+This is stronger than a visual analogy inside the framework.
+
+It is also not established relativity ontology. Calling it the same operation is a framework unification candidate that still needs quantitative completion.
+
+## What has—and has not—been claimed
+
+The standard measurements remain untouched.
 
 The moving ruler is genuinely measured shorter in the observer's frame.
 
-Calling that measurement fake would miss the point.
+Calling that fake would miss the result.
 
-But the current framework deduction still does not require the stronger statement:
-
-> every fine internal separation inside the ruler literally shrinks by exactly the external observer's factor.
-
-The present candidate is narrower:
+The current candidate is:
 
 > **The receiver-side coherent projection of the bound extended relation is shorter because more source-side resolved state is reconciled into one receiver-side Cut.**
 
-Inside the ruler's own ground, its local measuring processes remain co-seated with it.
+It does not yet establish that every fine internal separation inside the ruler literally shrinks by the external observer's factor.
 
-A local one-metre ruler still defines one local metre.
+It does not say a camera, retina, monitor, or GPU is literally the universe's mechanism.
 
-The difference appears across comparison grounds.
+It does not derive the Lorentz factor from `B_r/B_l` alone.
 
-That preserves an older framework principle:
+It does not claim Terrell rotation is caused by multi-resolution seating.
 
-> **A ruler cannot use itself to independently reveal a uniform change of the ground with which it is co-seated.**
+And it does not claim gravitational blueshift experimentally proves computational budget.
 
-## Simultaneity as a receiver-side Cut
+The camera and VSync examples reveal the synchronization problem.
 
-Return to the ordinary length measurement.
+The triangle supplies the clean simple projection.
+
+The physical measurements remain the test.
+
+## Simultaneity becomes a receiver-side Cut
+
+Return to the two ruler endpoints.
 
 The observer cannot combine any rear-end state with any front-end state and call their difference a length.
 
-Both endpoint events have to belong to one valid observer-side comparison.
+Both events must belong to one valid observer-side comparison.
 
-The framework candidate can now be stated more naturally:
+The framework candidate is:
 
-> **A length measurement is one receiver-side Cut through the already-bound extended relation.**
+> **A valid ruler measurement selects both endpoint events through one common observer-side measurement Cut.**
 
-A different receiving ground can select a different coherent cross-section.
+A different receiving ground can select a different coherent cross-section of the same moving extended relation.
 
 That resembles the role of simultaneity slices in special relativity.
 
 The framework has not yet derived the full relativity of simultaneity from its primitives.
 
-But the need for one common receiver Cut no longer looks like an arbitrary rule pasted onto the ruler.
+But it now has a natural place for the operational rule:
 
-It follows from the measurement problem:
+`one bound extended relation`
 
-> **What coherent bound object resolves inside this receiver relation?**
+→ `one receiver-side Cut`
 
-## Why the effect stays directional
-
-The standard contraction is longitudinal.
-
-The framework's clean geometry already expects a directional effect because `R_a` occupies the direction of relative motion.
-
-A ruler component sharing that projection participates in the trade.
-
-A perpendicular separation does not spend its measured component on that same axis.
-
-So the simple case does not predict that the ruler shrinks uniformly in every direction.
-
-The synchronization mechanism explains why state reconciliation is needed.
-
-The triangle preserves the directional projection.
-
-## A real camera still asks a different question
-
-The global-shutter analogy should not erase Terrell's result.
-
-A real photograph asks which photons reached a detector under its exposure and light-travel-time geometry.
-
-Special relativity predicts that this appearance can differ from the operational Lorentz-contracted length.
-
-The framework thought experiment asks something deeper and different:
-
-> **How does one already-bound relation resolve coherently when its source and receiver grounds do not share the same resolution budget?**
-
-The camera and VSync examples isolate that synchronization problem.
-
-They are not evidence that a physical camera manufactures Lorentz contraction.
-
-## The second hit is now more than a repeated square root
-
-The first Bit found:
-
-`q = √(1-v²/c²)`
-
-through the framework's simplest persistence projection.
-
-This Bit finds the same `q` in the ruler's longitudinal measurement.
-
-The new synchronization mechanism explains why an extended moving relation should need that projection in the first place.
-
-So the chain is becoming:
-
-`binding`
-+
-`local resolving budget`
-+
-`receiver Cut`
-+
-`simple projection geometry`
-→ `measured result`
-
-For the clock, the result is persistence-cycle difference.
-
-For the ruler, it is length contraction.
-
-For light crossing unequal budget grounds, it is frequency shift.
-
-The claim is not that standard relativity secretly uses VSync.
-
-The claim is:
-
-> **A single framework operation is beginning to approach several measurements that standard relativity describes through spacetime geometry.**
-
-That is the useful result.
-
-## What remains open
-
-The new mechanism is more specific, so the remaining questions are more specific too.
-
-The framework still needs to sharpen:
-
-- the exact quantitative mapping between `B_r/B_l` and the clean projection ratio `q`;
-- whether the budget ratio is the deeper meaning of the motion projection or a separate bookkeeping layer;
-- whether literal fine-domain re-seating accompanies the receiver-side contraction;
-- a full derivation of relativity of simultaneity from binding and receiver Cuts;
-- acceleration, rotation, material stress, strong gravity, and many-bias cases.
-
-Biological perception is also not literally a global-shutter framebuffer, so the retina should not be used as if it were one. The global-shutter example is only the clean receiver analogy.
-
-None of those open questions erase the present result.
-
-The present result is simpler:
-
-> **Unequal local resolution explains why reconciliation is needed. The simple projection geometry explains why the clean inertial ruler is measured with the familiar Lorentz factor.**
+→ `one measured longitudinal cross-section`
 
 ## When one Cut becomes a whole path
 
@@ -560,7 +406,7 @@ The travelling relation changes, turns, reverses orientation, and later reunites
 
 So the next question almost asks itself:
 
-> **If one receiver-side Cut can reconcile a moving ruler this way, what happens when the resolving and projection relation changes through an entire path and the histories later meet again?**
+> **If clocks, ruler contraction, and gravitational frequency shift can all be read as the same cross-ground resolution-remapping problem, what happens when that relation changes along an entire path?**
 
 That belongs to the next Bit:
 
