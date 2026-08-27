@@ -100,4 +100,6 @@ This Bit owns:
 - `bits/the-clock-reading-is-not-the-ontology/01-sources-to-load.md`
 - `bits/the-clock-reading-is-not-the-ontology/02-notebooklm-source.md`
 - `bits/the-clock-reading-is-not-the-ontology/03-notebooklm-audio-prompt.md`
-- `bits/the-clock-reading-is-not-the-ontology/04-work-prompt.md`\n- `bits/the-clock-reading-is-not-the-ontology/article/the-clock-reading-is-not-the-ontology.md`\n- `bits/the-clock-reading-is-not-the-ontology/image/the-clock-reading-is-not-the-ontology.webp`
+- `bits/the-clock-reading-is-not-the-ontology/04-work-prompt.md`
+- `bits/the-clock-reading-is-not-the-ontology/article/the-clock-reading-is-not-the-ontology.md`
+- `bits/the-clock-reading-is-not-the-ontology/image/the-clock-reading-is-not-the-ontology.webp`
