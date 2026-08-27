@@ -1,4 +1,4 @@
-# Work Prompt — Build the Bit Article
+# Work Prompt — Revise the Bit Article
 
 ## Bit
 
@@ -8,9 +8,9 @@ Slug:
 
 `why-does-motion-make-a-ruler-shorter`
 
-This is a presentation-layer build, not a new deduction session.
+This is a presentation-layer **revision** of an existing article, not a new deduction session.
 
-Use the newest GitHub framework sources as semantic authority when available.
+Use the newest GitHub framework sources as semantic authority.
 
 Primary package source:
 
@@ -21,6 +21,7 @@ Supporting package sources:
 - `00-manifest.md`
 - `01-sources-to-load.md`
 - `03-notebooklm-audio-prompt.md`
+- `source/changes/relation-origin-and-composed-budget.md`
 
 Direct predecessor:
 
@@ -32,13 +33,15 @@ Preserve the predecessor's v3 scope correction.
 
 # Job
 
-Create:
+Revise the existing:
 
 `article/why-does-motion-make-a-ruler-shorter.md`
 
-The article must stand alone for a general reader, while clearly feeling like the next Bit for readers who saw **The Clock Reading Is Not the Ontology**.
+Do not throw away valid article work, citations, image placement, or the existing ending.
 
-Use this public arc:
+The article must still stand alone for a general reader and still feel like the next Bit after **The Clock Reading Is Not the Ontology**.
+
+Preserve the existing public arc:
 
 `moving-ruler puzzle`
 → `measurement is not photograph`
@@ -48,6 +51,7 @@ Use this public arc:
 → `ruler as persistent endpoint relation`
 → `same projection, second surfaced reading`
 → `what contraction does and does not mean`
+→ `new unequal resolving-budget branch`
 → `simultaneity as candidate measurement Cut`
 → `transverse check`
 → `twin-paradox curiosity`
@@ -75,9 +79,9 @@ Do not use “see” or “looks shorter” as a substitute for the actual lengt
 
 ---
 
-# Framework entry
+# Preserve the clean framework result
 
-Only after the ordinary relativity problem is clear, inherit the previous Bit's simple case:
+After the ordinary relativity problem is clear, inherit the previous Bit's simple case:
 
 - `R_p` = fine persistence projection;
 - `R_a` = anchor-relative projection;
@@ -100,7 +104,7 @@ Complementary ratio:
 
 The previous Bit reads `q` through persistence cycles.
 
-This Bit's new candidate is:
+This Bit's clean candidate remains:
 
 > **An extended persistent endpoint relation carried by the same domain exposes that same `q` on the external longitudinal measuring projection.**
 
@@ -108,11 +112,94 @@ Therefore:
 
 `L = qL_0`
 
-which approaches the same standard longitudinal length-contraction formula.
+which approaches the standard longitudinal length-contraction formula.
 
-Make this the centerpiece:
+Keep this centerpiece:
 
 > **The clock and the ruler may be two readings of the same bounded projection geometry.**
+
+Do not weaken that result.
+
+---
+
+# Critical scope clarification
+
+The clean `q` result is the **simple inertial, low-bias, no-extra-budget-mismatch baseline**.
+
+Do not silently assume that every ruler ground and every measuring ground carry identical effective resolving capacity.
+
+Use the canonical budget source:
+
+`source/changes/relation-origin-and-composed-budget.md`
+
+Preserve these statements:
+
+- budget is relational iteration capacity, not universal time;
+- equal primitive participation can carry unequal effective resolving capacity;
+- once relation composes, more seated relational work can be carried per primitive iteration;
+- anchor contribution and spend need not be symmetric.
+
+---
+
+# Add the unequal resolving-budget branch
+
+Insert a focused section after **What became shorter?** and before **Simultaneity as a measurement Cut**.
+
+Use local bookkeeping only:
+
+- `R_p,r` = ruler-side local persistence support;
+- `R_p,l` = laser/measurement-ground local persistence support.
+
+These are not new primitives. They are the same persistence role seated in two different grounds.
+
+Ask:
+
+> **What if the ruler and the laser measuring it do not carry the same effective resolving work per primitive participation?**
+
+Candidate qualitative route:
+
+`ruler ground carries more fine relational distinction per local projection`
+→ `laser measures through a coarser local ruler`
+→ `same ruler-side relational content fits into a smaller measured interval`
+→ `shorter + denser external reading`
+
+Explain that the mismatch adds consequential bias through `R_ap`.
+
+Therefore the simple right-angle geometry is no longer guaranteed to be the full comparison.
+
+Do not invent a general biased-angle formula in this article.
+
+The point is structural:
+
+> **the unequal-budget case is the next biased geometry, not a contradiction to the clean Lorentz-like baseline.**
+
+---
+
+# Gravity / blueshift analogy
+
+Add a short, carefully bounded connection.
+
+The framework can compare:
+
+`ruler-side separation`
+→ `cross-ground relation`
+→ `laser-side ruler`
+→ length/density reading
+
+with:
+
+`source-side repeating relation`
+→ `cross-ground relation`
+→ `receiver-side clock`
+→ frequency reading
+
+This suggests a possible broader family of **cross-ground persistence comparisons**.
+
+But preserve the status:
+
+> **This is a structural analogy / physical-mapping candidate. It is not yet a derivation that inertial length contraction and gravitational redshift/blueshift are the same physical mechanism.**
+
+Gravity remains Candidate Correspondence.
 
 ---
 
@@ -126,19 +213,21 @@ Do not yet say:
 
 > “Every fine internal distance literally shrinks by exactly the observer's measured amount.”
 
-The current claim is:
+The clean current claim is:
 
 > **The externally measured longitudinal separation available on that comparison projection is contracted by the same factor.**
 
 Fine-domain literal re-seating/shrink remains open.
 
+Also do not fold the unequal-budget branch into the clean Lorentz factor unless a later derivation earns that mapping.
+
 ---
 
 # Simultaneity handling
 
-Explain the standard operational requirement first.
+Preserve the standard operational requirement first.
 
-Then introduce the framework candidate:
+Then retain the framework candidate:
 
 > **A valid ruler measurement selects both endpoint events through one common observer-side measurement Cut.**
 
@@ -150,11 +239,22 @@ This is a promising mapping, not completed ground.
 
 ---
 
+# Transverse handling
+
+Preserve the clean inertial sanity check:
+
+- the ordinary contraction is along the motion projection;
+- a transverse separation does not participate in the same simple longitudinal tradeoff.
+
+Do not automatically apply that same directional rule to the extra unequal-budget bias. Its geometry is not yet derived.
+
+---
+
 # Continuation boundary
 
-Do not let this article absorb the twin paradox.
+Do not let this revision absorb the twin paradox.
 
-End with curiosity:
+Keep the existing ending and curiosity:
 
 > If the same local projection gives both the clock-rate and ruler-length readings, what happens when the relation changes along a whole path and the histories later reunite?
 
@@ -162,31 +262,20 @@ That is reserved for:
 
 **The Twin Paradox Is a Path Comparison**
 
+The unequal-budget branch should enrich the ruler Bit without stealing its ending.
+
 ---
 
-# Image generation required during Work build
+# Existing image
 
-Generate the actual editorial image during article production.
-
-Preferred path:
+A finished hero image already exists at:
 
 `bits/why-does-motion-make-a-ruler-shorter/image/why-does-motion-make-a-ruler-shorter.png`
 
-Embed it with a relative Markdown link.
+Preserve it unless the revised prose creates a genuine visual contradiction.
 
-Preserve visible `Image Caption` / `Article Slot` blockquotes where useful.
+Do not regenerate the image merely because the text gained a new candidate branch.
 
-## Image concept
+Keep the existing relative Markdown image link and visible image caption.
 
-Use the supplied Flow concept:
-
-- precision ruler moving through synchronized optical measurement gates;
-- identical stationary reference ruler;
-- clean measured longitudinal interval visibly shorter;
-- faint optical afterimage hinting that photographic appearance differs from operational measurement;
-- no mechanical crushing;
-- 16:9;
-- useful negative space;
-- no text, equations, arrows, generic spacetime grids, or sci-fi stock styling.
-
-Do not create audio or additional NotebookLM artifacts during Work build.
+Do not create audio or additional NotebookLM artifacts during this revision.
