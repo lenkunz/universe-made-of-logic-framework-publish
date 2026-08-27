@@ -3,6 +3,7 @@
 Title: **Why Does Motion Make a Ruler Shorter?**  
 Slug: `why-does-motion-make-a-ruler-shorter`  
 Created: 2026-08-27  
+Updated: 2026-08-27  
 Status: **Article ready; audio pending**  
 Preparation mode: Manual run reproducing the current scheduled **Bits Topic Pack** workflow with a forced topic.
 
@@ -11,6 +12,8 @@ Preparation mode: Manual run reproducing the current scheduled **Bits Topic Pack
 Special relativity says a ruler moving along its own length is measured shorter by the same factor that appears in relativistic clock-rate comparisons.
 
 Is that a second independent rule, or can the framework read both effects as two surfaced measurements of the same bounded projection geometry?
+
+And what changes if the ruler's local persistence ground and the measuring laser/observer ground do not carry the same effective resolving capacity?
 
 ## Central payoff
 
@@ -38,6 +41,8 @@ This Bit asks whether an extended persistent separation carried by the same doma
 
 which is the standard longitudinal length-contraction factor.
 
+The clean `q` result is explicitly the **simple low-bias / no-extra-budget-mismatch case**. A difference in effective resolving capacity between the measured ruler ground and measuring laser/observer ground is a further bias carried through `R_ap`, not part of the clean right-triangle baseline.
+
 ## Framework status
 
 ### Inherited current deduction candidate
@@ -46,7 +51,10 @@ which is the standard longitudinal length-contraction factor.
 - a clock is a selected repeating persistence loop;
 - `R_a`, `R_p`, and `R_ap` can seat into one coarse `R_all`;
 - in the simplest low-bias two-projection case, `R_a` and `R_p` can be represented orthogonally;
-- under the physical correspondence `R_all ↔ c`, `R_a ↔ v`, the persistence ratio approaches the standard inverse-Lorentz factor.
+- under the physical correspondence `R_all ↔ c`, `R_a ↔ v`, the persistence ratio approaches the standard inverse-Lorentz factor;
+- budget is relational iteration capacity rather than universal time;
+- equal primitive participation does not require equal effective resolving capacity;
+- contribution and spend across an anchor relation need not be symmetric.
 
 ### New deduction candidate in this Bit
 
@@ -54,6 +62,21 @@ which is the standard longitudinal length-contraction factor.
 - when that extended relation is compared through the same simple anchor-relative projection, the externally measured longitudinal component should expose the same complementary ratio `q`;
 - therefore the same framework geometry approaches the standard longitudinal length-contraction factor;
 - observer-frame simultaneity can be provisionally reread as selecting one common observer-side measurement Cut through the moving extended relation.
+
+### New biased cross-ground candidate
+
+The simple inertial result isolates the motion projection. It should not silently assume that every comparison ground carries identical effective resolving capacity.
+
+For local bookkeeping, distinguish the ruler-side persistence support from the measuring-laser/observer-side persistence support, for example:
+
+- `R_p,r` = ruler-side local persistence support;
+- `R_p,l` = laser/measurement-ground local persistence support.
+
+These are not new primitives. They mark the same persistence role seated in two different grounds.
+
+If `R_p,r` and `R_p,l` carry different effective resolving work per primitive iteration, `R_ap` gains an additional comparison bias. A measuring ground with a coarser local resolving scale may read the same ruler-side relational content as occupying a smaller measured interval, which also makes that content appear denser per measured interval.
+
+Structurally, this resembles the framework's candidate reading of gravitational redshift/blueshift: one local persistence standard is being compared through another ground's local ruler/clock. This is only a **shared structural analogy / physical-mapping candidate**, not a derived statement that inertial length contraction and gravitational blueshift are the same physical mechanism.
 
 ### Important boundary
 
@@ -67,7 +90,13 @@ into:
 
 without a separate fine-domain mapping.
 
-The present Bit only needs the measured projection result.
+Also do not fold unequal resolving-budget bias into the clean Lorentz factor without deriving that mapping.
+
+The current clean result remains:
+
+> **simple inertial projection, with no additional consequential cross-ground budget bias, approaches the standard longitudinal contraction factor.**
+
+The unequal-budget case is the next biased extension.
 
 ## Standard-science boundary
 
@@ -81,6 +110,8 @@ Length measurement requires endpoint positions assigned to the same observer-fra
 
 A photograph is not automatically such a measurement; finite light-travel-time effects can make a rapidly moving object look rotated rather than simply Lorentz-contracted.
 
+The resolving-budget extension is a framework candidate and should not be presented as an established modification of special relativity.
+
 ## Closest overlap
 
 ### Direct predecessor
@@ -93,13 +124,13 @@ That Bit owns:
 
 This Bit owns:
 
-> the second surfaced measurement: longitudinal ruler length.
+> the second surfaced measurement: longitudinal ruler length, plus the boundary between the clean inertial projection and an additional cross-ground resolving-budget bias.
 
 ### Nearby older ruler/cosmology family
 
 Existing Bits about shrinking rulers / cosmological scale comparison remain nearby in vocabulary, but they own remote cosmological comparison and redshift territory.
 
-This Bit is specifically about **special-relativistic inertial length measurement and simultaneity**.
+This Bit is specifically about **special-relativistic inertial length measurement and simultaneity**, while only opening the resolving-budget/gravity analogy as a future biased mapping.
 
 ## Package paths
 
