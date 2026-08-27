@@ -30,15 +30,38 @@ Open with:
 
 > **The clock and the ruler may be two readings of the same bounded projection geometry.**
 
-8. Preserve the boundary:
+8. Clarify the scope of that clean result:
+   - it is the simple low-bias case;
+   - it isolates the motion projection;
+   - it assumes there is no additional consequential resolving-capacity mismatch between the ruler ground and the measuring ground.
+9. Introduce the framework's canonical budget rule:
+   - budget is relational iteration capacity, not universal time;
+   - equal primitive participation does not imply equal effective resolving capacity;
+   - one seated ground can carry more relational work per primitive participation than another.
+10. For local bookkeeping only, introduce:
+   - `R_p,r` = ruler-side local persistence support;
+   - `R_p,l` = laser/measurement-ground local persistence support.
+   These are not new primitives. They expose the possibility that the measured and measuring grounds do not carry identical effective resolving capacity.
+11. Explain the new biased candidate:
+   - if `R_p,r` and `R_p,l` differ consequentially, the mismatch belongs in `R_ap` as additional bias;
+   - the clean right-angle geometry is then no longer guaranteed to be the entire comparison;
+   - a ruler ground carrying more fine relational distinction per local projection may be read through a coarser measurement ground as occupying a smaller measured interval and therefore appearing denser per measured interval.
+12. Connect this carefully to gravitational redshift/blueshift as a structural analogy:
+   - length comparison reads one ground through another ground's ruler;
+   - frequency comparison reads one ground through another ground's clock/persistence standard;
+   - both may be members of a broader family of cross-ground persistence comparisons.
+   Do not claim that inertial length contraction and gravitational blueshift have already been derived as the same physical mechanism.
+13. Preserve the original boundaries:
    - measured contraction is real;
    - do not yet claim every fine internal relation literally shrinks by the observer's factor;
-   - the framework has not yet fully derived relativity of simultaneity.
-9. Explain simultaneity in framework language as a candidate:
+   - the framework has not yet fully derived relativity of simultaneity;
+   - no quantitative unequal-budget formula has been derived yet.
+14. Explain simultaneity in framework language as a candidate:
    - a valid length requires one common observer-side measurement Cut selecting both endpoint events.
-10. Mention the transverse sanity check:
-   - the ordinary contraction is only along the motion projection.
-11. End by opening the twin-paradox continuation:
+15. Mention the transverse sanity check:
+   - the clean inertial contraction is only along the motion projection;
+   - do not assume the extra unequal-budget bias has the same directional rule until that geometry is derived.
+16. End by opening the twin-paradox continuation:
 
 **If one local projection can explain both a clock reading and a ruler reading, what happens when that projection changes along an entire path and the histories reunite?**
 
@@ -50,10 +73,17 @@ Do not say:
 - a photograph directly shows the Lorentz-contracted ruler;
 - the framework has already derived the full Lorentz transformation;
 - all physical dimensions uniformly shrink;
-- fine-domain literal shrink has already been established.
+- fine-domain literal shrink has already been established;
+- `R_p,r` and `R_p,l` are new primitives;
+- unequal resolving capacity is already part of the standard Lorentz formula;
+- inertial length contraction and gravitational blueshift are already one derived mechanism;
+- a quantitative biased-angle law has already been derived.
 
 Do say:
 
 - the standard measurement and formula are preserved;
+- the clean `q` result is the simple no-extra-budget-mismatch baseline;
 - the framework is testing whether the same native projection ratio can surface through a second measured quantity;
-- this is a continuation and reuse of the previous Bit's mechanism.
+- unequal effective resolving capacity is a further cross-ground bias candidate carried through `R_ap`;
+- the gravity/blueshift connection is a structural analogy and future physical-mapping target;
+- this remains a continuation and reuse of the previous Bit's mechanism.
