@@ -4,7 +4,7 @@ Title: **The Twin Paradox Is a Path Comparison**
 Slug: `the-twin-paradox-is-a-path-comparison`
 Revision: **v2 — relation accumulation / resolving-budget path**
 Created: 2026-08-27
-Status: **Prepared; publication sync unresolved**
+Status: **Article ready; audio pending**
 
 ## Central correction
 
