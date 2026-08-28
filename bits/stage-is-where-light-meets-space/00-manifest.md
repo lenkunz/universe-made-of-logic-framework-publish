@@ -5,7 +5,6 @@ Slug: `stage-is-where-light-meets-space`
 Subtitle: **Perception may be the most ordinary form of relativity.**  
 Run type: **Forced topic / Bits Topic Pack**  
 Prepared: 2026-08-27 23:42 Asia/Bangkok  
-Revision: **v2 — Afference / Efference / Stage Flip**  
 Status: **Prepared; publication sync unresolved**
 
 ## Place in the set

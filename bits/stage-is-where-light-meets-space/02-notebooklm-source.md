@@ -40,98 +40,6 @@ or in the old lore:
 
 There is no primitive time term in that root.
 
-
-# Afference and Efference: relation has a side
-
-The old P-lane theory had names for something this framework kept using without naming clearly.
-
-**Afference** is relation reaching inward.
-
-It is the perception side of the domain.
-
-**Efference** is relation reaching outward.
-
-It is the perception side of Space.
-
-Both require budget.
-
-This does not create two kinds of substance. It gives one relation two orientations depending on which domain is anchoring the Stage.
-
-Suppose Domain A reaches toward Domain B.
-
-From A:
-
-`A → Efference`
-
-At Stage, that same relation is seated against B.
-
-From B:
-
-`A's Efference → Stage → B's Afference`
-
-The relation did not disappear and get replaced.
-
-Its **side flipped**.
-
-That is why Stage is more than the place where something becomes measurable.
-
-> **Stage is the turning interface where relation can change from one domain's outward reach into another domain's inward perception.**
-
-And because the orientation is relative, B can later resolve what arrived inward and reach outward again:
-
-`B Afference`
-→ `B resolves`
-→ `B Efference`
-→ `Stage`
-→ `another Afference`
-
-The universe can therefore circulate relation without requiring an outside Actor.
-
-# The flip can become persistence
-
-Now close the relation.
-
-A domain receives relation inward as Afference.
-
-It resolves that relation through its own seated structure.
-
-That produces Efference.
-
-The Efference reaches Stage and can return / bind into the next Afference.
-
-In the simplest recurring picture:
-
-`Afference`
-→ `domain resolution`
-→ `Efference`
-→ `Stage`
-→ `Afference`
-→ `...`
-
-Both Afference and Efference require budget.
-
-But if the loop is stable enough to keep returning the domain to a relation that can continue, the loop itself can provide the persistence budget.
-
-That gives a more native meaning to persistence:
-
-> **Persistence is not merely “still existing.” It can be the result of a stable Afference–Efference loop that keeps the domain resolvable as the same coarse relation.**
-
-Do not read this as free energy.
-
-It is a statement about relational budget and reusable closure.
-
-A stable loop does not need every internal distinction to be rebuilt from nothing at every pass. It can act as already-resolved ground for the next relation.
-
-This also explains why perception and action are not fundamentally separate categories.
-
-What one domain sends outward as Efference can become another domain's Afference.
-
-What one domain perceives inward can become the ground of its next outward relation.
-
-So:
-
-> **One domain's action can literally be another domain's perception, depending on which side of Stage anchors the relation.**
-
 # Perception is not an illusion
 
 “The universe is perception” can sound like nothing exists until a mind looks. That is not the claim.
@@ -210,8 +118,6 @@ The framework takes that mundane operation seriously:
 
 > **A domain never receives another domain absolutely. It receives the relation between them, resolved at its own grain.**
 
-In the older P-lane vocabulary, remote Efference becomes local Afference at Stage. The receiving domain then resolves that Afference at the grain its current relation can support.
-
 Vision may be the simplest visible example of relational projection.
 
 # Why the right triangle keeps appearing
@@ -278,8 +184,6 @@ A domain seated inside Earth's enormous anchored relation does not require Earth
 
 > **Gravity is a Stage-side perception of being consequentially anchored inside another domain.**
 
-In Afference/Efference terms, the gravitational relation is not a remote actor pulling. It is part of the relation arriving inward as Afference and being resolved by the local Stage, while the domain's own Efference continues outward through that anchor.
-
 A freely falling observer is locally weightless. Framework language: body and nearby Stage co-resolve along the same anchor relation.
 
 Standing on the ground is different. The ground maintains another anchored relation that prevents the body from simply following free resolution. The distinction becomes locally measurable as support, pressure, and weight.
@@ -336,42 +240,6 @@ Perspective looked too ordinary to explain. Gravity looked too familiar to quest
 But if the framework is right, all of them were already inside the Stage. There was never an external measuring stick. There was only relation meeting domain.
 
 > **The universe may use perspective everywhere. We only gave it a special name when our eyes made the geometry obvious.**
-
-
-# The root loop underneath the set
-
-The current set can now be compressed further.
-
-`Light`
-= relation
-
-`Space`
-= domain / anchor
-
-`Stage`
-= the turning interface where relation becomes measurable and can flip orientation
-
-`Afference`
-= relation reaching inward
-
-`Efference`
-= relation reaching outward
-
-`Persistence`
-= a possible stable returning Afference–Efference loop
-
-`Perspective`
-= how another domain's Efference is resolved as this domain's Afference at the grain available here
-
-That is why the same language can reach vision, rulers, clocks, motion, redshift, gravity, and the Twin path without requiring primitive time.
-
-The framework's commonsense breaker is no longer merely:
-
-> everything is perspective.
-
-It is:
-
-> **Everything measurable is relation crossing Stage, and perspective is what that crossing looks like from one anchored side.**
 
 # External boundary
 

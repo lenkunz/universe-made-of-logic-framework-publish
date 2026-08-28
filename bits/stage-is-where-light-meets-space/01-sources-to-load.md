@@ -21,44 +21,7 @@ GitHub access failed during package preparation, so do not silently overwrite ne
 
 Use `Relation + Domain → Stage`. No primitive time term.
 
-#
-## Afference / Efference / Stage Flip
-
-Preserve these original P-lane terms.
-
-### Afference
-
-> **Relation reaching inward, the perception side of the domain.**
-
-### Efference
-
-> **Relation reaching outward, the perception side of Space.**
-
-Both require budget.
-
-At Stage the orientation flips relative to the newly anchoring domain:
-
-`Domain A Efference → Stage → Domain B Afference`
-
-and a later outward resolution can continue:
-
-`Domain B Afference → internal resolution → Domain B Efference → Stage → ...`
-
-Do not define inward/outward absolutely.
-
-They are relational orientations.
-
-### Persistence loop
-
-Afference and Efference can form a returning loop that provides / sustains persistence budget.
-
-Use:
-
-> **A stable Afference–Efference loop can become the recurring relation through which a domain persists.**
-
-Do not replace this with a generic “input/output” metaphor. The terms are framework-native and should remain visible.
-
-## Perception
+### Perception
 
 > **Perception is the Stage-side resolution of relation against a domain.**
 
