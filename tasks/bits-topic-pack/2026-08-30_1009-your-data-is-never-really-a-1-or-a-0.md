@@ -1,0 +1,1 @@
+GitHub write probe for prepared Bits package archive. Full archive is available in the run output and will replace this probe if repository access succeeds.
