@@ -1,66 +1,73 @@
 # Bits Topic Checklist — My GUT Deduction
 
-Updated: 2026-08-25  
-Purpose: prevent future Bits packages from duplicating an already-published topic, repeating the same central mechanism with a cosmetic new example, or preparing the same candidate twice.
-
-## How to use this checklist
-
-Before choosing a new Bits topic, check four things:
-
-- [ ] **External topic is new.** The main real-world subject has not already been the center of a Bit.
-- [ ] **Central question is new.** A new title is not enough if the episode asks essentially the same question.
-- [ ] **Mechanism is not merely repeated.** Reusing a framework concept is fine, but the ordinary topic should make genuinely new work happen.
-- [ ] **Examples are not carrying the whole novelty.** If the only difference is swapping one example for another while keeping the same story, treat it as overlap.
-- [ ] **Prepared-but-unpublished topics are checked too.**
-- [ ] **If an old Bit mentioned the new topic only briefly, a dedicated episode is allowed only when the new piece has substantial independent research and a clearly different question.**
-
-A useful decision rule:
-
-`same phenomenon`
-OR
-`same central question + same mechanism + similar examples`
-→ **do not repeat**
-
-while:
-
-`brief earlier mention`
-+
-`new research / new central question / new explanatory payoff`
-→ **may be developed later**
-
----
+Updated: 2026-08-30  
+Purpose: prevent future Bits packages from duplicating an already-published topic, repeating the same central mechanism with cosmetic new examples, or preparing the same candidate twice.
 
 ## Publication sync rule
 
-The preferred live publication source is the Cloudflare-proxied Bits RSS:
+Preferred live source: `https://souta.me/rss/podcasts`  
+Upstream: `https://api.substack.com/feed/podcast/10455398/s/443918.rss`  
+Fallback snapshot: `resource/substack-bits-podcast.rss`
 
-`https://souta.me/rss/podcasts`
-
-Its upstream source is the Substack podcast RSS:
-
-`https://api.substack.com/feed/podcast/10455398/s/443918.rss`
-
-Because the suggested Bit title is also the title used for publication, exact RSS title matches can be used to move a prepared Bit into the Published section.
-
-If live access is unavailable, use the GitHub-maintained snapshot:
-
-`resource/substack-bits-podcast.rss`
-
-The workflow `.github/workflows/refresh-substack-bits-rss.yml` refreshes that snapshot through the Cloudflare proxy. The snapshot is the durable fallback and should be preferred over guessing from package existence.
-
-For every Bits Topic Pack run:
-
-1. sync this checklist against the live proxied feed when reachable, otherwise the committed snapshot;
-2. prepare and instantiate the new Bit package;
-3. ensure the new title is recorded under **Prepared but not published** unless already in the feed;
-4. sync against the feed again after package preparation;
-5. when an exact prepared title appears in RSS, move it to **Published Bits**, preserve its useful metadata, record the RSS publication date and Substack URL, and remove it from Prepared.
-
-A package existing under `bits/` is evidence that it was prepared, not that it was published.
+A package existing under `bits/` means prepared, not published. Exact RSS title matches are authoritative for publication status.
 
 ---
 
 # Published Bits
+
+## 2026-08-28
+
+- [x] **The CMB Is Losing the Resolution Race**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/the-cmb-is-losing-the-resolution
+  - RSS publication time: 2026-08-28 15:36:03 +07:00.
+  - External topic: cosmic microwave background temperature, blackbody spectrum, anisotropy, and cosmological cooling.
+  - Main question: could a coarse cosmological background appear progressively colder relative to a fine world even if it continues receiving equal fundamental support?
+  - Framework hook: fine relational density can compound faster than broad coarse relation; cross-resolution comparison is a candidate interpretation, with blackbody preservation and T(z) left as hard audits.
+  - Closest overlap: **Stage Is Where Light Meets Space**, **Expanding Space is a Shrinking Ruler**, **The expanding universe is an accounting error**, **The Universe Has a Resolution Limit**.
+  - Package: `bits/the-cmb-is-losing-the-resolution-race/`
+
+- [x] **Stage Is Where Light Meets Space**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/stage-is-where-light-meets-space
+  - RSS publication time: 2026-08-28 02:02:33 +07:00.
+  - External topic: perspective, angular projection, local measurement, and relational viewpoint.
+  - Main question: what if perspective is an ordinary example of a more general rule in which a domain receives relation rather than another domain absolutely?
+  - Framework hook: `Relation + Domain → Stage`; Afference/Efference orientation; perception as Stage-side resolution; local `c` remains operationally invariant while distance/duration are Stage outputs.
+  - Closest overlap: the clock/ruler/twin sequence and cosmological ruler-comparison Bits.
+  - Package: `bits/stage-is-where-light-meets-space/`
+
+## 2026-08-27
+
+- [x] **The Twin Paradox Is a Path Comparison**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/the-twin-paradox-is-a-path-comparison
+  - RSS publication time: 2026-08-27 22:32:33 +07:00.
+  - External topic: twin paradox, proper-time comparison, reciprocal inertial descriptions, turnaround, reunion.
+  - Main question: why can locally reciprocal clock comparisons still end in unequal reunion readings?
+  - Framework hook: a path is an ordered accumulation of relations; persistence is one surfaced consequence of different anchor-closed paths.
+  - Closest overlap: **The Clock Reading Is Not the Ontology** and **Why Does Motion Make a Ruler Shorter?**.
+  - Package: `bits/the-twin-paradox-is-a-path-comparison/`
+
+- [x] **Why Does Motion Make a Ruler Shorter?**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/why-does-motion-make-a-ruler-shorter-aa1
+  - RSS publication time: 2026-08-27 18:39:44 +07:00.
+  - External topic: special-relativistic length contraction, simultaneity, Terrell appearance, receiver/source comparison.
+  - Main question: is moving-ruler contraction a second independent rule, or another surfaced reading of the same bounded projection structure used for clock comparison?
+  - Framework hook: anchor-closed resolution comparison; coherent receiver-side projection; simple low-bias geometry supplies the candidate Lorentz-shaped amount.
+  - Closest overlap: **The Clock Reading Is Not the Ontology** and older ruler/cosmology Bits.
+  - Package: `bits/why-does-motion-make-a-ruler-shorter/`
+
+- [x] **The Clock Reading Is Not the Ontology**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/the-clock-reading-is-not-the-ontology-8d6
+  - RSS publication time: 2026-08-27 13:11:57 +07:00.
+  - External topic: relativistic clock/process-rate measurements.
+  - Main question: what relation did clocks measure, and can the framework reach the familiar rate form without primitive time?
+  - Framework hook: persistence relation, bounded composite, simple low-bias orthogonal projection candidate approaching the inverse-Lorentz factor.
+  - Closest overlap: later ruler/twin/Stage sequence and older cosmology timing Bits.
+  - Package: `bits/the-clock-reading-is-not-the-ontology/`
 
 ## 2026-08-25
 
@@ -68,11 +75,10 @@ A package existing under `bits/` is evidence that it was prepared, not that it w
   - Status: **PUBLISHED**
   - URL: https://soutame.substack.com/p/why-does-a-crack-turn
   - RSS publication time: 2026-08-25 19:03:05 +07:00.
-  - External topic: fracture mechanics, crack-path selection, branching, disorder, and evolving local stress fields.
+  - External topic: fracture mechanics, crack-path selection, branching, disorder, evolving stress fields.
   - Main question: when several continuations are physically possible, why does a crack continue this way rather than another?
-  - Framework hook: present ground can carry unequal continuations; direction need not pre-render a route; resolved history becomes coarse consequential ground that constrains later fine resolution.
-  - Closest published overlap: **How possibilities earn their physical ground**, **Why Do Rules Create Freedom?**, and **Why precision is a trap**.
-  - Why distinct: this is an independently researched materials-science story about path selection, crack-tip mechanics, disorder, and dynamically changing continuation fields rather than a generic possibility/constraint explanation.
+  - Framework hook: resolved history becomes consequential ground that constrains later fine resolution without pre-rendering one route.
+  - Closest overlap: **How possibilities earn their physical ground**, **Why Do Rules Create Freedom?**, **Why precision is a trap**.
   - Package: `bits/why-does-a-crack-turn/`
 
 ## 2026-08-23
@@ -81,156 +87,118 @@ A package existing under `bits/` is evidence that it was prepared, not that it w
   - Status: **PUBLISHED**
   - URL: https://soutame.substack.com/p/what-if-reality-is-the-dream-that
   - RSS publication time: 2026-08-23 18:31:58 +07:00.
-  - Source: `source/the-hope-behind-the-framework.md`
-  - Mode: Hope-derived thought experiment / personal metaphysical hypothesis, explicitly not framework ground.
+  - Mode: Hope-derived thought experiment, explicitly not framework ground.
   - Main question: if reality began as logical relation rather than finished objects, what kind of logical organisation could persist long enough to become shared ground?
-  - Central payoff: stable reality might be imagined not as the strongest temporary logical world, but as an organisation that turns successful relation into reusable ground and can carry compatible structures that once required separate hosting.
-  - Framework hook used as constraint: seated relation becomes ground; coarse compatible possibility need not be fully resolved; hosted and independently seated are distinct; anchoring supplies reusable support.
-  - Closest published overlap: **How possibilities earn their physical ground**, **The Universe on a Computational Budget**, and weakly **Why Do Rules Create Freedom?**
-  - Why distinct: those episodes explain framework architecture or ordinary constraint/freedom. This Bit owns a metaphysical origin thought experiment about temporary worlds of logic and self-reinforcing shared ground.
-  - Important boundary: do not turn this into quantum many-worlds, simulation theory, consciousness-first cosmology, God, or panpsychism.
-  - Reserved follow-up: the Hope's **first consciousness / first integrated Aim** branch should remain a separate future Bit.
+  - Framework hook used as constraint: seated relation becomes ground; coarse compatible possibility need not be fully resolved; anchoring supplies reusable support.
   - Package: `bits/reality-the-dream-that-learned-to-anchor-dreams/`
 
 ## 2026-08-21
 
 - [x] **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?**
-  - Status: **PUBLISHED**
   - URL: https://soutame.substack.com/p/why-does-an-air-conditioner-have
-  - Primary topic: vapor-compression refrigeration, pressure, phase change, evaporation, condensation, and heat transfer.
-  - Main question: why must an air conditioner make the outdoor side hotter in order to cool the indoor side?
-  - Framework hook: one physical cycle as a test case for whether several surfaced quantities can correspond to one deeper relational change; the framework interpretation remains explicitly provisional where heat/pressure mapping is incomplete.
-  - Avoid repeating: generic HVAC loop or “cold is moved heat” explanation unless a future Bit isolates a genuinely different thermodynamic question.
+  - External topic: vapor-compression refrigeration, phase change, pressure, heat transfer.
+  - Main question: why must an air conditioner make the outdoor side hotter to cool the indoor side?
+  - Framework hook: thermodynamic test case for whether several surfaced quantities can correspond to one deeper relational change; mapping remains provisional.
 
 ## 2026-08-19
 
 - [x] **Why Does Forgetting Help Us Remember?**
-  - Primary topic: forgetting, interference, gist memory, reconstruction.
+  - External topic: forgetting, interference, gist memory, reconstruction.
   - Main question: why can losing detail improve memory?
-  - Framework hook: stored history is not rendered detail.
+  - Framework hook: stored history / retained constraint need not be rendered detail.
   - Avoid repeating: memory-as-compression, forgetting-as-useful-removal, gist surviving lost detail.
 
 ## 2026-08-18
 
 - [x] **Why Our Solutions Become Our Anchors**
-  - Primary topic: infrastructure, standards, institutions, skills, path dependence.
-  - Main question: why do successful solutions later become costly to abandon?
+  - Topic: path dependence and accumulated infrastructure/standards.
+  - Question: why do successful solutions later become costly to abandon?
   - Framework hook: solved structure becomes reusable ground and commitment.
-  - Avoid repeating: lock-in/path dependence framed primarily as accumulated ground.
 
 - [x] **How High Can a Fish Swim?**
-  - Primary topic: environment-dependent possibility, buoyancy, pressure, lift, niches.
-  - Main question: how much freedom is created by the environment that supports you?
+  - Topic: environment-dependent possibility, buoyancy, pressure, lift, niches.
+  - Question: how much freedom is created by the environment that supports you?
   - Framework hook: possibility horizon / supportable range.
-  - Avoid repeating: organism freedom explained mainly through environmental support range.
 
 - [x] **Why Do Rules Create Freedom?**
-  - Primary topic: creativity under constraint, games, music, language, programming.
-  - Main question: why can fewer options create more usable freedom?
+  - Topic: creativity under constraint across games, music, language, programming.
+  - Question: why can fewer options create more usable freedom?
   - Framework hook: stable constraints create ground for meaningful possibility.
-  - Avoid repeating: “constraints create freedom” with a new set of creative examples.
 
 ## 2026-08-17
 
 - [x] **When Practice Makes Thinking Disappear**
-  - Primary topic: motor learning, expertise, habit, automaticity.
-  - Main question: why does practiced action require less conscious work?
+  - Topic: motor learning, expertise, habit, automaticity.
+  - Question: why does practiced action require less conscious work?
   - Framework hook: repeated structure becomes cheap reusable ground.
-  - Avoid repeating: habit/practice as converting active computation into seated structure.
 
 - [x] **When Does a Crowd Become a Mind?**
-  - Primary topic: collective intelligence, distributed cognition, teams, institutions.
-  - Main question: when do relations among individuals become a continuing higher-level participant?
+  - Topic: collective intelligence and distributed cognition.
+  - Question: when do relations among individuals become a continuing higher-level participant?
   - Framework hook: hosted collective domain / relation becoming participant.
-  - Avoid repeating: emergence-from-many as the main story unless the new topic has a sharply different mechanism.
 
 - [x] **The Permanent Rent of Suppression**
-  - Primary topic: suppression, maintenance cost, accommodation versus permanent resistance.
-  - Main question: why can preventing an alternative require continuous work?
+  - Topic: suppression and continuing maintenance cost.
+  - Question: why can preventing an alternative require continuous work?
   - Framework hook: persistent exclusion / absorption economy.
-  - Avoid repeating: “suppression costs forever” with only a different social or biological example.
 
 - [x] **Expanding Space is a Shrinking Ruler**
-  - Primary topic: cosmological expansion, local versus CMB-based measurements.
-  - Main question: can apparent expansion be read through differential contraction / ruler comparison?
+  - Topic: cosmological expansion and local versus CMB-based measurements.
+  - Question: can apparent expansion be read through differential contraction / ruler comparison?
   - Framework hook: relational ruler, coarse/fine comparison.
-  - Avoid repeating: Hubble mismatch through shrinking-ruler framing.
 
 - [x] **Why precision is a trap**
-  - Primary topic: overmeasurement, detail versus useful coarse constraint.
-  - Main question: when does more precision hide the pattern that matters?
+  - Topic: overmeasurement, detail versus useful coarse constraint.
+  - Question: when does more precision hide the pattern that matters?
   - Framework hook: coarse structure can carry useful high-level constraint.
-  - Avoid repeating: coarse-versus-fine framed mainly as “too much detail obscures understanding.”
 
 ## 2026-08-16
 
 - [x] **The Universe on a Computational Budget**
-  - Primary topic: introductory ontology, Levels 0–2, finite resolving capacity.
-  - Main question: what remains if matter, space, and time are not primitive?
+  - Topic: introductory ontology and finite resolving capacity.
   - Framework hook: budget, relation, resolution, boundary.
-  - Avoid repeating: broad “universe as computational budget” introductions.
 
 - [x] **The expanding universe is an accounting error**
-  - Primary topic: supernova duration stretching / cosmological timing.
-  - Main question: could redshift/time-stretch partly reflect cross-ground comparison?
+  - Topic: supernova duration stretching / cosmological timing.
   - Framework hook: clocks as local relational rulers.
-  - Avoid repeating: supernova time dilation as a general cross-ground accounting story.
 
 - [x] **The Universe Has a Resolution Limit**
-  - Primary topic in RSS description: same supernova/redshift/cross-ground timing material as the episode above.
-  - Main question: RSS currently repeats the same description as **The expanding universe is an accounting error**.
-  - Framework hook: resolution / clock comparison.
-  - **Overlap warning:** the RSS metadata itself appears duplicated or reused here. Treat this pair as a high-risk duplicate family until manually checked against the actual audio.
+  - Topic: RSS description overlaps the prior supernova/redshift Bit.
+  - **Overlap warning:** treat this pair as a high-risk duplicate family until manually checked against audio.
 
 - [x] **James Webb and the resolution mismatch**
-  - Primary topic: JWST, distant structure, observer resolution versus distant coarse constraint.
-  - Main question: can some apparent deep-time structure reflect a resolution mismatch?
+  - Topic: JWST, distant structure, observer resolution versus distant coarse constraint.
   - Framework hook: coarse/fine cross-ground comparison.
-  - Avoid repeating: JWST surprise explained mainly by observer/remote resolution mismatch.
 
 - [x] **the universe is built on 'No'.**
-  - Primary topic: exclusion, boundaries, the Cut.
-  - Main question: can stable structure begin from what is excluded rather than from added stuff?
+  - Topic: exclusion, boundaries, the Cut.
   - Framework hook: distinction, boundary, resolution cost.
-  - Avoid repeating: “reality is built by saying no” as a foundational intro.
 
 ## 2026-08-15
 
 - [x] **the universe is an informational budget**
-  - Primary topic: universal relational binding, stars, finite resolution, inverse-square.
-  - Main question: why can everything be related while almost none of it is individually resolved?
+  - Topic: universal relational binding, stars, finite resolution, inverse-square.
   - Framework hook: finite relational budget and reach.
-  - Avoid repeating: universal connection + limited resolution + inverse-square as the core package.
 
 - [x] **How possibilities earn their physical ground**
-  - Primary topic: Lane/Rung relation, possibility before implementation.
-  - Main question: how does a possibility become independently supportable?
+  - Topic: Lane/Rung relation, possibility before implementation.
   - Framework hook: Lane widening versus Rung seating.
-  - Avoid repeating: generic Lane/Rung introduction.
 
 - [x] **Gravity is the universe deleting space**
-  - Primary topic: gravity, contraction, clocks, coarse background, dark-sector implications.
-  - Main question: can gravity-like behavior be read as relational contraction rather than primitive pull?
+  - Topic: gravity, contraction, clocks, coarse background, dark-sector implications.
   - Framework hook: anchoring / differential contraction.
-  - Avoid repeating: broad gravity-as-space-contraction overview.
 
 - [x] **Humanity is the ghost haunting AI**
-  - Primary topic: AI modelling human drives without biologically inheriting them.
-  - Main question: can a system understand a drive without having that drive?
+  - Topic: AI modelling human drives without biologically inheriting them.
   - Framework hook: hosted logic versus constitutive bias.
-  - Avoid repeating: AI “inherits our models but not our biological motives” as the main thesis.
 
 - [x] **Reality is a cosmic accounting system**
-  - Primary topic: optics, white light, prism splitting, refraction, transparency, colour.
-  - Main question: can several optical effects be read through one resolution-accounting lens?
+  - Topic: optics, white light, prism splitting, refraction, transparency, colour.
   - Framework hook: undercommitment / resolution / exchange across grounds.
-  - Avoid repeating: general optics bundle unless a future Bit isolates one genuinely new optical question.
 
 - [x] **The Universe Only Renders on a Budget**
-  - Primary topic: measurement, apparatus, resolution density.
-  - Main question: can the measuring apparatus itself contribute to the local resolving condition?
+  - Topic: measurement, apparatus, resolution density.
   - Framework hook: resolution cost / apparatus as participant.
-  - Avoid repeating: generic “measurement changes what becomes resolved” framing.
 
 ---
 
@@ -241,18 +209,22 @@ A package existing under `bits/` is evidence that it was prepared, not that it w
   - External topic: phantom traffic jams / stop-and-go waves.
   - Main question: how can a stable jam appear without a bottleneck or single culprit?
   - Framework hook: Lane 3, law among lower relations.
-  - Exact published duplicate found in RSS: **No.**
-  - Exact older file-library match found: **No, outside this newly prepared package.**
-  - Conceptual overlap: **moderate to high** with **When Does a Crowd Become a Mind?**
-  - Why: both use a many-parts / relations-between-parts story where the larger pattern persists despite changing members.
-  - Distinctive material the traffic piece *does* add: instability threshold, backward-moving wave, ring-road experiment, and one-car damping experiment.
-  - Decision: keep it in reserve as a future dedicated complex-systems episode, but choose a lower-overlap topic for the next Bits package.
+  - Nearest overlap: **When Does a Crowd Become a Mind?**; moderate to high conceptual overlap.
+  - Distinctive material: instability threshold, backward-moving wave, ring-road experiment, one-car damping experiment.
+  - Decision: keep in reserve.
+
+- [ ] **Your Data Is Never Really a 1 or a 0**
+  - Status: **PREPARED**
+  - External topic: magnetic storage, NAND threshold states, error correction, logical versus physical identity, lossless versus lossy reconstruction.
+  - Main question: if storage hardware is physically noisy and range-based, why can digital information still behave as exact?
+  - Framework hook: current canonical rule **“Stored constraint is not the same thing as rendered detail.”** A retained consequential constraint need not be a permanently fine replay.
+  - Nearest overlap: **Why Does Forgetting Help Us Remember?** is the closest because it also uses retained history / rendered-detail separation; **Why precision is a trap** and **Why Does a Crack Turn?** are secondary overlaps.
+  - Why distinct: this Bit has an independent engineering mechanism and research base: threshold decision regions, magnetic stability, multi-level NAND, error-correcting codes, and logical recovery from imperfect physical evidence. It does not ask why forgetting is useful or treat memory loss as compression.
+  - Package: `bits/your-data-is-never-really-a-1-or-a-0/`
 
 ---
 
 # High-overlap families
-
-Use these as warning clusters. A future topic can reuse a framework concept, but it should not simply retell the same public story.
 
 ### Constraint / ground / freedom
 - Why Do Rules Create Freedom?
@@ -263,17 +235,25 @@ Use these as warning clusters. A future topic can reuse a framework concept, but
 - Why Does Forgetting Help Us Remember?
 - Why precision is a trap
 - When Practice Makes Thinking Disappear
-- Why Does a Crack Turn? — published; shares retained constraint, but its ordinary mechanism is fracture path selection
+- Why Does a Crack Turn?
+- Your Data Is Never Really a 1 or a 0 — prepared; distinct storage/ECC mechanism, but keep the shared framework hook visible
 
-### Collective / emergent organisation
-- When Does a Crowd Become a Mind?
-- The Traffic Jam That Nobody Caused — prepared, on hold
+### Relativity / path / Stage sequence
+- The Clock Reading Is Not the Ontology
+- Why Does Motion Make a Ruler Shorter?
+- The Twin Paradox Is a Path Comparison
+- Stage Is Where Light Meets Space
 
 ### Cosmology / remote-resolution comparison
 - Expanding Space is a Shrinking Ruler
 - The expanding universe is an accounting error
 - The Universe Has a Resolution Limit
 - James Webb and the resolution mismatch
+- The CMB Is Losing the Resolution Race
+
+### Collective / emergent organisation
+- When Does a Crowd Become a Mind?
+- The Traffic Jam That Nobody Caused — prepared, on hold
 
 ### Budget / resolution foundation
 - The Universe on a Computational Budget
@@ -285,48 +265,29 @@ Use these as warning clusters. A future topic can reuse a framework concept, but
 - How possibilities earn their physical ground
 - Why Do Rules Create Freedom?
 - How High Can a Fish Swim?
-- Why Does a Crack Turn? — published; path selection under inherited constraint
+- Why Does a Crack Turn?
 
 ### Hope / metaphysical origin thought experiments
-- What If Reality Is the Dream That Learned to Anchor Dreams? — published
-- Reserve the first-consciousness / integrated-Aim question as a distinct future topic rather than folding it into the same episode.
+- What If Reality Is the Dream That Learned to Anchor Dreams?
+- Reserve the first-consciousness / integrated-Aim branch as a distinct future topic.
 
 ### Physical correspondence clusters
 - Gravity is the universe deleting space
 - Reality is a cosmic accounting system
-- Why Does an Air Conditioner Have to Make Something Hot to Make You Cold? — thermodynamic test case, with framework mapping still provisional
+- Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?
 
 ---
 
 # Selection rule for future Bits
 
-Prefer a new topic when it brings at least **two** of these:
+Prefer a topic when it brings at least two of:
+- a new external field or phenomenon;
+- a new general-audience question;
+- new research/evidence;
+- a different causal tension;
+- a framework concept not recently foregrounded;
+- a substantially different narrative shape.
 
-- [ ] a new external field or phenomenon;
-- [ ] a new general-audience question;
-- [ ] new research or evidence not already central to another Bit;
-- [ ] a different causal tension;
-- [ ] a framework concept that has not recently been foregrounded;
-- [ ] a substantially different narrative shape.
+Reject or hold when novelty is mostly a new metaphor, the same ordinary mechanism carries the episode, it is already prepared, or it substantially duplicates a high-overlap family.
 
-Reject or hold a topic when:
-
-- [ ] its novelty is mostly a new metaphor for an old Bit;
-- [ ] the same framework concept and same ordinary mechanism would carry most of the episode;
-- [ ] it is already a prepared-but-unpublished candidate;
-- [ ] it substantially overlaps one of the high-overlap families above.
-
----
-
-# Next-run instruction
-
-Before preparing a new Bits package:
-
-1. Sync this checklist against `https://souta.me/rss/podcasts` when reachable, otherwise `resource/substack-bits-podcast.rss`.
-2. Search current framework sources for the candidate topic and close synonyms.
-3. Compare the candidate against both exact titles and the overlap families.
-4. Only then research and draft the package.
-5. Add the selected title to **Prepared but not published** when the package is created.
-6. Sync the checklist against the feed again after preparation and move any exact title matches to **Published Bits**.
-
-A topic mentioned briefly in an older Bit is **not automatically banned**. It should become a dedicated Bit only when the new piece has enough independent research, a distinct central question, and a different payoff to justify the repetition.
+A brief older mention does not ban a dedicated Bit if the new piece has substantial independent research, a distinct central question, and a different payoff.
