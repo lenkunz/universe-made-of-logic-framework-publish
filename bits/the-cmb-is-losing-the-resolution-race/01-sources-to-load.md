@@ -7,7 +7,7 @@
 3. This package.
 4. External CMB sources only for established observations / standard-model boundaries.
 
-GitHub connector failed at the first actual repository file read during this run. Do not assume checklist/publication state from this package.
+Use the current GitHub repository as canonical source when available. This correction package supersedes the earlier blackbody-preservation wording in this Bit package.
 
 ## Framework material
 
@@ -82,13 +82,34 @@ https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_and_the_cosm
 
 Use for standard hot-early-universe and expansion/cooling context.
 
-## Quantitative target
+## Measurement-map correction
+
+Do not load the CMB blackbody as an ontological object that the framework must transport intact.
+
+At the measurement layer, the instrument compares the incoming/target relation across selected periodic resolution ranges and records a distribution of responses.
+
+Framework shorthand:
+
+- `B_x` = selected periodic resolution budget / comparison grain;
+- `B_t` = target budget available to that comparison inside the shared anchor;
+- `f` = Stage-side frequency label produced by the comparison;
+- `G(x)` = resolved gain / measured amount at that selected comparison.
+
+The spectrum is the collection of `G(x)` across the sweep.
+
+A Planck-law fit is a statistical description of that measured distribution. The framework must derive the observed distribution from its native comparison rule; it does **not** begin by assuming a blackbody object and then prove that the object survives projection.
+
+## Quantitative targets
 
 Standard cosmology uses approximately:
 
 `T_CMB(z) = T0 (1 + z)`
 
-This package does not derive that relation from native framework variables. Treat it as a target.
+The framework has not derived that relation from native variables.
+
+It also has not derived the Planck spectral statistics from `B_x`, `B_t`, anchor closure, and repeated-resolution/state-counting rules.
+
+Treat both as targets.
 
 ## What the external sources do not establish
 

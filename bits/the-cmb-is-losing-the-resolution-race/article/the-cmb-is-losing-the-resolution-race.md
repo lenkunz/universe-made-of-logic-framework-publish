@@ -10,9 +10,9 @@ The cosmic microwave background is cold.
 
 It is also almost perfectly uniform and extraordinarily close to a blackbody.
 
-Those three facts belong together.
+Those are measurements worth taking seriously.
 
-NASA's COBE/FIRAS instrument measured the CMB spectrum as a nearly perfect blackbody at about `2.725 K`. [NASA's LAMBDA archive gives the result as `2.725 ± 0.002 K`](https://lambda.gsfc.nasa.gov/product/cobe/firas_overview.html). In the earlier FIRAS analysis, the maximum measured deviation from the blackbody form was below `0.03%`, with a weighted rms deviation of only `0.01%`. [That is not a vague resemblance to thermal radiation](https://lambda.gsfc.nasa.gov/product/cobe/about_firas.html). It is a highly specific spectral shape.
+NASA's COBE/FIRAS instrument measured the CMB spectrum as a nearly perfect blackbody at about `2.725 K`. [NASA's LAMBDA archive gives the result as `2.725 ± 0.002 K`](https://lambda.gsfc.nasa.gov/product/cobe/firas_overview.html). In the earlier FIRAS analysis, the maximum measured deviation from the blackbody form was below `0.03%`, with a weighted rms deviation of only `0.01%`. [That is not a vague resemblance to thermal radiation](https://lambda.gsfc.nasa.gov/product/cobe/about_firas.html).
 
 The background is not perfectly featureless either. ESA describes its temperature anisotropies as differences of roughly one part in `100,000`. [Planck mapped those tiny variations with unprecedented precision](https://www.esa.int/Science_Exploration/Space_Science/Planck_overview).
 
@@ -34,7 +34,7 @@ That would contradict the current framework.
 
 The CMB does not receive a smaller universe.
 
-It is still present. It is still supported. It is still participating in our measurements. And in this framework, it is not frozen forever at one old level of detail. It can become finer too.
+It is still present. It is still supported. It is still participating in our measurements. In this framework, it is not frozen forever at one old level of detail either. It can become finer too.
 
 The difference is not how much fundamental support exists.
 
@@ -70,57 +70,65 @@ One simply folds relation inward much faster.
 
 > **Fine structures grow inward in relational density. Coarse structures can remain broad in relational reach.**
 
-This is the resolution race.
+That is the resolution race.
 
 The CMB is not standing still at the starting line. Fine structure is just opening a much larger lead.
 
-## Cooling as a growing ratio
+## Cooling as a growing comparison mismatch
 
 Suppose the present measuring Stage has become extremely dense in nested relation.
 
 Its rulers, persistence loops, detectors, frequency standards, matter, and local anchors are all seated in that fine ground.
 
-Now compare a very broad coarse periodic relation against it.
+Now compare a broad coarse CMB relation against it.
 
-As the ratio between fine local resolution density and CMB resolution density grows, one CMB relation can occupy fewer consequential distinctions inside the local comparison.
+The earlier version of this Bit talked too casually about “CMB cycles,” as though frequency were already an absolute property attached to the target.
 
-The candidate chain is:
+That is not the clean framework reading.
+
+> **Frequency is a result of comparison.**
+
+A periodic relation becomes a frequency reading only when it is resolved against another relation being used as the receiver / measuring ground.
+
+So as the ratio between fine local resolution density and the CMB relation grows, the same target relation can surface differently when compared against that finer ground.
+
+The candidate chain is therefore:
 
 `fine/CMB resolution-density ratio ↑`
 
-`→ fewer CMB cycles per fine local comparison`
+`→ target relation compared against a finer receiver ground`
 
-`→ lower measured frequency`
+`→ Stage-side periodic comparison shifts`
 
-`→ lower characteristic temperature`
+`→ fitted characteristic frequency / temperature shifts lower`
 
 The CMB did not have budget removed from it.
 
 The measuring ground became fine faster than the CMB relation did.
 
-This is a framework interpretation candidate, not yet a physical derivation.
+This remains a framework interpretation candidate, not a physical derivation.
 
-No native framework equation currently turns that density ratio into the measured temperature.
+No native framework equation currently turns that ratio into the measured temperature.
 
 ## Why looking backward looks hot
 
 Now reverse the comparison.
 
-Earlier fine structure had not yet built today's depth of nested relation. The gap between the local Stage and the coarse background was smaller.
+Earlier fine structure had not yet built today's depth of nested relation. The mismatch between local Stage and broad coarse background was different.
 
-In the proposed reading, the CMB periodic relation therefore occupied a larger share of the available local distinction. When translated into today's finer measuring language, that earlier relation maps to a much higher characteristic frequency and temperature.
+Translated into today's finer measuring language, that earlier relation can map to a much higher characteristic frequency and temperature.
 
-But the claim is not that coarseness itself produces hotness.
+But the claim is not:
+
+`coarse = hot`
 
 A coarse relation beside an equally coarse measuring ground does not become hot merely because it is undercommitted.
 
 The claim is relational:
 
-> **A coarse earlier relation can appear hot when measured through a much finer later Stage.**
+> **Hot and cold are downstream comparison results.**
 
-Hotness, here, is not a private property carried outside every comparison. It is one surfaced reading of relation across differently resolved grounds.
-
-Standard cosmology already predicts the approximate temperature-redshift relation:
+Standard cosmology predicts approximately:
 
 `T_CMB(z) = T0(1 + z)`
 
@@ -148,42 +156,135 @@ It also does not turn span into stored energy.
 
 It only explains why broad and coarse are not opposites inside this ontology.
 
-Fine structure can grow inward.
+## A spectrum is a sweep, not an object handed to the detector
 
-Coarse relation can remain wide.
+This is the correction that changes the blackbody question.
 
-## The blackbody is the real test
+A receiver does not directly read an ontological object called:
 
-This is where the idea becomes difficult.
+> `blackbody = true`
 
-The CMB is not merely a smooth microwave fog whose peak moved toward lower frequency.
+It measures relation across ranges.
 
-It has a Planck spectrum.
+In framework language, use:
 
-A Planck spectrum is a complete relation across frequencies. Moving one part of it while distorting another would not reproduce the observation. A framework explanation must preserve the whole curve while changing its characteristic scale.
+- `B_x` for a selected periodic resolution range / comparison grain;
+- `B_t` for the target budget available to that comparison inside the shared anchor;
+- `f` for the Stage-side result we label as frequency;
+- `G(x)` for how much of the target relation resolves at that selected comparison.
 
-So “coarse looks thermal” explains almost nothing.
+Then the measurement is a sweep:
 
-The required result is stronger:
+`B_x1 → G(x1)`
 
-> **Cross-resolution projection must remap the bound thermal relation coherently enough that frequency and thermal scale shift together while the Planck shape survives.**
+`B_x2 → G(x2)`
 
-Standard cosmological redshift already does this successfully.
+`B_x3 → G(x3)`
 
-The framework must produce an equivalent result from relation, grain, anchor closure, and Stage-side comparison—without inserting the observed blackbody shape afterward as a correction.
+`...`
 
-One native mapping should explain why:
+Collect those results and you get a spectrum.
 
-- the characteristic frequency shifts;
-- the inferred temperature shifts with it;
-- the rest of the spectrum keeps the same Planck form;
-- the distortion limits remain as small as FIRAS measured.
+The observed CMB measurements follow the statistical relation summarized by Planck's law with extraordinary precision.
 
-If one rule changes the peak, another repairs the low-frequency side, and a third repairs the high-frequency side, the supposed unification has failed.
+That is the hard fact.
 
-The blackbody is not convenient evidence for the framework.
+But the statistical map is downstream of the comparison.
 
-It is the sharpest blade pointed at it.
+> **The map is not automatically the primitive ontology that generated it.**
+
+## The blackbody question was framed backward
+
+The earlier version of this Bit said that the framework had to explain why cross-resolution projection **preserves** a Planck spectrum.
+
+That sounds demanding, but it quietly gives away too much.
+
+It assumes:
+
+`blackbody exists as the thing`
+→ `cross-resolution transformation happens`
+→ `the thing must survive`
+
+That is much closer to importing the standard transport story and asking the framework to imitate it.
+
+The framework's actual question comes earlier:
+
+> **Why does comparing the target relation across a range of periodic resolution grains produce the measured Planck statistical distribution in the first place?**
+
+That is the blackbody problem.
+
+Only after that comes a second question:
+
+> **When the target/receiver resolution ratio changes, why does the same native measurement rule produce a distribution with the corresponding shifted characteristic scale?**
+
+Those are related questions.
+
+They are not the same question.
+
+And importantly:
+
+> **The same relational rule does not require one rendered curve to be physically transported unchanged through time.**
+
+The Stage can regenerate the statistical relation from the current comparison.
+
+That is the correction.
+
+## The familiar yellow curve is a clue, not a derivation
+
+There is a reason a simple coarse/fine toy geometry started producing a familiar hump.
+
+Take an unbiased normalized closure:
+
+`x^2 + t^2 = 1`
+
+so:
+
+`t = sqrt(1 - x^2)`
+
+If a toy state-count term grows like `x^2` while available target/support falls with `t`, then:
+
+`Y(x) = x^2 sqrt(1 - x^2)`
+
+naturally rises, peaks, and falls.
+
+That is interesting because it shows that a statistical-looking spectrum can emerge from two opposing relational effects:
+
+- more available fine distinctions at finer comparison;
+- less remaining coarse support per distinction under bounded closure.
+
+But it is not Planck's law.
+
+The high-comparison tail is wrong.
+
+The required state-counting / repeated-resolution / occupancy rule is still missing.
+
+So the framework must not curve-fit the yellow line until it resembles the CMB.
+
+The proper question is:
+
+> **What native rule determines how much target relation can repeatedly seat at each comparison grain?**
+
+If that rule later forces the observed distribution, good.
+
+If it has to be imported from the desired answer, the derivation failed.
+
+## And this is where `e` is allowed to wait
+
+The framework has a native reason to be interested in exponential behavior, but not permission to insert it here yet.
+
+If repeated relation changes by a constant proportion of what is already seated or what remains, while there is no finest update grain, the continuous limit naturally produces exponential behavior.
+
+That is a framework-native place where `e` can appear.
+
+But:
+
+> **Do not put `e` into the blackbody derivation because Planck's law already contains it.**
+
+First derive the recursive rule independently.
+
+Then see whether the spectrum reuses it.
+
+For now this remains deliberately unresolved.
 
 ## Uniform does not mean empty
 
@@ -197,17 +298,15 @@ Qualitatively, the framework can read the map as:
 
 `tiny consequential retained differences`
 
-The broad common relation remains undercommitted at local grain. Small differences that had already become consequential cannot disappear back into that shared floor, so they remain measurable.
+The broad common relation remains undercommitted at local grain. Small differences that had already become consequential remain measurable.
 
 That is a plausible framework picture.
 
 It is not yet the measured result.
 
-The anisotropies do not form arbitrary speckles. Their amplitudes and angular scales carry the acoustic history of the early plasma. The observed angular power spectrum and acoustic peaks are structured quantitative information.
+The anisotropies do not form arbitrary speckles. Their amplitudes and angular scales carry structured information. The observed angular power spectrum and acoustic peaks are quantitative constraints.
 
 The framework has not derived them.
-
-It must eventually explain why the retained distinctions have those amplitudes, those correlations, and those preferred angular scales—not merely why some tiny differences are allowed to survive.
 
 ## The CMB is an old Stage relation
 
@@ -223,21 +322,43 @@ Light meant relation. Space meant a domain capable of anchoring it. Stage was th
 
 From that view, the CMB can be treated as one of the oldest very broad physical relations still entering our present Stage.
 
-Its Efference does not arrive as an absolute object carrying its own external ruler. At our detectors it becomes Afference: an inward relation resolved through the grain, standards, and anchors of the present measuring domain.
+Its relation does not arrive with an external ruler attached.
+
+At our detectors it resolves against the grain, standards, and anchors of the present measuring domain.
 
 That does not make the measurement fake.
 
 > **Stage is resolved reality.**
 
-It means only that “2.725 K” is a real Stage-side comparison, not a number read from a ruler standing outside every era and every domain.
+It means that `2.725 K` is a real Stage-side summary of the measured relation, not a primitive number read by a ruler standing outside every era and every domain.
 
-This also keeps consciousness out of the mechanism. A detector can anchor the relation. The universe does not wait for a human mind to look at the map.
+A detector can anchor the relation. The universe does not need to wait for a human mind to look at the map.
 
-## One operation must carry the whole burden
+## Measurement does not carry its ontology
+
+This correction exposes a more general rule:
+
+> **Measurement does not carry its ontology with it.**
+
+The CMB spectrum is measured.
+
+The Planck fit is extraordinarily precise.
+
+The inferred characteristic temperature is a real and useful summary of that statistical relation.
+
+But none of those statements, by themselves, force the spectrum itself to be the primitive thing being transported through reality.
+
+A competing ontology still has to reproduce the same measurements.
+
+It does not get to erase them.
+
+It only gets to ask what primitive operation generated them.
+
+## One operation still has to carry the burden
 
 Standard hot Big Bang cosmology already explains the CMB quantitatively.
 
-It explains why a relic thermal background exists, why expansion cools it, why the blackbody form survives, and how recombination and acoustic physics build the anisotropy structure.
+It explains the relic background, the thermal spectrum, redshift scaling, and the structured anisotropies through a coherent physical model.
 
 This framework currently offers a candidate ontology beneath the comparison:
 
@@ -249,7 +370,7 @@ This framework currently offers a candidate ontology beneath the comparison:
 
 `→ fine/CMB resolution-density ratio grows`
 
-`→ CMB appears lower-frequency and colder to the finer present Stage`
+`→ the Stage-side comparison scale shifts`
 
 That chain is coherent.
 
@@ -257,17 +378,17 @@ But coherence is not completion.
 
 > **Article Slot:** URL: https://soutame.substack.com/p/where-the-framework-currently-stands
 
-The hard audit remains:
+The corrected hard audit is:
 
-1. Derive the observed `T(z)` scaling from native framework quantities.
-2. Preserve the Planck spectrum under the same cross-resolution operation.
+1. Derive why the `B_x` versus `B_t` measurement sweep generates the observed Planck statistical distribution.
+2. Derive the observed `T(z)` / characteristic-scale shift from native cross-Stage resolution quantities.
 3. Reproduce the anisotropy amplitude and angular power spectrum.
 4. Recover the recombination and acoustic observables.
 5. Produce a discriminating prediction that differs from standard cosmology.
 
-One native mapping should carry all five.
+One native framework should carry all five.
 
-If they require unrelated repairs, the resolution-race idea did not unify the CMB. It only renamed separate facts.
+If the Planck distribution has to be assumed first, then preserved by one patch, while temperature, anisotropy, and acoustic structure each require unrelated patches, the proposed unification has failed.
 
 ## It did not run out
 
@@ -275,18 +396,20 @@ The CMB is cold relative to the present Stage.
 
 It is broad.
 
-It is extraordinarily close to a blackbody.
+Its measured spectrum is extraordinarily close to the statistical relation called a blackbody.
 
 It contains tiny, highly structured anisotropies.
 
 None of that says the universe abandoned it.
 
-In this framework, the CMB remains supported, present, and capable of gaining resolution. The fine world simply learned to reuse stable ground and fold relation inward much faster.
+In this framework, the CMB remains supported and capable of gaining resolution. The fine world simply learned to reuse stable ground and fold relation inward much faster.
 
 The lead grew.
 
-The relative frequency fell.
+The comparison changed.
 
-The difficult spectral shape remained waiting as the audit.
+And the blackbody problem remains open, now phrased at the correct layer:
+
+> **Why does the measurement sweep generate that statistical relation at all?**
 
 > **The CMB did not run out of budget. It simply lost the resolution race.**
