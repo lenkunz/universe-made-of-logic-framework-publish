@@ -217,10 +217,20 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
   - Status: **PREPARED**
   - External topic: magnetic storage, NAND threshold states, error correction, logical versus physical identity, lossless versus lossy reconstruction.
   - Main question: if storage hardware is physically noisy and range-based, why can digital information still behave as exact?
-  - Framework hook: current canonical rule **“Stored constraint is not the same thing as rendered detail.”** A retained consequential constraint need not be a permanently fine replay.
-  - Nearest overlap: **Why Does Forgetting Help Us Remember?** is the closest because it also uses retained history / rendered-detail separation; **Why precision is a trap** and **Why Does a Crack Turn?** are secondary overlaps.
-  - Why distinct: this Bit has an independent engineering mechanism and research base: threshold decision regions, magnetic stability, multi-level NAND, error-correcting codes, and logical recovery from imperfect physical evidence. It does not ask why forgetting is useful or treat memory loss as compression.
+  - Framework hook: **stored constraint is not the same thing as rendered detail**.
+  - Nearest overlap: **Why Does Forgetting Help Us Remember?**; secondary overlap with **Why precision is a trap** and **Why Does a Crack Turn?**.
+  - Why distinct: independent engineering mechanism and research base: threshold decision regions, magnetic stability, multi-level NAND, error-correcting codes, logical recovery from imperfect physical evidence.
   - Package: `bits/your-data-is-never-really-a-1-or-a-0/`
+
+- [ ] **What Is a Flame If Its Matter Never Stays?**
+  - Status: **PREPARED**
+  - External topic: candle combustion, capillary fuel delivery, diffusion flames, buoyant convection, microgravity flame structure, and quasi-steady physical processes.
+  - Main question: how can one recognizable flame persist while its fuel, oxygen, hot gases, reaction products, and microscopic participants continuously enter, transform, and leave?
+  - Framework hook: **identity through alteration**; a changing domain may continue participating as one while enough relational organization remains consequential through the change.
+  - Nearest overlap: **When Does a Crowd Become a Mind?** at the abstract “changing members / continuing larger pattern” level; **The Traffic Jam That Nobody Caused** at persistent-pattern level; **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?** as the nearest physical-process Bit.
+  - Why distinct: owns an independently researched combustion mechanism: wick/capillary feeding, wax vaporization, diffusion/reaction structure, heat feedback, buoyant transport, and NASA microgravity restructuring. Its payoff is identity through continuous material and chemical turnover, not collective cognition, traffic-wave instability, or refrigeration.
+  - Framework boundary: candle science does not prove My GUT Deduction; framework `budget` must not be equated with heat, fuel, oxygen, chemical energy, or reaction rate.
+  - Package: `bits/what-is-a-flame-if-its-matter-never-stays/`
 
 ---
 
@@ -236,7 +246,14 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 - Why precision is a trap
 - When Practice Makes Thinking Disappear
 - Why Does a Crack Turn?
-- Your Data Is Never Really a 1 or a 0 — prepared; distinct storage/ECC mechanism, but keep the shared framework hook visible
+- Your Data Is Never Really a 1 or a 0 — prepared; distinct storage/ECC mechanism, shared retained-constraint hook visible
+
+### Identity / persistent-pattern caution
+- What Is a Flame If Its Matter Never Stays? — prepared; identity-through-alteration via combustion turnover
+- When Does a Crowd Become a Mind? — collective higher-level participant
+- The Traffic Jam That Nobody Caused — prepared/on hold; stop-and-go wave with changing cars
+
+These may share the abstract phrase “pattern persists while members change,” so future topics in this family must own a different ordinary mechanism and payoff.
 
 ### Relativity / path / Stage sequence
 - The Clock Reading Is Not the Ontology
@@ -250,10 +267,6 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 - The Universe Has a Resolution Limit
 - James Webb and the resolution mismatch
 - The CMB Is Losing the Resolution Race
-
-### Collective / emergent organisation
-- When Does a Crowd Become a Mind?
-- The Traffic Jam That Nobody Caused — prepared, on hold
 
 ### Budget / resolution foundation
 - The Universe on a Computational Budget
