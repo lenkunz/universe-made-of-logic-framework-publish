@@ -2,7 +2,7 @@
 
 Title: **Your Data Is Never Really a 1 or a 0**  
 Slug: `your-data-is-never-really-a-1-or-a-0`  
-Status: **prepared**  
+Status: **article-ready**  
 Created: 2026-08-30  
 Published:  
 Substack URL:
@@ -44,11 +44,13 @@ Why this episode is distinct:
 - Work prompt: `04-work-prompt.md`
 - Article: `article/your-data-is-never-really-a-1-or-a-0.md`
 - Audio: `audio/your-data-is-never-really-a-1-or-a-0.m4a`
-- Image: `article/<generated-image-file>`
+- Image: `article/your-data-is-never-really-a-1-or-a-0.webp`
 
 ## Publication notes
 
 Prepared from the current GitHub template on 2026-08-30 after publication-ledger comparison against the repository RSS fallback.
+
+Article and editorial image completed on 2026-08-30. Audio pending.
 
 ## Post-publication notes
 
