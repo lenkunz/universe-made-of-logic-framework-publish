@@ -1,6 +1,6 @@
 # Bits Topic Checklist — My GUT Deduction
 
-Updated: 2026-08-30  
+Updated: 2026-08-31  
 Purpose: prevent future Bits packages from duplicating an already-published topic, repeating the same central mechanism with cosmetic new examples, or preparing the same candidate twice.
 
 ## Publication sync rule
@@ -14,6 +14,18 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 ---
 
 # Published Bits
+
+## 2026-08-30
+
+- [x] **Your Data Is Never Really a 1 or a 0**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/your-data-is-never-really-a-1-or
+  - RSS publication time: 2026-08-30 10:53:27 +07:00.
+  - External topic: magnetic storage, NAND threshold states, error correction, logical versus physical identity, lossless versus lossy reconstruction.
+  - Main question: if storage hardware is physically noisy and range-based, why can digital information still behave as exact?
+  - Framework hook: **stored constraint is not the same thing as rendered detail**.
+  - Closest overlap: **Why Does Forgetting Help Us Remember?**, **Why precision is a trap**, **Why Does a Crack Turn?**.
+  - Package: `bits/your-data-is-never-really-a-1-or-a-0/`
 
 ## 2026-08-28
 
@@ -110,95 +122,34 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 
 ## 2026-08-18
 
-- [x] **Why Our Solutions Become Our Anchors**
-  - Topic: path dependence and accumulated infrastructure/standards.
-  - Question: why do successful solutions later become costly to abandon?
-  - Framework hook: solved structure becomes reusable ground and commitment.
-
-- [x] **How High Can a Fish Swim?**
-  - Topic: environment-dependent possibility, buoyancy, pressure, lift, niches.
-  - Question: how much freedom is created by the environment that supports you?
-  - Framework hook: possibility horizon / supportable range.
-
-- [x] **Why Do Rules Create Freedom?**
-  - Topic: creativity under constraint across games, music, language, programming.
-  - Question: why can fewer options create more usable freedom?
-  - Framework hook: stable constraints create ground for meaningful possibility.
+- [x] **Why Our Solutions Become Our Anchors** — path dependence and accumulated infrastructure; successful solutions become reusable ground and commitment.
+- [x] **How High Can a Fish Swim?** — environment-dependent possibility; framework hook: possibility horizon / supportable range.
+- [x] **Why Do Rules Create Freedom?** — creativity under constraint; framework hook: stable constraints create ground for meaningful possibility.
 
 ## 2026-08-17
 
-- [x] **When Practice Makes Thinking Disappear**
-  - Topic: motor learning, expertise, habit, automaticity.
-  - Question: why does practiced action require less conscious work?
-  - Framework hook: repeated structure becomes cheap reusable ground.
-
-- [x] **When Does a Crowd Become a Mind?**
-  - Topic: collective intelligence and distributed cognition.
-  - Question: when do relations among individuals become a continuing higher-level participant?
-  - Framework hook: hosted collective domain / relation becoming participant.
-
-- [x] **The Permanent Rent of Suppression**
-  - Topic: suppression and continuing maintenance cost.
-  - Question: why can preventing an alternative require continuous work?
-  - Framework hook: persistent exclusion / absorption economy.
-
-- [x] **Expanding Space is a Shrinking Ruler**
-  - Topic: cosmological expansion and local versus CMB-based measurements.
-  - Question: can apparent expansion be read through differential contraction / ruler comparison?
-  - Framework hook: relational ruler, coarse/fine comparison.
-
-- [x] **Why precision is a trap**
-  - Topic: overmeasurement, detail versus useful coarse constraint.
-  - Question: when does more precision hide the pattern that matters?
-  - Framework hook: coarse structure can carry useful high-level constraint.
+- [x] **When Practice Makes Thinking Disappear** — motor learning and automaticity; repeated structure becomes cheap reusable ground.
+- [x] **When Does a Crowd Become a Mind?** — collective intelligence; hosted collective domain / relation becoming participant.
+- [x] **The Permanent Rent of Suppression** — continuing maintenance cost; persistent exclusion / absorption economy.
+- [x] **Expanding Space is a Shrinking Ruler** — cosmological expansion and relational ruler comparison.
+- [x] **Why precision is a trap** — overmeasurement versus useful coarse constraint.
 
 ## 2026-08-16
 
-- [x] **The Universe on a Computational Budget**
-  - Topic: introductory ontology and finite resolving capacity.
-  - Framework hook: budget, relation, resolution, boundary.
-
-- [x] **The expanding universe is an accounting error**
-  - Topic: supernova duration stretching / cosmological timing.
-  - Framework hook: clocks as local relational rulers.
-
-- [x] **The Universe Has a Resolution Limit**
-  - Topic: RSS description overlaps the prior supernova/redshift Bit.
-  - **Overlap warning:** treat this pair as a high-risk duplicate family until manually checked against audio.
-
-- [x] **James Webb and the resolution mismatch**
-  - Topic: JWST, distant structure, observer resolution versus distant coarse constraint.
-  - Framework hook: coarse/fine cross-ground comparison.
-
-- [x] **the universe is built on 'No'.**
-  - Topic: exclusion, boundaries, the Cut.
-  - Framework hook: distinction, boundary, resolution cost.
+- [x] **The Universe on a Computational Budget** — introductory ontology and finite resolving capacity.
+- [x] **The expanding universe is an accounting error** — supernova duration stretching / cosmological timing.
+- [x] **The Universe Has a Resolution Limit** — overlaps the prior supernova/redshift Bit; high-risk duplicate family.
+- [x] **James Webb and the resolution mismatch** — JWST, distant structure, observer resolution versus distant coarse constraint.
+- [x] **the universe is built on 'No'.** — exclusion, boundaries, the Cut.
 
 ## 2026-08-15
 
-- [x] **the universe is an informational budget**
-  - Topic: universal relational binding, stars, finite resolution, inverse-square.
-  - Framework hook: finite relational budget and reach.
-
-- [x] **How possibilities earn their physical ground**
-  - Topic: Lane/Rung relation, possibility before implementation.
-  - Framework hook: Lane widening versus Rung seating.
-
-- [x] **Gravity is the universe deleting space**
-  - Topic: gravity, contraction, clocks, coarse background, dark-sector implications.
-  - Framework hook: anchoring / differential contraction.
-
-- [x] **Humanity is the ghost haunting AI**
-  - Topic: AI modelling human drives without biologically inheriting them.
-  - Framework hook: hosted logic versus constitutive bias.
-
-- [x] **Reality is a cosmic accounting system**
-  - Topic: optics, white light, prism splitting, refraction, transparency, colour.
-  - Framework hook: undercommitment / resolution / exchange across grounds.
-
-- [x] **The Universe Only Renders on a Budget**
-  - Topic: measurement, apparatus, resolution density.
-  - Framework hook: resolution cost / apparatus as participant.
+- [x] **the universe is an informational budget** — universal relational binding, stars, finite resolution, inverse-square.
+- [x] **How possibilities earn their physical ground** — Lane/Rung relation, possibility before implementation.
+- [x] **Gravity is the universe deleting space** — gravity, contraction, clocks, coarse background, dark-sector implications.
+- [x] **Humanity is the ghost haunting AI** — AI modelling human drives without biologically inheriting them.
+- [x] **Reality is a cosmic accounting system** — optics, prism splitting, refraction, transparency, colour.
+- [x] **The Universe Only Renders on a Budget** — measurement, apparatus, resolution density.
 
 ---
 
@@ -213,24 +164,25 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
   - Distinctive material: instability threshold, backward-moving wave, ring-road experiment, one-car damping experiment.
   - Decision: keep in reserve.
 
-- [ ] **Your Data Is Never Really a 1 or a 0**
-  - Status: **PREPARED**
-  - External topic: magnetic storage, NAND threshold states, error correction, logical versus physical identity, lossless versus lossy reconstruction.
-  - Main question: if storage hardware is physically noisy and range-based, why can digital information still behave as exact?
-  - Framework hook: **stored constraint is not the same thing as rendered detail**.
-  - Nearest overlap: **Why Does Forgetting Help Us Remember?**; secondary overlap with **Why precision is a trap** and **Why Does a Crack Turn?**.
-  - Why distinct: independent engineering mechanism and research base: threshold decision regions, magnetic stability, multi-level NAND, error-correcting codes, logical recovery from imperfect physical evidence.
-  - Package: `bits/your-data-is-never-really-a-1-or-a-0/`
-
 - [ ] **What Is a Flame If Its Matter Never Stays?**
   - Status: **PREPARED**
   - External topic: candle combustion, capillary fuel delivery, diffusion flames, buoyant convection, microgravity flame structure, and quasi-steady physical processes.
   - Main question: how can one recognizable flame persist while its fuel, oxygen, hot gases, reaction products, and microscopic participants continuously enter, transform, and leave?
   - Framework hook: **identity through alteration**; a changing domain may continue participating as one while enough relational organization remains consequential through the change.
-  - Nearest overlap: **When Does a Crowd Become a Mind?** at the abstract “changing members / continuing larger pattern” level; **The Traffic Jam That Nobody Caused** at persistent-pattern level; **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?** as the nearest physical-process Bit.
-  - Why distinct: owns an independently researched combustion mechanism: wick/capillary feeding, wax vaporization, diffusion/reaction structure, heat feedback, buoyant transport, and NASA microgravity restructuring. Its payoff is identity through continuous material and chemical turnover, not collective cognition, traffic-wave instability, or refrigeration.
+  - Nearest overlap: **When Does a Crowd Become a Mind?**, **The Traffic Jam That Nobody Caused**, **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?**.
+  - Why distinct: owns combustion turnover and identity through continuous material/chemical change.
   - Framework boundary: candle science does not prove My GUT Deduction; framework `budget` must not be equated with heat, fuel, oxygen, chemical energy, or reaction rate.
   - Package: `bits/what-is-a-flame-if-its-matter-never-stays/`
+
+- [ ] **Why Do Snowflakes Agree on Six Arms but Never on the Details?**
+  - Status: **PREPARED**
+  - External topic: ice crystallography, sixfold symmetry, temperature/supersaturation morphology, diffusion-limited growth, anisotropic attachment kinetics, and dendritic instability.
+  - Main question: why can snow crystals obey a strong shared sixfold constraint while producing an enormous variety of fine forms?
+  - Framework hook: **coarse can be an exact real constraint while leaving finer distinctions unseated**.
+  - Nearest overlap: **Why Do Rules Create Freedom?**, **Why precision is a trap**, **Why Does a Crack Turn?**.
+  - Why distinct: owns snow-crystal growth and the tension between crystallographic symmetry and path-dependent fine branching, rather than creativity, measurement, or fracture.
+  - Framework boundary: snow-crystal science does not prove My GUT Deduction; framework resolution/budget must not replace crystallography, diffusion, thermodynamics, surface kinetics, or instability.
+  - Package: `bits/why-do-snowflakes-agree-on-six-arms-but-never-on-the-details/`
 
 ---
 
@@ -240,13 +192,14 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 - Why Do Rules Create Freedom?
 - Why Our Solutions Become Our Anchors
 - The Permanent Rent of Suppression
+- Why Do Snowflakes Agree on Six Arms but Never on the Details? — prepared; distinct physical growth mechanism, shared constraint/open-detail hook
 
 ### Coarse detail / memory / reuse
 - Why Does Forgetting Help Us Remember?
 - Why precision is a trap
 - When Practice Makes Thinking Disappear
 - Why Does a Crack Turn?
-- Your Data Is Never Really a 1 or a 0 — prepared; distinct storage/ECC mechanism, shared retained-constraint hook visible
+- Your Data Is Never Really a 1 or a 0 — published; distinct storage/ECC mechanism
 
 ### Identity / persistent-pattern caution
 - What Is a Flame If Its Matter Never Stays? — prepared; identity-through-alteration via combustion turnover
