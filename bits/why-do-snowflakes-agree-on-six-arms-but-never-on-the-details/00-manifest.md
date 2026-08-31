@@ -2,7 +2,7 @@
 
 Title: **Why Do Snowflakes Agree on Six Arms but Never on the Details?**  
 Slug: `why-do-snowflakes-agree-on-six-arms-but-never-on-the-details`  
-Status: **prepared**  
+Status: **article-ready**  
 Created: 2026-08-31  
 Published:  
 Substack URL:
@@ -42,11 +42,13 @@ Why this episode is distinct:
 - Work prompt: `04-work-prompt.md`
 - Article: `article/why-do-snowflakes-agree-on-six-arms-but-never-on-the-details.md`
 - Audio: `audio/why-do-snowflakes-agree-on-six-arms-but-never-on-the-details.m4a`
-- Image: `article/<generated-image-file>`
+- Image: `article/why-do-snowflakes-agree-on-six-arms-but-never-on-the-details.webp`
 
 ## Publication notes
 
 Prepared 2026-08-31 after RSS/checklist synchronization. The live proxy was not accessible in this environment, so the repository RSS snapshot was used as the authoritative fallback.
+
+Article and 1280×720 editorial hero generated 2026-08-31. Article ready; audio pending.
 
 ## Post-publication notes
 
