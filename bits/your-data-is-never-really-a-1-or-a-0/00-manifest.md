@@ -2,10 +2,10 @@
 
 Title: **Your Data Is Never Really a 1 or a 0**  
 Slug: `your-data-is-never-really-a-1-or-a-0`  
-Status: **article-ready**  
+Status: **published**  
 Created: 2026-08-30  
-Published:  
-Substack URL:
+Published: 2026-08-30  
+Substack URL: https://soutame.substack.com/p/your-data-is-never-really-a-1-or
 
 ## Central question
 
@@ -50,7 +50,7 @@ Why this episode is distinct:
 
 Prepared from the current GitHub template on 2026-08-30 after publication-ledger comparison against the repository RSS fallback.
 
-Article and editorial image completed on 2026-08-30. Audio pending.
+Article and editorial image completed on 2026-08-30. Published on Substack on 2026-08-30.
 
 ## Post-publication notes
 
