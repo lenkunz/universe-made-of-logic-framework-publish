@@ -2,7 +2,7 @@
 
 Title: The Future Does Not Start from Zero
 Slug: the-future-does-not-start-from-zero
-Status: prepared
+Status: article-ready
 Created: 2026-09-01
 Published:
 Substack URL:
@@ -34,11 +34,13 @@ Why this Short is distinct: it owns the general question of how past constraint 
 - Short source: `02-short-source.md`
 - Work prompt: `03-work-prompt.md`
 - Article: `article/the-future-does-not-start-from-zero.md`
-- Image: `article/<generated-image-file>`
+- Image: `article/the-future-does-not-start-from-zero.webp`
 
 ## Publication notes
 
 Prepared from the current queue correction layer on 2026-09-01. Publication feed snapshot showed no confirmed publication of this title before preparation.
+
+Article and 1280×720 editorial hero generated 2026-09-01. Article ready.
 
 ## Post-publication notes
 
