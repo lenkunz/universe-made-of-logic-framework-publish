@@ -154,21 +154,18 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 
 ---
 
-# Forced topics awaiting package preparation
+# Prepared but not published
 
 - [ ] **Air Is Not Less Compute Than Stone**
-  - Status: **IDEA — FORCED TOPIC**
+  - Status: **PREPARED — FORCED TOPIC**
   - External topic: pressure, compressed air, air mattresses, states of matter, deformation, and material persistence.
   - Main question: if contained air can support a body like a solid surface, what actually differs between air and stone if the difference is not that air receives less fundamental compute?
   - Framework hook: **Resolution Equality does not imply Resolution Sameness.** Pressure is real, but it is a Stage-visible comparison of relations under a supplied unit of budget; gas and stone differ in how their relations resolve persistence, not in whether one is fundamentally given less compute.
   - Required wording boundary: do not turn “pressure in the scientific sense is a derived Stage term” into “pressure is unreal” or “pressure has no meaning.” Do not equate ordinary material density with fundamental computational budget.
   - Nearest overlap: **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?**, **The Universe on a Computational Budget**, **the universe is an informational budget**, and **The Universe Only Renders on a Budget**.
   - Why distinct: owns the air-versus-stone comparison and states of matter as different persistence resolutions; the air-conditioner Bit uses pressure within refrigeration rather than asking what pressure and material state correspond to ontologically.
-  - Intended package: `bits/air-is-not-less-compute-than-stone/`
-
----
-
-# Prepared but not published
+  - Framework boundary: the package does not derive pressure, elasticity, equations of state, or phase transitions; it keeps ordinary science separate from the candidate persistence mapping.
+  - Package: `bits/air-is-not-less-compute-than-stone/`
 
 - [x] **The Traffic Jam That Nobody Caused**
   - Status: **HOLD / do not use as the next Bit yet**

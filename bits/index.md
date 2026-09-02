@@ -9,7 +9,7 @@ For topic duplication / conceptual overlap, use `source/internal/bits-topic-chec
 
 | Bit | Slug | Status | NotebookLM source | Audio prompt | Audio | Article | Image | Published | Substack URL |
 |---|---|---|---|---|---|---|---|---|---|
-| Air Is Not Less Compute Than Stone | air-is-not-less-compute-than-stone | idea | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |  |
+| Air Is Not Less Compute Than Stone | air-is-not-less-compute-than-stone | package-ready | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |  |
 | What If Reality Is the Dream That Learned to Anchor Dreams? | reality-the-dream-that-learned-to-anchor-dreams | package-ready | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |  |
 
 ## Status suggestions
