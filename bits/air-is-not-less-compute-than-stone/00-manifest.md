@@ -2,7 +2,7 @@
 
 Title: **Air Is Not Less Compute Than Stone**
 Slug: `air-is-not-less-compute-than-stone`
-Status: **prepared**
+Status: **article-ready**
 Created: **2026-09-02**
 Published:
 Substack URL:
@@ -45,7 +45,7 @@ It owns the concrete air-bed counterexample and the claim that ordinary density 
 - Preferred live feed checked: `https://souta.me/rss/podcasts`
 - Checked on: **2026-09-02**
 - Result: no exact title or central-topic duplicate found.
-- Post-package recheck: the live endpoint returned `502`, so the refreshed repository snapshot at `resource/substack-bits-podcast.rss` was used; its build date is **2026-09-02 12:54:48 GMT**, with no exact title match.
+- Post-build recheck: the live endpoint could not be opened from Work, so the current repository RSS snapshot at `resource/substack-bits-podcast.rss` was checked; it contains no exact published-title match.
 - Publication status remains determined by the live feed or the repository RSS snapshot, not by package existence.
 
 ## Package files
@@ -57,11 +57,11 @@ It owns the concrete air-bed counterexample and the claim that ordinary density 
 - Preflight deduction audit: `05-preflight-deduction-audit.md`
 - Article: `article/air-is-not-less-compute-than-stone.md`
 - Audio: `audio/air-is-not-less-compute-than-stone.m4a`
-- Image: `article/<generated-image-file>`
+- Image: `article/air-is-not-less-compute-than-stone.webp`
 
 ## Publication notes
 
-The article and image are future Work outputs. Preparing this package does not make the Bit article-ready or published.
+The article and generated hero image are complete. Audio remains pending. This package is article-ready but not yet published.
 
 ## Post-publication notes
 
