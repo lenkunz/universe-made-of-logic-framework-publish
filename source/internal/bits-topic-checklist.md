@@ -1,6 +1,7 @@
 # Bits Topic Checklist — My GUT Deduction
 
-Updated: 2026-08-31  
+Updated: 2026-09-02
+
 Purpose: prevent future Bits packages from duplicating an already-published topic, repeating the same central mechanism with cosmetic new examples, or preparing the same candidate twice.
 
 ## Publication sync rule
@@ -150,6 +151,20 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 - [x] **Humanity is the ghost haunting AI** — AI modelling human drives without biologically inheriting them.
 - [x] **Reality is a cosmic accounting system** — optics, prism splitting, refraction, transparency, colour.
 - [x] **The Universe Only Renders on a Budget** — measurement, apparatus, resolution density.
+
+---
+
+# Forced topics awaiting package preparation
+
+- [ ] **Air Is Not Less Compute Than Stone**
+  - Status: **IDEA — FORCED TOPIC**
+  - External topic: pressure, compressed air, air mattresses, states of matter, deformation, and material persistence.
+  - Main question: if contained air can support a body like a solid surface, what actually differs between air and stone if the difference is not that air receives less fundamental compute?
+  - Framework hook: **Resolution Equality does not imply Resolution Sameness.** Pressure is real, but it is a Stage-visible comparison of relations under a supplied unit of budget; gas and stone differ in how their relations resolve persistence, not in whether one is fundamentally given less compute.
+  - Required wording boundary: do not turn “pressure in the scientific sense is a derived Stage term” into “pressure is unreal” or “pressure has no meaning.” Do not equate ordinary material density with fundamental computational budget.
+  - Nearest overlap: **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?**, **The Universe on a Computational Budget**, **the universe is an informational budget**, and **The Universe Only Renders on a Budget**.
+  - Why distinct: owns the air-versus-stone comparison and states of matter as different persistence resolutions; the air-conditioner Bit uses pressure within refrigeration rather than asking what pressure and material state correspond to ontologically.
+  - Intended package: `bits/air-is-not-less-compute-than-stone/`
 
 ---
 
