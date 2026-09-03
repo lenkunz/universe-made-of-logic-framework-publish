@@ -1,6 +1,6 @@
 # Bits Topic Checklist — My GUT Deduction
 
-Updated: 2026-09-02
+Updated: 2026-09-03
 
 Purpose: prevent future Bits packages from duplicating an already-published topic, repeating the same central mechanism with cosmetic new examples, or preparing the same candidate twice.
 
@@ -15,6 +15,18 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 ---
 
 # Published Bits
+
+## 2026-09-02
+
+- [x] **Air Is Not Less Compute Than Stone**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/air-is-not-less-compute-than-stone
+  - RSS publication time: 2026-09-02 22:46:34 +07:00.
+  - External topic: pressure, compressed air, air mattresses, states of matter, deformation, and material persistence.
+  - Main question: if contained air can support a body like a solid surface, what actually differs between air and stone if the difference is not that air receives less fundamental compute?
+  - Framework hook: **Resolution Equality does not imply Resolution Sameness.** Gas and stone differ in how their relations resolve persistence, not in whether one is fundamentally given less compute.
+  - Closest overlap: **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?**, **The Universe on a Computational Budget**, **the universe is an informational budget**, **The Universe Only Renders on a Budget**.
+  - Package: `bits/air-is-not-less-compute-than-stone/`
 
 ## 2026-08-30
 
@@ -156,17 +168,6 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 
 # Prepared but not published
 
-- [ ] **Air Is Not Less Compute Than Stone**
-  - Status: **PREPARED — FORCED TOPIC**
-  - External topic: pressure, compressed air, air mattresses, states of matter, deformation, and material persistence.
-  - Main question: if contained air can support a body like a solid surface, what actually differs between air and stone if the difference is not that air receives less fundamental compute?
-  - Framework hook: **Resolution Equality does not imply Resolution Sameness.** Pressure is real, but it is a Stage-visible comparison of relations under a supplied unit of budget; gas and stone differ in how their relations resolve persistence, not in whether one is fundamentally given less compute.
-  - Required wording boundary: do not turn “pressure in the scientific sense is a derived Stage term” into “pressure is unreal” or “pressure has no meaning.” Do not equate ordinary material density with fundamental computational budget.
-  - Nearest overlap: **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?**, **The Universe on a Computational Budget**, **the universe is an informational budget**, and **The Universe Only Renders on a Budget**.
-  - Why distinct: owns the air-versus-stone comparison and states of matter as different persistence resolutions; the air-conditioner Bit uses pressure within refrigeration rather than asking what pressure and material state correspond to ontologically.
-  - Framework boundary: the package does not derive pressure, elasticity, equations of state, or phase transitions; it keeps ordinary science separate from the candidate persistence mapping.
-  - Package: `bits/air-is-not-less-compute-than-stone/`
-
 - [x] **The Traffic Jam That Nobody Caused**
   - Status: **HOLD / do not use as the next Bit yet**
   - External topic: phantom traffic jams / stop-and-go waves.
@@ -187,7 +188,7 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
   - Package: `bits/what-is-a-flame-if-its-matter-never-stays/`
 
 - [ ] **Why Do Snowflakes Agree on Six Arms but Never on the Details?**
-  - Status: **PREPARED**
+  - Status: **PREPARED; exact title is present in the 2026-09-03 RSS snapshot, but the connector exposed the item body without enough following metadata to safely recover its publication date/URL in this run. Publication move remains pending rather than guessing.**
   - External topic: ice crystallography, sixfold symmetry, temperature/supersaturation morphology, diffusion-limited growth, anisotropic attachment kinetics, and dendritic instability.
   - Main question: why can snow crystals obey a strong shared sixfold constraint while producing an enormous variety of fine forms?
   - Framework hook: **coarse can be an exact real constraint while leaving finer distinctions unseated**.
@@ -195,6 +196,16 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
   - Why distinct: owns snow-crystal growth and the tension between crystallographic symmetry and path-dependent fine branching, rather than creativity, measurement, or fracture.
   - Framework boundary: snow-crystal science does not prove My GUT Deduction; framework resolution/budget must not replace crystallography, diffusion, thermodynamics, surface kinetics, or instability.
   - Package: `bits/why-do-snowflakes-agree-on-six-arms-but-never-on-the-details/`
+
+- [ ] **Why Does a Spinning Top Fall Sideways?**
+  - Status: **PREPARED**
+  - External topic: torque, angular momentum, gyroscopic precession, nutation, and fast-top dynamics.
+  - Main question: why does gravity make a stationary tilted top fall while the same gravitational torque makes a rapidly spinning top sweep sideways around the vertical?
+  - Framework hook: **a new relation resolves against accumulated ground, not an empty state**; present structure changes the conditions of the next change.
+  - Nearest overlap: **Why Does a Crack Turn?**, **Why Our Solutions Become Our Anchors**, **The Twin Paradox Is a Path Comparison**.
+  - Why distinct: owns rotational mechanics and the vector fact that torque changes an already-present angular momentum; it is not fracture path selection, infrastructure lock-in, or relativistic path comparison.
+  - Framework boundary: standard mechanics fully explains precession; the framework has not derived angular momentum, torque, rigid-body dynamics, or the precession equation.
+  - Package: `bits/why-does-a-spinning-top-fall-sideways/`
 
 ---
 
@@ -204,7 +215,7 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 - Why Do Rules Create Freedom?
 - Why Our Solutions Become Our Anchors
 - The Permanent Rent of Suppression
-- Why Do Snowflakes Agree on Six Arms but Never on the Details? — prepared; distinct physical growth mechanism, shared constraint/open-detail hook
+- Why Do Snowflakes Agree on Six Arms but Never on the Details? — prepared/RSS exact-title match pending metadata sync; distinct physical growth mechanism
 
 ### Coarse detail / memory / reuse
 - Why Does Forgetting Help Us Remember?
@@ -245,6 +256,12 @@ These may share the abstract phrase “pattern persists while members change,”
 - How High Can a Fish Swim?
 - Why Does a Crack Turn?
 
+### Accumulated ground / state-dependent response
+- Why Our Solutions Become Our Anchors
+- Why Does a Crack Turn?
+- The Twin Paradox Is a Path Comparison
+- Why Does a Spinning Top Fall Sideways? — prepared; distinct rotational-vector mechanism
+
 ### Hope / metaphysical origin thought experiments
 - What If Reality Is the Dream That Learned to Anchor Dreams?
 - Reserve the first-consciousness / integrated-Aim branch as a distinct future topic.
@@ -253,6 +270,7 @@ These may share the abstract phrase “pattern persists while members change,”
 - Gravity is the universe deleting space
 - Reality is a cosmic accounting system
 - Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?
+- Air Is Not Less Compute Than Stone
 
 ---
 
