@@ -2,10 +2,10 @@
 
 Title: **Air Is Not Less Compute Than Stone**
 Slug: `air-is-not-less-compute-than-stone`
-Status: **article-ready**
+Status: **published**
 Created: **2026-09-02**
-Published:
-Substack URL:
+Published: **2026-09-02 22:46:34 +07:00**
+Substack URL: https://soutame.substack.com/p/air-is-not-less-compute-than-stone
 
 ## Central question
 
@@ -42,11 +42,9 @@ It owns the concrete air-bed counterexample and the claim that ordinary density 
 
 ## Publication sync
 
-- Preferred live feed checked: `https://souta.me/rss/podcasts`
-- Checked on: **2026-09-02**
-- Result: no exact title or central-topic duplicate found.
-- Post-build recheck: the live endpoint could not be opened from Work, so the current repository RSS snapshot at `resource/substack-bits-podcast.rss` was checked; it contains no exact published-title match.
-- Publication status remains determined by the live feed or the repository RSS snapshot, not by package existence.
+- Preferred live feed attempted; unavailable in the automation environment.
+- Repository RSS snapshot `resource/substack-bits-podcast.rss` used as authoritative fallback.
+- Snapshot exact-title match found on 2026-09-03; RSS pubDate `Wed, 02 Sep 2026 15:46:34 GMT`, equivalent to 2026-09-02 22:46:34 +07:00.
 
 ## Package files
 
@@ -61,7 +59,7 @@ It owns the concrete air-bed counterexample and the claim that ordinary density 
 
 ## Publication notes
 
-The article and generated hero image are complete. Audio remains pending. This package is article-ready but not yet published.
+Published on Substack and present in the authoritative RSS fallback snapshot.
 
 ## Post-publication notes
 
