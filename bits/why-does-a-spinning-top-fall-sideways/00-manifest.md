@@ -2,7 +2,7 @@
 
 Title: **Why Does a Spinning Top Fall Sideways?**
 Slug: `why-does-a-spinning-top-fall-sideways`
-Status: **prepared**
+Status: **article-ready**
 Created: **2026-09-03**
 Published:
 Substack URL:
@@ -42,11 +42,11 @@ It owns rotational dynamics and the counterintuitive fact that the same gravitat
 - Work prompt: `04-work-prompt.md`
 - Article: `article/why-does-a-spinning-top-fall-sideways.md`
 - Audio: `audio/why-does-a-spinning-top-fall-sideways.m4a`
-- Image: `article/<generated-image-file>`
+- Image: `article/why-does-a-spinning-top-fall-sideways.webp`
 
 ## Publication notes
 
-Prepared after publication-ledger review. Live proxy access failed in this environment, so the repository RSS snapshot was used as the publication fallback.
+The article and generated hero image are complete. Audio remains pending. The package is article-ready but not yet published. Live proxy access failed in this environment, so the repository RSS snapshot was used as the publication fallback.
 
 ## Post-publication notes
 
