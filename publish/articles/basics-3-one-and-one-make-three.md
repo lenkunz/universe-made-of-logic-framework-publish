@@ -103,7 +103,7 @@ Which keeps the title:
 
 > **One and one make three.**
 
-> **Article Slot:** https://soutame.substack.com/p/basics-i-resolution-costs
+> **Article Slot:** URL: https://soutame.substack.com/p/basics-i-resolution-costs
 
 Basics I explains why the new relational participant changes the resolving economy instead of acting like a decorative connection.
 
@@ -275,6 +275,16 @@ Growth is not the cure for scarcity.
 
 Growth is what keeps producing a larger relational frontier.
 
+This is a positive-sum account of reusable ground, but it does not say every earlier continuation remains available. A newly seated distinction can exclude some routes while opening others. Growth adds ground; it does not preserve all possibility unchanged.
+
+Nor does naming a composition create an extra allowance. When `[A, B, R_AB]` participates as one, the grouping must preserve every relation made consequential by the next question.
+
+Two grouping orders count as equivalent only when they preserve those same distinctions. If the result changes, the first question is not which arithmetic rule failed. It is which relation was discarded, altered, or made consequential.
+
+> **Composite grouping is invariant only when consequential relation is preserved.**
+
+This is anchor closure at the composite level: the name of the group may change, but the support that distinguishes the later comparison cannot silently disappear.
+
 ---
 
 ## The present is the working state
@@ -418,6 +428,6 @@ Everything later should either follow from these meanings without changing them,
 
 ---
 
-> **Article Slot:** https://soutame.substack.com/p/a-universe-made-of-logic-758
+> **Article Slot:** URL: https://soutame.substack.com/p/a-universe-made-of-logic-758
 
 *The longer framework develops these consequences in **A Universe Made of Logic**, with the widening possibility-side account in **The Possibility Lane** and the level-by-level directory in **The Index of the Framework**.*

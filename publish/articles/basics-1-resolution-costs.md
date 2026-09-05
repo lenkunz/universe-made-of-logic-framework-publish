@@ -98,9 +98,21 @@ There is no separate framework-native reservoir outside the present storing unus
 
 The present structure is the working ground.
 
-> **Article Slot:** https://soutame.substack.com/p/basics-iii-one-and-one-make-three
+> **Article Slot:** URL: https://soutame.substack.com/p/basics-iii-one-and-one-make-three
 
 Basics III follows the missing step: why a relation is not merely a line between participants, but another participant that can become ground.
+
+## Equal participation, closed comparison
+
+**Resolution Equality does not imply Resolution Sameness.**
+
+The common participation rule does not give every named object the same private allowance. What one participation can carry depends on the relations already seated and on the question being asked.
+
+Before two budgets are compared, the comparison must include every anchor relation that still makes a difference. If only A and B are consequential, their pair can close itself; a third anchor is not required merely because a wider environment exists. A shared contribution may disappear from the explicit notation only when removing it loses no consequential distinction.
+
+> **Before comparing budgets, close the anchors.**
+
+A stable relation can then participate as one composite in a later comparison, but grouping is valid only when it preserves the relations the later question needs. Anchor closure is a rule for keeping the comparison honest, not yet a universal numerical operator for arbitrary budgets.
 
 ## Why scarcity survives growth
 
@@ -208,7 +220,7 @@ and:
 
 > **Reality pays for distinctions, not detail.**
 
-> **Article Slot:** https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak
+> **Article Slot:** URL: https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak
 
 This is the key reason coarse must not be read as a half-rendered fine state.
 
@@ -241,6 +253,14 @@ For this Basic, the point is simpler:
 **persistence is not free merely because nothing visibly changed.**
 
 Maintaining a consequential distinction is itself part of the present accounting.
+
+Change has a relational cost too:
+
+> **Re-seating cost depends on which existing relations a change makes consequential—not simply how many relations the object contains.**
+
+An internally rich domain may reuse most of its organization while changing one outward relation. A small-looking change can also become expensive when it makes many supporting relations consequential. The environment belongs in the closure whenever it changes that support.
+
+This is not a numerical renaming of pressure, drag, energy, or any other physical quantity. Those mappings still have to be earned separately.
 
 ---
 

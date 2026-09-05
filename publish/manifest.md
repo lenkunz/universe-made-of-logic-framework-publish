@@ -1,9 +1,11 @@
 # Publication Manifest
 
-Updated: 2026-08-23
+Updated: 2026-09-06
 Status: ACTIVE PUBLICATION REGISTRY
 
 This file registers the maintained framework publication identities.
+
+Latest repository article refresh: **R20260905-2350-01 full source checkpoint plus R20260906-0104-01 grain-sweep extension**, completed **2026-09-06**. Publication Markdown and retained assets were semantically verified in place. This records repository readiness only; it does not claim that the corresponding Substack posts have already been updated.
 
 All eight entries below are **already-published / existing Substack publication targets**. A Work should rebuild their publication Markdown and assets in place rather than treating them as new posts.
 

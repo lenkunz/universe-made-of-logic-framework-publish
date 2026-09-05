@@ -77,22 +77,22 @@ Keep three milestones separate:
 
 This Index is meant to sit at the entrance to the framework rather than replace the longer explanations.
 
-> **Article Slot:** https://soutame.substack.com/p/the-possibility-lane
+> **Article Slot:** URL: https://soutame.substack.com/p/the-possibility-lane
 
 **The Possibility Lane Framework (P-Lane)**  
 The widening view. It asks how much possibility can remain open from a given ground, what an aim constrains, and why possibility can run ahead of fine resolution.
 
-> **Article Slot:** https://soutame.substack.com/p/a-universe-made-of-logic-758
+> **Article Slot:** URL: https://soutame.substack.com/p/a-universe-made-of-logic-758
 
 **A Universe Made of Logic — the Informational Topology framework**  
 The narrowing view. It starts from relation, finite resolving budget, and the cost of distinction, then asks what structure can actually acquire enough support to stand.
 
-> **Article Slot:** https://soutame.substack.com/p/the-lane-and-the-rung
+> **Article Slot:** URL: https://soutame.substack.com/p/the-lane-and-the-rung
 
 **The Lane and the Rung**  
 The bridge article. It explains why Lane and Rung share numbering without being identical, and why aim can be present while independent fine seating is still outstanding.
 
-> **Article Slot:** https://soutame.substack.com/p/where-the-framework-currently-stands
+> **Article Slot:** URL: https://soutame.substack.com/p/where-the-framework-currently-stands
 
 **Where the Framework Currently Stands**  
 The live status ledger. Use it when you need to know whether something is derived, a candidate correspondence, completion pending, an unresolved mechanism, not established, or a guardrail.
@@ -101,9 +101,9 @@ The live status ledger. Use it when you need to know whether something is derive
 
 The three Basics pieces are the shortest route into the primitive language:
 
-> **Article Slot:** https://soutame.substack.com/p/basics-i-resolution-costs
-> **Article Slot:** https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak
-> **Article Slot:** https://soutame.substack.com/p/basics-iii-one-and-one-make-three
+> **Article Slot:** URL: https://soutame.substack.com/p/basics-i-resolution-costs
+> **Article Slot:** URL: https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak
+> **Article Slot:** URL: https://soutame.substack.com/p/basics-iii-one-and-one-make-three
 
 **Basics I — Resolution costs**  
 Why finite resolving capacity matters, and why making a distinction consequential has a price.
@@ -500,6 +500,9 @@ These are part of the current internal architecture:
 - **Budget is primitive resolving participation, not elapsed time, physical energy, or stress-energy.**
 - **Budget is compositional.** A relation that becomes a participant can carry already-compressed membership, so equal primitive participation can produce unequal effective work per iteration.
 - **Budget is finite per present relation but extensible relationally.**
+- **Budget comparison is anchor-closed.** Keep every consequential supporting relation. Common support may be omitted only when doing so loses no distinction, and composite grouping must preserve the relation needed downstream.
+- **Re-seating cost is consequence-specific.** Cost follows the existing relations a change makes consequential, not simply the number of relations inside the named object.
+- **Stage is where relation meets an anchoring domain.** Light and Space name those roles; Afference and Efference are domain-relative orientations, not new substances.
 - **Resolution costs.**
 - **A seated Cut/relation is already resolution at its grain.** The distinction it makes consequential becomes ground; the distinctions it leaves equivalent remain the complementary possibility-side.
 - **Coarse does not mean unfinished, blurry, weak, or less real.**
@@ -515,7 +518,7 @@ These are part of the current internal architecture:
 - **Possibility and fine seating separate at every Lane.**
 - **Higher structure recruits lower structure; it does not replace it.**
 - **Odd/even Lane pairs have paired onset with staggered stabilisation.**
-- **Represented, established/reusable hosted logic, and independently seated structure are different conditions.**
+- **Represented, established/reusable hosted logic, and independently seated structure are different conditions.** Hosted logic can have its own interference and projection at its participating grain.
 - **No selector stands above relation choosing the law.** The logic already present constrains what can grow, and cheaper compatible continuation can dominate the surface.
 
 ### Candidate physical correspondence map
@@ -529,7 +532,7 @@ Internal persistence commitment and the cost of re-seating a domain provide a ca
 Differential contraction and re-seating of separation provide a candidate force-free architecture. Full quantitative correspondence to general relativity remains incomplete.
 
 **Clock differences**  
-Anchoring and support provide a candidate account in which a selected persistence loop can repeat differently without total resolving capacity being a single “speed of time.” Quantitative physical mapping remains incomplete.
+Anchor-closed comparison keeps a selected persistence loop separate from total resolving capacity. Under independent one-dimensional projections, orthogonal representation, and no extra consequential bias, the scoped construction gives `R_all² = R_a² + R_p²` and `q = R_p/R_all = sqrt(1 - v²/c²)` under the proposed physical identification. Receiver-Cut reconciliation and retained path comparison extend the candidate reading. General biased geometry, the full relativistic map, and gravity remain incomplete; an arbitrary budget ratio is not `q`.
 
 **Electromagnetism**  
 Lane-1 / Lane-2 directional and bias architecture provides candidate ground for EM-like structure, magnetic polarity, reflection, and propagation. Maxwell-level mapping remains incomplete.
@@ -541,7 +544,10 @@ Coarse relational coverage is a candidate interpretation for a contribution that
 Differential contraction between differently seated grounds remains a candidate interpretation, not a derived cosmological equation.
 
 **Matter states and propagation regimes**  
-Vacuum, gas, liquid, and solid are not Lane numbers. They may be different density / anchoring regimes of one relational ground through which several Lane relations operate simultaneously.
+Vacuum, gas, liquid, and solid are not Lane numbers. They may be different organizations of persistence in one relational ground through which several Lane relations operate simultaneously. Boundaries and environmental support belong in the closure; pressure and phase equations remain pending.
+
+**CMB and redshift**  
+The resolution-race candidate keeps common fundamental participation while fine nested density grows faster than the continuing coarse background. The remaining task is a native rule that generates the measured spectrum and its scaling. A toy peaked curve is not Planck's law; the occupancy rule, high-frequency behavior, redshift–temperature relation, and anisotropy structure remain unfinished.
 
 **Nuclear, astronomical, biological, and higher-order mappings**  
 These remain candidate correspondences unless the status page explicitly promotes a narrower result.

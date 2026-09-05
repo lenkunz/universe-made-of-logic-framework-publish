@@ -65,7 +65,7 @@ Those conditions must remain separate:
 
 > **Hosted is real. It just is not independently seated.**
 
-> **Article Slot:** https://soutame.substack.com/p/the-possibility-lane
+> **Article Slot:** URL: https://soutame.substack.com/p/the-possibility-lane
 
 The possibility-side article develops the widening direction. Here we will keep asking the narrowing question: what has to seat for a possibility to become part of the next ground?
 
@@ -172,7 +172,7 @@ This is why *point* is grain-relative. An atom, person, planet, seated relation,
 
 > **A point is whatever participates as one at the grain of the current relation.**
 
-> **Article Slot:** https://soutame.substack.com/p/basics-iii-one-and-one-make-three
+> **Article Slot:** URL: https://soutame.substack.com/p/basics-iii-one-and-one-make-three
 
 ## The present ground supplies the present budget
 
@@ -260,7 +260,7 @@ The present is not a thin display in front of a more complete hidden machine. It
 
 Its state is its hardware.
 
-> **Article Slot:** https://soutame.substack.com/p/basics-i-resolution-costs
+> **Article Slot:** URL: https://soutame.substack.com/p/basics-i-resolution-costs
 
 ## Resolution does not mean rendering everything
 
@@ -302,11 +302,29 @@ If the distinction is truly gone, later resolution cannot recreate arbitrary det
 
 Measurement does not escape this rule. A measuring domain can supply additional resolving structure and make a distinction consequential. It cannot choose the result freely.
 
-> **Article Slot:** https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak
+> **Article Slot:** URL: https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak
 
 The first foundation is now in place:
 
 relation adds ground, present ground supplies finite capacity, and resolution seats only the distinctions that have become consequential.
+
+## Stage is where relation meets a domain
+
+The framework sometimes compresses this into the phrase **Stage is where Light meets Space**.
+
+These words name roles, not new substances.
+
+- **Light** is the relation arriving in the comparison. A photon can be one physical example, but Light here can be any relation.
+- **Space** is the domain that can anchor that relation: an atom, a body, an instrument, a hosted logic, or a larger composition. It is not an empty container.
+- **Stage** is the resolved encounter in which a distinction becomes consequential at the grain of that relation.
+
+`relation + domain → resolved relation on Stage`
+
+Human observation is not required.
+
+The direction is relative. **Afference** is relation reaching inward from the current domain's side. **Efference** is relation reaching outward. What is Efference for A can be Afference for B; the relation changes side without needing another substance at the boundary.
+
+A returning Afference–resolution–Efference loop can help a domain remain referable by reusing seated support. This is a framework persistence architecture. It does not remove participation cost or turn budget into physical energy.
 
 The next question is what makes one continuation different from another.
 
@@ -464,7 +482,7 @@ The Index carries the full level-by-level map. What matters here is that relatio
 
 > **Established as logic does not automatically mean independently seated as structure.**
 
-> **Article Slot:** https://soutame.substack.com/p/the-index-of-the-framework
+> **Article Slot:** URL: https://soutame.substack.com/p/the-index-of-the-framework
 
 ---
 
@@ -505,6 +523,18 @@ This is not free budget. The present topology already supplies the capacity. Anc
 > **Ground does not merely constrain possibility. Good ground can enlarge it.**
 
 > **A subdomain can be locally bounded while becoming globally freer through membership.**
+
+Before budgets are compared, every anchor that still changes the comparison must be included. A pair can close itself when no third relation matters. Common support may leave the notation only when doing so loses no consequential distinction.
+
+> **Before comparing budgets, close the anchors.**
+
+A stable subset may participate as one composite, but only if the grouping preserves the relations needed by the next question.
+
+Change is similarly specific:
+
+> **Re-seating cost depends on which existing relations a change makes consequential—not simply how many relations the object contains.**
+
+The outside medium belongs in the closure when it changes support or resistance. This does not equate framework cost with physical pressure, drag, or energy.
 
 ## Growth can widen, deepen, and connect
 
@@ -551,6 +581,8 @@ The already-seated movement bias carries the continuation. Fine motion resolves 
 This is not a brain-specific power. Very simple living domains can carry movement bias. A nervous system can enrich the process without creating the primitive capacity to move.
 
 The frog is an explanatory example, not proof of a Lane assignment.
+
+There is a stronger exploratory proposal behind this example: brain and body may be the Stage expression of a perceptual domain's resolution rather than the brain serving as a separate ontological origin. “After projection” does not mean after movement. Neural activity may precede movement, and interruption may change the projection. That proposal is preserved for investigation; the frog does not establish it as neuroscience.
 
 A useful general distinction follows:
 
@@ -606,6 +638,14 @@ What they show is the architecture of reuse:
 
 > **Growth is not only adding more structure. Growth is also turning previously expensive structure into reusable ground.**
 
+A candidate support-transfer architecture asks one practical question:
+
+> **What is the host currently having to supply that the arrangement could preserve and support?**
+
+A proxy can preserve continuity, a quest can provide an occasion for participation, and a Tower can provide a bounded test of what the logic itself can support. A prospective System would arrange those anchoring points rather than carrying every later step forever.
+
+This is candidate design, not proof that an independent Rung has seated.
+
 ---
 
 # Part IV — What relational scale looks like
@@ -642,37 +682,33 @@ Time is not primitive in this framework.
 
 A clock is one selected repeating persistence loop.
 
-Its rate tells us how often that loop renews under its local ground. It does not tell us the total resolving activity happening while the loop repeats.
+Its reading records one resolved repetition against a comparison ground. It does not count every relation participating in the domain.
 
-So:
+> **A clock watches one loop. Budget concerns what the relational ground can resolve.**
 
-`clock duration`
+Anchor closure applies here too. Compare each clock with its consequential support, or show why a common contribution may be omitted without losing a distinction.
 
-≠ `available budget`
+For one deliberately simple case, let `R_p` be the persistence projection, `R_a` the anchor-relative projection involved in motion, `R_ap` their consequential relation, and `R_all` the stable composite of that closed comparison.
 
-≠ `activity density`
+If the two projections are independent and one-dimensional, their representation is orthogonal, and `R_ap` adds no further consequential bias, then:
 
-≠ `relational growth per budget`
+`R_all² = R_a² + R_p²`
 
-Anchoring makes the distinction especially important. If already-seated relational ground supports distinctions that a component would otherwise maintain more expensively, the selected persistence loop may require less frequent renewal. The clock can repeat more slowly while more present capacity remains available for other relation.
+and:
 
-> **Clock rate measures maintenance frequency, not total resolving capacity.**
+`q = R_p / R_all = sqrt(1 - (R_a / R_all)²)`
 
-> **The clock slows because persistence is cheaper, not because computation is poorer.**
+Under the proposed physical identification `R_a / R_all ↔ v / c`:
 
-> **A slower clock does not imply a slower domain.**
+`q = sqrt(1 - v²/c²) = 1/γ`
 
-Several quantities must therefore remain separate:
+The familiar factor appears, but only with those assumptions and that proposed mapping. This does not make every relational closure Euclidean. A consequential `R_ap` bias can change the geometry, and many relations may require a richer state-dependent account.
 
-1. present-ruler duration;
-2. remote event development;
-3. simple structural count growth;
-4. configuration growth;
-5. logical growth.
+The ruler candidate uses the same scoped factor as `L = qL₀`. A source/receiver support ratio such as `B_ra / B_la = 1.2` asks a different question: how much source-side resolution must be reconciled in one receiver Cut. It is not automatically `q`, `γ`, or inverse length.
 
-Present-ruler duration is not automatically remote event count.
+For twins, the path accumulates relation. Turning reverses orientation without refunding the outbound path, and reunion exposes the retained difference rather than creating it.
 
-Gravitational clock differences, radioactive decay, spectral redshift, and remote event-rate comparisons are candidate physical mappings. Reproducing their measured ratios remains incomplete.
+The scoped factor is a real result. Full simultaneity, velocity composition, Doppler behavior, general acceleration, gravity, causal structure, and many-anchor geometry remain incomplete.
 
 ## Candidate correspondence: gravity-like falling
 
@@ -945,7 +981,37 @@ Any cross-ground model would still have to reproduce spectral redshift, supernov
 
 That is **Completion pending**.
 
-The CMB is a specific test. A coarse present constraint may be able to act as an interface from which fine measurements resolve, but the framework must still show what stored constraint is sufficient to force the measured thermal and anisotropy structure.
+The CMB is a specific test. The current candidate keeps **Resolution Equality**: the background is not given less fundamental participation and is not frozen. Both coarse background and fine nested structure can keep gaining relation. The proposal is that fine nested structure grows its resolution density faster, so their ratio changes at the present Stage.
+
+> **The CMB is not losing the universe's budget. It is losing the race toward fine resolution.**
+
+That is only the qualitative architecture.
+
+The revised quantitative question is harder:
+
+> **Which repeated-resolution rule produces the measured frequency–intensity distribution, and why does that same rule give the observed scaling between comparison grounds?**
+
+A spectrum sweeps through a range of grain comparisons. Repetition asks a different question at one selected grain. A local repeat ratio can stay fixed over those repeats while changing as the sweep moves to another grain.
+
+Let `rho` label a positive dimensionless grain comparison inside a specified anchor closure `A`. Suppose the measured contributions are nonnegative weights, each further repeat at this selected comparison contributes the same local factor `q_A(rho)` with `0 < q < 1`, and `W_A(rho)` carries the observable's required weighting. Then:
+
+`G_A(rho) = W_A(rho)[q + q² + q³ + ...]`
+
+`= W_A(rho) q/(1-q)`
+
+Defining `chi_A(rho) = -ln q_A(rho)` gives:
+
+`G_A(rho) = W_A(rho)/[exp(chi_A(rho))-1]`
+
+That geometric sum is exact **under those assumptions**. Identifying its weights with supported repeated resolution is still a candidate mechanism.
+
+The established Planck frequency shape appears when external physics supplies `chi = x = hν/(k_BT)` and `W = x³`. The identity is exact, but the framework has not derived those physical inputs, their normalization, or the required measurement measure from anchor-closed native relations.
+
+If the repeat factor changes between repeats, products of the changing factors replace the simple geometric series and the same denominator need not survive. Changing from frequency bins to wavelength or logarithmic bins also changes the density factor; it is not a harmless relabeling of the horizontal axis.
+
+The earlier `x² sqrt(1-x²)` hump remains a separate toy, not Planck's law. A Fourier or Mellin description may help compare scales, but it does not choose the weights.
+
+The native physical identification, redshift–temperature scaling, anisotropy and acoustic structure, flux, lensing, event-duration stretching, and a discriminating consequence remain completion work.
 
 > **Keep the evidence. Reconsider the map.**
 
@@ -1097,7 +1163,7 @@ An earlier route can also fail without making the deduction useless.
 
 The live claim-by-claim ledger belongs in the status article rather than being repeated here.
 
-> **Article Slot:** https://soutame.substack.com/p/where-the-framework-currently-stands
+> **Article Slot:** URL: https://soutame.substack.com/p/where-the-framework-currently-stands
 
 ## What remains to be done
 
@@ -1109,12 +1175,13 @@ Major **Completion pending** work includes:
 - exact anchoring and contraction ratios;
 - density-regime propagation;
 - cross-ground event-rate mapping;
+- general biased and many-anchor geometry beyond the scoped two-projection factor;
 - full physical accounting;
 - full EM mapping;
 - effective-dimension quantification;
 - dark-sector magnitude;
 - nuclear stability;
-- cosmological and CMB specificity;
+- the physical identification and normalization of the conditional repeat construction, plus CMB scaling and sky structure;
 - coarse-to-fine Aim / constraint mapping: how an already-seated coarse Aim combines with present ground and relational cost to make one finer Cut consequential rather than another.
 
 Major **Unresolved mechanisms** include:

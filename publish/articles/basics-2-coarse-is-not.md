@@ -96,6 +96,23 @@ This is also why:
 
 A structure can constrain several later outcomes without already containing every one as a fully displayed internal copy.
 
+### Memory is consequence, not replay
+
+The same distinction applies to history.
+
+A resolved past does not have to remain as a fully rendered movie in order to matter now. Enough of what happened can survive as present ground:
+
+`resolved history`
+→ `retained constraint`
+→ `some later continuations remain compatible`
+→ `others no longer are`
+
+> **Past is retained as consequential ground, not necessarily as a permanently fine replay.**
+
+There is no separately existing past Stage or finished future Stage required by this account. Past means surviving constraint. Future means projection and possibility relative to present ground.
+
+This can sometimes look like “backfilling,” but the word is dangerous. Present coherence cannot invent an exact history that the surviving distinctions do not identify. If several histories leave the same present constraint, later resolution does not gain permission to choose one as though it had been stored in full.
+
 ---
 
 ## II. Coarse does not mean weak
@@ -279,6 +296,20 @@ until another relation splits them.
 
 The present ground still matters.
 
+## Hosted does not mean absent
+
+A logic can be real and consequential at its own grain while remaining hosted through wider ground.
+
+Its limited visibility in a broader comparison does not tell us everything it can support within its own domain. Hosted logic can have its own interference and projection where it participates, even if another relation, proxy, or translation is needed to bring it into a wider shared comparison.
+
+Keep these claims separate:
+
+`weakly resolved here` ≠ `without relation anywhere`
+
+`supported through a host` ≠ `independently seated at the grain being tested`
+
+Relative fading is not automatically erasure. Waiting longer is not what makes hosted structure independent. The question is which consequential support it still depends on.
+
 ---
 
 ## Candidate physical readings are a separate step
@@ -333,6 +364,6 @@ The answer is where the arithmetic starts becoming strange.
 
 ---
 
-> **Article Slot:** https://soutame.substack.com/p/basics-iii-one-and-one-make-three
+> **Article Slot:** URL: https://soutame.substack.com/p/basics-iii-one-and-one-make-three
 
 *Next: **Basics III — One and one make three.***

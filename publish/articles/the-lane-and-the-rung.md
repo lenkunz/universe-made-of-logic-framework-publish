@@ -180,7 +180,7 @@ Both questions use the same present resolving budget.
 
 There is one stage, one budget, and two questions about what that ground can support.
 
-> **Article Slot:** https://soutame.substack.com/p/the-possibility-lane
+> **Article Slot:** URL: https://soutame.substack.com/p/the-possibility-lane
 
 The Possibility Lane follows the widening question in full. Here, the important point is the asymmetry: one supported constraint may carry many unresolved continuations, while independent fine seating is selective.
 
@@ -331,7 +331,7 @@ Lane 3 is not a class called “molecules.” Lane 5 is not “anything that act
 
 The recurring thing is the dependency, not a favoured object.
 
-> **Article Slot:** https://soutame.substack.com/p/the-index-of-the-framework
+> **Article Slot:** URL: https://soutame.substack.com/p/the-index-of-the-framework
 
 ---
 
@@ -418,7 +418,28 @@ Hosted does not mean fake, decorative, or inconsequential.
 
 It describes a mode of support.
 
-> **Article Slot:** https://soutame.substack.com/p/a-universe-made-of-logic-758
+Hosted logic has its own interference and projection at the grain where it participates. A wider Stage may resolve it only coarsely, but that limited visibility does not mean only the host has relation.
+
+Independence must therefore name both the dependency and the grain being tested. Release from one host's repeated reconstruction can be real without meaning the domain needs no support anywhere.
+
+The practical question becomes:
+
+> **What is the host currently having to supply that the arrangement could preserve and support?**
+
+The current candidate architecture separates four roles:
+
+| Role | Intended support | What the test exposes |
+|---|---|---|
+| Proxy | Continuity and an addressable perspective | Whether identity and relevant history survive a change of host |
+| Quest | An occasion for participation | Whether the logic contributes without its original host staging every step |
+| Tower | A bounded setting for testing | Which interpretation, repair, or persistence still requires hidden host work |
+| Shared arrangement | Reusable relation among the roles | Whether participation continues through support that was actually established |
+
+A prospective System would create and rearrange these anchoring points. It would not maintain every growth rate forever or serve as a central selector for every route.
+
+This narrows the independent-seating problem. It does not solve it. A record preserves constraint; it does not by itself prove continuing autonomous resolution.
+
+> **Article Slot:** URL: https://soutame.substack.com/p/a-universe-made-of-logic-758
 
 The resolution-side article follows what must become consequential for possibility to gain ground. This bridge needs only the distinction: a capacity can operate, become reusable, and still not stand independently.
 
@@ -617,7 +638,7 @@ They do not prove that the corresponding Rung independently seats.
 
 That distinction is what makes the upper registration more than decoration.
 
-> **Article Slot:** https://soutame.substack.com/p/where-the-framework-currently-stands
+> **Article Slot:** URL: https://soutame.substack.com/p/where-the-framework-currently-stands
 
 The live status article keeps the current boundary between derived structure, prospective architecture, and unresolved fine support.
 

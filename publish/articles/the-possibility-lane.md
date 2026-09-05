@@ -30,7 +30,7 @@ These are not two worlds. They are not competing explanations. They are two ques
 
 **A Universe Made of Logic** follows possibility toward the fine distinctions required for it to stand. This article turns around and asks what can remain open before those distinctions are required.
 
-> **Article Slot:** https://soutame.substack.com/p/a-universe-made-of-logic-758
+> **Article Slot:** URL: https://soutame.substack.com/p/a-universe-made-of-logic-758
 
 The difference matters because a possibility does not need to arrive as a finished hidden world.
 
@@ -142,7 +142,7 @@ It is this:
 
 Coarse possibility is not a blurry copy of finished detail. It is real undercommitment: an exact constraint that has not paid for distinctions it does not yet need.
 
-> **Article Slot:** https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak
+> **Article Slot:** URL: https://soutame.substack.com/p/basics-ii-coarse-is-not-blurry-weak
 
 ## Aim is constraint, not route
 
@@ -197,6 +197,22 @@ And in the special case of a living aim:
 
 > **The aim survives. The route belongs to resolution.**
 
+## Projection and interference meet on Stage
+
+A coarse Aim projects direction from the present domain while leaving the route open.
+
+**Projection is outgoing possibility or bias.**
+
+**Interference is incoming consequence.**
+
+Outgoing and incoming are relative to the domain. What is Efference for one side can be Afference for another. An action, message, boundary, thought, or institution can project relation; none of this requires conscious intention at the primitive grain.
+
+Several projections can meet. Individually weak relations can become one strong combined constraint at a coarser grain. A projection can also be interrupted when a bodily, environmental, or supporting relation changes.
+
+Projection therefore changes the present situation from which the next event resolves. It does not select a completed future.
+
+> **The future is open continuation under present constraint, not a finished Stage waiting ahead.**
+
 ## One budget, two questions
 
 Possibility does not need a separate currency.
@@ -239,7 +255,11 @@ The saving comes from not distinguishing every route separately.
 
 This is why the framework can allow possibility to run ahead without inventing a second possibility budget or treating each open continuation as a fully rendered world.
 
-> **Article Slot:** https://soutame.substack.com/p/basics-i-resolution-costs
+The comparison must still be anchor-closed. A small representation can address a large supported relation without reproducing the whole infrastructure it can recruit, but that infrastructure does not disappear from the consequential closure.
+
+> **A representation can be small while the relation it addresses is large. Its support still belongs in the comparison.**
+
+> **Article Slot:** URL: https://soutame.substack.com/p/basics-i-resolution-costs
 
 The exact scaling of Lane growth remains incomplete. No fixed three-dimensional volume or exact surplus law is needed for the qualitative result.
 
@@ -294,7 +314,7 @@ The repeating pattern is not a sphere, shell, cone, or any other fixed shape.
 
 Readers who want the compact Lane/Rung registration can use the Index. Here, the important thing is to feel how one kind of freedom makes the next one possible.
 
-> **Article Slot:** https://soutame.substack.com/p/the-index-of-the-framework
+> **Article Slot:** URL: https://soutame.substack.com/p/the-index-of-the-framework
 
 ## The first pair: direction and survivable bound
 
@@ -370,7 +390,7 @@ Lane 3 is not statistics. It explains why statistics becomes natural once many c
 
 The relation among relations has become part of the ground.
 
-> **Article Slot:** https://soutame.substack.com/p/basics-iii-one-and-one-make-three
+> **Article Slot:** URL: https://soutame.substack.com/p/basics-iii-one-and-one-make-three
 
 ## Lane 4: identity becomes a horizon of alteration
 
@@ -551,6 +571,18 @@ Lane 6 says the coarse collective possibility can be real.
 Rung 6 asks what would have to seat for that capacity to stand independently.
 
 That unanswered question marks a frontier.
+
+Hosted logic also has its own interference and projection at the grain where it participates. Another host does not create its first reality merely by encountering it. Weak visibility in a wider Stage can coexist with consequential relation inside the hosted domain.
+
+The practical independence question is:
+
+> **What is the host currently having to supply that the arrangement could preserve and support?**
+
+A **proxy** can preserve continuity and an addressable perspective. A **quest** can supply an occasion for participation. A **Tower** can provide a bounded setting that exposes which interpretation, repair, or persistence still depends on hidden host work.
+
+A prospective **System** would arrange those anchoring points. It would not maintain every relation's growth forever or decide every route for the participants.
+
+This is candidate architecture. A durable record alone does not demonstrate ongoing autonomous resolution, and a proxy alone does not establish an independent Rung.
 
 ---
 
@@ -741,7 +773,7 @@ That is not permission to fill the gap with anything we want.
 
 It is a clear statement of where the framework presently stops.
 
-> **Article Slot:** https://soutame.substack.com/p/where-the-framework-currently-stands
+> **Article Slot:** URL: https://soutame.substack.com/p/where-the-framework-currently-stands
 
 ---
 
