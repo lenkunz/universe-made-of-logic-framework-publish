@@ -2,10 +2,10 @@
 
 Title: **Why Do Snowflakes Agree on Six Arms but Never on the Details?**  
 Slug: `why-do-snowflakes-agree-on-six-arms-but-never-on-the-details`  
-Status: **article-ready**  
+Status: **published**  
 Created: 2026-08-31  
-Published:  
-Substack URL:
+Published: **2026-09-01 11:08:51 +07:00**  
+Substack URL: https://soutame.substack.com/p/why-do-snowflakes-agree-on-six-arms
 
 ## Central question
 
@@ -53,3 +53,7 @@ Article and 1280×720 editorial hero generated 2026-08-31. Article ready; audio 
 ## Post-publication notes
 
 Transcript is optional. Substack-generated transcript may be downloaded later only if analysis is needed.
+
+## Publication metadata sync — 2026-09-06
+
+Exact title, URL, and publication timestamp verified against the complete `resource/substack-bits-podcast.rss` snapshot. The current live RSS endpoints were unavailable. This update records publication; it does not claim that missing audio assets were retrieved.

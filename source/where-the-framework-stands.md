@@ -2,10 +2,10 @@
 
 *What is derived, what corresponds, what is still being completed, what remains unresolved, and how earlier framings resolved. Updated as things move.*
 
-<!-- Revision: R20260905-2350-01 -->
-<!-- Updated: 2026-09-05 23:50 +07:00 -->
-<!-- Change: Synchronizes the Bits backlog and current discussion, separating integrated rules, scoped results, candidate mechanisms, and remaining completion. -->
-<!-- Supersedes: R20260823-1421-01 -->
+<!-- Revision: R20260906-0104-01 -->
+<!-- Updated: 2026-09-06 01:04 +07:00 -->
+<!-- Change: Records the explicit grain-sweep/repeat construction and narrows the remaining physical identification without claiming a native Planck derivation. -->
+<!-- Supersedes: R20260905-2350-01 -->
 
 ---
 
@@ -196,7 +196,8 @@ The additions are Stage/Afference/Efference, anchor closure in maintained defini
 - **Redshift / remote event-rate comparison.** Candidate: spectral shift and whole-event duration stretching may both expose a cross-ground counting mismatch. This does not yet replace conventional cosmology; the numerical map, CMB consistency, lensing, flux, and structure-growth constraints remain pending.
 - **Earlier slow event rate versus cheap simple growth.** The framework permits a remote/earlier ground to resolve events more slowly against our current ruler while still adding simple structure cheaply per budget because fewer existing relations have to be integrated.
 - **CMB resolution race.** Candidate: fine nested composition can grow resolution density faster than a continuing coarse background while both retain fundamental support. The comparison may surface as lower characteristic frequency/temperature. Coarse does not mean static, underfunded, or intrinsically hot.
-- **CMB native spectrum.** The revised question is which repeated-resolution rule generates the measured distribution and scaling, rather than preserving an assumed ontologically pre-existing blackbody curve. The `B_x`/target/anchor sweep and `G(x)` are exploratory bookkeeping. The toy `x² sqrt(1-x²)` hump is not Planck's law.
+- **CMB native spectrum.** The question is which repeated-resolution rule generates the measured distribution and scaling. The receiver/target grain sweep now has an explicit conditional repeat-weight construction: a local `q(rho)` fixed over repeats but variable across grain gives `W(rho) q/(1-q)`. Its physical identification remains candidate. The earlier `x² sqrt(1-x²)` hump remains a distinct toy, not Planck's law.
+- **Grain sweep and repeated weights.** Conditional mathematics is present: proportional scalar change integrates to an exponential of accumulated rate; summing stationary local repeat weights gives `W/[exp(chi)-1]`, where `chi=-ln(q)`. The illustrated Planck shape supplies conventional `chi=h nu/(k_B T)` and `W` proportional to frequency cubed. Deriving those inputs from anchor-closed native relations remains **Completion pending**. Changes between repeats require products of factors; changes of spectral bin require the appropriate density conversion. See the [September 6 change map](changes/2026-09-06-grain-sweep-and-repeated-comparison.md).
 - **Dark-energy-like expansion.** Differential contraction between dense and sparse grounds remains a candidate large-scale interpretation, not a quantitative cosmological result.
 
 ### Nuclear, biological, and higher-order branches
@@ -215,11 +216,11 @@ The additions are Stage/Afference/Efference, anchor closure in maintained defini
 ### Quantitative completion pending
 
 - **Halo magnitude and overlap magnitude** — the dark-sector mechanism does not yet give the required lensing / mass numbers.
-- **Compounding rate** — repeated seating has an exponential-shaped structural route; the physical rate is not yet calculated.
+- **Compounding rate** — the scalar proportional-update construction now explicitly permits a varying rate inside the accumulated exponent; the native rate and its physical identification are not yet calculated.
 - **Density-regime propagation** — the relational-cost mechanism exists, but measured light, sound, conduction, diffusion, and refractive ratios are not yet derived.
 - **EM / atomic thresholds** — the affordability condition exists; actual thresholds are not yet calculated.
 - **Cross-ground clock / redshift mapping** — the simple projection factor and receiver-Cut mechanism are explicit. The remaining task is a general function from specified closure to spectral and event-duration ratios, including gravity and cosmology. The scoped inertial case must not be reset to “no result.”
-- **CMB distribution and scaling** — derive the native repeated-resolution/occupancy law, its high-frequency behaviour, redshift–temperature scaling, and anisotropy/acoustic structure. An exponential needs a justified recursion rather than insertion to match a target curve.
+- **CMB distribution and scaling** — the geometric repeat sum and its conditional low/high-frequency behavior are explicit. Native identification of the repeat rule, physical argument, weighting, and normalization remains incomplete; redshift–temperature scaling and anisotropy/acoustic structure remain separate completion items. Writing an arbitrary positive ratio as an exponential is not a derived physical law.
 - **Nuclear stability curve** — support-sharing gives a candidate mechanism; observed binding, isotope, fusion, and decay magnitudes are still missing.
 - **Coarse-to-fine Aim / constraint mapping** — the structural joint is now clear: Aim is already seated topology and later fine resolution is another Cut within that present constraint. What remains incomplete is a formal / quantitative account of how the Aim combines with other present ground and relational cost to make one finer distinction consequential rather than another.
 - **Lane growth scaling** — the structural distinction among simple count growth, configuration growth, and reusable logical growth exists; their relative rates remain qualitative.
@@ -284,6 +285,7 @@ The Lane-7 question is more specific now: support dependencies can be named, but
 - **All clock/ruler geometry missing → scoped factor present, general rule unfinished — Narrowed.** The simple construction exists under explicit assumptions; it does not complete all relativistic physics or equal an arbitrary budget ratio.
 - **Turnaround creates the twin difference → retained path comparison — Reframed.** Orientation reversal changes continuation, not the consequences already accumulated.
 - **CMB gets less budget / carries an assumed primordial curve → resolution race and native spectrum — Redirected.** Preserve fundamental participation and derive the distribution-generating rule before scaling it.
+- **One universal multiplier → local repeat factor within a changing grain sweep — Narrowed / clarified.** Constancy over repeats at one selected comparison does not require constancy across all grain comparisons. The exact conditional sum is retained; its native physical inputs are not supplied by the graph alone.
 - **Hosted means only the host acts → hosted logic participates at its grain — Rephrased / reframed.** Visibility, access, ongoing activity, and independent seating remain distinct.
 - **System maintains every logic forever → System establishes reusable support — Reframed.** Proxy, quest, and Tower name different support roles; growth belongs to the continuing relations made supportable.
 - **Neural mirror means an after-event record → interruptible realization after projection — Rephrased.** The user's proposal allows neural activity before movement. Its ontology remains exploratory.

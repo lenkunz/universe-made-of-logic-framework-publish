@@ -21,6 +21,8 @@ Future semantic revisions should update these stable filenames **in place**. Rev
 
 **R20260905-2350-01 / 2026-09-05 23:50 +07:00.** The [September 5 sync map](changes/2026-09-05-stage-projection-and-bits-source-sync.md) audits twelve Bits and records integrations, already-present rules, and unfinished mappings. The [discussion note](internal/2026-09-05-projection-hosting-and-system-continuity.md) preserves unpromoted mechanisms and design context.
 
+Latest scoped extension: **R20260906-0104-01 / 2026-09-06 01:04 +07:00**. The [grain-sweep note](changes/2026-09-06-grain-sweep-and-repeated-comparison.md) adds a conditional repeat-weight construction to the main spectrum section and status ledger. The remaining maintained sources retain the full-set checkpoint above.
+
 ## Separate personal / speculative source
 
 - `the-hope-behind-the-framework.md`
@@ -33,6 +35,7 @@ This document is intentionally **not framework ground** unless a later semantic 
 - `changes/cut-resolution-and-open-remainder.md`
 - `changes/2026-08-27-anchor-closure-and-relational-budget-comparison.md`
 - `changes/2026-09-05-stage-projection-and-bits-source-sync.md`
+- `changes/2026-09-06-grain-sweep-and-repeated-comparison.md`
 
 When a semantic correction changes framework ground, update the affected canonical sources and the relevant status/change-map files in the same sync.
 

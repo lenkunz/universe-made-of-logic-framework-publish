@@ -1,6 +1,6 @@
 # Reasoning History
 
-Updated: 2026-09-05
+Updated: 2026-09-06
 Status: CONTINUITY MEMORY / NOT CANONICAL AUTHORITY
 
 This file records important conversational corrections and why they happened. Its purpose is to prevent a future chat from rediscovering stale branches and to preserve the shape of deductions that may be compressed in final articles.
@@ -452,3 +452,17 @@ Past is retained relation, future is open projection/interference. Coarse detail
 ## 30. Bits backlog and ownership
 
 The [September 5 map](../source/changes/2026-09-05-stage-projection-and-bits-source-sync.md) audits twelve current Bits. The crack/history distinction already existed in the August 25 sources; flame, snowflake, data, and top chiefly illustrate existing ground. The weekly check will report precise later gaps.
+
+## 31. A changing grain sweep and a local repeat ratio
+
+The first comparison figure showed scalar contraction `L/L0=exp(-s)` and the exact identity `x^3 sum(exp(-n x))=x^3/[exp(x)-1]`. The physical Planck argument and frequency weighting were supplied as external inputs.
+
+Len's follow-up emphasized that each curve comes from continuing across the grain comparison and that the ratio changes. The correction is retained without assuming the whole spectrum has one universal multiplier.
+
+Two variables were being conflated: the repeat index at one selected grain, and the grain coordinate swept to make a curve. The local factor can remain fixed over the first while changing across the second. If it also changes between repeats, the sum must use products of the actual factors.
+
+The constant-multiplier phrase is handled by preserving amplitude/calibration separately from a changing comparison ratio and from a spectral bin measure. No unspoken numerical identification is added.
+
+Status: **Narrowed / clarified**. Exact conditional mathematics is present; native physical identification is **Completion pending**. The earlier bounded square-root hump remains a different toy. This is not a retrospective Planck derivation.
+
+The [change map](../source/changes/2026-09-06-grain-sweep-and-repeated-comparison.md) and new [thermal-spectrum Bit](../bits/why-does-heat-draw-a-curve/00-manifest.md) retain the mechanism and its assumptions.

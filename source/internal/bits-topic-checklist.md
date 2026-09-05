@@ -1,6 +1,6 @@
 # Bits Topic Checklist — My GUT Deduction
 
-Updated: 2026-09-03
+Updated: 2026-09-06
 
 Purpose: prevent future Bits packages from duplicating an already-published topic, repeating the same central mechanism with cosmetic new examples, or preparing the same candidate twice.
 
@@ -16,6 +16,20 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 
 # Published Bits
 
+## 2026-09-04
+
+- [x] **What Is a Flame If Its Matter Never Stays?**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/what-is-a-flame-if-its-matter-never
+  - RSS publication time: 2026-09-04 11:58:15 +07:00.
+  - External topic: candle combustion, capillary fuel delivery, diffusion flames, buoyant convection, microgravity flame structure, and quasi-steady physical processes.
+  - Main question: how can one recognizable flame persist while its fuel, oxygen, hot gases, reaction products, and microscopic participants continuously enter, transform, and leave?
+  - Framework hook: **identity through alteration**; a changing domain may continue participating as one while enough relational organization remains consequential through the change.
+  - Nearest overlap: **When Does a Crowd Become a Mind?**, **The Traffic Jam That Nobody Caused**, **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?**.
+  - Why distinct: owns combustion turnover and identity through continuous material/chemical change.
+  - Framework boundary: candle science does not prove My GUT Deduction; framework `budget` must not be equated with heat, fuel, oxygen, chemical energy, or reaction rate.
+  - Package: `bits/what-is-a-flame-if-its-matter-never-stays/`
+
 ## 2026-09-02
 
 - [x] **Air Is Not Less Compute Than Stone**
@@ -27,6 +41,20 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
   - Framework hook: **Resolution Equality does not imply Resolution Sameness.** Gas and stone differ in how their relations resolve persistence, not in whether one is fundamentally given less compute.
   - Closest overlap: **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?**, **The Universe on a Computational Budget**, **the universe is an informational budget**, **The Universe Only Renders on a Budget**.
   - Package: `bits/air-is-not-less-compute-than-stone/`
+
+## 2026-09-01
+
+- [x] **Why Do Snowflakes Agree on Six Arms but Never on the Details?**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/why-do-snowflakes-agree-on-six-arms
+  - RSS publication time: 2026-09-01 11:08:51 +07:00.
+  - External topic: ice crystallography, sixfold symmetry, temperature/supersaturation morphology, diffusion-limited growth, anisotropic attachment kinetics, and dendritic instability.
+  - Main question: why can snow crystals obey a strong shared sixfold constraint while producing an enormous variety of fine forms?
+  - Framework hook: **coarse can be an exact real constraint while leaving finer distinctions unseated**.
+  - Nearest overlap: **Why Do Rules Create Freedom?**, **Why precision is a trap**, **Why Does a Crack Turn?**.
+  - Why distinct: owns snow-crystal growth and the tension between crystallographic symmetry and path-dependent fine branching, rather than creativity, measurement, or fracture.
+  - Framework boundary: snow-crystal science does not prove My GUT Deduction; framework resolution/budget must not replace crystallography, diffusion, thermodynamics, surface kinetics, or instability.
+  - Package: `bits/why-do-snowflakes-agree-on-six-arms-but-never-on-the-details/`
 
 ## 2026-08-30
 
@@ -48,7 +76,7 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
   - RSS publication time: 2026-08-28 15:36:03 +07:00.
   - External topic: cosmic microwave background temperature, blackbody spectrum, anisotropy, and cosmological cooling.
   - Main question: could a coarse cosmological background appear progressively colder relative to a fine world even if it continues receiving equal fundamental support?
-  - Framework hook: fine relational density can compound faster than broad coarse relation; cross-resolution comparison is a candidate interpretation, with blackbody preservation and T(z) left as hard audits.
+  - Framework hook: fine relational density can compound faster than broad coarse relation; cross-resolution comparison is a candidate interpretation, with native spectral generation and T(z) left as hard audits; the later thermal-spectrum Bit develops an explicit conditional repeat construction.
   - Closest overlap: **Stage Is Where Light Meets Space**, **Expanding Space is a Shrinking Ruler**, **The expanding universe is an accounting error**, **The Universe Has a Resolution Limit**.
   - Package: `bits/the-cmb-is-losing-the-resolution-race/`
 
@@ -168,6 +196,16 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 
 # Prepared but not published
 
+- [ ] **Why Does Heat Draw a Curve?**
+  - Status: **PREPARED / user-selected**
+  - External topic: thermal spectra, Planck's distribution, proportional repetition, and spectral bin measures.
+  - Main question: why does thermal radiation have a spectral peak, and can a changing grain comparison with a local repeat rule supply its shape?
+  - Framework hook: a local ratio fixed over repeats can vary across the grain sweep; the geometric repeat sum is exact conditional mathematics.
+  - Nearest overlap: **The CMB Is Losing the Resolution Race**, **Stage Is Where Light Meets Space**, **Why Does Motion Make a Ruler Shorter?**.
+  - Why distinct: owns local spectrum generation and weighting, rather than cosmological cooling or an inertial ruler factor.
+  - Boundary: physical Planck argument, frequency weighting, normalization, and native repeat identification remain incomplete.
+  - Package: `bits/why-does-heat-draw-a-curve/`
+
 - [x] **The Traffic Jam That Nobody Caused**
   - Status: **HOLD / do not use as the next Bit yet**
   - External topic: phantom traffic jams / stop-and-go waves.
@@ -177,25 +215,7 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
   - Distinctive material: instability threshold, backward-moving wave, ring-road experiment, one-car damping experiment.
   - Decision: keep in reserve.
 
-- [ ] **What Is a Flame If Its Matter Never Stays?**
-  - Status: **PREPARED**
-  - External topic: candle combustion, capillary fuel delivery, diffusion flames, buoyant convection, microgravity flame structure, and quasi-steady physical processes.
-  - Main question: how can one recognizable flame persist while its fuel, oxygen, hot gases, reaction products, and microscopic participants continuously enter, transform, and leave?
-  - Framework hook: **identity through alteration**; a changing domain may continue participating as one while enough relational organization remains consequential through the change.
-  - Nearest overlap: **When Does a Crowd Become a Mind?**, **The Traffic Jam That Nobody Caused**, **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?**.
-  - Why distinct: owns combustion turnover and identity through continuous material/chemical change.
-  - Framework boundary: candle science does not prove My GUT Deduction; framework `budget` must not be equated with heat, fuel, oxygen, chemical energy, or reaction rate.
-  - Package: `bits/what-is-a-flame-if-its-matter-never-stays/`
 
-- [ ] **Why Do Snowflakes Agree on Six Arms but Never on the Details?**
-  - Status: **PREPARED; exact title is present in the 2026-09-03 RSS snapshot, but the connector exposed the item body without enough following metadata to safely recover its publication date/URL in this run. Publication move remains pending rather than guessing.**
-  - External topic: ice crystallography, sixfold symmetry, temperature/supersaturation morphology, diffusion-limited growth, anisotropic attachment kinetics, and dendritic instability.
-  - Main question: why can snow crystals obey a strong shared sixfold constraint while producing an enormous variety of fine forms?
-  - Framework hook: **coarse can be an exact real constraint while leaving finer distinctions unseated**.
-  - Nearest overlap: **Why Do Rules Create Freedom?**, **Why precision is a trap**, **Why Does a Crack Turn?**.
-  - Why distinct: owns snow-crystal growth and the tension between crystallographic symmetry and path-dependent fine branching, rather than creativity, measurement, or fracture.
-  - Framework boundary: snow-crystal science does not prove My GUT Deduction; framework resolution/budget must not replace crystallography, diffusion, thermodynamics, surface kinetics, or instability.
-  - Package: `bits/why-do-snowflakes-agree-on-six-arms-but-never-on-the-details/`
 
 - [ ] **Why Does a Spinning Top Fall Sideways?**
   - Status: **PREPARED**
@@ -211,11 +231,15 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 
 # High-overlap families
 
+### Thermal spectral shape / scale comparison
+- Why Does Heat Draw a Curve? — prepared; local grain sweep and repeat weighting
+- The CMB Is Losing the Resolution Race — published; cosmological cooling, a distinct central question
+
 ### Constraint / ground / freedom
 - Why Do Rules Create Freedom?
 - Why Our Solutions Become Our Anchors
 - The Permanent Rent of Suppression
-- Why Do Snowflakes Agree on Six Arms but Never on the Details? — prepared/RSS exact-title match pending metadata sync; distinct physical growth mechanism
+- Why Do Snowflakes Agree on Six Arms but Never on the Details? — published; distinct physical growth mechanism
 
 ### Coarse detail / memory / reuse
 - Why Does Forgetting Help Us Remember?
@@ -225,7 +249,7 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 - Your Data Is Never Really a 1 or a 0 — published; distinct storage/ECC mechanism
 
 ### Identity / persistent-pattern caution
-- What Is a Flame If Its Matter Never Stays? — prepared; identity-through-alteration via combustion turnover
+- What Is a Flame If Its Matter Never Stays? — published; identity-through-alteration via combustion turnover
 - When Does a Crowd Become a Mind? — collective higher-level participant
 - The Traffic Jam That Nobody Caused — prepared/on hold; stop-and-go wave with changing cars
 

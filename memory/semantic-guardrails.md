@@ -1,6 +1,6 @@
 # Semantic Guardrails
 
-Updated: 2026-09-05
+Updated: 2026-09-06
 Status: CONTINUITY MEMORY / NOT CANONICAL AUTHORITY
 
 Use this file to stop a new chat from silently importing familiar ontology back into the framework.
@@ -198,7 +198,9 @@ Do not resurrect Lane −1 / Rung −1 notation. It smuggles ordering into two c
 
 - Preserve Resolution Equality: the background is not assigned less fundamental reality.
 - Derive the native distribution rule and its scaling; do not assume a primordial Planck curve as ontology.
-- The toy hump is not Planck's law. Occupancy/counting and high-frequency behaviour remain missing.
+- The original square-root toy is not Planck's law. A later conditional geometric sum now supplies exact reference-shape mathematics and tails; native identification of its repeat weights, physical argument, measure, and normalization remains incomplete.
+- Constancy over repeats at one selected grain is different from constancy across a grain sweep. If the factor changes between repeats, use products of factors.
+- An overall multiplier, a characteristic scale, and a spectral density's bin-width conversion are not interchangeable. A logarithmic/Mellin coordinate change alone does not force a thermal distribution.
 - Do not insert `e` merely because the target curve contains it.
 - Brain/body mirror means realization after projection, not an inert after-event record. Preserve the stronger proposal without treating it as established neuroscience.
 - Apparent noise and personal meaning do not themselves establish a sender or a cosmic control mechanism.

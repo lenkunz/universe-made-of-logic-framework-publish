@@ -1,6 +1,6 @@
 # Current Framework Context
 
-Updated: 2026-09-05
+Updated: 2026-09-06
 Status: CONTINUITY MEMORY / NOT CANONICAL AUTHORITY
 
 This file exists to let a new chat recover the active reasoning frontier quickly. Canonical meaning still lives under `source/`.
@@ -12,6 +12,20 @@ The maintained set is synchronized at **R20260905-2350-01**. The [source-sync ma
 Newly integrated: Stage/Afference/Efference, anchor-closed budget, consequence-specific re-seating cost, scoped clock/ruler geometry, receiver Cut, twin paths, CMB resolution race/native spectrum, and hosted logic's own participation with a candidate support-transfer architecture.
 
 The August 25 history/Aim clarification was already in Basics II and P-Lane. August 27 anchor closure was a promoted rule whose maintained-summary integration was pending.
+
+## Grain-sweep frontier — September 6
+
+The main source and status ledger now carry a scoped follow-up to the September 5 sync. See [Grain sweep and repeated comparison](../source/changes/2026-09-06-grain-sweep-and-repeated-comparison.md).
+
+The user reads the smooth curve as a continuing comparison across two participating grain ranges. Keep changing the selected comparison separate from repeating at one selected comparison. A local factor may be fixed over the repeat index while varying across the grain sweep.
+
+The conditional sum `G=W sum(q^n)=W q/(1-q)=W/[exp(chi)-1]`, `chi=-ln(q)`, is explicit. The earlier picture chose standard `chi=x=h nu/(k_B T)` and `W=x^3`; those native physical identifications remain incomplete. Do not reset this to an unspecified hump, and do not promote it to a native Planck derivation.
+
+Variable proportional rates can be included in accumulated logarithmic contraction. Variable factors between repeats generally change the sum. A global amplitude, a comparison scale, and a density's bin-width factor are distinct.
+
+The new user-selected Bit is [Why Does Heat Draw a Curve?](../bits/why-does-heat-draw-a-curve/00-manifest.md). NotebookLM and Work prompts are prepared; audio/article publication is a separate step. The earlier CMB Bit remains the cooling episode.
+
+Collaboration preference: contribute a concrete logical consequence with its reasoning rather than repeatedly turning exploration into an assignment for Len to derive another equation. The current request authorizes preserving the candidate and preparing the Bit.
 
 ## Current core picture
 

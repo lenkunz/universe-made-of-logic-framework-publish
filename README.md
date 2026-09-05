@@ -33,6 +33,7 @@ Current maps include:
 - `cut-resolution-and-open-remainder.md`
 - `2026-08-27-anchor-closure-and-relational-budget-comparison.md`
 - `2026-09-05-stage-projection-and-bits-source-sync.md`
+- `2026-09-06-grain-sweep-and-repeated-comparison.md`
 
 ### `source/internal/`
 
@@ -108,7 +109,9 @@ The Hope remains personal/speculative even though this repository is private.
 
 ## Current semantic generation
 
-The maintained source set is synchronized at **R20260905-2350-01 / 2026-09-05 23:50 +07:00**.
+The last full-set source synchronization is **R20260905-2350-01 / 2026-09-05 23:50 +07:00**.
+
+The latest scoped extension, **R20260906-0104-01**, adds [grain sweep and repeated comparison](source/changes/2026-09-06-grain-sweep-and-repeated-comparison.md) to the main source and status ledger. It records an exact conditional repeat sum with its physical identification still candidate. The new [Why Does Heat Draw a Curve?](bits/why-does-heat-draw-a-curve/00-manifest.md) package owns that spectral-shape question.
 
 The September 5 catch-up integrates Stage orientation, anchor closure, consequence-specific re-seating cost, scoped clock/ruler/twin deductions, the revised CMB spectrum question, and hosted participation/support-transfer architecture. The Cut/resolution and retained-history corrections remain foundational.
 

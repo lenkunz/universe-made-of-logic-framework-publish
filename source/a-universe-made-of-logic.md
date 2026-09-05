@@ -2,9 +2,9 @@
 
 *A complete semantic-source account of the informational topology framework: how relation becomes ground, why resolution costs, and how increasingly rich structure can grow without changing the primitive.*
 
-<!-- Revision: R20260905-2350-01 -->
-<!-- Updated: 2026-09-05 23:50 +07:00 -->
-<!-- Change: Integrates Stage orientation, anchor closure, consequence-specific cost, scoped clock/ruler/twin deductions, CMB revision, and present-ground projection. -->
+<!-- Revision: R20260906-0104-01 -->
+<!-- Updated: 2026-09-06 01:04 +07:00 -->
+<!-- Change: Adds the grain-dependent repeat construction, variable proportional rate, and exact conditional spectrum while preserving physical-identification status. -->
 <!-- Audited source: a-universe-made-of-logic-complete-2026-08-19.md -->
 <!-- Semantic consistency basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
 <!-- Also incorporates semantic corrections concluded during the 2026-08-20/21 audit conversation -->
@@ -1492,19 +1492,53 @@ Co-shrink and an expanding-looking comparison are relational descriptions of the
 
 ## The spectrum must follow from a native rule
 
-The revised blackbody question is not how to preserve an ontologically pre-existing Planck curve while carrying it through primitive time.
+The revised blackbody question asks which present comparison generates the measured frequency–intensity distribution, then why the same native rule gives the measured scaling between differently supported grounds. A pre-existing Planck curve is not assumed as the primitive object being transported.
 
-> **Which repeated-resolution rule produces the measured frequency–intensity distribution, and why does that same rule give the observed scaling between comparison grounds?**
+A proposed spectral sweep selects a comparison grain `B_x`, relates it to target support `B_t` inside the consequential anchor closure, and records target resolution `G`. Frequency is a surfaced label for that comparison. Sweeping the grain gives a spectrum; fitting the measured distribution gives the temperature reading.
 
-A proposed spectral sweep selects a comparison grain `B_x`, relates it to target support `B_t` within the shared anchor closure, and records target resolution `G(x)`. Frequency is a surfaced label for that comparison. Sweeping the grain gives a spectrum; fitting the measured distribution gives the temperature reading.
+### The curve belongs to the sweep
 
-The exploratory normalized closure `x² + t² = 1` and toy gain `Y(x) = x² sqrt(1 - x²)` produce a hump. Here `t` is a normalized target component, not primitive time. **The toy is not Planck's law.** It does not supply the required occupancy/counting rule or high-frequency behaviour.
+The September 6 extension makes the changing grain relation explicit:
 
-An exponential factor must come from an independently justified repeated-resolution rule. Importing `e` because the desired curve contains it would fit the answer rather than derive it. A continuous limit of proportional updates is a possible mathematical route, not yet the physical mechanism.
+> **A spectral curve traces how much relation can resolve as the participating grains are brought through a range of comparisons.**
 
-The native distribution law, redshift–temperature scaling, anisotropy/acoustic structure, and a discriminating consequence remain explicit work. A common coarse background with retained small differences is a qualitative direction; it does not calculate the observed sky.
+Hold one selected grain comparison to describe its local repeat rule, then vary the grain to trace the curve. A repeat ratio can be constant over repeats at that selected comparison while changing across the sweep. Neither side is stripped of a consequential anchor, and no universal multiplier is assumed for every grain.
 
-See the [CMB dossier](../bits/the-cmb-is-losing-the-resolution-race/02-notebooklm-source.md) and its [blackbody revision note](../bits/the-cmb-is-losing-the-resolution-race/06-revision-note-blackbody-audit.md).
+This is a candidate account of the smooth thermal branch. It does not make all spectra continuous or rule out lines and thresholds.
+
+### Repeated proportions and a changing rate
+
+In a scalar differentiable comparison, the assumption `d ln(L)/du = -kappa(u)` gives `L(u)/L(u0) = exp[-integral kappa(v) dv]`. The coordinate `u` labels the chosen relational continuation, not an outside clock. Constant rate gives the simple exponential; changing rate gives an exponential of the accumulated proportional change.
+
+Writing this accumulation as `s` recovers the illustration's `L/L0 = exp(-s)`. The base `e` does not supply a physical rate. Shared scalar factors cancel only when they contribute equivalently to both sides of the closed comparison.
+
+### A conditional spectral construction
+
+Let `rho` label a positive dimensionless grain comparison within a specified anchor closure `A`. This is exploratory scalar bookkeeping, not a universal definition of budget. Suppose nonnegative repeat contributions can be summed, each further repeat has the same local factor `q_A(rho)` in `(0,1)`, and `W_A(rho)` carries the observable's required weighting. Then:
+
+`G_A(rho) = W_A(rho) [q + q^2 + q^3 + ...]`
+
+`= W_A(rho) q / (1 - q)`.
+
+Writing `chi_A(rho) = -ln q_A(rho)` gives:
+
+`G_A(rho) = W_A(rho) / [exp(chi_A(rho)) - 1]`.
+
+The sum is exact under those assumptions. Its identification with supported repeated resolution is a **candidate mechanism**. A constant ratio in the repeat index does not automatically make `chi` linear in measured frequency or identical to geometric contraction. If the factor changes from repeat to repeat, the general sum uses products of those factors and need not retain this denominator. Consequential interference cannot be discarded to obtain an additive sum.
+
+The established Planck frequency shape follows when `chi = x = h nu/(k_B T)` and `W = x^3`, after removing dimensional prefactors at fixed temperature. Those were explicit external inputs to the comparison illustration; they have not been derived from the native grain relation. The repeated-weight construction is now present, while its physical identification and normalization remain **Completion pending**. See [NRAO's standard radiation derivation](https://www.cv.nrao.edu/~sransom/web/Ch2.html#S4.SS2).
+
+### Scale, shape, and what is counted
+
+An overall calibration multiplier may be fixed for a declared setting while the grain ratio changes. A change of target/receiver condition need not only shift or rescale the same shape: grain-dependent weighting and continuation can also alter it.
+
+Changing from radiance per frequency to radiance per wavelength requires the corresponding bin-width factor. On logarithmic frequency bins the standard shape carries `x^4`, rather than `x^3`, in its numerator. These are different readings of the same radiation, not interchangeable pictures of an axis-independent peak.
+
+Logarithms turn multiplicative scale changes into additive shifts. The Fourier/Mellin connection can therefore help compare scale patterns; it does not choose the spectral weights or derive the Planck distribution by itself.
+
+The earlier normalized closure `x² + t² = 1` and gain `Y(x) = x² sqrt(1 - x²)` remain a distinct exploratory hump. Here `t` is a target component, not time. That toy is not Planck's law and must not be silently replaced in the reasoning record by the newer conditional construction.
+
+The native identification of repeat weights, counting measure, frequency mapping, and normalization remains necessary. Redshift–temperature scaling and anisotropy/acoustic structure are separate completion items. The [grain-sweep change map](changes/2026-09-06-grain-sweep-and-repeated-comparison.md) records the assumptions, variable-rate case, finite-repeat diagnostic, and relation to the [CMB dossier](../bits/the-cmb-is-losing-the-resolution-race/02-notebooklm-source.md).
 
 ---
 

@@ -2,10 +2,10 @@
 
 Title: What If Reality Is the Dream That Learned to Anchor Dreams?
 Slug: reality-the-dream-that-learned-to-anchor-dreams
-Status: package-ready
+Status: **published**  
 Created: 2026-08-23
-Published:
-Substack URL:
+Published: **2026-08-23 18:31:58 +07:00**  
+Substack URL: https://soutame.substack.com/p/what-if-reality-is-the-dream-that
 
 ## Central question
 
@@ -63,3 +63,7 @@ The written article should keep visible `> **Image Caption:** ...` and `> **Arti
 ## Post-publication notes
 
 Transcript is optional. Substack-generated transcript may be downloaded later only if analysis is needed.
+
+## Publication metadata sync — 2026-09-06
+
+Exact title, URL, and publication timestamp verified against the complete `resource/substack-bits-podcast.rss` snapshot. The current live RSS endpoints were unavailable. This update records publication; it does not claim that missing audio assets were retrieved.

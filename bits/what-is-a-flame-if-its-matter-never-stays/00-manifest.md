@@ -2,10 +2,10 @@
 
 Title: **What Is a Flame If Its Matter Never Stays?**  
 Slug: `what-is-a-flame-if-its-matter-never-stays`  
-Status: **article-ready**  
+Status: **published**  
 Created: **2026-08-30**  
-Published:  
-Substack URL:
+Published: **2026-09-04 11:58:15 +07:00**  
+Substack URL: https://soutame.substack.com/p/what-is-a-flame-if-its-matter-never
 
 ## Central question
 
@@ -42,4 +42,8 @@ A candle flame can keep a recognizable shape and location while its fuel, oxygen
 
 Publication status must be determined from the live Bits RSS or repository snapshot, not from this package alone.
 
-Article and image are complete. Audio is pending.
+Article and image are complete. The episode is published in the podcast feed; the audio file has not been archived in this repository.
+
+## Publication metadata sync — 2026-09-06
+
+Exact title, URL, and publication timestamp verified against the complete `resource/substack-bits-podcast.rss` snapshot. The current live RSS endpoints were unavailable. This update records publication; it does not claim that missing audio assets were retrieved.
