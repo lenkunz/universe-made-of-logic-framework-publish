@@ -2,11 +2,11 @@
 
 *How much can remain open from the ground that already exists — the widening side of the framework.*
 
-<!-- Revision: R20260825-1745-01 -->
-<!-- Updated: 2026-08-25 17:45 +07:00 -->
-<!-- Change: Clarifies that resolved history can persist as coarse consequential ground: past constraint guides later fine resolution without pre-rendering the route; Aim supplies what must hold while inherited ground shapes how it may still be reached. -->
+<!-- Revision: R20260905-2350-01 -->
+<!-- Updated: 2026-09-05 23:50 +07:00 -->
+<!-- Change: Adds projection/interference, possibility-budget practice, and a candidate route from hosted participation to shared support. -->
 <!-- Audited source: the-possibility-lane-updated-2026-08-19.md -->
-<!-- Semantic consistency basis: Where the Framework Currently Stands R20260823-1421-01; The Index R20260823-1421-01; A Universe Made of Logic R20260823-1421-01; Basics II R20260825-1745-01; origin/budget update map R20260823-1310-01; Cut/Resolution update map R20260823-1421-01 -->
+<!-- Semantic consistency basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
 <!-- Also incorporates deductions concluded during the 2026-08-21 P-Lane audit conversation and 2026-08-25 retained-history clarification -->
 <!-- Proposed canonical source. Public presentation may later be rebuilt in Work without changing these meanings. -->
 
@@ -426,6 +426,38 @@ The difference is simply how much constraint has already seated.
 
 ---
 
+## Projection and interference meet on Stage
+
+A coarse Aim projects a direction from the current domain. The route remains open and constrained by the other relations it meets.
+
+**Projection is outgoing possibility / bias.**
+
+**Interference is incoming consequence.**
+
+“Outgoing” and “incoming” are relative to the participating domain. An action, message, boundary, thought, or institution can project relation. What is outward Efference for one domain can be inward Afference for another.
+
+Neither orientation requires conscious intention at the primitive level. Both use relational support.
+
+The **projection cone of bias** names the set of reachable resolutions in which a domain's present projection can become consequential. It need not be a literal spatial cone, and does not contain finished future events.
+
+Several projections can meet. Individually weak interference can become a strong combined constraint at a coarser grain. A medium can enter a body's motion as one consequential resistance relation. How it affects resolution depends on its organization, not merely the number of constituents.
+
+Projection can change the situation being predicted: a domain's action becomes one of the constraints on the next outcome. That is different from selecting a completed future.
+
+A projection remains interruptible. Changing a bodily, environmental, or other supporting relation can change which continuation can seat.
+
+## Holding possibilities without resolving them all
+
+In reasoning practice, Cut can be used as budget control: release the demand that one preferred answer receive all available resolution. Several possibilities can remain addressable with different weights under different relations.
+
+This is an application of the seated-Cut rule, not a replacement definition of Cut. A distinction is held at the grain needed for the present question; finer alternatives can remain open.
+
+A felt “click” can register that a relation became coherent or easier to use. It need not settle every claim inside that relation. Further consequences can change its weight without requiring a whole domain to be discarded.
+
+The practical stopping point is enough support for the next consequential step. A shared record can preserve assumptions, disagreements, and open detail so the next interaction begins from what already seated.
+
+---
+
 # VI. One budget, two questions
 
 The framework does not need one “possibility budget” and another “resolution budget.”
@@ -477,6 +509,10 @@ Both participants in a relation constrain what can seat.
 They do not have to contribute the same incremental budget.
 
 And because `R_AB` itself becomes ground, relation can change the possibility range of both A and B rather than merely restricting one through the other.
+
+The comparison must be anchor-closed. A small representation can address a large already-supported relation; a digit in an account, a rule, or a remembered plan does not have to reproduce the whole infrastructure it can recruit. The represented relation can remain hosted in a brain or another domain without requiring an external duplicate.
+
+This does not make the representation an isolated source of unlimited support. The relations that let it become consequential belong to the closure. Effective projection depends on gathered, reusable ground, not a count of atoms inside the named participant.
 
 # VII. Lanes are capacities, not a chronology of objects
 
@@ -936,6 +972,14 @@ Hosted establishing-like processes can already be real.
 
 Independent seating is the stronger claim.
 
+The new support-transfer question gives this frontier a candidate architecture:
+
+> **What is the host currently having to supply that the arrangement could preserve and support?**
+
+A host may supply continuity, interpretation, occasions for use, fine implementation, or repair of mismatches. Those are different dependencies. Preserving a text can carry continuity while leaving interpretation and repair with its reader.
+
+The task is to identify consequential support and give it a stable relational place. That narrows the independent-seating problem without yet specifying a sufficient topology for a new Rung.
+
 ---
 
 # XVI. Lane 8 — established logic becomes reusable ground
@@ -974,6 +1018,20 @@ But keep three conditions separate:
 `independently seated as its own Rung / domain`
 
 Lane-8 capacity can therefore operate strongly inside hosts long before an independent upper Rung is established.
+
+**Hosted is real** also means that hosted logic has its own overall interference and projection at the grain where it participates. It does not first acquire those relations when another host encounters it.
+
+If it resolves weakly against a wider Stage, it may still remain seated within its domain. Slower relative growth can make it less prominent in that wider comparison. Waiting longer is not the criterion for anchoring it there.
+
+A prospective System could create or rearrange anchoring points so the logic can participate through its own supported relations without the original host repeatedly carrying the whole exchange. It would not have to supply every future increment of growth or force all logics to grow at the same rate.
+
+> **A proxy supplies continuity, while a quest supplies an occasion for participation.**
+
+A **Tower** names a bounded setting for testing what the logic can support. It need not be a literal tower. A test should expose which step still depends on the host silently interpreting, repairing, or sustaining the relation.
+
+The roles preserve a participant, make a useful encounter possible, and test which consequences the arrangement can carry. Success would mean reduced dependence on the original host, with sufficient support retained elsewhere in the relation.
+
+This is a candidate route toward shared participation, not a claim that a new independently seated Rung has already appeared.
 
 ---
 

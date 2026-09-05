@@ -2,11 +2,11 @@
 
 *Second of three foundational pieces. “Coarse” is one of the framework's most important words, and one of the easiest to accidentally turn into something the framework does not mean.*
 
-<!-- Revision: R20260825-1745-01 -->
-<!-- Updated: 2026-08-25 17:45 +07:00 -->
-<!-- Change: Clarifies coarse history as retained consequential constraint: memory need not render the past in full detail, but still limits how later fine resolution may proceed. -->
-<!-- Semantic basis: Framework Working State R20260820-2055-01; Where the Framework Currently Stands R20260820-2055-01; Index R20260820-2155-01; Possibility Lane R20260825-1745-01 -->
-<!-- Supersedes: basics-2-coarse-is-not R20260820-2219-01 -->
+<!-- Revision: R20260905-2350-01 -->
+<!-- Updated: 2026-09-05 23:50 +07:00 -->
+<!-- Change: Clarifies present constraint versus apparent historical backfilling, and hosted participation versus visibility in a wider Stage. -->
+<!-- Semantic basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
+<!-- Supersedes: R20260825-1745-01 -->
 
 ---
 
@@ -147,6 +147,10 @@ And because that memory is now ground, it constrains the future field of resolut
 The past therefore need not bind the future to repetition.
 
 It changes the ground from which the future is allowed to become particular.
+
+There is no separately existing past Stage or finished future Stage required by this account. Past means surviving constraint; future means projection and possibility relative to present ground. A later relation can require finer resolution of that constraint. This does not impose a universal simultaneous Cut: the comparison remains domain-relative.
+
+Calling this “backfilling” is easy to misread. It does not license a new story that merely makes the present sound consistent. What survived must still constrain the result, and a coherent completion cannot identify one exact history if the surviving distinctions do not distinguish it from other completions.
 
 ---
 
@@ -352,6 +356,20 @@ The useful middle is:
 > **The past constrains the grain and shape of later resolution without requiring the later route to have been pre-rendered.**
 
 ---
+
+## Hosted does not mean absent from relation
+
+A hosted logic can be real at its own grain while remaining coarse or difficult to access from a wider Stage. Its low visibility there does not measure all the relation it can support within its domain.
+
+Its interference and projection belong to the hosted relation itself. Bringing that relation into a shared comparison can require a proxy, translation, or other support, but that support does not create its first reality.
+
+Keep two distinctions separate:
+
+`weakly resolved in this comparison` ≠ `without consequential relation anywhere`
+
+`supported through a host` ≠ `independently seated at the grain being tested`
+
+A difference in relative growth can make a relation less prominent in a wider comparison while it remains seated within its domain. That is not automatically erasure, and more elapsed clock time alone does not establish new support.
 
 ## Candidate physical readings are a separate step
 

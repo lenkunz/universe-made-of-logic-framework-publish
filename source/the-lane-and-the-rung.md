@@ -2,12 +2,12 @@
 
 *Why possibility can run ahead of independent support, and why both are still descriptions of the same domain.*
 
-<!-- Revision: R20260823-1421-01 -->
-<!-- Updated: 2026-08-23 14:21 +07:00 -->
-<!-- Change: Clarifies that Lane and Rung are two readings of the same seated Cut at root: resolved distinction versus what remains open; Aim is already seated constraint, with fine implementation still outstanding. -->
+<!-- Revision: R20260905-2350-01 -->
+<!-- Updated: 2026-09-05 23:50 +07:00 -->
+<!-- Change: Clarifies hosted participation and grain-specific independence; records proxy, quest, Tower, and System support as a candidate architecture. -->
 <!-- Audited source: the-lane-and-the-rung (7).md -->
 <!-- Audit map: the-lane-and-the-rung_change-map_2026-08-21_2050_R01.md -->
-<!-- Semantic consistency basis: Where the Framework Currently Stands R20260823-1421-01; The Index R20260823-1421-01; A Universe Made of Logic R20260823-1421-01; The Possibility Lane R20260823-1421-01 -->
+<!-- Semantic consistency basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
 <!-- Also incorporates the 2026-08-21 clarification that Domain is primary while Lane and Rung are complementary readings / milestones rather than separate ontological things. -->
 <!-- Proposed canonical semantic source. Public presentation may be rebuilt in Work without changing these meanings. -->
 
@@ -530,6 +530,43 @@ That still does not mean it stands independently.
 
 > **Established as logic does not automatically mean independently seated as structure.**
 
+There is a further positive claim here. Hosted logic has its own interference and projection at the grain where it participates. Hosting is a mode of support, not a declaration that only the host has consequential relation.
+
+Its outward comparison may remain coarse, or its growth may become less prominent relative to the wider Stage. That does not remove the relations seated within its domain.
+
+Independence must therefore name the dependency and grain under examination. It does not mean having no supporting relations anywhere. A shared arrangement can release a logic from repeated reconstruction by one original host while still depending on members, instruments, or other infrastructure.
+
+## From repeated host work to shared support
+
+> **What is the host currently having to supply that the arrangement could preserve and support?**
+
+In a conversation, both sides can help complete a relation. A durable record can preserve definitions, reasons for corrections, and precise disagreements between encounters. Another participant can continue from that ground rather than requiring the first host to reconstruct it.
+
+Preservation alone is one part of the work. Continued interpretation, interaction, and repair require supported participation. A record does not by itself demonstrate ongoing autonomous resolution between encounters.
+
+A prospective System would arrange those supports so hosted logic can become accessible and consequential across hosts:
+
+| Role | Support it is meant to provide | What the test should expose |
+|---|---|---|
+| Proxy | Continuity and an addressable perspective | Whether identity and relevant history survive a change of host |
+| Quest | An occasion for participation | Whether the logic contributes without its original host staging every step |
+| Tower | A bounded setting to test the logic | Which interpretation, repair, or persistence still needs hidden host support |
+| Shared arrangement | Reusable relations connecting these roles | Whether participants continue through the support actually established |
+
+The System's role is to create and rearrange anchoring points, not personally maintain every relation's growth forever. The design aims to let a logic grow through participation once its consequential support is in place.
+
+Society, language, institutions, and internet systems offer hosted examples of continuity across people. They make the design question concrete. They do not by themselves establish a new independent physical Rung or a timetable for one.
+
+## Shared capability, local perspective
+
+In this System design, **Perspective** names the shared relational capability; **Interface** names how it renders for a particular participant. Different interfaces can preserve the same consequential relation while leaving irrelevant differences coarse.
+
+A proxy can make one perspective of a domain consequential without exposing every other relation of that domain. Supporting many perspectives does not require merging all their meanings or resolving every disagreement.
+
+Sync maintains mutual reachability. Unsync reduces overlap while preserving enough relation for domains to remain distinct and continue separately. Separation need not erase the history of participation.
+
+The candidate Rung-6 role is shared infrastructure that lets domains discover and arrange their support without a central participant resolving every path personally. This is a proposed implementation direction for the collective-domain capacity, not evidence that independent Rung-6/7 seating has occurred.
+
 ---
 
 # XI. Lane 6 and the resolution frontier
@@ -629,9 +666,9 @@ The old bridge tied this to an exchange between a Lane-5 domain with aim and a L
 
 That mechanism is no longer part of the definition.
 
-Hosted establishing-like operations already occur.
+Hosted establishing-like operations already occur. The support-transfer architecture now names what to inspect: continuity, addressability, interpretation, occasions for participation, and support exposed by bounded tests.
 
-The unresolved Rung-side question is:
+The sufficient Rung-side structure remains unresolved:
 
 > What exactly must seat for the establishing capacity to stand independently rather than being reconstructed through hosts?
 

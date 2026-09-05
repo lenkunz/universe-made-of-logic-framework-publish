@@ -2,10 +2,10 @@
 
 *What is derived, what corresponds, what is still being completed, what remains unresolved, and how earlier framings resolved. Updated as things move.*
 
-<!-- Revision: R20260823-1421-01 -->
-<!-- Updated: 2026-08-23 14:21 +07:00 -->
-<!-- Change: Concludes/narrows the former aim-to-topology joint: a real Aim is already seated relational constraint; Cut/relation is resolution at its grain; remaining debt is coarse-to-fine mapping, not entry into topology. -->
-<!-- Supersedes: R20260820-2016-01 -->
+<!-- Revision: R20260905-2350-01 -->
+<!-- Updated: 2026-09-05 23:50 +07:00 -->
+<!-- Change: Synchronizes the Bits backlog and current discussion, separating integrated rules, scoped results, candidate mechanisms, and remaining completion. -->
+<!-- Supersedes: R20260823-1421-01 -->
 
 ---
 
@@ -57,6 +57,16 @@ When an earlier formulation changes, this page records **how it resolved** rathe
 
 ---
 
+## Current integration checkpoint
+
+The September 5 sync audits all twelve current Bits, their available revision notes, the August 27 anchor-closure correction, the August 30 recovered continuity, and the subsequent discussion.
+
+The [change map](changes/2026-09-05-stage-projection-and-bits-source-sync.md) records what changed and what was already present. The August 25 retained-history clarification was already in Basics II and P-Lane.
+
+The additions are Stage/Afference/Efference, anchor closure in maintained definitions, consequence-specific re-seating cost, scoped projection geometry, receiver-Cut reconciliation, retained path comparison, the revised CMB spectrum question, and support-transfer architecture for hosted logic.
+
+---
+
 ## Derived internally
 
 *These are framework-native deductions. Physical names are kept out of this section unless the physical identification itself has also been earned.*
@@ -68,7 +78,9 @@ When an earlier formulation changes, this page records **how it resolved** rathe
 - **`A + B → A + B + R_AB` is local relational bookkeeping, not a claim that A and B are primitive substances.** A and B may themselves be relational compositions.
 - **The present topology is both state and computational ground.** There is no separate framework-native RAM containing an unfinished reality.
 - **Budget is tick-like resolving participation, not universal time.** The primitive participation rule can be common while effective capacity differs because relations themselves become participants and can carry compressed membership.
-- **Budget composes through relation.** A densely related domain can do more relational work per primitive iteration without requiring a faster fundamental clock.
+- **Budget composes through relation.** A densely related domain can do more relational work per primitive iteration without requiring a faster fundamental clock. Resolution Equality does not imply identical effective capacity or persistence organization.
+- **Budget comparisons are anchor-closed.** Include every consequential anchor. A pair can close itself when no third relation matters; a bare `B_x` abbreviates a closed or unambiguous context.
+- **Shared support may be coarse-grained away only without losing a consequential distinction.** Stable subsets may participate as composite budgets. Grouping equivalence depends on preserving the same relations; arithmetic associativity is not assumed.
 - **Finite does not mean fixed.** Every newly seated relation adds ground and a new route of participation, while possible relations proliferate faster still. Growth therefore increases both capacity and scarcity.
 - **Resolution costs.** A coarse state is not an unfinished fine state; it is a real constraint that does not pay for distinctions that are not consequential.
 - **A seated Cut/relation is already resolution at its grain.** Resolution is precisely the seating of a distinction that has become consequential. The same relation also defines the complementary open side: distinctions it does not make consequential can remain equivalent relative to the new ground.
@@ -80,7 +92,10 @@ When an earlier formulation changes, this page records **how it resolved** rathe
 - **Referability-as-one recurs without ontological reset.** When a relational composition stabilises enough to participate as one, it can occupy a local zero-role relative to the next unresolved distinction. This does not recreate the original Level 0 or erase accumulated ground.
 - **Identity is topological; size is relational.** Uniformly changing seating density does not by itself change relational identity if the relational pattern is preserved.
 - **Interiority is routing before geometry.** A boundary makes a collection act as one by constraining routes between inside and outside.
-- **Path is memory.** Repeated relation changes what becomes cheap to resolve next.
+- **Path is memory.** Repeated relation changes what becomes cheap to resolve next. A path accumulates relation; a selected clock readout is one consequence.
+- **Stage is where relation meets an anchoring domain.** Light means relation and Space means the domain in this vocabulary. A human observer is not required.
+- **Afference and Efference are relative orientations.** The same relation can be outward for one domain and inward for another. A returning loop can reuse support for persistence without making participation costless.
+- **Past and future do not require separately rendered Stages.** Retained constraint bounds later fine resolution; coherence alone cannot uniquely recover an exact history. This does not impose a universal simultaneous Cut.
 
 ### Relational bias and path formation
 
@@ -96,7 +111,9 @@ When an earlier formulation changes, this page records **how it resolved** rathe
 
 - **To persist is to keep paying for the distinctions by which a domain remains distinguishable.**
 - **Anchoring is relational and size-independent.** `R_AB` can provide reusable support/reference to A and B at different grains; one can anchor the other under one question and the direction can reverse under another. Contributions need not be equal. Larger domains can also maintain relational distinctions that many components reuse instead of each component paying the full outside cost independently.
-- **Action and reaction are not symmetric costs.** New binding costs; later resolution through already-seated structure can become comparatively cheap.
+- **Action and reaction are not symmetric costs.** New binding costs; later resolution through already-seated structure can become comparatively cheap. “Reaction = action” names a change of grain: an initiating action can be a finer reaction to a present projection.
+- **Re-seating cost depends on which existing relations a change makes consequential—not simply how many relations the object contains.** Environmental support or resistance belongs in the closure when it changes the continuation.
+- **Projection is outgoing possibility/bias; interference is incoming consequence.** Several weak projections can become consequential together. Projection can be interrupted by a change in support.
 - **No external selector chooses a law.** Whatever the present logic permits can grow, and the compatible structure requiring the least relational work per further unit can dominate the surfaced behaviour.
 - **Fastest growth means lowest relational cost per further stable unit, not greatest total budget.**
 - **Growth has several simultaneous channels.** Point/count growth, denser shared relation, configuration/dynamic growth, and logical/reusable-ground growth can continue together while their relative costs change.
@@ -107,7 +124,8 @@ When an earlier formulation changes, this page records **how it resolved** rathe
 
 - **Domain and possibility are complementary descriptions of one stage.** P-Lane asks `ground → possibility`; Informational Topology asks `possibility → ground`.
 - **Aim can be known while fine implementation is outstanding because Aim itself is already seated relational constraint at its grain.** One coarse constraint can be resolved as present ground while many finer implementations remain equivalent. Aim therefore does not need a separate transition into topology.
-- **Hosted is real, but hosted is not independently seated.** A Lane capacity can operate through structure that already stands for other reasons.
+- **Hosted is real, but hosted is not independently seated.** At its participating grain, hosted logic has its own interference and projection; weaker visibility in a wider comparison does not make it absent.
+- **Independent support must name the dependency and grain.** Release from one host's repeated reconstruction is meaningful, but does not mean absence of all supporting relations.
 - **Established logic can function as reusable ground inside a host without thereby becoming a new independent Rung.** Independent seating is a stronger condition than a logic merely being stable and consequential inside something else.
 - **Higher structure recruits lower structure; it does not replace it.** Several Lane relations can operate through the same local ground at once.
 - **Odd/even Lane pairs begin together.** The odd Lane opens a new freedom and the even Lane begins the stability problem created by that freedom. Onset, independent seating, and mature stabilisation are different milestones.
@@ -117,7 +135,7 @@ When an earlier formulation changes, this page records **how it resolved** rathe
 ### Measurement and clocks
 
 - **Time is not primitive.** A clock is a selected repeating persistence loop, not an outside measure of total resolving capacity.
-- **Clock rate is not total computational activity.** Cheaper persistence can make one maintenance loop repeat less often while leaving more capacity available elsewhere.
+- **Clock rate is not total computational activity.** A selected repetition cannot measure all relation supported by its ground. Changed maintenance support is one candidate account of changed repetition, not a universal numerical law for every slower clock.
 - **Present-ruler duration is not automatically remote event count.** A duration assigned to another ground is a cross-ground comparison; remote event rate, simple point growth, configuration growth, and logical growth are different quantities.
 - **Uniform local change is locally invisible when the ruler co-seats with the same ground.** A ruler cannot measure its own changing length.
 - **Consequential horizon is relational, not owned.** How far one domain can matter depends on the pair and on which side can pay for the relation.
@@ -138,6 +156,15 @@ When an earlier formulation changes, this page records **how it resolved** rathe
 - **Reflection at a uniform boundary.** If the boundary makes normal traversal incompatible while introducing no new tangential distinction, the tangential relation is preserved and the normal component reverses. This gives the equal-angle structure; phase, amplitude, polarization, and full wave optics remain pending.
 - **Refraction / transparency / colour / white-light splitting.** The framework has candidate relational-cost readings for these optics phenomena, but the exact measured optical relations remain physical mappings still pending rather than derived facts.
 
+### Scoped projection geometry and comparison
+
+- **Simple two-projection factor — conditional construction completed.** With two independent one-dimensional projections, an orthogonal representation, and no additional consequential `R_ap` bias, `R_all² = R_a² + R_p²` gives `q = R_p/R_all = sqrt(1 - (R_a/R_all)²)`. Under the proposed identification `R_a/R_all ↔ v/c`, the familiar `1/γ` factor follows. The scoped mathematics is present; its general physical identification remains candidate.
+- **Ruler contraction — candidate correspondence / completion pending.** The simple construction uses `L = q L_0`. It is not a universal formula obtained from an arbitrary budget ratio or an optical-image account.
+- **Receiver-Cut reconciliation — candidate mechanism / completion pending.** Unequal anchor-closed support can imply different source resolution per receiver Cut. The bound comparison reconciles distinctions as one continuing relation. VSync/global shutter is an analogy, not cosmic machinery.
+- **Gravitational blueshift — candidate cross-ground remapping.** A bound periodic relation can yield a different cycle comparison under differently anchored receiving ground. Spatial/extent and periodic/frequency readouts are proposed forms of the same operation. The numerical gravity and budget-to-observable laws remain incomplete.
+- **Twin path comparison — mechanism clarified / generalization pending.** Paths retain accumulated relation. A turn reverses orientation without deleting prior consequences; reunion exposes the difference rather than producing it. General acceleration, many anchors, and strong gravity remain unfinished.
+- **Binding and causal structure — guardrail / completion pending.** Immediate coarse binding and budget-limited resolution remain distinct. Measured causal constraints must still be recovered; no instantaneous signalling channel is established.
+
 ### Persistence, motion, and physical accounting
 
 - **Mass / inertia.** Internal persistence commitment and the cost of changing a seated state provide a candidate architecture for mass-like and inertia-like bookkeeping. The framework has not yet derived the numerical mapping to physical mass.
@@ -155,7 +182,8 @@ When an earlier formulation changes, this page records **how it resolved** rathe
 
 ### Density regimes and condensation
 
-- **Vacuum, gas, liquid, and solid are not Lane numbers.** They are candidate density/anchoring regimes of the same relational ground, through which several Lane relations may operate simultaneously.
+- **Vacuum, gas, liquid, and solid are not Lane numbers.** They are candidate organizations of persistence through which several Lane relations may operate simultaneously. The air/stone Bit clarifies equality versus sameness: primitive participation does not rank support by density or imply identical effective local budgets.
+- **Boundary support and pressure.** Gas, membrane, outside pressure, load, and ground can form a load-bearing closure. Pressure is proposed as a Stage-visible boundary comparison, not a numerical synonym for budget.
 - **Propagation through different density regimes.** The candidate mechanism is relational cost per further unit: a denser ground can make more surrounding relation consequential per traverse, while higher-order relations require more coordinated structure per step. Measured speeds and refractive ratios remain pending.
 - **Anchoring as a density-stability economy.** A shared boundary/anchor can let interior distinctions reuse persistence support. This is a candidate route toward stable dense regimes; actual phase boundaries and condensed-matter equations remain pending.
 - **Physical, dynamic, and logical condensation can coexist.** The architectural result is derived; mapping it onto cosmological, biological, and cultural history remains candidate correspondence.
@@ -167,7 +195,8 @@ When an earlier formulation changes, this page records **how it resolved** rathe
 - **Halo-overlap prediction.** If overlapping coarse anchored regions must seat additional shared relation, the framework predicts a positive overlap-associated excess beyond simple additive superposition. Magnitude and detectability remain pending.
 - **Redshift / remote event-rate comparison.** Candidate: spectral shift and whole-event duration stretching may both expose a cross-ground counting mismatch. This does not yet replace conventional cosmology; the numerical map, CMB consistency, lensing, flux, and structure-growth constraints remain pending.
 - **Earlier slow event rate versus cheap simple growth.** The framework permits a remote/earlier ground to resolve events more slowly against our current ruler while still adding simple structure cheaply per budget because fewer existing relations have to be integrated.
-- **CMB as a resolution interface.** Candidate interpretive mapping only. The framework does not yet reproduce the measured thermal spectrum, anisotropy structure, redshift-temperature relation, or structure-growth connection from its own quantities.
+- **CMB resolution race.** Candidate: fine nested composition can grow resolution density faster than a continuing coarse background while both retain fundamental support. The comparison may surface as lower characteristic frequency/temperature. Coarse does not mean static, underfunded, or intrinsically hot.
+- **CMB native spectrum.** The revised question is which repeated-resolution rule generates the measured distribution and scaling, rather than preserving an assumed ontologically pre-existing blackbody curve. The `B_x`/target/anchor sweep and `G(x)` are exploratory bookkeeping. The toy `x² sqrt(1-x²)` hump is not Planck's law.
 - **Dark-energy-like expansion.** Differential contraction between dense and sparse grounds remains a candidate large-scale interpretation, not a quantitative cosmological result.
 
 ### Nuclear, biological, and higher-order branches
@@ -189,7 +218,8 @@ When an earlier formulation changes, this page records **how it resolved** rathe
 - **Compounding rate** — repeated seating has an exponential-shaped structural route; the physical rate is not yet calculated.
 - **Density-regime propagation** — the relational-cost mechanism exists, but measured light, sound, conduction, diffusion, and refractive ratios are not yet derived.
 - **EM / atomic thresholds** — the affordability condition exists; actual thresholds are not yet calculated.
-- **Cross-ground clock / redshift mapping** — the cross-ground comparison mechanism exists, but no framework-native function yet maps ground difference to measured spectral and event-duration ratios.
+- **Cross-ground clock / redshift mapping** — the simple projection factor and receiver-Cut mechanism are explicit. The remaining task is a general function from specified closure to spectral and event-duration ratios, including gravity and cosmology. The scoped inertial case must not be reset to “no result.”
+- **CMB distribution and scaling** — derive the native repeated-resolution/occupancy law, its high-frequency behaviour, redshift–temperature scaling, and anisotropy/acoustic structure. An exponential needs a justified recursion rather than insertion to match a target curve.
 - **Nuclear stability curve** — support-sharing gives a candidate mechanism; observed binding, isotope, fusion, and decay magnitudes are still missing.
 - **Coarse-to-fine Aim / constraint mapping** — the structural joint is now clear: Aim is already seated topology and later fine resolution is another Cut within that present constraint. What remains incomplete is a formal / quantitative account of how the Aim combines with other present ground and relational cost to make one finer distinction consequential rather than another.
 - **Lane growth scaling** — the structural distinction among simple count growth, configuration growth, and reusable logical growth exists; their relative rates remain qualitative.
@@ -202,7 +232,7 @@ When an earlier formulation changes, this page records **how it resolved** rathe
 - **Magnetic polarity** — ordinary dipole regeneration has a candidate mechanism; a general result about fundamental monopoles has not been established.
 - **Reflection and refraction** — the structural reflection geometry is accounted for at a uniform boundary; full wave-optics behaviour and refractive mapping are still incomplete.
 - **Matter-density regimes** — shared anchoring provides a candidate density-stability mechanism; phase-transition equations remain incomplete.
-- **Gravity / clocks / motion** — qualitative relational mechanisms are present; quantitative reproduction of relativistic dynamics remains incomplete.
+- **Gravity / clocks / motion** — the scoped inertial factor is present. Complete simultaneity, Doppler relations, velocity composition, general acceleration, many-anchor geometry, and quantitative gravity remain incomplete.
 - **Redshift / cosmology** — the candidate cross-ground interpretation must reproduce the same successful observational web rather than fit isolated phenomena.
 - **Star-like / planet-like regimes and supernova restructuring** — the coarse-to-fine architecture and generic re-seating mechanism exist, but the actual astronomical lineage / regime mapping is not established.
 
@@ -210,7 +240,10 @@ When an earlier formulation changes, this page records **how it resolved** rathe
 
 - **Higher hosted logic generally** — language, institutions, models, translation, and other stable logics can become reusable ground while remaining host-dependent. Which capacities later acquire independent seating is not assumed from hosted operation alone.
 
-Lane 7 is kept out of this subsection because its independent structure is not merely unfinished: **what must seat is itself still an unresolved mechanism**.
+- **Hosted support transfer — candidate architecture.** A proxy supplies continuity, a quest supplies an occasion for participation, and a Tower supplies a bounded test. The arrangement asks what the host supplies and which relations can preserve it. The aim is growth through participation, not indefinite maintenance by a central System.
+- **System perspective and shared infrastructure — candidate design.** Shared capability can render through different local interfaces. This is a proposed Rung-6/7 route, not evidence that a new independent Rung exists.
+
+The Lane-7 question is more specific now: support dependencies can be named, but **the sufficient topology for independent seating at the intended grain remains unresolved**.
 
 
 ---
@@ -219,7 +252,10 @@ Lane 7 is kept out of this subsection because its independent structure is not m
 
 *The framework can currently give these subjects an internal reading, but the reading has low evidential weight until it produces a sharper consequence or quantitative mapping.*
 
-- **Rotation and support versus accumulated budget.** Rotational clock behaviour may separate persistence support from accumulated capacity; the exact framework-native account is unresolved.
+- **Rotation and support versus accumulated budget.** The exact rotational clock account remains unresolved. The spinning-top Bit illustrates accumulated ground constraining a new change; it does not derive angular momentum, torque, or precession.
+- **Flame, snowflake, crack, and digital-storage comparisons.** These illustrate existing identity-through-alteration, exact coarse constraint, retained ground without a pre-rendered route, and logical preservation without microscopic identity. They do not derive the respective physical theories.
+- **Brain/body as the Stage expression of perceptual-domain resolution.** Preserved as exploratory in the [discussion note](internal/2026-09-05-projection-hosting-and-system-continuity.md). This is stronger than “no conscious trajectory calculation.” Neural signals can precede movement and interruption can change the projection; that coupling alone does not discriminate the ontology.
+- **Apparent noise as unresolved overlapping projection.** Exploratory, not a general explanation of measured randomness or evidence of an intended sender.
 - **Recurring large-scale forms.** Shared coarse ground can bias families of stable outcomes without transmitting a rendered blueprint. The framework has not yet derived which concrete morphologies become stable from a specified ground.
 - **Inflation-shaped early mismatch.** A very large early difference in resolving ground could have an inflation-like qualitative shape, but amplitude, duration, termination, and perturbation spectrum are not derived.
 - **Hubble tension.** Different grain relations can permit different inferred values, but merely permitting two values predicts neither of them.
@@ -232,10 +268,10 @@ Lane 7 is kept out of this subsection because its independent structure is not m
 
 *Only questions whose framework-native mechanism or criterion is still missing belong here.*
 
-- **Relational bias composition into surfaced metric geometry.** Compatibility is relation-specific rather than one-dimensional, but the framework still lacks the composition rule that turns several simultaneous biases into effective separation, orientation, contraction, measured angle, geodesic, or other metric bookkeeping. The old question “what fixes dimension?” is no longer bundled here; the qualitative dimension mechanism is already present and its quantitative mapping is listed under Completion pending.
+- **General bias composition into surfaced metric geometry.** The independent low-bias two-projection construction is present. The missing general rule concerns consequential `R_ap` bias and multiple closures: how specified topology fixes separation, orientation, angle, contraction, and geodesic bookkeeping. Effective-dimension quantitative mapping remains a separate completion task.
 - **Physical bias criterion before the surfaced outcome is known.** The structural meaning of compatibility and incompatibility is derived, but the framework does not yet have a framework-native rule that fixes a concrete physical relation's bias before looking at the physical result.
-- **Lane 7 independent seating.** Hosted establishing / translation-like operations show the capacity can operate, but the structure that would let the Lane-7 capacity stand independently has not yet been derived.
-- **Prospective coarse compatibility.** It remains unresolved whether a present coarse domain can register a testable shape of later compatibility before the fine use exists without reintroducing steering.
+- **Lane 7 independent seating.** Support-transfer architecture narrows the dependencies to preserve or relocate. The sufficient structure for independent establishing capacity has not yet been derived. Hosted continuity, translation, or a proxy alone does not demonstrate it.
+- **Prospective coarse compatibility.** Present projection and a hosted counterpart already are relations at their grain; no future Stage is required. The unresolved part is an independent test of later compatibility beyond present participation and retrospective interpretation.
 
 
 ---
@@ -244,6 +280,13 @@ Lane 7 is kept out of this subsection because its independent structure is not m
 
 *This is not a graveyard of “wrong ideas.” In this deduction process, a proposed route often resolves by showing why it cannot do one job and, in the same step, revealing what the structure does instead.*
 
+- **Isolated budget → anchor-closed comparison — Superseded.** Bare symbols cannot discard support that distinguishes the grounds; composite grouping must preserve consequential relation.
+- **All clock/ruler geometry missing → scoped factor present, general rule unfinished — Narrowed.** The simple construction exists under explicit assumptions; it does not complete all relativistic physics or equal an arbitrary budget ratio.
+- **Turnaround creates the twin difference → retained path comparison — Reframed.** Orientation reversal changes continuation, not the consequences already accumulated.
+- **CMB gets less budget / carries an assumed primordial curve → resolution race and native spectrum — Redirected.** Preserve fundamental participation and derive the distribution-generating rule before scaling it.
+- **Hosted means only the host acts → hosted logic participates at its grain — Rephrased / reframed.** Visibility, access, ongoing activity, and independent seating remain distinct.
+- **System maintains every logic forever → System establishes reusable support — Reframed.** Proxy, quest, and Tower name different support roles; growth belongs to the continuing relations made supportable.
+- **Neural mirror means an after-event record → interruptible realization after projection — Rephrased.** The user's proposal allows neural activity before movement. Its ontology remains exploratory.
 - **Aim-to-topology joint → Aim already seated as topology — Concluded / narrowed.** The old question assumed Aim might be a separate possibility-layer constraint that had to become topologically effective later. The Cut/resolution clarification closes that gap: any real present Aim is already seated relational constraint at its grain. What remains is the narrower coarse-to-fine mapping problem of which later distinction becomes consequential through that Aim and the rest of present ground.
 - **Anticipatory intention as future steering — Proven against / redirected.** A present aim can constrain later resolution by changing the present domain and its future participation, but the framework does not provide a route by which an aim reaches forward and selects an already-finished future result.
 - **Steering through an unowned possibility field — Concluded / redirected.** Wider unresolved possibility can increase openness or variance; it does not by itself provide a hidden tilt. Direction has to be carried by seated constraint.
@@ -253,7 +296,7 @@ Lane 7 is kept out of this subsection because its independent structure is not m
 - **Primitive or secretly varying `c` → surfaced local ratio — Reframed / guardrail.** The framework has no primitive `c` to vary or keep fixed. Local `c` is treated as surfaced bookkeeping among propagation and rulers seated in the same ground.
 - **Gravity as an active force or lower-total-compute gradient → relational re-seating / differential contraction — Reframed.** Force or gradient language may describe a surface, but it is not the primitive mechanism.
 - **More budget means a faster clock → clock as maintenance frequency — Concluded / reframed.** Clock repetition tracks a selected persistence loop rather than total resolving capacity.
-- **Saturation as the mechanism of clock slowing → cheaper supported persistence — Superseded.** The active account uses anchoring / support to reduce the repetition required for persistence rather than a primitive saturation mechanism.
+- **Saturation as the mechanism of clock slowing → supported persistence / scoped projection — Superseded.** The support account remains candidate and is sharpened by explicit low-bias geometry. Neither primitive saturation nor a universal numerical “cheaper means slower” rule has been derived.
 - **Coarse as unfinished, blurry, weak, or less real → undercommitted relative to a consequential grain — Rephrased / concluded.** Grain and scope are independent; coarse structure can be broad and powerful.
 - **Stored history as fully rendered past detail → present constraint — Reframed / concluded.** History can survive as seated constraint sufficient to bound later resolution without a separately rendered archive.
 - **Exact 180° relational antipode — Concluded.** Exact no-shared-relation cannot appear as another seated point on the same relational surface. The exact endpoint is an excluded limit, while surfaced oppositions can still exist.

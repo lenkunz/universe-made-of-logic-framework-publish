@@ -2,11 +2,11 @@
 
 *Third of three foundational pieces. The first two established that distinction costs and that unresolved structure can remain real. This one asks what a relation itself adds.*
 
-<!-- Revision: R20260823-1421-01 -->
-<!-- Updated: 2026-08-23 14:21 +07:00 -->
-<!-- Change: Makes explicit that the Cut/relation is itself resolution at that grain, while the distinctions it does not make consequential remain possibility relative to the new ground. -->
-<!-- Semantic basis: Where the Framework Currently Stands R20260823-1421-01; Index R20260823-1421-01; origin/budget update map R20260823-1310-01; Cut/Resolution update map R20260823-1421-01 -->
-<!-- Supersedes: basics-3-one-and-one-make-three -->
+<!-- Revision: R20260905-2350-01 -->
+<!-- Updated: 2026-09-05 23:50 +07:00 -->
+<!-- Change: Carries anchor closure into composed participation and separates growth of ground from availability of every prior continuation. -->
+<!-- Semantic basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
+<!-- Supersedes: R20260823-1421-01 -->
 
 ---
 
@@ -267,6 +267,12 @@ The loop is therefore:
 Growth is not the cure for scarcity.
 
 Growth is what keeps producing a larger relational frontier.
+
+This is a positive-sum account of reusable ground. It does not say every old continuation remains equally available: a new seated distinction can exclude some continuations while opening new relations. The exact growth rates still need a formal account.
+
+Nor does naming a composite create an extra allowance. When `[A, B, R_AB]` participates as one, it must preserve the consequential relations needed by the next question.
+
+Different grouping orders are equivalent only when they preserve those same distinctions. If grouping changes the result, inspect what relation was lost, altered, or made consequential. This is relational closure invariance, not assumed arithmetic associativity.
 
 ---
 

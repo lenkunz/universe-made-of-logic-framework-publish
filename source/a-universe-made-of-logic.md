@@ -2,11 +2,11 @@
 
 *A complete semantic-source account of the informational topology framework: how relation becomes ground, why resolution costs, and how increasingly rich structure can grow without changing the primitive.*
 
-<!-- Revision: R20260823-1421-01 -->
-<!-- Updated: 2026-08-23 14:21 +07:00 -->
-<!-- Change: Makes explicit that Cut/relation seating is resolution at that grain; Aim is already seated relational constraint, so the old aim-to-topology joint is concluded/narrowed to the coarse-to-fine mapping problem. -->
+<!-- Revision: R20260905-2350-01 -->
+<!-- Updated: 2026-09-05 23:50 +07:00 -->
+<!-- Change: Integrates Stage orientation, anchor closure, consequence-specific cost, scoped clock/ruler/twin deductions, CMB revision, and present-ground projection. -->
 <!-- Audited source: a-universe-made-of-logic-complete-2026-08-19.md -->
-<!-- Semantic consistency basis: Where the Framework Currently Stands R20260823-1421-01; The Index R20260823-1421-01; Basics I / III R20260823-1421-01; The Possibility Lane R20260823-1421-01 -->
+<!-- Semantic consistency basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
 <!-- Also incorporates semantic corrections concluded during the 2026-08-20/21 audit conversation -->
 <!-- Proposed canonical source. Public presentation may later be rebuilt in Work without changing these meanings. -->
 
@@ -432,6 +432,33 @@ It does not get to invent the answer freely.
 
 ---
 
+## Stage is where Light meets Space
+
+This phrase names a relation, not a container.
+
+**Light** is the relation arriving in the comparison. A photon is one possible physical example; Light here can be any relation.
+
+**Space** is the domain that can anchor that relation: an atom, a body, an instrument, a hosted logic, or a larger composite. It is not an empty box around already-finished things.
+
+**Stage** is where the relation meets that domain and a distinction becomes resolved at the grain of their encounter:
+
+`relation + domain → resolved relation on Stage`
+
+“Perception” in this broad framework sense is the domain-relative resolution of that encounter. Conscious human perception is a possible richer case, not a requirement that makes other relations exist.
+
+The orientations are relative:
+
+- **Afference** is relation reaching inward from the current domain's side.
+- **Efference** is relation reaching outward from that domain's side.
+
+What is Efference for A can be Afference for B. The same relation changes side; no new substance is needed at the boundary.
+
+A returning `Afference → domain resolution → Efference → Stage → Afference` loop can let a domain remain referable while reusing seated support. This is a persistence architecture within the framework. It neither removes participation cost nor identifies budget with physical energy.
+
+Different domains can resolve different details through a shared relation. Agreement concerns what the common comparison makes consequential; it need not make their entire perceptual ranges identical.
+
+---
+
 # V. Bias is already part of relation
 
 A relation does more than say that two things are connected.
@@ -494,7 +521,7 @@ The framework has separated these layers.
 
 It has not yet completed the quantitative map between them.
 
-That composition remains an **Unresolved mechanism**.
+The general composition of independently biased relations remains an **Unresolved mechanism**. The later clock/ruler deduction supplies a scoped two-projection construction under explicit low-bias assumptions. It does not leave every geometric case unaddressed, and it does not yet supply the general rule.
 
 ---
 
@@ -557,6 +584,12 @@ If that Aim is real as a present constraint, it is already seated topology at it
 The primitive does not change.
 
 The grain does.
+
+Many individually weak projections can become consequential together. At the grain of a moving body, air or liquid can participate as a coarse environmental bias. The comparison need not become an inventory of every collision with every constituent.
+
+That combined bias depends on arrangement and closure. It is not obtained by simply counting how many relations the body or medium contains.
+
+> **Re-seating cost depends on which existing relations a change makes consequential—not simply how many relations the object contains.**
 
 > **Bias first. Fine implementation follows.**
 
@@ -726,6 +759,20 @@ This also explains why physical size is not anchoring power.
 
 What matters is how much already-seated relation a domain can make reusable at the grain being asked.
 
+### Budget comparisons need anchor closure
+
+A budget is meaningful through the consequential relations that seat the domain for this question. It is not an isolated number owned by the named object.
+
+For a ruler `r`, a receiver `l`, and a consequential ambient anchor `a`, a comparison may keep `B_ra` and `B_la` explicit. If only ruler and receiver matter, their pair can close against itself. Do not add an unnecessary third anchor.
+
+Common anchor contributions can be coarse-grained away only when they create no consequential distinction between the compared sides. They remain support even when they disappear from explicit notation.
+
+A stable subset may seat into a composite such as `B_lr`, `B_ra`, or `B_la` and participate in the next comparison. Alternative grouping orders should preserve the same result only when they preserve the same consequential relations.
+
+If grouping changes the result, inspect what relation was discarded or changed. Closure invariance is not ordinary algebraic associativity.
+
+See the [anchor-closure change map](changes/2026-08-27-anchor-closure-and-relational-budget-comparison.md) for the full rule.
+
 ### Membership composes resolving capacity
 
 Each member can participate through its own relations while also participating through relations that treat a larger composition as one.
@@ -785,6 +832,10 @@ There is no switch from "physical" growth to "logical" growth.
 This is also why a highly developed domain can show little visible outward rearrangement while carrying a great deal of relational resolution internally.
 
 Low visible motion does not imply low resolving activity.
+
+The same distinction matters for hosted logic. A relation can retain its own participation and projection within a domain while becoming less prominent against a faster-growing shared ground. Relative fading is not automatically loss of its seated constraint.
+
+An arrangement can make that relation easier to address and reuse. The question is which support it preserves or establishes, rather than how long the relation waits or how much attention the original host keeps supplying.
 
 # IX. Contraction, co-shrink, and relational scale
 
@@ -950,61 +1001,83 @@ Full force and field equations remain **Completion pending**.
 
 # XI. Clocks do not measure total resolution
 
-Time is not a primitive in this framework.
+Time is not primitive in this framework. A clock is a selected repeating persistence loop.
 
-A clock is a selected repeating persistence loop.
+Its reading records a particular resolved repetition against a comparison ground. It does not count every relation participating in the domain.
 
-Its repetition tells us how often that particular supported pattern has to renew itself under the local ground.
+> **A clock watches one loop. Budget concerns what the relational ground can resolve.**
 
-It does not tell us the total amount of resolving activity happening while the loop repeats.
+Anchor closure applies to clocks too. Compare each clock together with its consequential support, or show why shared contributions can be omitted without losing a distinction.
 
-So:
+The earlier support account remains a candidate: shared support can change what a persistence loop must renew and can reduce the cost carried by a component. “Cheaper persistence” is not a universal numerical explanation for every slower clock. Motion and cross-ground comparison now have a more specific projection account.
 
-`clock duration`
+## The simple projection construction
 
-≠
+At the chosen grain:
 
-`available budget`
+- `R_p` describes the fine persistence projection;
+- `R_a` describes the anchor-relative projection involved in motion;
+- `R_ap` retains the consequential relation between them;
+- `R_all` describes the stable coarse composite available to this anchor-closed comparison.
 
-≠
+These are relational roles, not fixed jars of budget. Each may contain extensive nested relation.
 
-`activity density`
+`R_a + R_p → R_a + R_p + R_ap → R_all`
 
-≠
+For the simple case, suppose the two one-dimensional projections can be represented independently and `R_ap` introduces no additional consequential bias between them. The construction uses orthogonal components:
 
-`relational growth per budget`
+`R_all² = R_a² + R_p²`
 
-> **Clock duration measures repetition of the anchored ruler. It does not measure total amount of resolution occurring while that ruler repeats.**
+The normalized persistence projection is then:
 
-Anchoring makes this especially important.
+`q = R_p / R_all = sqrt(1 - (R_a / R_all)²)`
 
-If a larger domain already supports distinctions that a component would otherwise have to maintain more expensively, the component's selected persistence loop may need less frequent renewal.
+With the proposed physical identification `R_a / R_all ↔ v / c`, this becomes:
 
-The clock can therefore repeat more slowly relative to another ground while more present capacity remains available for other relation.
+`q = sqrt(1 - v²/c²) = 1/γ`
 
-> **Clock rate measures maintenance frequency, not total resolving capacity.**
+**The simple projection construction gives the familiar factor under its stated assumptions and proposed mapping.**
 
-> **The clock slows because persistence is cheaper, not because computation is poorer.**
+This does not prove that arbitrary relational closure is Euclidean or that the physical identification follows from the symbols alone. `R_ap` is not saved overflow or an extra allowance. A consequential bias between the projections can change the geometry; many such relations can require a richer state-dependent description.
 
-> **A slower clock does not imply a slower domain.**
+The same scoped factor is used in the ruler candidate as `L = q L_0`. Full simultaneity, velocity composition, Doppler behaviour, acceleration, and gravity are further completion work.
 
-A uniform change of the whole local resolving ground can remain locally invisible because the ruler changes with the same ground.
+## Different grounds, one bound comparison
 
-> **A uniform change of the whole local resolving ground is locally invisible. Only a relation across differently conditioned grounds can expose a ratio.**
+The receiver-Cut account asks how a continuing bound relation resolves when the two anchor-closed grounds support unequal local cadences.
 
-This also means several quantities must not be collapsed:
+A ratio such as `B_ra / B_la = 1.2` is an illustrative amount of source-side resolution per receiver Cut. It is not a universal time rate, an intrinsic ruler budget, or an already-derived inverse length factor.
 
-1. present-ruler duration;
-2. remote event development;
-3. simple count growth;
-4. configuration / dynamic growth;
-5. logical / reusable-ground growth.
+`different anchor-closed support`
+→ `different source resolution per receiver Cut`
+→ `coherent reconciliation of the bound relation`
+→ `a different surfaced measurement`
 
-> **Present-ruler duration is not automatically remote event count.**
+The “VSync” or global-shutter analogy names the synchronization problem. The receiver must resolve one continuing object from the distinctions relevant to its Cut. The analogy does not introduce literal frames, a cosmic processor, or extra ghost objects.
 
-Candidate physical mappings include gravitational clock differences, radioactive decay comparisons, spectral redshift, and supernova duration stretching.
+For an extended relation, the proposed readout is spatial/detail density and measured extent. For a periodic relation, it is a cycle/frequency comparison. This is the proposed common operation behind the ruler case and gravitational blueshift: the same bound relation is resolved against differently anchored receiving ground.
 
-Those mappings remain quantitative completion tasks.
+The mismatch explains the synchronization question; the scoped projection geometry supplies the simple contraction factor. **No equality between `q` and an arbitrary budget ratio has been derived.**
+
+Immediate binding is a framework distinction between coarse binding and budget-limited resolution. It is not an established channel for instantaneous measurable signalling. The physical causal structure still has to be recovered.
+
+## The twin comparison retains both paths
+
+A path accumulates **relation**. Persistence and clock readings are consequences of that retained path.
+
+Motion makes a different set of anchor relations consequential. Simple segments within the low-bias construction can be compared using `q`; this does not provide universal cosmic segments or ticks.
+
+A turn reverses orientation. Changing `+R_a` to `-R_a` preserves the squared factor at equal speed, but does not erase the relations already accumulated. The turn is a hinge in the path, not the entire payment for a reunion difference.
+
+Reunion brings the retained paths into a common comparison. It exposes the difference rather than creating it. Comparing one remote segment does not replace comparison of the completed paths.
+
+Retained history can remain coarse. It need not replay every step, and dividing the same path into more bookkeeping segments must not create additional physical consequences.
+
+Keep `present-ruler duration`, `remote event development`, `simple count growth`, `configuration growth`, and `logical growth` distinct.
+
+A uniform change of a local ground and all its standards is locally invisible. Cross-ground comparison exposes the candidate ratio. Its general quantitative law remains to be completed.
+
+See the [clock](../bits/the-clock-reading-is-not-the-ontology/02-notebooklm-source.md), [ruler](../bits/why-does-motion-make-a-ruler-shorter/02-notebooklm-source.md), and [twin](../bits/the-twin-paradox-is-a-path-comparison/02-notebooklm-source.md) dossiers.
 
 ---
 
@@ -1067,6 +1140,14 @@ This also explains why a movement can become cheap without becoming unreal.
 The domain is not getting motion from nowhere.
 
 It is reusing structure that already stands.
+
+“Reaction = action” adds a grain-relative reading: what initiates a new consequential relation at one grain can be the supported reaction to a coarser projection at another. This does not make new binding and reused continuation equal in cost, or derive Newton's action–reaction law.
+
+Projection precedes the continuation it constrains. It is present bias on open possibilities, not a finished future pulling the body toward itself. It can be interrupted when a consequential bodily or environmental relation changes.
+
+A simple reach and a plan to build a house differ in the relations they recruit. Knowledge, tools, institutions, and other domains can carry much of the support. A small representation can address extensive relation; its reach cannot be read from its size or a count of the body's atoms.
+
+The stronger proposal that brain and body are the Stage expression of perceptual-domain resolution, without brain computation serving as a separate ontological origin, remains an [exploratory mechanism](internal/2026-09-05-projection-hosting-and-system-continuity.md). The movement example does not establish that neurological account.
 
 ---
 
@@ -1391,55 +1472,39 @@ It is not yet a complete solution to the vacuum-energy problem.
 
 # XVIII. Candidate cosmology: redshift, event rates, and the CMB
 
-The framework keeps measured redshift as evidence.
+A resolved spectral shift does not by itself carry its primitive ontology. The framework asks whether a relation resolved against differently supported grounds can reproduce the comparison.
 
-What remains open is the primitive interpretation.
+The proposed redshift and event-duration account compares a continuing relation across those grounds. It does not require a past Stage sitting at a farther ontological address, or a finished future Stage waiting to be reached. Retained relation constrains the present comparison; projected possibility remains open.
 
-A candidate framework reading is that two differently conditioned grounds can expose a ratio that no local ruler can see from inside itself.
+The simple clock/ruler construction gives a scoped result, not the general cosmological map. Spectral redshift, whole-event duration stretching, flux, lensing, structure growth, and CMB behaviour must be recovered together. A lower frequency or slower remote readout is not a measurement of all the relation that ground can support.
 
-That ratio may surface in spectral frequency and in remote event duration.
+## The CMB resolution race
 
-But several quantities must remain separate:
+The later CMB deduction preserves Resolution Equality:
 
-`present-ruler duration`
+> **The CMB is not losing the universe's budget. It is losing the race toward fine resolution.**
 
-≠ `remote event rate`
+In this candidate account, coarse background and fine structures both remain supported and can both gain relation. Fine nested composition grows its resolution density faster. The resulting fine/background ratio changes the frequency and temperature-like readout at the present Stage.
 
-≠ `simple count growth`
+A comparatively coarser relation is not therefore static, empty, or supplied with less fundamental reality. Nor does “coarse” mean “hot.” Earlier comparisons expressed through today's fine ruler may map to a hotter reading; the measured redshift–temperature law still has to be derived.
 
-≠ `configuration growth`
+Co-shrink and an expanding-looking comparison are relational descriptions of the same proposed difference. Neither needs an outside ruler.
 
-≠ `logical growth`
+## The spectrum must follow from a native rule
 
-The framework therefore does not claim that the past simply "had less time."
+The revised blackbody question is not how to preserve an ontologically pre-existing Planck curve while carrying it through primitive time.
 
-Nor does it rewrite chronology by fiat.
+> **Which repeated-resolution rule produces the measured frequency–intensity distribution, and why does that same rule give the observed scaling between comparison grounds?**
 
-A candidate cross-ground model would need to reproduce:
+A proposed spectral sweep selects a comparison grain `B_x`, relates it to target support `B_t` within the shared anchor closure, and records target resolution `G(x)`. Frequency is a surfaced label for that comparison. Sweeping the grain gives a spectrum; fitting the measured distribution gives the temperature reading.
 
-- spectral redshift;
-- supernova duration stretching;
-- flux relations;
-- lensing;
-- structure growth;
-- CMB consistency;
-- and the rest of successful cosmological bookkeeping.
+The exploratory normalized closure `x² + t² = 1` and toy gain `Y(x) = x² sqrt(1 - x²)` produce a hump. Here `t` is a normalized target component, not primitive time. **The toy is not Planck's law.** It does not supply the required occupancy/counting rule or high-frequency behaviour.
 
-That is **Completion pending**.
+An exponential factor must come from an independently justified repeated-resolution rule. Importing `e` because the desired curve contains it would fit the answer rather than derive it. A continuous limit of proportional updates is a possible mathematical route, not yet the physical mechanism.
 
-The CMB itself remains a specific challenge.
+The native distribution law, redshift–temperature scaling, anisotropy/acoustic structure, and a discriminating consequence remain explicit work. A common coarse background with retained small differences is a qualitative direction; it does not calculate the observed sky.
 
-A coarse present constraint may be able to act as an interface from which fine measurements resolve.
-
-But the framework still has to show what stored coarse constraint is sufficient to force the observed thermal and anisotropy structure.
-
-CMB specificity remains **Completion pending**.
-
-> **Keep the evidence. Reconsider the map.**
-
-That is permission to test another ontology.
-
-It is not permission to ignore successful measurements.
+See the [CMB dossier](../bits/the-cmb-is-losing-the-resolution-race/02-notebooklm-source.md) and its [blackbody revision note](../bits/the-cmb-is-losing-the-resolution-race/06-revision-note-blackbody-audit.md).
 
 ---
 
@@ -1456,6 +1521,13 @@ This is framework-native.
 Specific astronomical and nuclear histories are not automatically derived from it.
 
 ### Material states
+
+The air/stone deduction sharpens the candidate: material states can be read as different organizations of persistence, rather than a ranking of how much fundamental resolution an object receives.
+
+Gas-like support permits broad rearrangement; solid-like support preserves more mutual geometry; a liquid-like regime can preserve close participation while allowing neighbour exchange. A boundary can recruit gas into a load-bearing composite without making it solid. Compare the full consequential closure—gas, membrane, outside pressure, load, and supporting ground—not isolated labels.
+
+Pressure is proposed as a Stage-visible boundary comparison between anchored persistence relations. Pressure, heat, and physical energy are not framework budget. Phase conditions, equations of state, elasticity, transport, and numerical pressure/deformation mapping remain pending.
+
 
 Vacuum-like, gas-like, liquid-like, and solid-like regimes should not be mapped to Lane numbers.
 
@@ -1627,6 +1699,10 @@ It changes what future resolution can cheaply do.
 
 It does not need to replay an exact stored movie.
 
+There is one presently seated relational ground in this account. Past is surviving constraint; future is projection, interference, and open possibility resolving together. Stage is their encounter, not a storage location in a sequence of fully rendered worlds. This does not introduce a universal simultaneous Cut; comparison remains domain-relative.
+
+Later resolution may require finer distinctions that the earlier coarse constraint left open. This can look like “backfilling,” but cannot overwrite surviving evidence to force a coherent story. If several histories remain indistinguishable under the retained constraint, coherence alone does not uniquely recover one of them.
+
 ---
 
 # XXIII. The framework can be broad without being arbitrary
@@ -1779,7 +1855,7 @@ Major **Completion pending** areas include:
 
 1. relational growth-cost formalisation;
 2. density-regime propagation;
-3. cross-ground event-rate mapping;
+3. general cross-ground event-rate mapping beyond the scoped low-bias projection result;
 4. anchoring / density equilibrium;
 5. Lane growth scaling;
 6. physical accounting mapping;
@@ -1788,7 +1864,7 @@ Major **Completion pending** areas include:
 9. star / planet regime mapping;
 10. supernova role;
 11. effective-dimension quantitative mapping;
-12. CMB specificity;
+12. the CMB native distribution/counting rule, redshift–temperature scaling, and anisotropy structure;
 13. dark-sector magnitude;
 14. compounding rate;
 15. coarse-to-fine Aim / constraint mapping — the Aim is already seated relation, while the quantitative/formal rule for how it combines with present ground to price a particular finer Cut remains incomplete.
@@ -1796,9 +1872,9 @@ Major **Completion pending** areas include:
 Major **Unresolved mechanisms** include:
 
 1. the criterion for differential contraction inside a domain;
-2. composition of relation-specific bias into metric geometry;
+2. general composition of independently biased relations into metric geometry beyond the scoped two-projection construction;
 3. the physical bias criterion before the observed outcome is known;
-4. independent seating of Lane 7;
+4. the sufficient structure for independent Lane-7 seating, beyond the candidate support-transfer architecture;
 5. prospective coarse compatibility.
 
 These two lists should not be collapsed.

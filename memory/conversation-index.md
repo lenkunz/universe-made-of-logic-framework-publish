@@ -1,12 +1,19 @@
 # Conversation / Concept Index
 
-Updated: 2026-08-23
+Updated: 2026-09-05
 Status: SEARCH AID / NOT FRAMEWORK GROUND
 
 Use this as a routing table when a future conversation says “we discussed this before” or references a concept without naming the exact source file.
 
 | Search concept / phrase | Start here | Then check |
 |---|---|---|
+| September 5 source catch-up, Bits backlog | [source-sync map](../source/changes/2026-09-05-stage-projection-and-bits-source-sync.md) | `source/where-the-framework-stands.md` |
+| Stage, Light/Space, Afference/Efference | `source/a-universe-made-of-logic.md`, resolution section | `bits/stage-is-where-light-meets-space/` |
+| anchor closure, composite budget, common-anchor cancellation | `source/changes/2026-08-27-anchor-closure-and-relational-budget-comparison.md` | `source/basics-1-resolution-costs.md` |
+| R_all, R_ap, q, receiver Cut, VSync, twins | `source/a-universe-made-of-logic.md`, clocks section | clock/ruler/twin Bit dossiers; status before generalizing |
+| CMB resolution race, native spectrum, blackbody, e | `source/a-universe-made-of-logic.md`, cosmology section | CMB Bit revision note; exact distribution remains unfinished |
+| proxy, quest, Tower, support transfer | `source/the-lane-and-the-rung.md`, hosted section | `source/the-possibility-lane.md` |
+| brain/body mirror, after projection, reaction = action | [discussion note](../source/internal/2026-09-05-projection-hosting-and-system-continuity.md) | exploratory status; not merely no conscious calculation |
 | first Cut, `R_AA`, split/sync | `memory/current-context.md` | `source/basics-3-one-and-one-make-three.md`, `source/changes/relation-origin-and-composed-budget.md` |
 | Cut = resolution, resolved face/open face | `memory/current-context.md` | `source/changes/cut-resolution-and-open-remainder.md` |
 | Aim already topology | `memory/reasoning-history.md` §13 | `source/the-possibility-lane.md`, `source/where-the-framework-stands.md` |

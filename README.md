@@ -31,6 +31,8 @@ Current maps include:
 
 - `relation-origin-and-composed-budget.md`
 - `cut-resolution-and-open-remainder.md`
+- `2026-08-27-anchor-closure-and-relational-budget-comparison.md`
+- `2026-09-05-stage-projection-and-bits-source-sync.md`
 
 ### `source/internal/`
 
@@ -106,16 +108,15 @@ The Hope remains personal/speculative even though this repository is private.
 
 ## Current semantic generation
 
-The current source generation is based on the **2026-08-23 14:21 +07:00** Cut/Resolution clarification:
+The maintained source set is synchronized at **R20260905-2350-01 / 2026-09-05 23:50 +07:00**.
 
-- **The Cut is relation.**
-- A seated Cut/relation is already **resolution at that grain**.
-- What the same relation does not make consequential remains the **open possibility remainder** relative to that ground.
-- A real Aim is already seated relational constraint at its grain; the remaining debt is coarse-to-fine mapping, not an Aim-to-topology crossing.
-- Budget is relational resolving participation / iteration capacity, not universal elapsed time.
-- Relation composes effective capacity through already-seated structure.
+The September 5 catch-up integrates Stage orientation, anchor closure, consequence-specific re-seating cost, scoped clock/ruler/twin deductions, the revised CMB spectrum question, and hosted participation/support-transfer architecture. The Cut/resolution and retained-history corrections remain foundational.
 
-## Revision discipline
+Read [the source-sync map](source/changes/2026-09-05-stage-projection-and-bits-source-sync.md) for the audit of all twelve current Bits, exact ownership, and candidate/completion boundaries. New exploratory action/perception and System discussion is preserved in [continuity](source/internal/2026-09-05-projection-hosting-and-system-continuity.md).
+
+The weekly **Bits Source Check** reports future source gaps on Mondays around 09:00 Asia/Bangkok and archives results under `tasks/bits-source-check/`.
+
+## Revision discipline## Revision discipline
 
 Stable repository filenames should normally be updated in place. Internal revision headers plus Git history provide the revision archive.
 

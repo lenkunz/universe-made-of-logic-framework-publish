@@ -2,10 +2,10 @@
 
 *A directory of the two views, level by level, with the surrounding framework articles kept in view. This is the map, not the territory.*
 
-<!-- Revision: R20260823-1421-01 -->
-<!-- Updated: 2026-08-23 14:21 +07:00 -->
-<!-- Change: Adds the Cut-as-resolution clarification: what the seated relation makes consequential is resolved; what it leaves equivalent is the complementary possibility-side. Aim is already seated constraint at its grain. -->
-<!-- Based on framework state: R20260823-1421-01 -->
+<!-- Revision: R20260905-2350-01 -->
+<!-- Updated: 2026-09-05 23:50 +07:00 -->
+<!-- Change: Routes current Stage, closure, projection, hosted-System, clock/ruler/twin, and CMB deductions without promoting candidate mappings. -->
+<!-- Based on framework state: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
 <!-- Supersedes public/index source: the-index-of-the-framework (3).md -->
 
 ---
@@ -496,6 +496,9 @@ These are part of the current internal architecture:
 - **Budget is primitive resolving participation, not elapsed time, physical energy, or stress-energy.**
 - **Budget is compositional.** A relation that becomes a participant can carry already-compressed membership, so equal primitive participation can produce unequal effective work per iteration.
 - **Budget is finite per present relation but extensible relationally.**
+- **Budget comparison is anchor-closed.** Keep every consequential supporting relation; common contributions can be omitted only without loss of distinction. Grouping stable composites must preserve the relation needed downstream.
+- **Re-seating cost concerns the existing relations a change makes consequential.** It is not simply a count of all relations inside the object.
+- **Stage is where relation meets an anchoring domain.** Light/Space name those roles; Afference/Efference are their domain-relative orientations, not new substances.
 - **Resolution costs.**
 - **Coarse does not mean unfinished, blurry, weak, or less real.**
 - **Coverage and resolution are different.**
@@ -510,8 +513,20 @@ These are part of the current internal architecture:
 - **Possibility and fine seating separate at every Lane.**
 - **Higher structure recruits lower structure; it does not replace it.**
 - **Odd/even Lane pairs have paired onset with staggered stabilisation.**
-- **Represented, established/reusable hosted logic, and independently seated structure are different conditions.**
+- **Represented, established/reusable hosted logic, and independently seated structure are different conditions.** Hosted logic can have its own interference and projection while depending on its host. Independence names a grain and dependency, not absence of all support.
 - **No selector stands above relation choosing the law.** The logic already present constrains what can grow, and cheaper compatible continuation can dominate the surface.
+
+### Where the newer deductions live
+
+| Question | Owning source |
+|---|---|
+| Stage, Light, Space, Afference, Efference | [Main source](a-universe-made-of-logic.md), resolution/Stage section |
+| Budget support and closure | [Basics I](basics-1-resolution-costs.md), [anchor-closure map](changes/2026-08-27-anchor-closure-and-relational-budget-comparison.md) |
+| Scoped clock/ruler factor, receiver Cut, twin path | [Main source](a-universe-made-of-logic.md), clocks section |
+| Projection, interference, present constraint | [P-Lane](the-possibility-lane.md), Aim and budget sections |
+| Hosted logic, proxy, quest, Tower | [Lane/Rung bridge](the-lane-and-the-rung.md), hosted section |
+| CMB resolution race and native spectrum | [Main source](a-universe-made-of-logic.md), cosmology section |
+| Recent Bits audit and status changes | [September 5 source-sync map](changes/2026-09-05-stage-projection-and-bits-source-sync.md) |
 
 ### Candidate physical correspondence map
 
@@ -524,7 +539,7 @@ Internal persistence commitment and the cost of re-seating a domain provide a ca
 Differential contraction and re-seating of separation provide a candidate force-free architecture. Full quantitative correspondence to general relativity remains incomplete.
 
 **Clock differences**  
-Anchoring and support provide a candidate account in which a selected persistence loop can repeat differently without total resolving capacity being a single “speed of time.” Quantitative physical mapping remains incomplete.
+Anchor-closed comparison keeps a selected persistence loop separate from total resolving capacity. The simple independent, low-bias projection construction gives `q = sqrt(1 - v²/c²)` under the proposed physical identification. Receiver-Cut reconciliation and retained path comparison extend the mechanism's description. General biased geometry, the full relativistic mapping, and gravity remain incomplete; an arbitrary budget ratio is not already `q`.
 
 **Electromagnetism**  
 Lane-1 / Lane-2 directional and bias architecture provides candidate ground for EM-like structure, magnetic polarity, reflection, and propagation. Maxwell-level mapping remains incomplete.
@@ -536,7 +551,10 @@ Coarse relational coverage is a candidate interpretation for a contribution that
 Differential contraction between differently seated grounds remains a candidate interpretation, not a derived cosmological equation.
 
 **Matter states and propagation regimes**  
-Vacuum, gas, liquid, and solid are not Lane numbers. They may be different density / anchoring regimes of one relational ground through which several Lane relations operate simultaneously.
+Vacuum, gas, liquid, and solid are not Lane numbers. They may be different organizations of persistence in one relational ground through which several Lane relations operate simultaneously. Boundaries and environmental support belong in the closure; pressure and phase laws remain quantitative mapping tasks.
+
+**CMB and redshift**  
+The resolution-race candidate compares fine nested growth with a continuing, more slowly fine-resolving background under equal fundamental participation. The revised question is the native rule generating the measured spectrum and its cross-ground scaling. A toy peaked curve is not Planck's law; redshift–temperature and anisotropy relations remain pending.
 
 **Nuclear, astronomical, biological, and higher-order mappings**  
 These remain candidate correspondences unless the status page explicitly promotes a narrower result.

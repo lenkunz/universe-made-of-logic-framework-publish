@@ -1,8 +1,12 @@
 # Integration Note — Anchor Closure
 
-**Purpose:** Manual integration guidance while the GitHub connector is unavailable.
+**Integration completed:** 2026-09-05 23:50 +07:00, maintained source revision `R20260905-2350-01`. See the [source-sync map](../changes/2026-09-05-stage-projection-and-bits-source-sync.md).
 
-This package deliberately does **not** overwrite `source/where-the-framework-stands.md`, because the current repository version could not be fetched safely.
+The guidance below records the original pending integration and is retained as history.
+
+**Original purpose:** Manual integration guidance while the GitHub connector was unavailable.
+
+The original package deliberately did **not** overwrite `source/where-the-framework-stands.md`, because the current repository version could not be fetched safely.
 
 The authoritative new material for this update is:
 

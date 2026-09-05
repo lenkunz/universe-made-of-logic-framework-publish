@@ -1,5 +1,7 @@
 # Recovered Anchor / System / Stage Continuity
 
+**Integration checkpoint:** `R20260905-2350-01`. See the [September 5 map](../changes/2026-09-05-stage-projection-and-bits-source-sync.md) for the parts now integrated and the parts remaining internal. The original queue below is preserved as history; it is not a blanket promotion. Later corrections are in [projection/hosting continuity](2026-09-05-projection-hosting-and-system-continuity.md).
+
 <!-- Added: 2026-08-30 +07:00 -->
 <!-- Scope: internal continuity and semantic recovery from the current long-form framework discussion. -->
 <!-- Publication status: internal; promote individual sections into stable source/changes/Bits after audit. -->

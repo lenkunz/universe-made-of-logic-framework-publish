@@ -13,6 +13,14 @@ The original Working Notes file is preserved in ordered search-friendly parts be
 7. `working-notes/part-07.md` — memory-grain continuation, framework-native system design, method notes.
 8. `working-notes/part-08.md` — historical dead branches, promotion rules, migration ledger, maintenance rule.
 
+## Later continuity and integration
+
+- [August 30 recovered Anchor/System/Stage continuity](2026-08-30-recovered-anchor-system-stage-continuity.md) — original integration queue and separate lore.
+- [September 5 projection/hosting/System continuity](2026-09-05-projection-hosting-and-system-continuity.md) — subsequent corrections and exploratory action/perception proposal.
+- [Current source-sync map](../changes/2026-09-05-stage-projection-and-bits-source-sync.md) — what has now been integrated, with status boundaries.
+
+The split parts above preserve their historical revision; they do not supersede this later source checkpoint.
+
 ## Authority
 
 Working Notes are **not active framework ground** merely because they are preserved here. Use current canonical sources and `source/where-the-framework-stands.md` before promoting any Working Notes branch.

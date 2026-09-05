@@ -1,6 +1,6 @@
 # Semantic Guardrails
 
-Updated: 2026-08-23
+Updated: 2026-09-05
 Status: CONTINUITY MEMORY / NOT CANONICAL AUTHORITY
 
 Use this file to stop a new chat from silently importing familiar ontology back into the framework.
@@ -72,6 +72,16 @@ Clock frequency is not total computation/resolution.
 
 Do not treat relativistic-looking clock differences as motion along a primitive time dimension.
 
+### Stage and projection
+
+Stage is the resolved encounter of relation with a domain. In “Light meets Space,” Light is any relation and Space is the anchoring domain. Human observation is not required.
+
+Afference/Efference and interference/projection are inward/outward relative to the domain. Projection is present bias on open continuation, can be interrupted, and does not select a finished future.
+
+The simple `R_all² = R_a² + R_p²` construction assumes independent orthogonal projections with no extra consequential bias. Its proposed mapping gives `q`. Do not reset all geometry to missing or generalize the simple case to a universal law.
+
+A source/receiver budget ratio is not automatically `q`, `γ`, or inverse length. Twin paths accumulate relation; turning and reunion do not erase or manufacture the history difference.
+
 ### Coarse
 
 Coarse is real undercommitment relative to a consequential grain.
@@ -141,6 +151,12 @@ rather than automatically:
 
 Contributions can be strongly asymmetric even when support is reciprocal.
 
+Budget comparisons must be anchor-closed. A pair can close itself; retain any third relation that distinguishes the grounds. Common support may be omitted only without losing a consequential distinction.
+
+Composite grouping equivalence depends on preservation of relation, not arithmetic associativity.
+
+Re-seating cost depends on which existing relations a change makes consequential—not simply how many relations the object contains.
+
 ### Gravity
 
 Framework-native language prefers:
@@ -167,7 +183,9 @@ But do not infer that semantic meaning has already been shown to contribute the 
 - Rung = narrowing/fine-support milestone, `possibility → ground`.
 - Shared numbering = registration, not identity.
 - Lane can operate hosted before its Rung independently seats.
-- Hosted is real.
+- Hosted is real, including its own interference/projection at the participating grain.
+- Independence must name the dependency and grain; release from one host is not absence of all support.
+- Proxy, quest, and Tower are candidate support roles, not certification of a new Rung.
 - Represented, established/reusable in host, and independently seated are distinct conditions.
 - Higher recruits lower; it does not replace it.
 - Onset ≠ independent seating ≠ mature stabilisation.
@@ -175,6 +193,15 @@ But do not infer that semantic meaning has already been shown to contribute the 
 - Rung stabilises; it does not “finish reality.”
 
 Do not resurrect Lane −1 / Rung −1 notation. It smuggles ordering into two complementary readings.
+
+## CMB and exploratory mechanisms
+
+- Preserve Resolution Equality: the background is not assigned less fundamental reality.
+- Derive the native distribution rule and its scaling; do not assume a primordial Planck curve as ontology.
+- The toy hump is not Planck's law. Occupancy/counting and high-frequency behaviour remain missing.
+- Do not insert `e` merely because the target curve contains it.
+- Brain/body mirror means realization after projection, not an inert after-event record. Preserve the stronger proposal without treating it as established neuroscience.
+- Apparent noise and personal meaning do not themselves establish a sender or a cosmic control mechanism.
 
 ## Status guardrails
 

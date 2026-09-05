@@ -4,6 +4,8 @@
 **Scope:** Framework-wide semantic / bookkeeping correction  
 **Status:** Promoted framework rule for future deductions; physical correspondences remain subject to their existing status boundaries.
 
+**Maintained-source integration:** Completed in `R20260905-2350-01`; see the [September 5 map](2026-09-05-stage-projection-and-bits-source-sync.md). The rule and physical-status boundaries below remain in force.
+
 ---
 
 # Why this update exists

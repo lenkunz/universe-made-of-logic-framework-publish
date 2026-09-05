@@ -17,6 +17,10 @@ The current publication-facing semantic sources live directly under `source/`:
 
 Future semantic revisions should update these stable filenames **in place**. Revision IDs and timestamps remain inside each Markdown file, while Git history supplies the revision archive.
 
+## Current checkpoint
+
+**R20260905-2350-01 / 2026-09-05 23:50 +07:00.** The [September 5 sync map](changes/2026-09-05-stage-projection-and-bits-source-sync.md) audits twelve Bits and records integrations, already-present rules, and unfinished mappings. The [discussion note](internal/2026-09-05-projection-hosting-and-system-continuity.md) preserves unpromoted mechanisms and design context.
+
 ## Separate personal / speculative source
 
 - `the-hope-behind-the-framework.md`
@@ -27,6 +31,8 @@ This document is intentionally **not framework ground** unless a later semantic 
 
 - `changes/relation-origin-and-composed-budget.md`
 - `changes/cut-resolution-and-open-remainder.md`
+- `changes/2026-08-27-anchor-closure-and-relational-budget-comparison.md`
+- `changes/2026-09-05-stage-projection-and-bits-source-sync.md`
 
 When a semantic correction changes framework ground, update the affected canonical sources and the relevant status/change-map files in the same sync.
 

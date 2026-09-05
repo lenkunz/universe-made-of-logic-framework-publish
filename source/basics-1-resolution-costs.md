@@ -2,11 +2,11 @@
 
 *First of three foundational pieces. This is the framework's starting economy: why particularity has a cost, why finite does not mean fixed, and why reality does not need to settle every distinction at once.*
 
-<!-- Revision: R20260823-1421-01 -->
-<!-- Updated: 2026-08-23 14:21 +07:00 -->
-<!-- Change: Clarifies that a seated Cut/relation is itself resolution at that grain; the complementary possibility-side is whatever distinctions the same relation still leaves equivalent. -->
-<!-- Semantic basis: Where the Framework Currently Stands R20260823-1421-01; Index R20260823-1421-01; origin/budget update map R20260823-1310-01; Cut/Resolution update map R20260823-1421-01 -->
-<!-- Supersedes: basics-1-resolution-costs -->
+<!-- Revision: R20260905-2350-01 -->
+<!-- Updated: 2026-09-05 23:50 +07:00 -->
+<!-- Change: Adds anchor-closed budget comparison, Resolution Equality versus effective capacity, and consequence-specific re-seating cost. -->
+<!-- Semantic basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
+<!-- Supersedes: R20260823-1421-01 -->
 
 ---
 
@@ -97,6 +97,18 @@ Every relation that successfully seats becomes part of that next ground and can 
 There is no separate framework-native reservoir outside the present storing unused reality, and there is no hidden RAM in which a more complete version waits.
 
 The present structure is the working ground.
+
+## Equal participation, closed comparison
+
+**Resolution Equality does not imply Resolution Sameness.**
+
+The common primitive participation rule does not give every named object the same isolated effective allowance. What one participation can carry depends on the relation already seated and on the question being asked.
+
+Before comparing budgets, include every anchor relation that still makes a difference to that comparison. A bare `B_x` is shorthand for that closed context. If only A and B are consequential, their pair can supply the closure; no third anchor is required merely because a wider environment exists.
+
+A shared anchor may leave the explicit calculation only when doing so loses no consequential distinction. A stable relation can then participate as one composite in a later comparison.
+
+This is the [anchor-closure rule](changes/2026-08-27-anchor-closure-and-relational-budget-comparison.md). It does not yet supply a universal numerical operator for arbitrary budgets.
 
 ## Why scarcity survives growth
 
@@ -233,6 +245,14 @@ For this Basic, the point is simpler:
 **persistence is not free merely because nothing visibly changed.**
 
 Maintaining a consequential distinction is itself part of the present accounting.
+
+Change has a similarly relational cost:
+
+> **Re-seating cost depends on which existing relations a change makes consequential—not simply how many relations the object contains.**
+
+An internally rich domain can reuse much of its organization while changing one outward relation. A small change can also become expensive when it makes many supporting relations consequential.
+
+The environment belongs in this question whenever it changes the support. A body moving through air or liquid can meet the medium as a coarse resistance relation without separately resolving every constituent interaction. The measured pressure, drag, and energy remain physical mapping questions; they are not numerical aliases for budget.
 
 ---
 

@@ -1,6 +1,6 @@
 # Reasoning History
 
-Updated: 2026-08-23
+Updated: 2026-09-05
 Status: CONTINUITY MEMORY / NOT CANONICAL AUTHORITY
 
 This file records important conversational corrections and why they happened. Its purpose is to prevent a future chat from rediscovering stale branches and to preserve the shape of deductions that may be compressed in final articles.
@@ -392,7 +392,7 @@ Strong line:
 
 > **A self-consistent loop is not automatically a self-grounding loop.**
 
-Open issue: whether a relation can be seated when one “participant” is only a coarse possibility-domain represented through current Aim rather than an independently seated future participant.
+September 5 clarification: a hosted projected counterpart already is a present relation at its own grain. Its entry into topology is not the remaining gap. What remains is a testable consequence of later compatibility beyond present participation and retrospective matching, without treating the later counterpart as finished.
 
 ## 22. Personal metaphysical Hope remains intentionally separate
 
@@ -423,3 +423,32 @@ The current GitHub design intentionally separates them:
 - `memory/workflow.md` = how to continue and publish.
 
 A future chat should search these files instead of receiving a giant handoff prompt by default.
+
+
+## 24. Anchor closure integrated
+
+The August 27 rule already rejected isolated budgets. It now appears in Basics I/III, the main source, Index, status, and continuity. Mutual pair closure, common-anchor cancellation, and composites preserve consequential relation; grouping equivalence is not arithmetic associativity.
+
+## 25. The scoped geometric result must not disappear
+
+Clock, ruler, and twin Bits supply the conditional factor, receiver-Cut reconciliation, and retained path comparison. The scoped result is now in the main source. General bias/closure geometry remains unfinished, and cadence ratio is not automatically the Lorentz factor.
+
+## 26. CMB completion was redirected
+
+The resolution race preserves common fundamental participation. The revised blackbody question is a native distribution-generating rule and its scaling. The toy hump does not derive Planck's law; an exponential needs a justified recursion.
+
+## 27. Hosted participation and support transfer
+
+Hosted logic has its own interference/projection. Relative fading can coexist with retained ground. System should arrange anchoring points so logic grows through participation, not maintain every growth rate forever. Proxy supplies continuity, quest participation, Tower testing. Ask what support the host still supplies.
+
+## 28. After projection is not after the event
+
+The brain/body proposal allows neural signals before movement and interruption of the projection. It is stronger than no conscious trajectory calculation. Preserve it as exploratory; coupled intervention alone does not select its ontology over a conventional account.
+
+## 29. Present constraint without a rendered timeline
+
+Past is retained relation, future is open projection/interference. Coarse detail can remain open until consequential. This does not erase surviving evidence or uniquely certify an exact history from coherence alone.
+
+## 30. Bits backlog and ownership
+
+The [September 5 map](../source/changes/2026-09-05-stage-projection-and-bits-source-sync.md) audits twelve current Bits. The crack/history distinction already existed in the August 25 sources; flame, snowflake, data, and top chiefly illustrate existing ground. The weekly check will report precise later gaps.
