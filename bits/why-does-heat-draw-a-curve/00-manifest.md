@@ -3,7 +3,7 @@
 Title: **Why Does Heat Draw a Curve?**  
 Slug: `why-does-heat-draw-a-curve`  
 Prepared: 2026-09-06 Asia/Bangkok  
-Status: **package-ready**  
+Status: **article-ready**  
 Selection: User-selected continuation of the grain-comparison discussion.  
 Published:  
 Substack URL:
@@ -50,6 +50,9 @@ The exact geometric sum is available. The proposed native identification of its 
 - [Deduction and publication audit](05-preflight-deduction-audit.md)
 - [Comparison figure](reference/scale-comparison-and-planck.png)
 - [Figure reading notes](reference/README.md)
+- [Companion article](article/why-does-heat-draw-a-curve.md)
+- [Editorial hero](article/why-does-heat-draw-a-curve.webp)
+- [Calculated repeat-weight figure](article/repeat-weights-and-frequency-spectrum.png)
 
 The earlier comparison figure is a mathematical reference. It is not a finished editorial hero and should not be mistaken for a native derivation.
 
@@ -58,9 +61,24 @@ The earlier comparison figure is a mathematical reference. It is not a finished 
 NotebookLM source and audio prompt: ready.  
 Work prompt: ready.  
 Reference figure: available.  
-Audio: pending NotebookLM generation.  
-Companion article and editorial hero: pending Work build.  
+Audio: pending; no final audio file archived.  
+Companion article: ready; approximately 1,800 words, excluding captions and link destinations.  
+Editorial hero: ready; generated 1280×720 WebP with relative Markdown embed.  
+Explanatory figure: ready; exact calculation, 2240×1280 PNG, spectral measure and assumptions labelled.  
 Publication: not found in the inspected feed snapshot; no publication action performed.
+
+## Work completion and verification
+
+Completed: 2026-09-06 Asia/Bangkok.
+
+- Uses current spectrum semantics at `R20260906-0104-01`, including the exact conditional repeat sum and its unfinished native physical identification.
+- Establishes blackbody physics and real-material response before introducing the grain sweep. The half/quarter examples precede the exponential form.
+- Separates changes across the sweep from changes between repeats; variable repeat factors retain their products. Conventional `x = h nu/(k_B T)` and `x^3` are stated inputs.
+- Verified geometric sums at six local ratios, a varying-repeat counterexample, the finite-repeat low-frequency diagnostic, and matching frequency/wavelength integrals. The largest relative integration mismatch was below `4e-16` in the checked intervals.
+- Both image files decode correctly. The hero preserves one unchanged source; the calculated figure separates local sums from the frequency sweep. Captions and the CMB Article Slot are visible; no completed internal production notes remain in the article.
+- Image mode: built-in generation, with one targeted edit to keep the heating coil's pitch uniform. Final concept: one glowing source behind five transparent windows with progressively finer comparison marks, without labels or equations. The separate scientific figure uses deterministic plotting.
+- Publication checked before article production using repository snapshot `resource/substack-bits-podcast.rss`, blob `efadafb029ba18a672f57a2d5e45def05b0de0e5`: 32 items, newest Flame episode dated September 4, no heat-curve title match.
+- Post-draft check at 2026-09-05 18:39 UTC / 2026-09-06 01:39 +07:00: live proxy and upstream unavailable; snapshot still contains 32 items and no exact match. This fallback cannot exclude publication newer than its contents. Article-ready does not mean published.
 
 ## Semantic ownership
 

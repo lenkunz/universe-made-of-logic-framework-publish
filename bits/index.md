@@ -9,7 +9,7 @@ For topic duplication / conceptual overlap, use `source/internal/bits-topic-chec
 
 | Bit | Slug | Status | NotebookLM source | Audio prompt | Audio | Article | Image | Published | Substack URL |
 |---|---|---|---|---|---|---|---|---|---|
-| Why Does Heat Draw a Curve? | why-does-heat-draw-a-curve | package-ready | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |  |
+| Why Does Heat Draw a Curve? | why-does-heat-draw-a-curve | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |
 | Why Does a Spinning Top Fall Sideways? | why-does-a-spinning-top-fall-sideways | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |
 | What Is a Flame If Its Matter Never Stays? | what-is-a-flame-if-its-matter-never-stays | published | ✅ | ✅ | ⬜ | ✅ | ✅ | 2026-09-04 | https://soutame.substack.com/p/what-is-a-flame-if-its-matter-never |
 | Air Is Not Less Compute Than Stone | air-is-not-less-compute-than-stone | published | ✅ | ✅ | ⬜ | ✅ | ✅ | 2026-09-02 | https://soutame.substack.com/p/air-is-not-less-compute-than-stone |
@@ -23,7 +23,7 @@ For topic duplication / conceptual overlap, use `source/internal/bits-topic-chec
 | Why Does a Crack Turn? | why-does-a-crack-turn | published | ✅ | ✅ | ⬜ | ✅ | ✅ | 2026-08-25 | https://soutame.substack.com/p/why-does-a-crack-turn |
 | What If Reality Is the Dream That Learned to Anchor Dreams? | reality-the-dream-that-learned-to-anchor-dreams | published | ✅ | ✅ | ✅ | ✅ | ✅ | 2026-08-23 | https://soutame.substack.com/p/what-if-reality-is-the-dream-that |
 
-Publication dates are in Asia/Bangkok and use exact RSS matches. Asset checkmarks refer to files present in this repository; publication alone does not imply the audio was archived here. The new Bit's mathematical reference PNG is not marked as a completed editorial image.
+Publication dates are in Asia/Bangkok and use exact RSS matches. Asset checkmarks refer to files present in this repository; publication alone does not imply the audio was archived here. Image checkmarks require an editorial asset; a mathematical reference alone does not complete that stage.
 
 ## Status suggestions
 
