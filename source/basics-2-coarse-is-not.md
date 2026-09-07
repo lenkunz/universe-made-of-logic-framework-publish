@@ -2,11 +2,11 @@
 
 *Second of three foundational pieces. “Coarse” is one of the framework's most important words, and one of the easiest to accidentally turn into something the framework does not mean.*
 
-<!-- Revision: R20260905-2350-01 -->
-<!-- Updated: 2026-09-05 23:50 +07:00 -->
-<!-- Change: Clarifies present constraint versus apparent historical backfilling, and hosted participation versus visibility in a wider Stage. -->
-<!-- Semantic basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
-<!-- Supersedes: R20260825-1745-01 -->
+<!-- Revision: R20260907-RC-01 -->
+<!-- Updated: 2026-09-07 Asia/Bangkok -->
+<!-- Change: Clarifies recursive compartments, equal local R_all caps, retained inner participation, and scoped candidate applications. -->
+<!-- Semantic basis: source/changes/2026-09-07-recursive-compartments-and-relational-reach.md; current user correction -->
+<!-- Supersedes: R20260905-2350-01 -->
 
 ---
 
@@ -279,6 +279,14 @@ They are not synonyms in the ontology.
 
 ---
 
+## Coarse outside can remain active inside
+
+When an outer relation encounters AB as one, A's and B's supported relations can continue resolving at their own grains. AB can also project as a compartment in its own right. Coarse presentation is therefore compatible with ongoing inner participation, as well as with retained history that need not be replayed.
+
+The outer `R_all(AB↔C)` does not measure all activity inside AB. It bounds this encounter with C. Which inner distinctions must surface depends on what changes that encounter; the rest need not become an explicit description for C.
+
+Likewise, a body's visible outline does not by itself draw the boundary of all its consequential relations. Reach still requires support at the relation being asked. Visibility, active participation, and the sufficient conditions for consciousness remain different questions.
+
 ## Coarse is not a historical stage
 
 The framework also does not say:
@@ -427,3 +435,4 @@ The answer is where the arithmetic starts becoming strange.
 ---
 
 *Next: **Basics III — One and one make three.***
+

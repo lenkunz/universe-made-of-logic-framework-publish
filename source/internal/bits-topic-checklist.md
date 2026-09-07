@@ -170,6 +170,16 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 
 # Prepared but not published
 
+- [ ] **Does a Mind End at the Skin?**
+  - Status: **PREPARED / PACKAGE-READY**; user requested Bit plus source sync.
+  - Main question: how can inner relations and their compartment keep participating, and does a body's outline bound a conscious domain's relations?
+  - Framework hook: independent local `R_all` caps survive composition; AB brings its own projection and inherited bias to equally capped AB↔C.
+  - Distinct from Crowd/Mind's collective organization and Perception's successive reusable ground; owns active inner/composite participation and the body-boundary question.
+  - Boundaries: experience criterion unresolved; sound and atomic-direction mappings remain candidate; no personal-event evidence or demonstrated unknown channel.
+  - Package: `bits/does-a-mind-end-at-the-skin/`.
+  - Source sync: `R20260907-RC-01`; publication outputs remain downstream.
+
+
 - [ ] **Perception Is a Chain of Possibilities**
   - Status: **PREPARED / PACKAGE-READY**
   - Selection: explicitly requested from the current perception discussion.
@@ -290,4 +300,5 @@ Prefer a topic when it brings at least two of: a new external field or phenomeno
 Reject or hold when novelty is mostly a new metaphor, the same ordinary mechanism carries the episode, it is already prepared, or it substantially duplicates a high-overlap family.
 
 A brief older mention does not ban a dedicated Bit if the new piece has substantial independent research, a distinct central question, and a different payoff.
+
 

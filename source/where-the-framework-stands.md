@@ -2,10 +2,10 @@
 
 *What is derived, what corresponds, what is still being completed, what remains unresolved, and how earlier framings resolved. Updated as things move.*
 
-<!-- Revision: R20260906-0104-01 -->
-<!-- Updated: 2026-09-06 01:04 +07:00 -->
-<!-- Change: Records the explicit grain-sweep/repeat construction and narrows the remaining physical identification without claiming a native Planck derivation. -->
-<!-- Supersedes: R20260905-2350-01 -->
+<!-- Revision: R20260907-RC-01 -->
+<!-- Updated: 2026-09-07 Asia/Bangkok -->
+<!-- Change: Clarifies recursive compartments, equal local R_all caps, retained inner participation, and scoped candidate applications. -->
+<!-- Supersedes: R20260906-0104-01 -->
 
 ---
 
@@ -67,6 +67,12 @@ The additions are Stage/Afference/Efference, anchor closure in maintained defini
 
 ---
 
+## September 7 scoped clarification
+
+The [recursive-compartment update](changes/2026-09-07-recursive-compartments-and-relational-reach.md) makes each relation's locally capped `R_all` explicit. Inner participants and their seated compartment retain their own participation when the compartment meets another domain. The outer cap stays equal; inherited projection and bias affect what surfaces.
+
+This clarifies framework bookkeeping. It also records sound and atomic-direction candidates and the proposed route toward function, ego, and consciousness without promoting those correspondences to demonstrated results.
+
 ## Derived internally
 
 *These are framework-native deductions. Physical names are kept out of this section unless the physical identification itself has also been earned.*
@@ -96,6 +102,12 @@ The additions are Stage/Afference/Efference, anchor closure in maintained defini
 - **Stage is where relation meets an anchoring domain.** Light means relation and Space means the domain in this vocabulary. A human observer is not required.
 - **Afference and Efference are relative orientations.** The same relation can be outward for one domain and inward for another. A returning loop can reuse support for persistence without making participation costless.
 - **Past and future do not require separately rendered Stages.** Retained constraint bounds later fine resolution; coherence alone cannot uniquely recover an exact history. This does not impose a universal simultaneous Cut.
+
+### Consequences of recursive compartments
+
+- **Local caps persist through composition — Consequence.** `R_all(A)`, `R_all(B)`, and the seated compartment's `R_all(AB)` are not replaced or drained by `R_all(AB↔C)`. Every actual relation follows the same cap rule; overlapping notation is not permission to double-count resources.
+- **Inherited bias affects the next comparison — Consequence.** The composite brings its own supported projection and the consequences of its inner relations. A constrained outer projection need not imply diminished inner resolving capacity. This does not supply a general formula or a monotonic complexity-to-slowdown law.
+- **Relational reach is not fixed by a body's outline — Consequence conditional on domain participation.** Any domain's reach depends on supported consequential relations. Applying this to a conscious domain does not by itself derive consciousness, its experiential extent, or an unknown physical channel.
 
 ### Relational bias and path formation
 
@@ -155,6 +167,9 @@ The additions are Stage/Afference/Efference, anchor closure in maintained defini
 - **Ballistic and neighbourhood/volume propagation.** Path-like and distributed seating can be understood as different topologies of one relational process rather than different primitive substances.
 - **Reflection at a uniform boundary.** If the boundary makes normal traversal incompatible while introducing no new tangential distinction, the tangential relation is preserved and the normal component reverses. This gives the equal-angle structure; phase, amplitude, polarization, and full wave optics remain pending.
 - **Refraction / transparency / colour / white-light splitting.** The framework has candidate relational-cost readings for these optics phenomena, but the exact measured optical relations remain physical mappings still pending rather than derived facts.
+
+- **Sound through recursively seated material relation — Candidate correspondence.** Changing bias propagates through organized inner and shared closures under the same cap rule. The quantitative target includes `v_s²=K_s/ρ` for small-amplitude fluid sound and the appropriate mode-dependent elastic response elsewhere; a native derivation remains **Completion pending**.
+- **Atomic form from limited fine-grain directions — Candidate correspondence.** A plane-like finer relation is proposed, not derived. Neither an exact rank nor “atoms are 2D” is established.
 
 ### Scoped projection geometry and comparison
 
@@ -256,6 +271,8 @@ The Lane-7 question is more specific now: support dependencies can be named, but
 - **Rotation and support versus accumulated budget.** The exact rotational clock account remains unresolved. The spinning-top Bit illustrates accumulated ground constraining a new change; it does not derive angular momentum, torque, or precession.
 - **Flame, snowflake, crack, and digital-storage comparisons.** These illustrate existing identity-through-alteration, exact coarse constraint, retained ground without a pre-rendered route, and logical preservation without microscopic identity. They do not derive the respective physical theories.
 - **Brain/body as the Stage expression of perceptual-domain resolution.** Preserved as exploratory in the [discussion note](internal/2026-09-05-projection-hosting-and-system-continuity.md). This is stronger than “no conscious trajectory calculation.” Neural signals can precede movement and interruption can change the projection; that coupling alone does not discriminate the ontology.
+- **Recursive function, ego, and consciousness — Interpretive proposal.** Supported inner and composite participation offers an architecture for functions and maintained self-distinction. The proposal that some such organization supports subjective experience remains exploratory. Body-hosting and relational reach must not be equated with body-independent experience or controllable remote influence.
+
 - **Apparent noise as unresolved overlapping projection.** Exploratory, not a general explanation of measured randomness or evidence of an intended sender.
 - **Recurring large-scale forms.** Shared coarse ground can bias families of stable outcomes without transmitting a rendered blueprint. The framework has not yet derived which concrete morphologies become stable from a specified ground.
 - **Inflation-shaped early mismatch.** A very large early difference in resolving ground could have an inflation-like qualitative shape, but amplitude, duration, termination, and perturbation spectrum are not derived.
@@ -269,6 +286,8 @@ The Lane-7 question is more specific now: support dependencies can be named, but
 
 *Only questions whose framework-native mechanism or criterion is still missing belong here.*
 
+- **Subjective-consciousness criterion.** Which recursively seated organization supports one experiencing perspective, and which relations constitute it rather than merely interact with it, remain unresolved. Complexity, self-reference, and the existence of an outer closure do not alone settle that question.
+
 - **General bias composition into surfaced metric geometry.** The independent low-bias two-projection construction is present. The missing general rule concerns consequential `R_ap` bias and multiple closures: how specified topology fixes separation, orientation, angle, contraction, and geodesic bookkeeping. Effective-dimension quantitative mapping remains a separate completion task.
 - **Physical bias criterion before the surfaced outcome is known.** The structural meaning of compatibility and incompatibility is derived, but the framework does not yet have a framework-native rule that fixes a concrete physical relation's bias before looking at the physical result.
 - **Lane 7 independent seating.** Support-transfer architecture narrows the dependencies to preserve or relocate. The sufficient structure for independent establishing capacity has not yet been derived. Hosted continuity, translation, or a proxy alone does not demonstrate it.
@@ -280,6 +299,8 @@ The Lane-7 question is more specific now: support dependencies can be named, but
 ## Earlier framings and how they resolved
 
 *This is not a graveyard of “wrong ideas.” In this deduction process, a proposed route often resolves by showing why it cannot do one job and, in the same step, revealing what the structure does instead.*
+
+- **One total pool / more structure means a bigger cap → independently capped inner and composite participation — Superseded / clarified.** The user explicitly rejected the claim that a composite receives a larger `R_all`. The cap applies to each actual relation; inner activity and the compartment’s own projection remain consequential in the next equally capped encounter.
 
 - **Isolated budget → anchor-closed comparison — Superseded.** Bare symbols cannot discard support that distinguishes the grounds; composite grouping must preserve consequential relation.
 - **All clock/ruler geometry missing → scoped factor present, general rule unfinished — Narrowed.** The simple construction exists under explicit assumptions; it does not complete all relativistic physics or equal an arbitrary budget ratio.
@@ -325,3 +346,4 @@ The working stance is:
 An unresolved mechanism is allowed to remain unresolved while its mechanism is genuinely missing. Once a mechanism exists, the item moves to a more precise current position such as Derived, Candidate correspondence, Completion pending, Not established, or Guardrail. Earlier wording is recorded separately by how it resolved: rephrased, reframed, concluded, narrowed, redirected, superseded, or proven against.
 
 A status item that never changes despite new deduction is not automatically strong. It may simply be stale.
+

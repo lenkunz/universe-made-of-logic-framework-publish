@@ -2,9 +2,9 @@
 
 *A directory of the two views, level by level, with the surrounding framework articles kept in view. This is the map, not the territory.*
 
-<!-- Revision: R20260905-2350-01 -->
-<!-- Updated: 2026-09-05 23:50 +07:00 -->
-<!-- Change: Routes current Stage, closure, projection, hosted-System, clock/ruler/twin, and CMB deductions without promoting candidate mappings. -->
+<!-- Revision: R20260907-RC-01 -->
+<!-- Updated: 2026-09-07 Asia/Bangkok -->
+<!-- Change: Clarifies recursive compartments, equal local R_all caps, retained inner participation, and scoped candidate applications. -->
 <!-- Based on framework state: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
 <!-- Supersedes public/index source: the-index-of-the-framework (3).md -->
 
@@ -496,6 +496,7 @@ These are part of the current internal architecture:
 - **Budget is primitive resolving participation, not elapsed time, physical energy, or stress-energy.**
 - **Budget is compositional.** A relation that becomes a participant can carry already-compressed membership, so equal primitive participation can produce unequal effective work per iteration.
 - **Budget is finite per present relation but extensible relationally.**
+- **Each relation keeps its own local cap.** A, B, and seated AB retain their own participation when AB meets C. `R_all(AB↔C)` follows the same cap rule while inherited projection and bias change what surfaces. More composed support does not mean a larger primitive cap.
 - **Budget comparison is anchor-closed.** Keep every consequential supporting relation; common contributions can be omitted only without loss of distinction. Grouping stable composites must preserve the relation needed downstream.
 - **Re-seating cost concerns the existing relations a change makes consequential.** It is not simply a count of all relations inside the object.
 - **Stage is where relation meets an anchoring domain.** Light/Space name those roles; Afference/Efference are their domain-relative orientations, not new substances.
@@ -522,6 +523,7 @@ These are part of the current internal architecture:
 |---|---|
 | Stage, Light, Space, Afference, Efference | [Main source](a-universe-made-of-logic.md), resolution/Stage section |
 | Budget support and closure | [Basics I](basics-1-resolution-costs.md), [anchor-closure map](changes/2026-08-27-anchor-closure-and-relational-budget-comparison.md) |
+| Recursive compartments; function, ego, and conscious-domain reach | [September 7 map](changes/2026-09-07-recursive-compartments-and-relational-reach.md), [P-Lane](the-possibility-lane.md); subjective-consciousness criterion remains unresolved |
 | Scoped clock/ruler factor, receiver Cut, twin path | [Main source](a-universe-made-of-logic.md), clocks section |
 | Projection, interference, present constraint | [P-Lane](the-possibility-lane.md), Aim and budget sections |
 | Hosted logic, proxy, quest, Tower | [Lane/Rung bridge](the-lane-and-the-rung.md), hosted section |
@@ -607,3 +609,4 @@ If those four distinctions remain clear, the Index can keep growing without beco
 ---
 
 *The map should change when the framework changes. The territory does not owe the map its old labels.*
+

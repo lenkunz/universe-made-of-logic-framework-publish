@@ -2,11 +2,11 @@
 
 *Third of three foundational pieces. The first two established that distinction costs and that unresolved structure can remain real. This one asks what a relation itself adds.*
 
-<!-- Revision: R20260905-2350-01 -->
-<!-- Updated: 2026-09-05 23:50 +07:00 -->
-<!-- Change: Carries anchor closure into composed participation and separates growth of ground from availability of every prior continuation. -->
-<!-- Semantic basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
-<!-- Supersedes: R20260823-1421-01 -->
+<!-- Revision: R20260907-RC-01 -->
+<!-- Updated: 2026-09-07 Asia/Bangkok -->
+<!-- Change: Clarifies recursive compartments, equal local R_all caps, retained inner participation, and scoped candidate applications. -->
+<!-- Semantic basis: source/changes/2026-09-07-recursive-compartments-and-relational-reach.md; current user correction -->
+<!-- Supersedes: R20260905-2350-01 -->
 
 ---
 
@@ -139,6 +139,26 @@ A domain is not primitive stuff gathered into a bag.
 It is relational structure that has become stable enough to participate as one at the grain of another relation.
 
 ---
+
+## The compartment also participates
+
+A seated `A↔B` can act as one compartment `AB` while A and B continue participating through their own relations. Being coarse to another participant does not turn that interior into an inactive archive.
+
+There are distinct capped participations to keep in view:
+
+| Participation | What remains active |
+|---|---|
+| `R_all(A)`, `R_all(B)` | The supported inner participants, each under its own local cap |
+| `R_all(A↔B)`, abbreviated `R_all(AB)` once seated as one | Their compartment's own supported projection and constraint |
+| `R_all(AB↔C)` | The new comparison between that already-organized compartment and C |
+
+The last row follows the same cap rule. It receives a biased participant whose inner relations have not ceased to act. The compartment can preserve their distinct projections while supporting a further coarse projection of its own.
+
+This repeats wherever enough relation seats to participate again. The notation follows one grouping through a network; it is not a universal serial clock or a rule that every component must communicate through one top-level gate. Equivalent regrouping must preserve every consequential relation, and names alone do not manufacture extra seats.
+
+> **The whole can act as one while the relations making it one keep acting.**
+
+This supplies a structural route toward reusable functions and maintained identity. Whether a particular composition supports subjective experience is a further question; counting compartments does not answer it.
 
 ## Level 0 keeps recurring as a role
 
@@ -418,3 +438,4 @@ Everything later should either follow from these meanings without changing them,
 ---
 
 *The longer framework develops these consequences in **A Universe Made of Logic**, with the widening possibility-side account in **The Possibility Lane** and the level-by-level directory in **The Index of the Framework**.*
+

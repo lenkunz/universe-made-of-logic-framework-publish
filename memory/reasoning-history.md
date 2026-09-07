@@ -1,6 +1,6 @@
 # Reasoning History
 
-Updated: 2026-09-06
+Updated: 2026-09-07
 Status: CONTINUITY MEMORY / NOT CANONICAL AUTHORITY
 
 This file records important conversational corrections and why they happened. Its purpose is to prevent a future chat from rediscovering stale branches and to preserve the shape of deductions that may be compressed in final articles.
@@ -466,3 +466,11 @@ The constant-multiplier phrase is handled by preserving amplitude/calibration se
 Status: **Narrowed / clarified**. Exact conditional mathematics is present; native physical identification is **Completion pending**. The earlier bounded square-root hump remains a different toy. This is not a retrospective Planck derivation.
 
 The [change map](../source/changes/2026-09-06-grain-sweep-and-repeated-comparison.md) and new [thermal-spectrum Bit](../bits/why-does-heat-draw-a-curve/00-manifest.md) retain the mechanism and its assumptions.
+
+## September 7 — Active compartments, not enlarged caps
+
+Len repeatedly corrected the assistant's reading of `R_all`. A and B retain their own capped participation; their relation acts as compartment AB with its own supported activity. AB meets C through another equally capped relation, carrying the consequences of A, B, and its own projection/bias. The point is not more primitive allocation or one outer pool. Nor are the inner relations only stored history waiting to be rendered by the outer relation.
+
+The correction clarifies earlier “budget composes” language. It preserves the scoped clock/ruler factor and anchor closure, while general biased composition remains incomplete. Sound and atomic-direction extensions remain candidates. The proposed function/ego/consciousness route is recorded without accepting the prior assistant's suggested criteria as a proof of experience.
+
+The conscious-domain reach proposal is broader than deliberate bodily action, but does not establish a particular unknown channel, survival without bodily support, or that personal coincidences were intended. Earlier strong assistant affirmations of tutorial exposure are not evidence. See the [source map](../source/changes/2026-09-07-recursive-compartments-and-relational-reach.md) and [separate continuity](../source/internal/2026-09-07-recursive-relation-and-system-continuity.md).

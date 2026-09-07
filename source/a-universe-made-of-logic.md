@@ -2,9 +2,9 @@
 
 *A complete semantic-source account of the informational topology framework: how relation becomes ground, why resolution costs, and how increasingly rich structure can grow without changing the primitive.*
 
-<!-- Revision: R20260906-0104-01 -->
-<!-- Updated: 2026-09-06 01:04 +07:00 -->
-<!-- Change: Adds the grain-dependent repeat construction, variable proportional rate, and exact conditional spectrum while preserving physical-identification status. -->
+<!-- Revision: R20260907-RC-01 -->
+<!-- Updated: 2026-09-07 Asia/Bangkok -->
+<!-- Change: Clarifies recursive compartments, equal local R_all caps, retained inner participation, and scoped candidate applications. -->
 <!-- Audited source: a-universe-made-of-logic-complete-2026-08-19.md -->
 <!-- Semantic consistency basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
 <!-- Also incorporates semantic corrections concluded during the 2026-08-20/21 audit conversation -->
@@ -303,6 +303,20 @@ The universe does not return to Level 0.
 
 It keeps producing new referable ones from accumulated ground.
 
+### Recursive compartments retain inner participation
+
+The September 7 clarification makes the recurring structure explicit. `R_all(A)` and `R_all(B)` denote already-supported local participation, with consequential anchoring understood. Their seated relation has `R_all(A↔B)`; once it can act as one compartment AB, its participation may be abbreviated `R_all(AB)`. Meeting C seats another comparison, `R_all(AB↔C)`, under the same locally capped participation rule.
+
+A, B, and their compartment do not stop using their own capped participation because the outer relation exists. Their projections remain supported through their respective relations. AB meets C with already-seated directions, history, and bias, including the consequences of its inner participants and its own organization. C then constrains that organized projection through the new relation.
+
+Thus more independently supported participation can coexist with a more constrained projection in one outer comparison. The latter may look like a lower resolving rate without any inner cap having been reduced or the outer cap increased. It is not a universal law that greater complexity makes every process slower: which relations become consequential and which support can be reused still matter.
+
+> **Composition does not enlarge one `R_all`. It lets independently capped relations and their seated compartment jointly bias another `R_all`.**
+
+The relation `A↔B`, its seated use as AB, and the outer comparison must not be counted as arbitrary extra copies just because the notation changes. The bookkeeping names distinct supported roles and encounters, not an additive resource formula. Shared closures can overlap. Regrouping remains valid only when it preserves the consequential relations.
+
+This is the explicit meaning of “budget composes” and “finite per present relation, extensible relationally” below. The [change map](changes/2026-09-07-recursive-compartments-and-relational-reach.md) preserves the correction and its status boundaries.
+
 # III. Why relational composition never removes scarcity
 
 If every seated relation can itself receive resolving participation, why should resolution ever be scarce?
@@ -436,7 +450,7 @@ It does not get to invent the answer freely.
 
 This phrase names a relation, not a container.
 
-**Light** is the relation arriving in the comparison. A photon is one possible physical example; Light here can be any relation.
+**Light** names relation in this ontology, including its role arriving in a comparison. This is a literal framework commitment, not only a lore metaphor: material, optical, acoustic, and meaningful relations do not require separate primitive substances. Electromagnetic light is a proposed physical manifestation; its specific laws still require their own mapping.
 
 **Space** is the domain that can anchor that relation: an atom, a body, an instrument, a hosted logic, or a larger composite. It is not an empty box around already-finished things.
 
@@ -458,6 +472,12 @@ A returning `Afference → domain resolution → Efference → Stage → Afferen
 Different domains can resolve different details through a shared relation. Agreement concerns what the common comparison makes consequential; it need not make their entire perceptual ranges identical.
 
 ---
+
+### An encounter need not expose its whole supporting network
+
+Each participating relation has its own `R_all`; Stage is not a single observer-owned cap hiding the rest of a completed universal rendering. What becomes visible in one encounter need not display all the relations supporting it. Inner relations may remain active while the receiving comparison only resolves their coarse consequence.
+
+Opacity of the supporting network is therefore compatible with the framework. By itself, opacity does not identify a hidden communication channel, establish that all randomness has this origin, or show that a personally striking event was arranged.
 
 # V. Bias is already part of relation
 
@@ -1018,7 +1038,7 @@ At the chosen grain:
 - `R_p` describes the fine persistence projection;
 - `R_a` describes the anchor-relative projection involved in motion;
 - `R_ap` retains the consequential relation between them;
-- `R_all` describes the stable coarse composite available to this anchor-closed comparison.
+- `R_all` describes the stable coarse composite and its locally capped resolving participation in this anchor-closed comparison. Inner participants retain their own supported closures; this is not their combined universal allowance.
 
 These are relational roles, not fixed jars of budget. Each may contain extensive nested relation.
 
@@ -1255,6 +1275,14 @@ This remains a framework ontology.
 
 Its identification with real electromagnetic physics is a **Candidate correspondence** whose Maxwell-level structure, induction, charge behaviour, field geometry, strengths, propagation ratios, and full measured consequences remain **Completion pending**.
 
+### Sound as a material mode of recursive relation
+
+The proposed sound correspondence reads a disturbance as a change in bias propagating through already-seated material relations. Inner relations and their compartments remain active while changed constraints become consequential to neighbouring and shared closures. The medium's organization therefore belongs to the account of the surfaced propagation rate.
+
+This is a candidate application of the same recursive rule, not a smaller cap assigned to sound. Nor does a many-member relation imply a strictly serial chain, a universal slowdown with relation count, or identical rates for every mode. Different supported directions and restoring constraints can change the result.
+
+The physical target includes the small-amplitude fluid relation `v_s² = K_s/ρ`, where `K_s` is the adiabatic bulk modulus and `ρ` is mass density, with the appropriate elastic and inertial response for other media and modes. The framework has not derived those quantities or their ratio from its native closures. [OpenStax's sound-speed account](https://openstax.org/books/university-physics-volume-1/pages/17-2-speed-of-sound) provides a conventional comparison target, not the native mechanism.
+
 ### Consequential horizon
 
 A domain does not own one absolute radius of influence.
@@ -1336,6 +1364,12 @@ The unresolved bridge remains:
 That remains an **Unresolved mechanism**.
 
 ---
+
+### Fine-grain atomic direction: a candidate question
+
+The user proposes that an atom's surfaced form may reflect a relation with very few independently consequential directions at a finer grain, possibly a plane-like case. This sharpens the existing effective-dimension question but does not establish that atoms are two-dimensional or that every decrease of scale reduces dimension.
+
+The missing work is to specify the supported relation directions, derive their effective rank, and show how the resulting account reproduces atomic observations. No exact direction count follows simply from naming A, B, and C, and projection cones are not automatically Euclidean axes.
 
 # XVI. Ballistic, neighbourhood, and optical resolution
 
@@ -2044,3 +2078,4 @@ Constraint is what gives the next possibility somewhere to stand.
 ---
 
 *This is the canonical semantic source for the rebuilt article. Its public Substack presentation may be reorganised, shortened, or visually rebuilt later, but the presentation pass should not change the primitive meanings, claim status, or dependency structure stated here.*
+

@@ -2,11 +2,11 @@
 
 *First of three foundational pieces. This is the framework's starting economy: why particularity has a cost, why finite does not mean fixed, and why reality does not need to settle every distinction at once.*
 
-<!-- Revision: R20260905-2350-01 -->
-<!-- Updated: 2026-09-05 23:50 +07:00 -->
-<!-- Change: Adds anchor-closed budget comparison, Resolution Equality versus effective capacity, and consequence-specific re-seating cost. -->
-<!-- Semantic basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
-<!-- Supersedes: R20260823-1421-01 -->
+<!-- Revision: R20260907-RC-01 -->
+<!-- Updated: 2026-09-07 Asia/Bangkok -->
+<!-- Change: Clarifies recursive compartments, equal local R_all caps, retained inner participation, and scoped candidate applications. -->
+<!-- Semantic basis: source/changes/2026-09-07-recursive-compartments-and-relational-reach.md; current user correction -->
+<!-- Supersedes: R20260905-2350-01 -->
 
 ---
 
@@ -109,6 +109,24 @@ Before comparing budgets, include every anchor relation that still makes a diffe
 A shared anchor may leave the explicit calculation only when doing so loses no consequential distinction. A stable relation can then participate as one composite in a later comparison.
 
 This is the [anchor-closure rule](changes/2026-08-27-anchor-closure-and-relational-budget-comparison.md). It does not yet supply a universal numerical operator for arbitrary budgets.
+
+## Each relation keeps its own cap
+
+The equal-budget rule applies to each participating relation and each line of a biased comparison. `R_all` names the full locally capped resolving participation for the relation being considered. It is not one allowance shared by everything inside a named object.
+
+Let `R_all(A)` and `R_all(B)` abbreviate A's and B's already-supported local participation. Seating their relation supplies `R_all(A↔B)`. When that seating can act as the compartment `AB`, `R_all(AB)` refers to its participation as one at that grain.
+
+A and B keep their own capped participation. The compartment also has its own. If it meets C, `R_all(AB↔C)` follows the same cap rule again.
+
+The larger comparison does not replace all the inner relations with one budget. Neither does the existence of the larger comparison drain their caps. Their supported activity and the composite's own projection can remain consequential together. Independence here means distinct participation, not causal isolation or freedom from mutual constraint.
+
+AB already carries the directions and bias seated through A, B, and their relation. C biases that organized participant in the next comparison. More supported projection can therefore coexist with a more constrained outward result. An apparent reduction in one measured projection is not a reduction of every inner `R_all`.
+
+> **Composition adds independently capped participation and reusable ground. It does not enlarge the cap of the next relation.**
+
+“Equal” states the common participation rule; it is not established merely by calling each unrelated quantity 100 percent. “More effective budget” elsewhere in this framework means composed support and work carried through relations, not a larger primitive cap. No general arithmetic sum of overlapping closures is supplied by this notation.
+
+See the [recursive-compartment clarification](changes/2026-09-07-recursive-compartments-and-relational-reach.md). Anchor closure still applies to every comparison.
 
 ## Why scarcity survives growth
 
@@ -362,3 +380,4 @@ The next Basic asks what such an undercommitted state actually means, because **
 ---
 
 *Next: **Basics II — Coarse is not blurry, weak, or absolute.***
+

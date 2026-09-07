@@ -2,9 +2,9 @@
 
 *How much can remain open from the ground that already exists — the widening side of the framework.*
 
-<!-- Revision: R20260905-2350-01 -->
-<!-- Updated: 2026-09-05 23:50 +07:00 -->
-<!-- Change: Adds projection/interference, possibility-budget practice, and a candidate route from hosted participation to shared support. -->
+<!-- Revision: R20260907-RC-01 -->
+<!-- Updated: 2026-09-07 Asia/Bangkok -->
+<!-- Change: Clarifies recursive compartments, equal local R_all caps, retained inner participation, and scoped candidate applications. -->
 <!-- Audited source: the-possibility-lane-updated-2026-08-19.md -->
 <!-- Semantic consistency basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
 <!-- Also incorporates deductions concluded during the 2026-08-21 P-Lane audit conversation and 2026-08-25 retained-history clarification -->
@@ -445,6 +445,30 @@ Several projections can meet. Individually weak interference can become a strong
 Projection can change the situation being predicted: a domain's action becomes one of the constraints on the next outcome. That is different from selecting a completed future.
 
 A projection remains interruptible. Changing a bodily, environmental, or other supporting relation can change which continuation can seat.
+
+## The compartment brings its own projection
+
+In `AB↔C`, AB is already organized. A and B can each retain capped participation, their seated compartment can participate through its own `R_all(AB)`, and the encounter with C has its own equally capped `R_all(AB↔C)`. The inherited directions and the compartment's own bias constrain what can surface there. They are not all inactive contents waiting for the outer relation to execute them.
+
+“One budget, two questions” below means one kind of relational economy for possibility and resolution. It does not mean a single pooled cap for the whole nested topology. More composed support does not enlarge the primitive cap of any one relation.
+
+The user describes AB as already projecting two cone directions before C biases it further. Keep the independently supported directions consequential; do not turn the illustration into a universal two-axis geometry. The general rule for combining biased projections remains unfinished.
+
+## Function, ego, and the boundary of a conscious domain
+
+Recursively seated relations supply a candidate route from maintained organization to function, ego, and consciousness. A function can be a stable way in which input relations meet retained structure and constrain output. An ego can be explored as a maintained self-distinction through changing internal and external relations. Subjective consciousness is a further proposal: the framework has not derived which organization is sufficient for one experiencing perspective.
+
+Persistent identity, memory, integrated projection, and Aim are useful questions for that investigation. They are not established necessary-and-sufficient conditions, and neither complexity alone nor a Lane label certifies consciousness.
+
+If a conscious domain is such a composition, the framework gives its projection and interference no special termination rule at its body's surface. A body can be its dense local host while the domain participates through further supported relations. This applies without a human exception: a small animal's relation to food, habitat, or another animal is not excluded by its physical size. Whether a particular animal supports subjective experience is not settled by this bookkeeping.
+
+The stronger proposed scope includes hosted and shared relations whose full route is opaque to the local participant; it is not restricted in advance to consciously intended actions or explicit messages. Actual consequential coupling must still be supplied. Belonging to one origin does not establish a usable channel between arbitrary domains.
+
+> **The body's boundary does not automatically bound a conscious domain's relational participation. The conditions for its experience and the reach of any particular interaction remain questions to establish.**
+
+External participation also does not mean every related object becomes part of one subject. A participates with B while they can remain distinct. A functionally extended process, a maintained ego, and the scope of subjective experience must be assessed separately.
+
+See the [recursive-compartment map](changes/2026-09-07-recursive-compartments-and-relational-reach.md) and the [Does a Mind End at the Skin? dossier](../bits/does-a-mind-end-at-the-skin/02-notebooklm-source.md).
 
 ## Holding possibilities without resolving them all
 
@@ -1344,3 +1368,4 @@ It can begin from whatever ground has already learned how to stand.
 ---
 
 *This is the canonical semantic source for the rebuilt Possibility Lane article. Its public Substack presentation may later be reorganised, shortened, illustrated, or given article-card placements in Work, but the presentation pass should not change the Lane meanings, the hosted/independent distinction, the resolution-frontier architecture, the retained-history constraint, or the dependency structure stated here.*
+

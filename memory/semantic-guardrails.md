@@ -1,6 +1,6 @@
 # Semantic Guardrails
 
-Updated: 2026-09-06
+Updated: 2026-09-07
 Status: CONTINUITY MEMORY / NOT CANONICAL AUTHORITY
 
 Use this file to stop a new chat from silently importing familiar ontology back into the framework.
@@ -58,7 +58,7 @@ Budget is finite resolving capacity / relational participation, not:
 - elapsed universal time;
 - a fixed total cosmic allowance.
 
-Relational composition can make effective work per iteration differ enormously.
+Relational composition can make effective work per iteration differ enormously. Each participating relation keeps its own local cap: A, B, and their seated compartment AB remain active while `R_all(AB↔C)` follows the same cap rule. The compartment brings its own projection and inherited directions into that outer comparison. Do not convert composed capacity into an enlarged primitive cap, a universal outer pool, inactive inner history, or a universal complexity-to-slowdown law. Distinct participation does not mean causal isolation; overlapping closures are not freely additive.
 
 Do not convert “tick-like” into a universal external clock.
 
@@ -205,6 +205,10 @@ Do not resurrect Lane −1 / Rung −1 notation. It smuggles ordering into two c
 - Brain/body mirror means realization after projection, not an inert after-event record. Preserve the stronger proposal without treating it as established neuroscience.
 - Apparent noise and personal meaning do not themselves establish a sender or a cosmic control mechanism.
 
+## Recursive consciousness proposal
+
+Recursive active compartments supply a route to function and maintained identity and a candidate direction for consciousness. The experiential criterion is not derived. Memory, Aim, integration, and self-reference were assistant-suggested questions, not newly established axioms. A domain's relational scope is not fixed by skin; do not equate that with experiential scope, absorb every related object into the subject, or claim an unknown channel has been demonstrated. Preserve hosted/shared scope without inferring personal messages from coincidences. See the September 7 source map.
+
 ## Status guardrails
 
 Use current-position labels:
@@ -254,3 +258,4 @@ short strong statements after the dependency has been earned.
 Avoid academic fog, unnecessary jargon, and conventional terminology that changes the primitive meaning.
 
 When the user's wording is imprecise, preserve the structural distinction they are trying to make rather than polishing it into a different theory.
+

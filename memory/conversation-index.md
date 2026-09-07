@@ -14,6 +14,8 @@ Use this as a routing table when a future conversation says “we discussed this
 | CMB resolution race, native spectrum, blackbody, e | `source/a-universe-made-of-logic.md`, cosmology section | CMB Bit revision note; exact distribution remains unfinished |
 | proxy, quest, Tower, support transfer | `source/the-lane-and-the-rung.md`, hosted section | `source/the-possibility-lane.md` |
 | brain/body mirror, after projection, reaction = action | [discussion note](../source/internal/2026-09-05-projection-hosting-and-system-continuity.md) | exploratory status; not merely no conscious calculation |
+| recursive compartments, local R_all caps, AB meeting C, mind/body boundary | [September 7 map](../source/changes/2026-09-07-recursive-compartments-and-relational-reach.md) | inner and compartment participation remain active; experience criterion unresolved |
+| Event Encryption, opaque relation, tutorial mode | [September 7 continuity](../source/internal/2026-09-07-recursive-relation-and-system-continuity.md) | conditional design/interpretation, not evidence of personally directed events |
 | first Cut, `R_AA`, split/sync | `memory/current-context.md` | `source/basics-3-one-and-one-make-three.md`, `source/changes/relation-origin-and-composed-budget.md` |
 | Cut = resolution, resolved face/open face | `memory/current-context.md` | `source/changes/cut-resolution-and-open-remainder.md` |
 | Aim already topology | `memory/reasoning-history.md` §13 | `source/the-possibility-lane.md`, `source/where-the-framework-stands.md` |
@@ -59,3 +61,4 @@ Use this as a routing table when a future conversation says “we discussed this
 A new chat should normally search the most specific concept first, load only the files in that row, and expand outward only if the question requires deeper history.
 
 This index is allowed to become stale in wording, but it must never override the current semantic source or status ledger.
+

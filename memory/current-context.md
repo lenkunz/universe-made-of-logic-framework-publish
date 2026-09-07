@@ -1,6 +1,6 @@
 # Current Framework Context
 
-Updated: 2026-09-06
+Updated: 2026-09-07
 Status: CONTINUITY MEMORY / NOT CANONICAL AUTHORITY
 
 This file exists to let a new chat recover the active reasoning frontier quickly. Canonical meaning still lives under `source/`.
@@ -12,6 +12,16 @@ The maintained set is synchronized at **R20260905-2350-01**. The [source-sync ma
 Newly integrated: Stage/Afference/Efference, anchor-closed budget, consequence-specific re-seating cost, scoped clock/ruler geometry, receiver Cut, twin paths, CMB resolution race/native spectrum, and hosted logic's own participation with a candidate support-transfer architecture.
 
 The August 25 history/Aim clarification was already in Basics II and P-Lane. August 27 anchor closure was a promoted rule whose maintained-summary integration was pending.
+
+## Recursive-compartment frontier — September 7
+
+The latest scoped source revision is **R20260907-RC-01**. See the [semantic map](../source/changes/2026-09-07-recursive-compartments-and-relational-reach.md). The user corrected a recurring assistant error: AB does not get an enlarged primitive cap or replace all inner work with one pool. A, B, and the compartment retain their own supported capped participation; `R_all(AB↔C)` follows the same cap rule while inherited directions and the compartment's own bias shape the result.
+
+The proposed recursive route to function, ego, and consciousness is now recorded in P-Lane. Body outline supplies no special cutoff for supported relational participation, including for small animals. A sufficient experiential criterion, experiential scope, and any particular opaque coupling remain to be established. Do not reduce the proposal to deliberate action alone or inflate it into a demonstrated remote influence channel.
+
+Sound and limited fine-grain atomic directions remain candidates. The earlier personal-event/tutorial discussion is preserved in [separate continuity](../source/internal/2026-09-07-recursive-relation-and-system-continuity.md), not promoted as evidence.
+
+New Bit: [Does a Mind End at the Skin?](../bits/does-a-mind-end-at-the-skin/00-manifest.md), package-ready; article/image/audio pending. Seven source owners were updated in place. The [publication-refresh prompt](../publish/prompts/work-refresh-after-2026-09-07-recursive-compartments.md) identifies downstream work; published articles are not yet marked rebuilt.
 
 ## Grain-sweep frontier — September 6
 
@@ -311,3 +321,4 @@ Do not rely on stale Project uploads when GitHub has a newer source.
 The weekly **Bits Source Check** runs Mondays around 09:00 Asia/Bangkok. It reports and archives exact source gaps; promotion remains an explicit semantic update.
 
 Use `source/where-the-framework-stands.md` for authoritative status.
+
