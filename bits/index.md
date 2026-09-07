@@ -9,7 +9,7 @@ For topic duplication / conceptual overlap, use `source/internal/bits-topic-chec
 
 | Bit | Slug | Status | NotebookLM source | Audio prompt | Audio | Article | Image | Published | Substack URL |
 |---|---|---|---|---|---|---|---|---|---|
-| Perception Is a Chain of Possibilities | perception-is-a-chain-of-possibilities | package-ready | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |  |
+| Perception Is a Chain of Possibilities | perception-is-a-chain-of-possibilities | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |
 | Why Does Heat Draw a Curve? | why-does-heat-draw-a-curve | published | ✅ | ✅ | ⬜ | ✅ | ✅ | 2026-09-06 | https://soutame.substack.com/p/why-does-heat-draw-a-curve |
 | Why Does a Spinning Top Fall Sideways? | why-does-a-spinning-top-fall-sideways | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |
 | What Is a Flame If Its Matter Never Stays? | what-is-a-flame-if-its-matter-never-stays | published | ✅ | ✅ | ⬜ | ✅ | ✅ | 2026-09-04 | https://soutame.substack.com/p/what-is-a-flame-if-its-matter-never |
@@ -45,4 +45,3 @@ Use one of:
 Update this ledger when an episode changes production state.
 
 Do not use this file as semantic authority for the framework itself.
-

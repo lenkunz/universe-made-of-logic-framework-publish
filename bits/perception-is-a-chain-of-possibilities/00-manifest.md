@@ -4,7 +4,8 @@ Title: **Perception Is a Chain of Possibilities**
 Subtitle: *How an encounter becomes ground for another encounter.*  
 Slug: `perception-is-a-chain-of-possibilities`  
 Created: 2026-09-07 Asia/Bangkok  
-Status: **PACKAGE-READY**  
+Status: **article-ready**  
+Article build: 2026-09-07 Asia/Bangkok; article and image ready; audio pending.  
 Selection: User-requested continuation of the perception, magnifier, lakeside-house, hammer, and coarse-projection discussion.  
 Published: Not published in the checked feed.  
 Substack URL: Not assigned.
@@ -49,11 +50,11 @@ The user explicitly selected perception. The new payoff is recursive participati
 - [Work companion-article and image prompt](04-work-prompt.md)
 - [Deduction and publication audit](05-preflight-deduction-audit.md)
 
-Production targets, not yet generated:
+Production assets:
 
-- Article: `article/perception-is-a-chain-of-possibilities.md`
-- Editorial image: `article/perception-is-a-chain-of-possibilities.webp` or `.png`
-- Audio: `audio/perception-is-a-chain-of-possibilities.m4a`
+- Article ready: [Perception Is a Chain of Possibilities](article/perception-is-a-chain-of-possibilities.md), 1,750 body words excluding title, subtitle, image caption, and related-article slot.
+- Editorial image ready: [1280×720 WebP hero](article/perception-is-a-chain-of-possibilities.webp), embedded through a relative link with descriptive alt text and a visible caption.
+- Audio pending: `audio/perception-is-a-chain-of-possibilities.m4a`. The article stands alone; no transcript is required.
 
 ## Publication sync
 
@@ -62,6 +63,18 @@ The live proxy was attempted before selection. Web access returned an unavailabl
 The snapshot confirms **Why Does Heat Draw a Curve?** is published; its stale production-index row is corrected in this preparation. Audio archiving is still recorded independently of publication.
 
 The final publication recheck found the same snapshot and no publication match; its timestamp is recorded in the audit. Package creation does not publish to Substack. Transcript generation is optional.
+
+### Article-build recheck
+
+Checked again on **2026-09-07 at 17:47 Asia/Bangkok**, after preparing the article and image. The live proxy was unavailable. The freshly fetched repository snapshot reports **Mon, 07 Sep 2026 09:20:33 GMT** and contains 33 items; neither the title nor the new episode slug appears. The verified Stage handoff and existing Heat publication identity are preserved. Article readiness does not change the unpublished state.
+
+## Article build verification
+
+- Source and prompt baseline: `e51869ec1ad9027ce52afc8a0280bff40600f059`. The six package files and relevant maintained sources were checked against the current branch before the build commit.
+- Optical claims link to NASA and Nikon beside the claims. Engelbart's report supports the historical tool-and-method comparison. The house and hammer carry the framework deduction.
+- The article preserves asymmetric participation, M's contribution when grouping a receiving system, reserved coarseness, hosted participation, and the represented / established-for-reuse / independently-seated distinction. Gravity's quantitative mapping stays candidate; the writer–reader extension stays conditional and general.
+- Image mode: built-in generation. Final prompt concept: a well-used hammer and partially developed house plan on a workbench, with survey pegs, timber, and an undeveloped lakeside site beyond; restrained colours and clear depth, without text or a completed dream house. The generated 1672×941 original was mechanically fitted to the verified 1280×720 WebP delivery asset.
+- The image, relative embed, visible caption, Stage article slot, and absence of hidden production notes were checked. No audio, transcript, or separate Flow-prompt file was added.
 
 ## Semantic ownership
 
