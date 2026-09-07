@@ -1,6 +1,6 @@
 # Bits Production Index
 
-Updated: 2026-09-07
+Updated: 2026-09-08
 Status: ACTIVE PRODUCTION LEDGER
 
 This file tracks **production state** for Bits episodes.
@@ -9,8 +9,9 @@ For topic duplication / conceptual overlap, use `source/internal/bits-topic-chec
 
 | Bit | Slug | Status | NotebookLM source | Audio prompt | Audio | Article | Image | Published | Substack URL |
 |---|---|---|---|---|---|---|---|---|---|
+| They Wish for an Object, So They Get an Object | they-wish-for-an-object-so-they-get-an-object | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |
 | Does a Mind End at the Skin? | does-a-mind-end-at-the-skin | package-ready | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |  |
-| Perception Is a Chain of Possibilities | perception-is-a-chain-of-possibilities | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |
+| Perception Is a Chain of Possibilities | perception-is-a-chain-of-possibilities | published | ✅ | ✅ | ⬜ | ✅ | ✅ | 2026-09-07 | https://soutame.substack.com/p/perception-is-a-chain-of-possibilities |
 | Why Does Heat Draw a Curve? | why-does-heat-draw-a-curve | published | ✅ | ✅ | ⬜ | ✅ | ✅ | 2026-09-06 | https://soutame.substack.com/p/why-does-heat-draw-a-curve |
 | Why Does a Spinning Top Fall Sideways? | why-does-a-spinning-top-fall-sideways | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |
 | What Is a Flame If Its Matter Never Stays? | what-is-a-flame-if-its-matter-never-stays | published | ✅ | ✅ | ⬜ | ✅ | ✅ | 2026-09-04 | https://soutame.substack.com/p/what-is-a-flame-if-its-matter-never |
@@ -46,4 +47,3 @@ Use one of:
 Update this ledger when an episode changes production state.
 
 Do not use this file as semantic authority for the framework itself.
-

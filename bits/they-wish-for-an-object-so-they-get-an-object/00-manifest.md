@@ -4,11 +4,14 @@ Title: **They Wish for an Object, So They Get an Object**
 Subtitle: *The wish becomes a tool. The tool becomes a constraint. The answer arrives at that grain.*  
 Slug: `they-wish-for-an-object-so-they-get-an-object`  
 Created: 2026-09-07 Asia/Bangkok  
-Status: **package-ready / draft for author review**  
+Status: **article-ready**  
+Article build: 2026-09-08 Asia/Bangkok; article and image prepared; audio pending.  
 Selection: Explicitly requested by Len from the current Stage, uncertainty, and double-slit discussion.  
 Published: No matching episode in the checked publication snapshot.  
 Substack URL: Not assigned.  
-Repository baseline: `51071eeb74e53fe44b5f4a2788d1833cc1a80e56`.
+Package preparation baseline: `51071eeb74e53fe44b5f4a2788d1833cc1a80e56`.  
+Article build baseline: `602aee2660ae14eaa941be2e39a730d810b7b278`.  
+Repository integration baseline: `48c0d3a0d211dc960c2faefd59e1fbde6dbd5374`.
 
 ## Central question
 
@@ -50,7 +53,11 @@ This is an intentional measurement follow-up, not a claim that measurement has n
 - [Work article/image prompt](04-work-prompt.md) — ready.
 - [Deduction and publication audit](05-preflight-deduction-audit.md) — ready.
 
-Audio, companion article, editorial image, and Substack publication are later production stages. No transcript is required to prepare this package.
+- [Companion article](article/they-wish-for-an-object-so-they-get-an-object.md) — ready; 1,679 body words excluding title, subtitle, caption, and Article Slots.
+- [Editorial hero](article/they-wish-for-an-object-so-they-get-an-object.webp) — generated and verified as a 1280×720 WebP, embedded through a relative link with descriptive alt text and a visible caption.
+- Audio — pending; the written article stands alone. No transcript or separate Flow-prompt file was added.
+- Repository synchronization — article, image, manifest, and production-index update included in this build commit.
+- Substack publication — no matching episode in the checked feed.
 
 ## Publication sync
 
@@ -60,6 +67,24 @@ The same snapshot confirms that **Perception Is a Chain of Possibilities** was p
 
 The after-preparation check is recorded in the audit. Repository preparation does not publish an episode.
 
+### Article-build publication check
+
+The proxy was attempted before drafting and again after the article and image were prepared; it remained unavailable. The freshly fetched repository snapshot reports **Mon, 07 Sep 2026 16:43:36 GMT**, with **34 items**. The new title and slug are absent. Its Stage and Perception publication URLs match the article's visible handoffs.
+
+The production-index update adds this Bit's article-ready row and corrects Perception's confirmed publication date to **2026-09-07 Asia/Bangkok**, preserving its exact existing URL and independent audio-archive state.
+
+Before repository integration on **2026-09-08 Asia/Bangkok**, the proxy remained unavailable. The refreshed repository snapshot reports **Mon, 07 Sep 2026 17:47:52 GMT**, still with 34 items and no matching new episode. The prompt, source files, and existing target files remained unchanged from the reviewed package's baseline.
+
+## Article and image verification
+
+The article keeps the wish continuous with planning, construction, calibration, and measurement. It distinguishes an arrival record from which-path information, the requested kind of distinction from an individual result, and open detail from retained or erased history. Stage is the packaged consequence of both participants' possibilities. Hosted relations retain their own participation; local `R_all` is not an observer-owned global pool or a quantum probability formula.
+
+Hitachi's biprism experiment, Feynman's quantum account, and Englert's published abstract were checked through their primary sources. The article links them beside the claims they support. The quantitative completion paragraph identifies the probability distribution and its response to phase, geometry, detector coupling, and path distinguishability. No canonical source integration is included.
+
+Image mode: built-in generation. Final prompt concept: a carefully assembled receiving instrument on an optical bench, with an aperture, mounted lens, and recording surface carrying a few faint irregular marks; restrained laboratory lighting, clear physical support, and no labels, beams, or invented interference data. The generated 1672×941 original was mechanically fitted to the verified 1280×720 WebP. Its caption explicitly identifies the generic editorial illustration and illustrative marks.
+
+The actual image file, relative embed, visible caption, selected Article Slots, and absence of hidden production notes were checked. The article, image, manifest, and production-index changes are the four prepared repository paths. All read source and prompt blobs still matched the live branch at the final preparation check.
+
 ## Scope of this delivery
 
-The user's instruction is to make the Bit and leave source modification for later. This package preserves the new clarification locally in its dossier and audit. No canonical source, memory file, existing Bit, or production ledger has been edited. The earlier request to review before committing is retained; this is a reviewable package, with no repository commit made.
+The user's instruction leaves source modification for later. This article build preserves the clarification in the existing package and new article, with no canonical-source or memory-file changes. The completed article, image, and four-file patch were delivered for review before Len's follow-up request to proceed. This repository update carries forward those article and image assets, completes the production records, and does not publish to Substack.
