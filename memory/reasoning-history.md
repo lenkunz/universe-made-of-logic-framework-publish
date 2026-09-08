@@ -1,6 +1,6 @@
 # Reasoning History
 
-Updated: 2026-09-07
+Updated: 2026-09-08
 Status: CONTINUITY MEMORY / NOT CANONICAL AUTHORITY
 
 This file records important conversational corrections and why they happened. Its purpose is to prevent a future chat from rediscovering stale branches and to preserve the shape of deductions that may be compressed in final articles.
@@ -474,3 +474,21 @@ Len repeatedly corrected the assistant's reading of `R_all`. A and B retain thei
 The correction clarifies earlier “budget composes” language. It preserves the scoped clock/ruler factor and anchor closure, while general biased composition remains incomplete. Sound and atomic-direction extensions remain candidates. The proposed function/ego/consciousness route is recorded without accepting the prior assistant's suggested criteria as a proof of experience.
 
 The conscious-domain reach proposal is broader than deliberate bodily action, but does not establish a particular unknown channel, survival without bodily support, or that personal coincidences were intended. Earlier strong assistant affirmations of tutorial exposure are not evidence. See the [source map](../source/changes/2026-09-07-recursive-compartments-and-relational-reach.md) and [separate continuity](../source/internal/2026-09-07-recursive-relation-and-system-continuity.md).
+
+## September 8 — The warping is in perception
+
+Len returned the gravity branch to Stage. The first version said gravity warps length. The correction is that budget conditions the domain-relative resolution itself; length, duration, frequency, shape, and object-like form are Stage readouts of that package.
+
+This produced the inverse-chart distinction:
+
+`ordinary contracted Stage distance`
+
+↔ `compute-stretched relational coordinate`
+
+For the Apple–Earth relation, the proposed stretched coordinate loses the same relational amount per closure. A nonlinear return to ordinary Stage distance can make those equal deductions appear accelerated once a clock labels the steps. The recurrence is a mechanism sketch, not a completed gravity law.
+
+It also proved against using observed redshift/distance as primitive evidence for the relation's coarseness when those observations are themselves outputs of the proposed mapping.
+
+The same correction opened but did not complete several branches: anchor-relative fish-eye charts; resolution horizons; internally rich black-hole-like closures; galaxy/civilization mirror networks; dark matter as retained anchor history; and dark energy as pair-relative differential refinement. Retained trace is not saved budget. Civilization does not receive a larger cap and has no derived physical gravity mapping.
+
+Editorial resolution: preserve the entire branch in source, but publish gravity/perception first. Hold the black-hole and dark-sector synthesis until later rather than releasing both beside the gravity Bit.

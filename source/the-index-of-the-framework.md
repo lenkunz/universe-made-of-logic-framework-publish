@@ -2,9 +2,9 @@
 
 *A directory of the two views, level by level, with the surrounding framework articles kept in view. This is the map, not the territory.*
 
-<!-- Revision: R20260907-RC-01 -->
-<!-- Updated: 2026-09-07 Asia/Bangkok -->
-<!-- Change: Clarifies recursive compartments, equal local R_all caps, retained inner participation, and scoped candidate applications. -->
+<!-- Revision: R20260908-BWP-01 -->
+<!-- Updated: 2026-09-08 Asia/Bangkok -->
+<!-- Change: Routes the budget-warped perception correction and its scoped gravity, horizon, and dark-sector candidates. -->
 <!-- Based on framework state: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
 <!-- Supersedes public/index source: the-index-of-the-framework (3).md -->
 
@@ -524,6 +524,7 @@ These are part of the current internal architecture:
 | Stage, Light, Space, Afference, Efference | [Main source](a-universe-made-of-logic.md), resolution/Stage section |
 | Budget support and closure | [Basics I](basics-1-resolution-costs.md), [anchor-closure map](changes/2026-08-27-anchor-closure-and-relational-budget-comparison.md) |
 | Recursive compartments; function, ego, and conscious-domain reach | [September 7 map](changes/2026-09-07-recursive-compartments-and-relational-reach.md), [P-Lane](the-possibility-lane.md); subjective-consciousness criterion remains unresolved |
+| Budget-warped perception; Apple–Earth gravity; horizon and dark-sector branches | [September 8 map](changes/2026-09-08-budget-warped-perception-gravity-and-cosmology.md), [Main source](a-universe-made-of-logic.md), scale/gravity/dark-sector sections |
 | Scoped clock/ruler factor, receiver Cut, twin path | [Main source](a-universe-made-of-logic.md), clocks section |
 | Projection, interference, present constraint | [P-Lane](the-possibility-lane.md), Aim and budget sections |
 | Hosted logic, proxy, quest, Tower | [Lane/Rung bridge](the-lane-and-the-rung.md), hosted section |
@@ -538,7 +539,7 @@ These are not primitive commitments merely because the Index mentions them.
 Internal persistence commitment and the cost of re-seating a domain provide a candidate architecture for mass-like and inertia-like bookkeeping. The numerical mapping to physical mass remains incomplete.
 
 **Gravity-like motion**  
-Differential contraction and re-seating of separation provide a candidate force-free architecture. Full quantitative correspondence to general relativity remains incomplete.
+Budget constrains the Stage resolution of an anchor relation; contraction is one surfaced chart rather than the primitive operation. The Apple–Earth candidate uses equal deductions in a compute-stretched coordinate whose nonlinear Stage map can look accelerated. The map, closure-to-clock relation, inverse-square limit, and full correspondence to general relativity remain incomplete.
 
 **Clock differences**  
 Anchor-closed comparison keeps a selected persistence loop separate from total resolving capacity. The simple independent, low-bias projection construction gives `q = sqrt(1 - v²/c²)` under the proposed physical identification. Receiver-Cut reconciliation and retained path comparison extend the mechanism's description. General biased geometry, the full relativistic mapping, and gravity remain incomplete; an arbitrary budget ratio is not already `q`.
@@ -547,16 +548,19 @@ Anchor-closed comparison keeps a selected persistence loop separate from total r
 Lane-1 / Lane-2 directional and bias architecture provides candidate ground for EM-like structure, magnetic polarity, reflection, and propagation. Maxwell-level mapping remains incomplete.
 
 **Dark matter**  
-Coarse relational coverage is a candidate interpretation for a contribution that can remain topologically consequential while being unavailable at collision grain. Required halo magnitude and overlap magnitude remain incomplete.
+Coarse relational coverage and retained spatial/anchor history are compatible candidates for a contribution that remains consequential while its detailed source is unavailable at the receiving grain. Retained trace means seated constraint, not banked `R_all`. Required lensing geometry, halo magnitude, and overlap magnitude remain incomplete.
 
 **Dark-energy-like expansion**  
-Differential contraction between differently seated grounds remains a candidate interpretation, not a derived cosmological equation.
+Differential refinement between differently seated grounds may surface as pair-relative scale, duration, or wavelength change. It belongs to `A↔B`, not an isolated galaxy. Civilization-driven refinement is an exploratory contributor without a derived physical bridge. No cosmological equation or observed anisotropy pattern has been reproduced.
 
 **Matter states and propagation regimes**  
 Vacuum, gas, liquid, and solid are not Lane numbers. They may be different organizations of persistence in one relational ground through which several Lane relations operate simultaneously. Boundaries and environmental support belong in the closure; pressure and phase laws remain quantitative mapping tasks.
 
 **CMB and redshift**  
-The resolution-race candidate compares fine nested growth with a continuing, more slowly fine-resolving background under equal fundamental participation. The revised question is the native rule generating the measured spectrum and its cross-ground scaling. A toy peaked curve is not Planck's law; redshift–temperature and anisotropy relations remain pending.
+The resolution-race candidate compares fine nested growth with a continuing, more slowly fine-resolving background under equal fundamental participation. Length, frequency, and duration are Stage readouts of the compared relation, so none can be reused as untouched primitive distance evidence. The revised question is the native rule generating the measured spectrum and its cross-ground scaling. A toy peaked curve is not Planck's law; redshift–temperature and anisotropy relations remain pending.
+
+**Black-hole / horizon branch**
+Every encounter has a grain-relative resolution horizon, but that is not automatically a physical black-hole event horizon. An externally simple massive closure hosting richer internal topology is an exploratory possibility. Closed loops, internally ordinary clocks, safe entry, interior worlds, and singularity avoidance are not established.
 
 **Nuclear, astronomical, biological, and higher-order mappings**  
 These remain candidate correspondences unless the status page explicitly promotes a narrower result.
@@ -609,4 +613,3 @@ If those four distinctions remain clear, the Index can keep growing without beco
 ---
 
 *The map should change when the framework changes. The territory does not owe the map its old labels.*
-

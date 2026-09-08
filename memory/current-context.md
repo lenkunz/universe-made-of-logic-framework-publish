@@ -1,6 +1,6 @@
 # Current Framework Context
 
-Updated: 2026-09-07
+Updated: 2026-09-08
 Status: CONTINUITY MEMORY / NOT CANONICAL AUTHORITY
 
 This file exists to let a new chat recover the active reasoning frontier quickly. Canonical meaning still lives under `source/`.
@@ -22,6 +22,18 @@ The proposed recursive route to function, ego, and consciousness is now recorded
 Sound and limited fine-grain atomic directions remain candidates. The earlier personal-event/tutorial discussion is preserved in [separate continuity](../source/internal/2026-09-07-recursive-relation-and-system-continuity.md), not promoted as evidence.
 
 New Bit: [Does a Mind End at the Skin?](../bits/does-a-mind-end-at-the-skin/00-manifest.md), package-ready; article/image/audio pending. Seven source owners were updated in place. The [publication-refresh prompt](../publish/prompts/work-refresh-after-2026-09-07-recursive-compartments.md) identifies downstream work; published articles are not yet marked rebuilt.
+
+## Budget-warped perception / gravity frontier — September 8
+
+The latest scoped semantic revision is **R20260908-BWP-01**. See the [change map](../source/changes/2026-09-08-budget-warped-perception-gravity-and-cosmology.md) and [editorial continuity](../source/internal/2026-09-08-gravity-first-cosmology-continuity.md).
+
+The governing correction is that budget does not first warp an independently completed length. Relation resolves through its locally supported ground, and Stage packages the result as length, duration, frequency, shape, or perception. Contraction and compute-stretch are inverse charts of the same relation.
+
+The Apple–Earth candidate writes `U_(n+1)=U_n-ΔR_AE` in an Earth-anchored stretched coordinate, with ordinary distance `r_n=F_E^(-1)(U_0-nΔR_AE)`. Equal relational deductions may surface as acceleration under a nonlinear map. This does not yet derive `F_E`, constant physical acceleration, inverse-square gravity, or strong-field geometry.
+
+Preserved side branches: an anchor-relative fish-eye / inside-sphere chart without an objective centre; resolution horizon versus physical black-hole event horizon; externally simple massive closure with possible richer internal topology; galaxies/civilizations as scaled relational mirrors; dark matter as coarse coverage and/or retained anchor history; dark energy as pair-relative differential refinement. Interior universes, safe black-hole entry, civilization-driven physical gravity, and a quantitative dark-sector replacement remain not established.
+
+Publication order is explicit: gravity/perception first, working title **The Apple Falls the Same Relational Distance Every Time**. Hold the black-hole/civilization branch and **Dark Matter Is the Trace; Dark Energy Is the Difference** until later. Saving these deductions in GitHub is not public deployment.
 
 ## Grain-sweep frontier — September 6
 
@@ -213,18 +225,18 @@ Twin paths accumulate relation. Turning changes orientation; reunion compares re
 
 ## Gravity candidate
 
-Framework-native language should prefer differential contraction / co-shrink / re-seating of separation over force/pull language.
+Framework-native language should prefer budget-conditioned Stage resolution / compute-stretched distance / re-seating of separation over force/pull language. Contraction and co-shrink remain surfaced-chart shorthand.
 
 Current candidate route:
 
 `dense relational composition`
 → `more effective resolving work per relational iteration`
-→ `stronger shared anchoring / co-shrink capacity`
+→ `stronger shared anchoring / relational bias`
 → `larger coarse gravity-like surface`
 
 Status: candidate correspondence / completion pending.
 
-Missing step: explain formally why additional relational throughput specifically couples to contraction rather than generic resolution, and then reproduce measured gravity quantitatively.
+Missing step: specify why additional relational throughput selects the Apple–Earth continuation, derive the stretched/Stage map, and reproduce measured gravity quantitatively.
 
 Do not equate semantic meaning with measured gravitational mass without a mapping.
 
@@ -321,4 +333,3 @@ Do not rely on stale Project uploads when GitHub has a newer source.
 The weekly **Bits Source Check** runs Mondays around 09:00 Asia/Bangkok. It reports and archives exact source gaps; promotion remains an explicit semantic update.
 
 Use `source/where-the-framework-stands.md` for authoritative status.
-

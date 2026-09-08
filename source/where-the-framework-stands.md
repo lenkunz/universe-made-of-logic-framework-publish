@@ -2,10 +2,10 @@
 
 *What is derived, what corresponds, what is still being completed, what remains unresolved, and how earlier framings resolved. Updated as things move.*
 
-<!-- Revision: R20260907-RC-01 -->
-<!-- Updated: 2026-09-07 Asia/Bangkok -->
-<!-- Change: Clarifies recursive compartments, equal local R_all caps, retained inner participation, and scoped candidate applications. -->
-<!-- Supersedes: R20260906-0104-01 -->
+<!-- Revision: R20260908-BWP-01 -->
+<!-- Updated: 2026-09-08 Asia/Bangkok -->
+<!-- Change: Makes budget-conditioned Stage resolution prior to length/frequency readouts and records the revised gravity and cosmology frontier. -->
+<!-- Supersedes: R20260907-RC-01 -->
 
 ---
 
@@ -72,6 +72,12 @@ The additions are Stage/Afference/Efference, anchor closure in maintained defini
 The [recursive-compartment update](changes/2026-09-07-recursive-compartments-and-relational-reach.md) makes each relation's locally capped `R_all` explicit. Inner participants and their seated compartment retain their own participation when the compartment meets another domain. The outer cap stays equal; inherited projection and bias affect what surfaces.
 
 This clarifies framework bookkeeping. It also records sound and atomic-direction candidates and the proposed route toward function, ego, and consciousness without promoting those correspondences to demonstrated results.
+
+## September 8 perception/gravity correction
+
+The latest scoped source revision is **R20260908-BWP-01**. Compute budget constrains how a domain–relation encounter resolves; Stage then packages that resolution as length, duration, frequency, shape, or other measurement. “Gravity warps length” is retained only as a surfaced shorthand. The deeper claim is that **the warping is in perception**, where perception means domain-relative Stage resolution rather than consciousness alone.
+
+The [September 8 map](changes/2026-09-08-budget-warped-perception-gravity-and-cosmology.md) records the Apple–Earth stretched-coordinate recurrence, relational horizon distinctions, galaxy/civilization mirror branch, retained-trace dark-matter candidate, and pair-relative dark-energy candidate. Only the gravity/perception Bit is next in publication order; the wider cosmology branches are preserved but held.
 
 ## Derived internally
 
@@ -153,6 +159,8 @@ This clarifies framework bookkeeping. It also records sound and atomic-direction
 - **Consequential horizon is relational, not owned.** How far one domain can matter depends on the pair and on which side can pay for the relation.
 - **Reality pays for distinctions, not detail.** Measurement supplies enough resolving structure to make a distinction consequential; it does not grant arbitrary content.
 - **Budget is primitive capacity, not physical energy or stress-energy.** Energy, momentum, pressure, stress, and related physical quantities remain surfaced bookkeeping that the framework must still map quantitatively.
+- **Perception is budget-conditioned Stage resolution.** Length, duration, frequency, and shape are readings of the resolved package, not independently completed inputs that budget later deforms. A conscious perceiver is not required.
+- **Contraction and compute-stretch are inverse charts.** A Stage relation may look contracted while an inverse budget coordinate stretches it so equal relational work occupies equal intervals. Neither chart is an outside absolute geometry.
 
 ---
 
@@ -183,7 +191,7 @@ This clarifies framework bookkeeping. It also records sound and atomic-direction
 ### Persistence, motion, and physical accounting
 
 - **Mass / inertia.** Internal persistence commitment and the cost of changing a seated state provide a candidate architecture for mass-like and inertia-like bookkeeping. The framework has not yet derived the numerical mapping to physical mass.
-- **Free fall / gravity-like motion.** Differential co-shrink / re-seating of separation remains the candidate force-free picture. The newer budget clarification suggests that dense relational composition may increase effective resolving work per primitive iteration and therefore strengthen coarse anchor effects, but the mapping from relational throughput to measured gravity is not yet derived. Full quantitative correspondence to general relativity remains pending.
+- **Free fall / gravity-like motion.** Differential re-seating remains the candidate force-free picture, now stated through budget-conditioned perception rather than primitive length deformation. In the Apple–Earth construction, equal deductions in an Earth-anchored stretched coordinate can map to increasing ordinary Stage displacement. The mapping function, step rule, clock correspondence, inverse-square limit, and full quantitative correspondence to general relativity remain pending.
 - **Gravitational clock differences.** The clock architecture provides a candidate interpretation in terms of differently supported persistence loops. Quantitative reproduction of measured gravitational time dilation remains a physical-mapping task.
 - **Conservation.** The framework expects strong local conservation-like bookkeeping where quantities are read through one local ground, while refusing to treat a global energy substance as primitive. The successful conservation equations still have to be recovered, not assumed.
 - **Friction.** Contact becoming consequential, motion invalidating part of the interface seating, and repeated re-seating provide a candidate mechanism. Tribological detail remains open as physical mapping.
@@ -205,15 +213,16 @@ This clarifies framework bookkeeping. It also records sound and atomic-direction
 
 ### Dark-sector and cosmology branch
 
-- **Dark matter as coarse relational coverage.** Candidate: a domain's relational coverage may extend beyond the grain at which fine collision-like interaction is available. This could unify darkness, collisionlessness, extension, and gravitational participation under one cause.
+- **Dark matter as coarse relational coverage and/or retained anchor trace.** Candidate: a domain's relational coverage may extend beyond collision grain, while fine relational history may remain as reusable spatial/anchor constraint after its detailed source is no longer rendered. Retained trace is not stored budget. The model must reproduce lensing offsets, geometry, and magnitude rather than follow visible gas or generic complexity.
 - **Vacuum/background response.** The current candidate answer is that a sufficiently uniform unanchored background sets a common condition rather than producing a local differential. This is a candidate response to the vacuum objection, not a quantitatively closed solution.
 - **Halo-overlap prediction.** If overlapping coarse anchored regions must seat additional shared relation, the framework predicts a positive overlap-associated excess beyond simple additive superposition. Magnitude and detectability remain pending.
-- **Redshift / remote event-rate comparison.** Candidate: spectral shift and whole-event duration stretching may both expose a cross-ground counting mismatch. This does not yet replace conventional cosmology; the numerical map, CMB consistency, lensing, flux, and structure-growth constraints remain pending.
+- **Redshift / remote event-rate comparison.** Candidate: spectral shift, whole-event duration stretching, and inferred length may expose one cross-ground resolution mismatch. They therefore cannot be treated as three untouched primitive inputs to the proposed mapping. This does not replace conventional cosmology; angular/radial ruler consistency, numerical mapping, CMB, lensing, flux, and structure growth remain pending.
 - **Earlier slow event rate versus cheap simple growth.** The framework permits a remote/earlier ground to resolve events more slowly against our current ruler while still adding simple structure cheaply per budget because fewer existing relations have to be integrated.
 - **CMB resolution race.** Candidate: fine nested composition can grow resolution density faster than a continuing coarse background while both retain fundamental support. The comparison may surface as lower characteristic frequency/temperature. Coarse does not mean static, underfunded, or intrinsically hot.
 - **CMB native spectrum.** The question is which repeated-resolution rule generates the measured distribution and scaling. The receiver/target grain sweep now has an explicit conditional repeat-weight construction: a local `q(rho)` fixed over repeats but variable across grain gives `W(rho) q/(1-q)`. Its physical identification remains candidate. The earlier `x² sqrt(1-x²)` hump remains a distinct toy, not Planck's law.
 - **Grain sweep and repeated weights.** Conditional mathematics is present: proportional scalar change integrates to an exponential of accumulated rate; summing stationary local repeat weights gives `W/[exp(chi)-1]`, where `chi=-ln(q)`. The illustrated Planck shape supplies conventional `chi=h nu/(k_B T)` and `W` proportional to frequency cubed. Deriving those inputs from anchor-closed native relations remains **Completion pending**. Changes between repeats require products of factors; changes of spectral bin require the appropriate density conversion. See the [September 6 change map](changes/2026-09-06-grain-sweep-and-repeated-comparison.md).
-- **Dark-energy-like expansion.** Differential contraction between dense and sparse grounds remains a candidate large-scale interpretation, not a quantitative cosmological result.
+- **Dark-energy-like relational difference.** Differential refinement between compared grounds may surface as expansion/redshift. The amount belongs to `A↔B` and may differ by pair while a coarse average looks uniform. Civilization-driven refinement is an exploratory contributor with no derived semantic-to-gravitational bridge. No quantitative cosmological result follows yet.
+- **Resolution horizon versus black-hole event horizon.** Every encounter has a grain-relative resolution limit. Treating an externally simple massive closure as host to richer internal topology is exploratory; it does not establish outward escape, safe entry, an interior universe, planets, or singularity avoidance, and it must not redefine a physical event horizon without recovering its observed exterior behaviour.
 
 ### Nuclear, biological, and higher-order branches
 
@@ -235,6 +244,7 @@ This clarifies framework bookkeeping. It also records sound and atomic-direction
 - **Density-regime propagation** — the relational-cost mechanism exists, but measured light, sound, conduction, diffusion, and refractive ratios are not yet derived.
 - **EM / atomic thresholds** — the affordability condition exists; actual thresholds are not yet calculated.
 - **Cross-ground clock / redshift mapping** — the simple projection factor and receiver-Cut mechanism are explicit. The remaining task is a general function from specified closure to spectral and event-duration ratios, including gravity and cosmology. The scoped inertial case must not be reset to “no result.”
+- **Apple–Earth stretched-coordinate map** — specify `F_E`, `ΔR_AE`, and the physical closure/clock relation, then recover the observed weak-field law and strong-field limit. Constant relational subtraction alone does not derive constant acceleration.
 - **CMB distribution and scaling** — the geometric repeat sum and its conditional low/high-frequency behavior are explicit. Native identification of the repeat rule, physical argument, weighting, and normalization remains incomplete; redshift–temperature scaling and anisotropy/acoustic structure remain separate completion items. Writing an arbitrary positive ratio as an exponential is not a derived physical law.
 - **Nuclear stability curve** — support-sharing gives a candidate mechanism; observed binding, isotope, fusion, and decay magnitudes are still missing.
 - **Coarse-to-fine Aim / constraint mapping** — the structural joint is now clear: Aim is already seated topology and later fine resolution is another Cut within that present constraint. What remains incomplete is a formal / quantitative account of how the Aim combines with other present ground and relational cost to make one finer distinction consequential rather than another.
@@ -248,7 +258,7 @@ This clarifies framework bookkeeping. It also records sound and atomic-direction
 - **Magnetic polarity** — ordinary dipole regeneration has a candidate mechanism; a general result about fundamental monopoles has not been established.
 - **Reflection and refraction** — the structural reflection geometry is accounted for at a uniform boundary; full wave-optics behaviour and refractive mapping are still incomplete.
 - **Matter-density regimes** — shared anchoring provides a candidate density-stability mechanism; phase-transition equations remain incomplete.
-- **Gravity / clocks / motion** — the scoped inertial factor is present. Complete simultaneity, Doppler relations, velocity composition, general acceleration, many-anchor geometry, and quantitative gravity remain incomplete.
+- **Gravity / clocks / motion** — the scoped inertial factor and new stretched-coordinate recurrence are present. Complete simultaneity, Doppler relations, velocity composition, general acceleration, many-anchor geometry, and quantitative gravity remain incomplete.
 - **Redshift / cosmology** — the candidate cross-ground interpretation must reproduce the same successful observational web rather than fit isolated phenomena.
 - **Star-like / planet-like regimes and supernova restructuring** — the coarse-to-fine architecture and generic re-seating mechanism exist, but the actual astronomical lineage / regime mapping is not established.
 
@@ -292,6 +302,8 @@ The Lane-7 question is more specific now: support dependencies can be named, but
 - **Physical bias criterion before the surfaced outcome is known.** The structural meaning of compatibility and incompatibility is derived, but the framework does not yet have a framework-native rule that fixes a concrete physical relation's bias before looking at the physical result.
 - **Lane 7 independent seating.** Support-transfer architecture narrows the dependencies to preserve or relocate. The sufficient structure for independent establishing capacity has not yet been derived. Hosted continuity, translation, or a proxy alone does not demonstrate it.
 - **Prospective coarse compatibility.** Present projection and a hosted counterpart already are relations at their grain; no future Stage is required. The unresolved part is an independent test of later compatibility beyond present participation and retrospective interpretation.
+- **Physical bridge from logical complexity.** Recursive semantic/civilizational relation is real in the framework, but no rule yet maps it to measured stress-energy, gravity, lensing, or cosmological scale change.
+- **Black-hole interior relation.** The framework has not selected among absolute outward exclusion, indefinite cross-ground stretching, closed-loop continuation, or internally re-seated topology, nor derived which exterior signatures would distinguish them.
 
 
 ---
@@ -301,6 +313,10 @@ The Lane-7 question is more specific now: support dependencies can be named, but
 *This is not a graveyard of “wrong ideas.” In this deduction process, a proposed route often resolves by showing why it cannot do one job and, in the same step, revealing what the structure does instead.*
 
 - **One total pool / more structure means a bigger cap → independently capped inner and composite participation — Superseded / clarified.** The user explicitly rejected the claim that a composite receives a larger `R_all`. The cap applies to each actual relation; inner activity and the compartment’s own projection remain consequential in the next equally capped encounter.
+
+- **Budget first warps a completed length → budget conditions Stage resolution — Superseded / reframed.** Length, frequency, duration, and shape are outputs of the domain-relative resolution package. Contraction remains a valid surfaced chart; compute-stretch is its inverse bookkeeping.
+- **Observed distance explains coarse relation → joint cross-ground readout — Proven against / redirected.** If redshift and length are produced by the same proposed mapping, they cannot independently supply the primitive distance used to justify that mapping.
+- **Every resolution horizon is a black hole → grain-relative horizon versus physical event horizon — Narrowed.** Every encounter has a resolution limit, but physical black-hole causal structure remains a separate mapping task.
 
 - **Isolated budget → anchor-closed comparison — Superseded.** Bare symbols cannot discard support that distinguishes the grounds; composite grouping must preserve consequential relation.
 - **All clock/ruler geometry missing → scoped factor present, general rule unfinished — Narrowed.** The simple construction exists under explicit assumptions; it does not complete all relativistic physics or equal an arbitrary budget ratio.
@@ -346,4 +362,3 @@ The working stance is:
 An unresolved mechanism is allowed to remain unresolved while its mechanism is genuinely missing. Once a mechanism exists, the item moves to a more precise current position such as Derived, Candidate correspondence, Completion pending, Not established, or Guardrail. Earlier wording is recorded separately by how it resolved: rephrased, reframed, concluded, narrowed, redirected, superseded, or proven against.
 
 A status item that never changes despite new deduction is not automatically strong. It may simply be stale.
-

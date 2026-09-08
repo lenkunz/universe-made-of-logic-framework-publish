@@ -23,6 +23,8 @@ Future semantic revisions should update these stable filenames **in place**. Rev
 
 Latest scoped extension: **R20260906-0104-01 / 2026-09-06 01:04 +07:00**. The [grain-sweep note](changes/2026-09-06-grain-sweep-and-repeated-comparison.md) adds a conditional repeat-weight construction to the main spectrum section and status ledger. The remaining maintained sources retain the full-set checkpoint above.
 
+Latest semantic correction: **R20260908-BWP-01 / 2026-09-08 +07:00**. The [budget-warped perception map](changes/2026-09-08-budget-warped-perception-gravity-and-cosmology.md) makes Stage resolution prior to length/frequency readout, adds the Apple–Earth stretched-coordinate gravity candidate, and preserves the horizon/dark-sector branches under explicit publication and evidence boundaries.
+
 ## Separate personal / speculative source
 
 - `the-hope-behind-the-framework.md`
@@ -36,6 +38,8 @@ This document is intentionally **not framework ground** unless a later semantic 
 - `changes/2026-08-27-anchor-closure-and-relational-budget-comparison.md`
 - `changes/2026-09-05-stage-projection-and-bits-source-sync.md`
 - `changes/2026-09-06-grain-sweep-and-repeated-comparison.md`
+- `changes/2026-09-07-recursive-compartments-and-relational-reach.md`
+- `changes/2026-09-08-budget-warped-perception-gravity-and-cosmology.md`
 
 When a semantic correction changes framework ground, update the affected canonical sources and the relevant status/change-map files in the same sync.
 

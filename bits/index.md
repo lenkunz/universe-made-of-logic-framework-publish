@@ -9,6 +9,8 @@ For topic duplication / conceptual overlap, use `source/internal/bits-topic-chec
 
 | Bit | Slug | Status | NotebookLM source | Audio prompt | Audio | Article | Image | Published | Substack URL |
 |---|---|---|---|---|---|---|---|---|---|
+| The Apple Falls the Same Relational Distance Every Time | the-apple-falls-the-same-relational-distance-every-time | idea | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |  |
+| Dark Matter Is the Trace; Dark Energy Is the Difference | dark-matter-is-the-trace-dark-energy-is-the-difference | hold | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |  |
 | They Wish for an Object, So They Get an Object | they-wish-for-an-object-so-they-get-an-object | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |
 | Does a Mind End at the Skin? | does-a-mind-end-at-the-skin | package-ready | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |  |
 | Perception Is a Chain of Possibilities | perception-is-a-chain-of-possibilities | published | ✅ | ✅ | ⬜ | ✅ | ✅ | 2026-09-07 | https://soutame.substack.com/p/perception-is-a-chain-of-possibilities |

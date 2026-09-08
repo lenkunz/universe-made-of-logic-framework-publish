@@ -2,9 +2,9 @@
 
 *A complete semantic-source account of the informational topology framework: how relation becomes ground, why resolution costs, and how increasingly rich structure can grow without changing the primitive.*
 
-<!-- Revision: R20260907-RC-01 -->
-<!-- Updated: 2026-09-07 Asia/Bangkok -->
-<!-- Change: Clarifies recursive compartments, equal local R_all caps, retained inner participation, and scoped candidate applications. -->
+<!-- Revision: R20260908-BWP-01 -->
+<!-- Updated: 2026-09-08 Asia/Bangkok -->
+<!-- Change: Makes Stage the budget-conditioned package of resolution and revises gravity, redshift, horizon, and dark-sector candidates around that correction. -->
 <!-- Audited source: a-universe-made-of-logic-complete-2026-08-19.md -->
 <!-- Semantic consistency basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
 <!-- Also incorporates semantic corrections concluded during the 2026-08-20/21 audit conversation -->
@@ -460,6 +460,12 @@ This phrase names a relation, not a container.
 
 “Perception” in this broad framework sense is the domain-relative resolution of that encounter. Conscious human perception is a possible richer case, not a requirement that makes other relations exist.
 
+Stage does not first receive a completed length, duration, frequency, or shape and then distort it. Present relation resolves through the support and constraint available to that encounter; those quantities are readings of the resulting package.
+
+> **Compute budget warps the perception of relation. Length, duration, frequency, and shape are ways that resolved relation can appear on Stage.**
+
+This does not make the measurement unreal. It places the measurement after relational resolution rather than installing its coordinate as primitive ontology.
+
 The orientations are relative:
 
 - **Afference** is relation reaching inward from the current domain's side.
@@ -857,7 +863,7 @@ The same distinction matters for hosted logic. A relation can retain its own par
 
 An arrangement can make that relation easier to address and reuse. The question is which support it preserves or establishes, rather than how long the relation waits or how much attention the original host keeps supplying.
 
-# IX. Contraction, co-shrink, and relational scale
+# IX. Budget-warped perception and relational scale
 
 The framework does not begin with a fixed spatial container.
 
@@ -873,7 +879,17 @@ A difference becomes visible only when differently conditioned grounds are compa
 
 > **A ruler cannot measure itself.**
 
-This is the root of the framework's co-shrink picture.
+This was the root of the framework's co-shrink picture. The September 8 correction places it one level deeper.
+
+It is not necessary to say that compute budget first contracts an independently finished length. Budget constrains how the relation resolves; contraction is one Stage reading of that result.
+
+The inverse bookkeeping is also possible. Let an ordinary Stage separation be `r` and write an anchor-specific compute-stretched coordinate as:
+
+`U = F_anchor(r)`
+
+Then the Stage view may look contracted while the inverse budget chart looks stretched. The object has not secretly swollen. The two charts assign different coordinate lengths to the same continuing relation.
+
+> **Contraction and stretch can be inverse descriptions of one budget-conditioned resolution.**
 
 A sufficiently shared, mutually consequential relation can support more structure through tighter common seating.
 
@@ -883,17 +899,19 @@ Count/reach growth and shared-density growth are different channels.
 
 The important case is differential support.
 
-If two related grounds accumulate or anchor differently, they need not co-shrink at the same rate.
+If two related grounds accumulate or anchor differently, the same continuing relation need not surface at the same scale from both sides.
 
-Then one can appear larger relative to a ruler seated in the other.
+One side can read the relation as contraction. An inverse budget chart can read the other as stretch.
 
-> **Expansion is not anti-contraction. It is differential contraction.**
+> **Expansion and contraction can be opposite Stage readings of differential relational resolution.**
 
 Nothing has to push the sparse side outward.
 
 Nothing has to pull the dense side inward through a primitive container.
 
-The surfaced scale change is the comparison between grounds whose relational seating changes differently.
+The surfaced scale change is the comparison between grounds whose relational seating changes differently. A length or redshift produced by this comparison cannot also be assumed as an ontology-independent input proving the relation's primitive distance. That would make the output explain itself.
+
+An anchor-relative dewarping can therefore make a local ground appear flat while compressing the exterior into a bounded, fish-eye-like chart. In an Earth-anchored chart the most remote observable relation could approach a central or horizon-like limit of an inside-sphere representation. This is coordinate relativity, not an objective Earth-centred universe; another anchor can define another chart.
 
 The quantitative rule that maps a specified ground to an exact contraction ratio remains **Completion pending**.
 
@@ -936,15 +954,15 @@ So the candidate gravity chain becomes:
 
 → `substantial capacity remains available through the anchor relation`
 
-→ `that capacity follows the domain's already-seated contraction bias`
+→ `that capacity follows the domain's already-seated relational bias`
 
 → `the relation between anchor and nearby domain gains support`
 
-→ `their relational separation co-shrinks`
+→ `the Apple–Earth relation continues through a budget-conditioned resolution map`
 
-→ `continued support compounds the change in surfaced separation`
+→ `equal relational continuation can occupy unequal intervals in the Stage distance chart`
 
-→ `acceleration-like behaviour appears`
+→ `acceleration-like behaviour appears when a clock labels the successive closures`
 
 The responding object does not have to be the main spender.
 
@@ -953,6 +971,36 @@ In an Earth-like example, the Earth-domain may participate through enormous nest
 This is one reason the anchor can look as though it carries far more budget even if the primitive participation rule is common.
 
 The object still participates in the relation and can also provide anchoring back to the larger domain under other grains. Anchoring is relational; the magnitude of support need not be symmetric.
+
+### The Apple–Earth stretched-coordinate candidate
+
+Let A be an apple and E the Earth-like anchor:
+
+`R_A + R_E + R_AE → R_all(A↔E)`
+
+The expression is composition, not an arithmetic pool. `R_AE` is the continuing seated relation; A, E, and their other closures do not surrender their own locally capped participation.
+
+Earth-side composition can leave substantial support available through `R_AE`; in the user's shorthand this is environmental compute “overflow.” The apple can accumulate the consequence as its own seated Earthward bias. This does not transfer saved chunks of `R_all` into the apple. What persists is the newly seated relation and its constraint.
+
+Now express the unresolved separation in the Earth-anchored stretched coordinate `U_n = F_E(r_n)`. The proposed step is:
+
+`U_(n+1) = U_n - ΔR_AE`
+
+and the already-seated Earthward bias can be recorded as:
+
+`B_(n+1) = B_n + ΔR_AE`
+
+This does not say that the apple has a constant primitive velocity. It says that the same relation can remove the same amount of unresolved relational separation per closure. Mapping back gives:
+
+`r_n = F_E^(-1)(U_0 - nΔR_AE)`
+
+If `F_E^(-1)` becomes steeper toward the anchor, equal relational steps surface as increasing ordinary displacement. Time enters only later when a selected clock labels those steps.
+
+The tangential comparison supplies a useful contrast. Along a roughly equal-density / equipotential local ground, the mapping can remain approximately constant, so a horizontal continuation need not gain the same changing radial readout. Earth remains consequential to that relation; this is not an exact claim about arbitrary altitude, rotation, atmosphere, or curved paths.
+
+When a supporting surface is removed, `R_AE` need not be newly created. The support relation had been constraining which continuation could seat. Free fall is the candidate case where the existing Earthward relation becomes the cheapest compatible continuation.
+
+The exact `F_E`, `ΔR_AE`, clock correspondence, inverse-square limit, and strong-field geometry remain **Completion pending**. A constant relational subtraction by itself does not derive constant physical acceleration.
 
 ### Meaning and physical gravity are not yet the same mapping
 
@@ -967,7 +1015,7 @@ But it does **not yet establish** that semantic relation contributes a measurabl
 The framework still owes the bridge from:
 
 `relational composition / throughput`
-→ `quantitative contraction / gravity-like surface`
+→ `quantitative Stage resolution / gravity-like surface`
 
 That remains **Candidate correspondence + Completion pending**.
 
@@ -975,7 +1023,7 @@ That remains **Candidate correspondence + Completion pending**.
 
 ### Inertia is a different cost
 
-The framework does not need gravity-like default co-shrink and imposed motion to be the same operation.
+The framework does not need gravity-like default anchor-relative resolution and imposed motion to be the same operation.
 
 A candidate inertia architecture is:
 
@@ -1075,7 +1123,7 @@ A ratio such as `B_ra / B_la = 1.2` is an illustrative amount of source-side res
 
 The “VSync” or global-shutter analogy names the synchronization problem. The receiver must resolve one continuing object from the distinctions relevant to its Cut. The analogy does not introduce literal frames, a cosmic processor, or extra ghost objects.
 
-For an extended relation, the proposed readout is spatial/detail density and measured extent. For a periodic relation, it is a cycle/frequency comparison. This is the proposed common operation behind the ruler case and gravitational blueshift: the same bound relation is resolved against differently anchored receiving ground.
+For an extended relation, the proposed readout is spatial/detail density and measured extent. For a periodic relation, it is a cycle/frequency comparison. This is the proposed common operation behind the ruler case and gravitational redshift/blueshift: the same bound relation is resolved against differently anchored receiving ground. The length or frequency is not first held constant outside the encounter and then deformed; it is part of the Stage package produced by that resolution.
 
 The mismatch explains the synchronization question; the scoped projection geometry supplies the simple contraction factor. **No equality between `q` and an arbitrary budget ratio has been derived.**
 
@@ -1434,7 +1482,7 @@ They should not be used to define the foundational meaning of coarse, bias, or r
 
 ---
 
-# XVII. Coarse coverage and candidate dark-sector mappings
+# XVII. Retained relation, coarse coverage, and candidate dark-sector mappings
 
 Coverage and interaction availability are not the same threshold.
 
@@ -1453,6 +1501,14 @@ That has the right qualitative shape to motivate a **candidate dark-matter corre
 The framework has not yet derived the required magnitude.
 
 The dark-sector magnitude remains **Completion pending**.
+
+The September 8 discussion adds a compatible second candidate. Fine relation can become retained history / reusable ground even when its original detail is not rendered in the current encounter.
+
+> **Dark-matter-like behaviour may be the spatial or anchoring trace of fine relation retained by a domain after the receiving grain no longer exposes its detailed source.**
+
+This is not stored or overflowed `R_all`. Budget remains locally capped participation, not a substance that accumulates in a region. The retained quantity is seated relation / constraint that biases later closures.
+
+Any such account has to follow the correct domain history. In a merging cluster, a lensing contribution displaced from most visible baryonic plasma cannot be explained by a trace that merely follows the gas or by undifferentiated “complexity.” The candidate has to produce the observed lensing geometry and magnitude while remaining attached to the relevant moving relational ground.
 
 ### Overlap without simple superposition
 
@@ -1482,7 +1538,7 @@ The mechanism provides a candidate prediction shape.
 
 The magnitude remains pending.
 
-### Dark-energy-like expansion
+### Dark-energy-like relational difference
 
 Differential contraction also creates candidate cosmological terrain.
 
@@ -1490,9 +1546,17 @@ A sparse region need not push outward.
 
 A denser anchored region need not pull it outward or inward through primitive space.
 
-If the two grounds co-shrink differently, their relative scale changes.
+If the two grounds seat or grow finer at different rates, their relative scale changes.
 
-That can surface as expansion from one ruler's perspective.
+That can surface as expansion, duration stretching, or redshift from one ruler/receiver relation.
+
+The proposed quantity belongs to the comparison:
+
+`DE(A↔B)`
+
+not to A or B alone. Every galaxy can participate in dark-energy-like comparisons without every pair necessarily exposing the same amount. A nearly uniform coarse average would have to emerge from the relational distribution rather than be assumed.
+
+A civilization can add very dense logical relation to its hosted region. That does not enlarge an individual `R_all`, and the framework has not derived a map from semantic/civilizational complexity to physical gravity or cosmological redshift. Civilization-driven differential refinement therefore remains an exploratory contributor, not an established cause.
 
 This is a **candidate correspondence** to dark-energy-like large-scale behaviour, not a completed cosmological model.
 
@@ -1509,6 +1573,8 @@ It is not yet a complete solution to the vacuum-energy problem.
 A resolved spectral shift does not by itself carry its primitive ontology. The framework asks whether a relation resolved against differently supported grounds can reproduce the comparison.
 
 The proposed redshift and event-duration account compares a continuing relation across those grounds. It does not require a past Stage sitting at a farther ontological address, or a finished future Stage waiting to be reached. Retained relation constrains the present comparison; projected possibility remains open.
+
+Because distance, duration, and wavelength can all be readings of the same budget-conditioned package, they are not automatically independent witnesses to an untouched background topology. A cosmological replacement must derive their joint relations and still reproduce angular and radial standard rulers, supernova light curves, lensing, flux, the CMB, and structure growth.
 
 The simple clock/ruler construction gives a scoped result, not the general cosmological map. Spectral redshift, whole-event duration stretching, flux, lensing, structure growth, and CMB behaviour must be recovered together. A lower frequency or slower remote readout is not a measurement of all the relation that ground can support.
 
@@ -1651,11 +1717,17 @@ But the exact role of real supernovae in a coarse-to-fine astronomical progressi
 
 ### Compact objects
 
-Uniform co-shrink alone would preserve internal shape.
+Uniform remapping of all internal relations would preserve internal shape.
 
 A smooth compact object therefore requires a criterion for differential internal contraction / flattening.
 
 That criterion remains an **Unresolved mechanism**.
+
+The new horizon branch asks whether an externally simple, massively anchored relation can host a richer and much coarser internal topology. The absence of returned light is a receiver-side fact; the framework does not yet know whether its native account is absolute outward exclusion, indefinitely stretched resolution, a closed-loop relation, or internal re-seating with locally ordinary clocks and rulers.
+
+Future here means the next unresolved resolution, not a primitive temporal road. Standing still and ordinary movement already continue into future resolution; a black hole would be an extreme directional constraint, not the origin of future-directedness.
+
+Do not collapse a grain-relative **resolution horizon** into a physical black-hole event horizon. Under the standard general-relativistic definition, allowing a future-directed outward continuation to reach the same exterior would describe a different object unless the new mapping explains why the conventional boundary still surfaces. Interior universes, safe slow entry, planets, and singularity avoidance remain **Not established**.
 
 ---
 
@@ -1935,15 +2007,18 @@ Major **Completion pending** areas include:
 12. the CMB native distribution/counting rule, redshift–temperature scaling, and anisotropy structure;
 13. dark-sector magnitude;
 14. compounding rate;
-15. coarse-to-fine Aim / constraint mapping — the Aim is already seated relation, while the quantitative/formal rule for how it combines with present ground to price a particular finer Cut remains incomplete.
+15. coarse-to-fine Aim / constraint mapping — the Aim is already seated relation, while the quantitative/formal rule for how it combines with present ground to price a particular finer Cut remains incomplete;
+16. the Apple–Earth stretched-coordinate map, including `F_E`, `ΔR_AE`, the physical closure/clock relation, and recovery of weak- and strong-field gravity.
 
 Major **Unresolved mechanisms** include:
 
-1. the criterion for differential contraction inside a domain;
+1. the criterion for differential internal Stage resolution inside a domain;
 2. general composition of independently biased relations into metric geometry beyond the scoped two-projection construction;
 3. the physical bias criterion before the observed outcome is known;
 4. the sufficient structure for independent Lane-7 seating, beyond the candidate support-transfer architecture;
-5. prospective coarse compatibility.
+5. prospective coarse compatibility;
+6. the physical bridge from logical/civilizational complexity to gravity, lensing, or cosmological scale;
+7. the black-hole interior relation and a discriminator among absolute outward exclusion, stretched resolution, closed-loop continuation, and internal re-seating.
 
 These two lists should not be collapsed.
 
@@ -2078,4 +2153,3 @@ Constraint is what gives the next possibility somewhere to stand.
 ---
 
 *This is the canonical semantic source for the rebuilt article. Its public Substack presentation may be reorganised, shortened, or visually rebuilt later, but the presentation pass should not change the primitive meanings, claim status, or dependency structure stated here.*
-

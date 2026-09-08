@@ -1,6 +1,6 @@
 # Bits Topic Checklist — My GUT Deduction
 
-Updated: 2026-09-07
+Updated: 2026-09-08
 
 Purpose: prevent future Bits packages from duplicating an already-published topic, repeating the same central mechanism with cosmetic new examples, or preparing the same candidate twice.
 
@@ -170,6 +170,22 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 
 # Prepared but not published
 
+- [ ] **The Apple Falls the Same Relational Distance Every Time** — working title
+  - Status: **NEXT / IDEA PRESERVED; package not yet built**.
+  - Main question: what if gravity does not first warp a completed length, but compute budget warps how the Apple–Earth relation appears on Stage?
+  - Framework hook: `R_A + R_E + R_AE → R_all(A↔E)`; equal deductions in an Earth-anchored compute-stretched coordinate can map to acceleration-like ordinary displacement.
+  - Distinct from **Gravity is the universe deleting space**: that earlier piece foregrounded contraction; this episode owns the semantic correction that contraction and stretch are inverse charts of budget-conditioned perception.
+  - Boundary: no derived `F_E`, constant physical acceleration, inverse-square law, or strong-field metric yet. Keep the black-hole, civilization, dark-matter, and dark-energy branches out of this first episode except for at most one future-work sentence.
+  - Source sync: `R20260908-BWP-01`.
+
+- [ ] **Dark Matter Is the Trace; Dark Energy Is the Difference** — working title
+  - Status: **HOLD / preserve, do not deploy beside the gravity Bit**.
+  - Main question: can retained anchor history surface as dark-matter-like relation while differential refinement between two grounds surfaces as dark-energy-like scale/redshift?
+  - Framework hook: stored history is present constraint, not rendered detail; `DE(A↔B)` belongs to the comparison; composition adds active relations without enlarging one cap.
+  - Includes later branches: galaxy/civilization mirrors, observational disagreement between galaxy pairs, black-hole/horizon analogy, and possible internally rich coarse domains.
+  - Boundary: retained trace is not saved budget; civilization-to-gravity bridge is missing; Bullet Cluster lensing and the full cosmological observation web must be recovered. Interior universes and safe black-hole entry are not established.
+  - Source sync: `R20260908-BWP-01`.
+
 - [ ] **Does a Mind End at the Skin?**
   - Status: **PREPARED / PACKAGE-READY**; user requested Bit plus source sync.
   - Main question: how can inner relations and their compartment keep participating, and does a body's outline bound a conscious domain's relations?
@@ -300,5 +316,3 @@ Prefer a topic when it brings at least two of: a new external field or phenomeno
 Reject or hold when novelty is mostly a new metaphor, the same ordinary mechanism carries the episode, it is already prepared, or it substantially duplicates a high-overlap family.
 
 A brief older mention does not ban a dedicated Bit if the new piece has substantial independent research, a distinct central question, and a different payoff.
-
-

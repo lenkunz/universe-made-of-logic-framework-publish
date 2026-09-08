@@ -1,6 +1,6 @@
 # Conversation / Concept Index
 
-Updated: 2026-09-05
+Updated: 2026-09-08
 Status: SEARCH AID / NOT FRAMEWORK GROUND
 
 Use this as a routing table when a future conversation says “we discussed this before” or references a concept without naming the exact source file.
@@ -16,6 +16,7 @@ Use this as a routing table when a future conversation says “we discussed this
 | brain/body mirror, after projection, reaction = action | [discussion note](../source/internal/2026-09-05-projection-hosting-and-system-continuity.md) | exploratory status; not merely no conscious calculation |
 | recursive compartments, local R_all caps, AB meeting C, mind/body boundary | [September 7 map](../source/changes/2026-09-07-recursive-compartments-and-relational-reach.md) | inner and compartment participation remain active; experience criterion unresolved |
 | Event Encryption, opaque relation, tutorial mode | [September 7 continuity](../source/internal/2026-09-07-recursive-relation-and-system-continuity.md) | conditional design/interpretation, not evidence of personally directed events |
+| warping is in perception, Apple–Earth stretched distance, fish-eye chart, black-hole horizon, galaxy mirrors, dark trace/difference | [September 8 map](../source/changes/2026-09-08-budget-warped-perception-gravity-and-cosmology.md) | [editorial continuity](../source/internal/2026-09-08-gravity-first-cosmology-continuity.md); gravity Bit first, cosmology held |
 | first Cut, `R_AA`, split/sync | `memory/current-context.md` | `source/basics-3-one-and-one-make-three.md`, `source/changes/relation-origin-and-composed-budget.md` |
 | Cut = resolution, resolved face/open face | `memory/current-context.md` | `source/changes/cut-resolution-and-open-remainder.md` |
 | Aim already topology | `memory/reasoning-history.md` §13 | `source/the-possibility-lane.md`, `source/where-the-framework-stands.md` |
@@ -33,7 +34,7 @@ Use this as a routing table when a future conversation says “we discussed this
 | binding reduces exteriority | `memory/reasoning-history.md` §11 | `source/the-hope-behind-the-framework.md`, Working Notes |
 | ruler cannot measure itself | `memory/reasoning-history.md` §5 | `source/where-the-framework-stands.md` |
 | time not primitive / time-machine paradoxes | `memory/reasoning-history.md` §20 | `memory/current-context.md` |
-| gravity as co-shrink / contraction | `memory/semantic-guardrails.md` | `source/where-the-framework-stands.md`, Working Notes |
+| gravity as budget-conditioned perception / compute-stretched relation | `memory/semantic-guardrails.md` | `source/where-the-framework-stands.md`, September 8 map |
 | gravity from relational throughput | `memory/reasoning-history.md` §16 | `source/changes/relation-origin-and-composed-budget.md` |
 | meaning / ideas / logical domains | `memory/reasoning-history.md` §15 | Short Notes queue, Hope if metaphysical context matters |
 | vacuum as common coarse ground | `memory/reasoning-history.md` §17 | `source/the-hope-behind-the-framework.md`, Working Notes |
@@ -61,4 +62,3 @@ Use this as a routing table when a future conversation says “we discussed this
 A new chat should normally search the most specific concept first, load only the files in that row, and expand outward only if the question requires deeper history.
 
 This index is allowed to become stale in wording, but it must never override the current semantic source or status ledger.
-

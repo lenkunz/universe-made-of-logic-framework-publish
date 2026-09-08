@@ -1,6 +1,6 @@
 # Semantic Guardrails
 
-Updated: 2026-09-07
+Updated: 2026-09-08
 Status: CONTINUITY MEMORY / NOT CANONICAL AUTHORITY
 
 Use this file to stop a new chat from silently importing familiar ontology back into the framework.
@@ -75,6 +75,10 @@ Do not treat relativistic-looking clock differences as motion along a primitive 
 ### Stage and projection
 
 Stage is the resolved encounter of relation with a domain. In “Light meets Space,” Light is any relation and Space is the anchoring domain. Human observation is not required.
+
+Budget constrains how the encounter resolves; Stage packages that resolution. Do not place an independently completed length, duration, frequency, shape, or object behind Stage and then say budget merely distorts the copy. These measurements are real readouts of the package.
+
+Contraction and compute-stretch may be inverse coordinate descriptions of one relation. Neither is an outside absolute geometry. If distance and redshift are co-produced by the proposed comparison, do not use either as untouched primitive evidence for the mapping itself.
 
 Afference/Efference and interference/projection are inward/outward relative to the domain. Projection is present bias on open continuation, can be interrupted, and does not select a finished future.
 
@@ -161,14 +165,21 @@ Re-seating cost depends on which existing relations a change makes consequential
 
 Framework-native language prefers:
 
-- differential contraction;
-- co-shrink;
+- budget-conditioned Stage resolution;
+- compute-stretched relational distance;
+- contraction / co-shrink as surfaced charts;
 - re-seating of separation;
 - anchor effects;
 
 rather than treating gravity as a primitive force pulling matter through a compute gradient.
 
 Dense relational composition as a gravity source remains candidate correspondence until quantitative mapping exists.
+
+The Apple–Earth recurrence `U_(n+1)=U_n-ΔR_AE` is a candidate relational step, not a derived velocity or acceleration law. It needs `F_E`, a physical closure/clock map, and recovery of measured gravity.
+
+Every relation has a grain-relative resolution horizon. Do not identify every such horizon with a physical black-hole event horizon. Interior universes, closed light loops, safe entry, planets, and singularity avoidance are not established.
+
+Retained dark-matter-like trace means seated history/constraint, not stored or overflowed budget. Pair-relative dark-energy-like difference means `A↔B`, not a property owned by A alone. Civilization adds relational organization but has no derived mapping to physical gravity, lensing, or expansion.
 
 ### Meaning
 
@@ -258,4 +269,3 @@ short strong statements after the dependency has been earned.
 Avoid academic fog, unnecessary jargon, and conventional terminology that changes the primitive meaning.
 
 When the user's wording is imprecise, preserve the structural distinction they are trying to make rather than polishing it into a different theory.
-
