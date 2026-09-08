@@ -171,11 +171,12 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 # Prepared but not published
 
 - [ ] **The Apple Falls the Same Relational Distance Every Time** — working title
-  - Status: **NEXT / IDEA PRESERVED; package not yet built**.
+  - Status: **ARTICLE-READY; package, article, and image prepared; audio pending**.
   - Main question: what if gravity does not first warp a completed length, but compute budget warps how the Apple–Earth relation appears on Stage?
   - Framework hook: `R_A + R_E + R_AE → R_all(A↔E)`; equal deductions in an Earth-anchored compute-stretched coordinate can map to acceleration-like ordinary displacement.
   - Distinct from **Gravity is the universe deleting space**: that earlier piece foregrounded contraction; this episode owns the semantic correction that contraction and stretch are inverse charts of budget-conditioned perception.
   - Boundary: no derived `F_E`, constant physical acceleration, inverse-square law, or strong-field metric yet. Keep the black-hole, civilization, dark-matter, and dark-energy branches out of this first episode except for at most one future-work sentence.
+  - Package: `bits/the-apple-falls-the-same-relational-distance-every-time/`.
   - Source sync: `R20260908-BWP-01`.
 
 - [ ] **Dark Matter Is the Trace; Dark Energy Is the Difference** — working title
