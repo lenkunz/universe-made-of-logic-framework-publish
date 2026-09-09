@@ -4,11 +4,11 @@ Title: **The Apple Falls the Same Relational Distance Every Time**
 Subtitle: *Maybe acceleration is what equal relational steps look like after Stage gives us a ruler.*
 Slug: `the-apple-falls-the-same-relational-distance-every-time`
 Created: 2026-09-09 Asia/Bangkok
-Status: **article-ready**
-Article build: 2026-09-09 Asia/Bangkok; article and image prepared; audio pending.
+Status: **published**
+Article build: 2026-09-09 Asia/Bangkok; repository article revised for inverse-map direction and clock correspondence; existing 1280×720 hero retained. Revised wording has not been applied to the live Substack post.
 Selection: Explicitly requested by Len as the gravity-first publication after the budget-warped-perception correction.
-Published: No exact title or slug match in the checked repository RSS snapshot.
-Substack URL: Not assigned.
+Published: 2026-09-09 Asia/Bangkok (2026-09-08 19:43:54 UTC); exact-title RSS match with audio enclosure.
+Substack URL: https://soutame.substack.com/p/the-apple-falls-the-same-relational
 Package preparation baseline: `21df18db8a01f31e8cd0f1658db2b418c3ab76a7`.
 
 ## Central question
@@ -26,7 +26,7 @@ The episode reverses the earlier order of explanation. Budget does not first def
 - **Established framework ground:** budget is finite for each present relation; relations are anchor-closed; stable relation can become reusable ground; Stage is where relation meets an anchoring domain; length and clock readings are surfaced relational measurements.
 - **Current author correction:** perception—not a completed external length—is warped by compute budget. Here perception means any domain-relative Stage resolution, not human awareness.
 - **Episode construction:** `R_A + R_E + R_AE → R_all(A↔E)`, with an Earth-anchored stretched coordinate `U = F_E(r)` and candidate recurrence `U_(n+1) = U_n - ΔR_AE`.
-- **Candidate physical correspondence / completion pending:** a nonlinear inverse map can make equal deductions in `U` appear as increasing ordinary displacement in `r` once a physical clock labels closures. `F_E`, the clock correspondence, inverse-square behavior, and general-relativistic limit are not yet derived.
+- **Candidate physical correspondence / completion pending:** an increasing, invertible map whose inverse becomes steeper Earthward can make equal deductions in `U` cover increasing ordinary displacement per closure. Acceleration also depends on the physical clock correspondence. `F_E`, the step rule, clock correspondence, inverse-square behavior, and general-relativistic limit are not yet derived; the maps cannot be selected after observing the trajectory and counted as an explanation.
 
 ## Duplication check
 
@@ -47,14 +47,14 @@ The black-hole, civilization, dark-matter, and dark-energy branches are intentio
 - Work prompt: `04-work-prompt.md`
 - Preflight deduction audit: `05-preflight-deduction-audit.md`
 - Article: `article/the-apple-falls-the-same-relational-distance-every-time.md`
-- Audio: pending
+- Audio: published on Substack; no repository audio asset
 - Image: `article/the-apple-falls-the-same-relational-distance-every-time.webp`
 
 ## Publication notes
 
-The exact title and slug were checked against `resource/substack-bits-podcast.rss` before preparation and after the article/image build. The preserved snapshot reports **Tue, 08 Sep 2026 15:54:08 GMT**, with **35 items**. No matching episode was found. The closest published gravity episode is **Gravity is the universe deleting space** at `https://soutame.substack.com/p/gravity-is-the-universe-deleting`.
+The initial preparation snapshot had no matching episode. The post-revision check used `resource/substack-bits-podcast.rss` at repository commit `7ceffe2fe45087ddb8adc6680bb1a30e4b25a701`: **Wed, 09 Sep 2026 05:32:48 GMT**, **36 items**. It contains the exact title, the Substack URL above, publication time **Tue, 08 Sep 2026 19:43:54 GMT**, and an audio enclosure. Live proxy access was unavailable, so the maintained repository snapshot supplied publication evidence.
 
-The article is a candidate interpretation, not a claim that the recurrence already replaces Newtonian gravity or general relativity. Publication remains a separate action.
+The article is a candidate interpretation, not a claim that the recurrence already replaces Newtonian gravity or general relativity. This repository revision corrects the inverse-chart explanation in the article and NotebookLM dossier; it does not update the already-published post or audio.
 
 ## Post-publication notes
 

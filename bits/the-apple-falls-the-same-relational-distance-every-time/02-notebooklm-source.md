@@ -91,13 +91,13 @@ Time has not yet entered. `n` counts relevant closures; it is not automatically 
 
 Suppose the map between `U` and `r` is nonlinear. Equal intervals in `U` can then correspond to unequal intervals in `r`.
 
-Imagine marking equal bands on a stretched sheet and then compressing the sheet more strongly near Earth. The bands remain equal in the stretched chart. In the displayed chart, their gaps differ. An apple subtracting one band at every closure can cross a larger displayed distance on one closure than on the previous one.
+Imagine equal marks on the stretched `U` scale, then translate them through `F_E^(-1)` to the ordinary ruler. For this falling interval the map must be increasing and one-to-one. Its inverse must become steeper toward Earth if successive equal deductions in `U` are to cover larger gaps in `r`. A nonlinear map can also make gaps narrow; a compressed-sheet picture alone does not establish the required direction. Wider gaps per closure become a claim about acceleration only after the physical clock correspondence is specified.
 
 This is the useful reversal:
 
 > The framework does not need the apple to acquire more primitive “distance-moving power” at every step. The same relational deduction can receive a changing Stage-side length.
 
-That resembles acceleration after a clock labels the sequence, but resemblance is not derivation. A constant `ΔR_AE` can produce many possible Stage trajectories depending on `F_E`. To recover near-Earth constant acceleration from rest, the combined mapping from closure count to clock time and from `U` to `r` must approximate a quadratic fall distance. At larger scales it must recover the measured radial dependence rather than preserve constant `g` everywhere.
+That resembles acceleration after a clock labels the sequence, but resemblance is not derivation. A constant `ΔR_AE` can produce many possible Stage trajectories depending on `F_E`. To recover near-Earth constant acceleration from rest, the combined mapping from closure count to clock time and from `U` to `r` must approximate a quadratic fall distance. The closure and selected clock must determine these maps; choosing them after observing a trajectory is not a derivation. At larger scales the account must recover the measured radial dependence rather than preserve constant `g` everywhere.
 
 ### Contraction and stretch are inverse charts
 

@@ -16,9 +16,7 @@ This is ordinary acceleration. Near Earth's surface, when air resistance can be 
 
 [NASA's free-fall guide](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/free-falling-objects/) gives the familiar equations. The [Eöt-Wash equivalence-principle experiments](https://www.npl.washington.edu/eotwash/equivalence-principle) push a second fact much harder: different test bodies fall alike to extraordinary precision when other effects are controlled.
 
-Those are not the parts I want to remove.
-
-The apple falls. The later distance is larger. Any new gravity account has to recover that.
+The apple falls. The later distance is larger. Any new gravity account has to recover those measurements.
 
 What I want to question is something quieter:
 
@@ -28,19 +26,13 @@ What I want to question is something quieter:
 
 My earlier way of speaking about gravity was that gravity warps length. A dense anchored domain makes the available separation contract, so the apple falls because there is less effective space left between apple and Earth.
 
+> **Article Slot:** URL: https://soutame.substack.com/p/gravity-is-the-universe-deleting
+
 I now think that starts one step too late.
 
 It treats length as though it were already completed, then asks compute budget to bend it. But in this framework, length is not waiting outside relation as a finished container. Length is one reading produced when relation and domain resolve together.
 
-The order should be:
-
-`Relation + Domain + available relational budget`
-
-→ `resolution`
-
-→ `Stage`
-
-→ `length, duration, frequency, shape`
+Relation meets a domain through the available relational budget. The encounter resolves. Stage packages that resolution as length, duration, frequency, or shape.
 
 So the deeper claim is not simply that gravity warps length.
 
@@ -58,7 +50,7 @@ Stage is where Light meets Space in the framework's vocabulary: relation meets a
 
 Let `A` be the apple and `E` be Earth.
 
-The apple already has its own supported relations. Earth has an absurd amount of seated relation. When apple and Earth become consequential together, they also form:
+The apple already has its own supported relations. Earth brings extensive nested relations, with members participating both locally and through larger compositions. When apple and Earth become consequential together, they also form:
 
 `R_A + R_E + R_AE → R_all(A↔E)`
 
@@ -92,12 +84,12 @@ Now I want to describe the same Apple–Earth separation in two ways.
 
 Let:
 
-- `r_n` be the ordinary distance Stage presents after resolution step `n`;
+- `r_n` be the apple's radial separation in a specified Earth-relative ruler comparison after resolution step `n`;
 - `U_n = F_E(r_n)` be an Earth-anchored, compute-stretched reading of the same relation.
 
-`F_E` is not yet known. It names the mapping that this framework would have to derive.
+`F_E` is not yet known. It names the mapping that this framework would have to derive. For this falling interval, suppose it is increasing and one-to-one, so we can translate each reading back through its inverse.
 
-In the stretched reading, suppose the apple loses the same amount of unresolved Apple–Earth separation on every closure:
+In the stretched reading, suppose the apple loses the same positive amount of unresolved Apple–Earth separation on every closure:
 
 `U_(n+1) = U_n - ΔR_AE`.
 
@@ -115,15 +107,21 @@ I mean that the Apple–Earth relation may deduct the same amount from its remai
 
 If `F_E` is nonlinear, equal steps in `U` do not have to become equal steps in `r`.
 
-Picture equally spaced marks drawn on a sheet. Now compress the sheet more strongly near Earth. The marks remain equal in the uncompressed chart, but their displayed gaps change. Moving by one mark every step can become a changing distance when measured on the compressed side.
+Picture equal marks on the `U` scale. Translate each mark back to the ordinary ruler through `F_E^(-1)`. Their ruler gaps might widen or narrow. Nonlinearity alone does not choose the direction.
 
-Flip the chart, and the same thing can be described as stretching the ruler until equal relational work occupies equal intervals.
+For increasing distance per closure, the inverse map must become steeper toward Earth: each equal deduction in `U` must cover a larger gap in `r`. Simply drawing a grid compressed near the ground does not establish that condition.
+
+Reading the relation in the other direction gives the compute-stretched chart, where those unequal ordinary gaps correspond to equal relational intervals.
 
 This does not mean the apple literally becomes gigantic above Earth. It does not mean space hides a computer grid. Contraction and compute-stretch are inverse ways of presenting the same resolved relation.
 
-In the ordinary Stage chart, the apple can cover more displayed distance during each later interval.
+In a suitable ordinary Stage chart, the apple can cover more displayed distance during each later closure.
 
 In the stretched relational chart, the same amount may have been subtracted every time.
+
+The earlier ruler article also separated the measurement from the support that makes it possible. Its inertial contraction factor does not supply this gravity map.
+
+> **Article Slot:** URL: https://soutame.substack.com/p/why-does-motion-make-a-ruler-shorter-aa1
 
 ## Where acceleration enters
 
@@ -135,7 +133,13 @@ Only after a selected clock maps its cycles onto the sequence of Apple–Earth c
 
 This is why a constant `ΔR_AE` does not automatically derive constant terrestrial acceleration.
 
-Different choices of `F_E` can turn equal relational steps into many different ordinary trajectories. To reproduce a fall from rest near Earth's surface, the combined map from closure count to clock time and from `U` to `r` must give approximately the familiar quadratic distance. Farther away, it must stop pretending that `g` is constant and recover the measured radial behavior.
+Different choices of `F_E` can turn equal relational steps into many different ordinary trajectories. If `n(t)` records the closures labelled by a selected clock, the distance fallen is:
+
+`s(t) = r_0 - F_E^(-1)(U_0 - n(t)ΔR_AE)`.
+
+The combined map must recover release from rest and approximately `s = 1/2 g t²` near Earth's surface. Wider gaps per closure alone do not settle that: the clock intervals between closures matter too. Farther away, the account must recover the measured radial behavior instead of keeping `g` constant everywhere.
+
+I cannot choose both maps after seeing the fall and count the resulting fit as an explanation. The Apple–Earth closure and the selected clock must determine them, with the same rules surviving changes of release height and test body.
 
 The equation above is therefore a construction, not a completed gravity law.
 
@@ -149,7 +153,7 @@ The Earthward direction crosses a changing Earth-anchored resolution map.
 
 A short horizontal path near one altitude can remain in approximately the same local ground. Its displayed mapping may therefore change much less over that path. The Apple–Earth relation still participates; “horizontal” does not mean “unrelated to Earth.” Curvature, rotation, altitude, atmosphere, and support still matter.
 
-The point is only that a radial path crosses the proposed gradient directly, while a short tangential path can remain near one band of it.
+The point is only that a radial path crosses the proposed gradient directly, while a short tangential comparison can remain near one band of it. Give the same apple a sideways velocity and it still falls Earthward; the tangential comparison does not cancel the radial continuation.
 
 That prevents the framework from turning every relation with Earth into the same downward effect.
 
@@ -157,7 +161,7 @@ That prevents the framework from turning every relation with Earth into the same
 
 Gravity changes more than falling trajectories. Clock comparisons also depend on height.
 
-[Chou and colleagues](https://doi.org/10.1126/science.1192720) measured the gravitational frequency difference between optical clocks separated vertically by only 33 centimetres. [Bothwell and colleagues](https://doi.org/10.1038/s41586-021-04349-7) later resolved gravitational redshift across a millimetre-scale atomic sample.
+[Chou and colleagues](https://doi.org/10.1126/science.1192720) measured the change in an optical-clock comparison after raising one clock by only 33 centimetres. [Bothwell and colleagues](https://doi.org/10.1038/s41586-021-04349-7) later resolved gravitational redshift across a millimetre-scale atomic sample.
 
 These experiments do not prove my relational-budget interpretation. They make its job harder and clearer.
 
@@ -169,7 +173,7 @@ The relation has to close.
 
 For this to become more than an ontological sketch, it must derive:
 
-1. how the Apple–Earth closure determines `F_E`;
+1. how the Apple–Earth closure determines `F_E` and the proposed step `ΔR_AE`;
 2. how a physical clock maps its cycles to closure count;
 3. why the near-Earth limit gives the observed approximately constant `g`;
 4. how the result changes with radius and recovers inverse-square behavior where that approximation applies;
@@ -179,16 +183,10 @@ For this to become more than an ontological sketch, it must derive:
 
 If it cannot do those things, then the apple idea fails as physics, even if it remains a useful way to think about Stage.
 
-I am also deliberately stopping here. Black holes, dark matter, dark energy, galaxies, and civilization-scale complexity belong to later deductions. Adding them now would hide the one correction this apple is supposed to make.
-
-The apple is not crossing a prewritten cosmic grid. Apple and Earth are repeatedly resolving a relation. Stage packages each result, and our ruler and clock read the package.
+In this candidate picture, apple and Earth are repeatedly resolving a relation. Stage packages each result, and our ruler and clock read the package.
 
 We see the apple fall farther during each later equal clock interval.
 
 But after stretching the budget-conditioned ruler back out, the underlying subtraction may be the same.
 
 > **Maybe the apple accelerates in metres because it falls the same relational distance every time.**
-
-> **Article Slot:** URL: https://soutame.substack.com/p/why-does-motion-make-a-ruler-shorter-aa1
-
-> **Article Slot:** URL: https://soutame.substack.com/p/gravity-is-the-universe-deleting

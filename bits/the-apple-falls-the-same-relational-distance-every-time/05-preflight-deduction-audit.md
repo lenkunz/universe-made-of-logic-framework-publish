@@ -38,6 +38,7 @@ The article therefore treats contraction and compute-stretch as inverse Stage ch
 | The apple literally stretches | Stretch and contraction are inverse readings of the relation |
 | Gravity is only in a human mind | Perception means the real domain-relative Stage resolution |
 | Constant step proves constant acceleration | The result depends on the still-undetermined `F_E` and clock mapping |
+| Any nonlinear or ground-compressed chart widens later ruler gaps | The inverse must become steeper Earthward over the selected increasing, invertible interval; the clock correspondence independently controls the time labels |
 | Horizontal motion has no Earth relation | A short tangential path may share approximately constant local mapping while Earth remains consequential |
 
 ## Physics check
@@ -46,12 +47,16 @@ The article preserves the standard near-surface free-fall approximation, the uni
 
 No numerical `R_all`, `F_E`, metric, inverse-square derivation, or new prediction has been invented. The article explicitly says a successful account must reproduce both spatial fall and clock/frequency comparisons and distinguish itself empirically from a coordinate restatement of established physics.
 
+The September 9 review replaces the compressed-sheet analogy in both the article and detailed dossier with the owning source's inverse-steepening condition. The article states the joint mapping `s(t) = r_0 - F_E^(-1)(U_0 - n(t)ΔR_AE)` and requires it to recover release from rest. Fitting the two missing maps after seeing the trajectory is explicitly excluded as a derivation. A sideways velocity does not cancel Earthward free fall.
+
+The clock claims were checked against the [NIST researchers' account of the 33 cm clock-height change](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=922480) and [Bothwell and colleagues' primary manuscript](https://arxiv.org/abs/2109.12238). The article retains the papers' canonical DOI links. NASA and Eöt-Wash supply the ordinary free-fall and universality constraints.
+
 ## Publication and scope check
 
-Before preparation and after the article/image build, the repository RSS snapshot contained no exact match for the title or slug. The preserved snapshot reports **Tue, 08 Sep 2026 15:54:08 GMT**, with **35 items**. **Gravity is the universe deleting space** is the nearest published episode; the manifest records why this one is distinct.
+The preparation snapshot had no matching episode. The refreshed post-revision snapshot reports **Wed, 09 Sep 2026 05:32:48 GMT**, with **36 items**, and includes an exact-title match published **Tue, 08 Sep 2026 19:43:54 GMT** with an audio enclosure. The manifest and production index now record the established Substack identity. This revision updates the repository companion and dossier, not the live post or audio.
 
 The black-hole, galaxy/civilization, dark-matter, and dark-energy branches are excluded by design. They remain preserved in source and in the held cosmology topic entry.
 
 ## Delivery check
 
-The standard preparation files and standalone article are present. The article embeds a matching editorial image by relative path and includes a visible scope caption. Audio remains pending. A repository commit does not constitute Substack publication.
+The standard preparation files and standalone article are present. The existing 1280×720 WebP was visually inspected and retained: one apple, translucent successive positions, curved ground and grid, no embedded text or arrows. The article embeds it by relative path and includes a visible conceptual-scope caption. Four established article handoffs are placed beside the relevant discussion. No hidden production comments appear in the article. Audio is available on Substack; no repository audio file was added.
