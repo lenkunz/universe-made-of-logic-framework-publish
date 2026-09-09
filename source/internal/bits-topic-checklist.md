@@ -1,6 +1,6 @@
 # Bits Topic Checklist — My GUT Deduction
 
-Updated: 2026-09-08
+Updated: 2026-09-09
 
 Purpose: prevent future Bits packages from duplicating an already-published topic, repeating the same central mechanism with cosmetic new examples, or preparing the same candidate twice.
 
@@ -16,6 +16,44 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 
 # Published Bits
 
+## 2026-09-09
+
+- [x] **The Apple Falls the Same Relational Distance Every Time**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/the-apple-falls-the-same-relational
+  - RSS publication time: 2026-09-09 02:43:54 +07:00.
+  - Main question: could an apple lose the same amount of unresolved Apple–Earth relation at every closure while a clock and ruler present that process as acceleration?
+  - Framework hook: `R_A + R_E + R_AE → R_all(A↔E)`; equal deductions in an Earth-anchored compute-stretched coordinate can map to acceleration-like ordinary displacement.
+  - Nearest overlap: **Gravity is the universe deleting space**, **Stage Is Where Light Meets Space**, **The Clock Reading Is Not the Ontology**, **Why Does Motion Make a Ruler Shorter?**.
+  - Boundary: no derived `F_E`, constant physical acceleration, inverse-square law, or strong-field metric yet.
+  - Package: `bits/the-apple-falls-the-same-relational-distance-every-time/`
+
+## 2026-09-08
+
+- [x] **They Wish for an Object, So They Get an Object**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/they-wish-for-an-object-so-they-get
+  - RSS publication time: 2026-09-08 09:06:16 +07:00.
+  - External topic: single-particle detection, double-slit-type interference, apparatus, measurement grain.
+  - Main question: when we build a fine-grain instrument to obtain an object-like result, what does that result establish about the relation before measurement?
+  - Framework hook: the wish becomes a supported coarse direction, the apparatus a fine constraint, and the result resolves at that grain; open detail need not have been exhaustively rendered beforehand.
+  - Nearest overlap: **The Universe Only Renders on a Budget**, **Why precision is a trap**, **Stage Is Where Light Meets Space**, **Perception Is a Chain of Possibilities**.
+  - Boundary: quantitative quantum correspondence remains incomplete; the episode does not replace standard quantum predictions.
+  - Package: `bits/they-wish-for-an-object-so-they-get-an-object/`
+
+## 2026-09-07
+
+- [x] **Perception Is a Chain of Possibilities**
+  - Status: **PUBLISHED**
+  - URL: https://soutame.substack.com/p/perception-is-a-chain-of-possibilities
+  - RSS publication time: 2026-09-07 18:11:03 +07:00.
+  - External topic: telescope receiving structure, useful resolution, tools and plans as reusable support.
+  - Main question: how does what a domain encounters become support for what it can encounter and do next?
+  - Framework hook: participating domains carry established coarse constraints; a resolved relation can become another domain; fine establishment can create coarse ground for further possibility.
+  - Nearest overlap: **Stage Is Where Light Meets Space**, **Why Our Solutions Become Our Anchors**, **When Does a Crowd Become a Mind?**, **Your Data Is Never Really a 1 or a 0**.
+  - Boundary: broad perception does not require consciousness; hosted does not mean independent; possibility does not imply guaranteed occurrence.
+  - Package: `bits/perception-is-a-chain-of-possibilities/`
+
 ## 2026-09-06
 
 - [x] **Why Does Heat Draw a Curve?**
@@ -26,7 +64,6 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
   - Main question: why does thermal radiation have a spectral peak, and can a changing grain comparison with a local repeat rule supply its shape?
   - Framework hook: a local ratio fixed over repeats can vary across the grain sweep; the geometric repeat sum is exact conditional mathematics.
   - Nearest overlap: **The CMB Is Losing the Resolution Race**, **Stage Is Where Light Meets Space**, **Why Does Motion Make a Ruler Shorter?**.
-  - Why distinct: owns local spectrum generation and weighting rather than cosmological cooling or an inertial ruler factor.
   - Boundary: physical Planck argument, frequency weighting, normalization, and native repeat identification remain incomplete.
   - Package: `bits/why-does-heat-draw-a-curve/`
 
@@ -76,60 +113,26 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 
 ## 2026-08-28
 
-- [x] **The CMB Is Losing the Resolution Race**
-  - URL: https://soutame.substack.com/p/the-cmb-is-losing-the-resolution
-  - External topic: CMB temperature, blackbody spectrum, anisotropy, cosmological cooling.
-  - Framework hook: cross-resolution comparison; fine relational density can compound faster than broad coarse relation; native spectral generation/T(z) remain audits.
-  - Package: `bits/the-cmb-is-losing-the-resolution-race/`
-
-- [x] **Stage Is Where Light Meets Space**
-  - URL: https://soutame.substack.com/p/stage-is-where-light-meets-space
-  - External topic: perspective, angular projection, local measurement, relational viewpoint.
-  - Framework hook: `Relation + Domain → Stage`; Afference/Efference orientation; perception as Stage-side resolution.
-  - Package: `bits/stage-is-where-light-meets-space/`
+- [x] **The CMB Is Losing the Resolution Race** — CMB temperature/blackbody/cosmological cooling; cross-resolution comparison. URL: https://soutame.substack.com/p/the-cmb-is-losing-the-resolution
+- [x] **Stage Is Where Light Meets Space** — perspective, angular projection, local measurement; `Relation + Domain → Stage`. URL: https://soutame.substack.com/p/stage-is-where-light-meets-space
 
 ## 2026-08-27
 
-- [x] **The Twin Paradox Is a Path Comparison**
-  - URL: https://soutame.substack.com/p/the-twin-paradox-is-a-path-comparison
-  - External topic: twin paradox, proper-time comparison, turnaround, reunion.
-  - Framework hook: a path is an ordered accumulation of relations.
-  - Package: `bits/the-twin-paradox-is-a-path-comparison/`
-
-- [x] **Why Does Motion Make a Ruler Shorter?**
-  - URL: https://soutame.substack.com/p/why-does-motion-make-a-ruler-shorter-aa1
-  - External topic: length contraction, simultaneity, receiver/source comparison.
-  - Framework hook: anchor-closed resolution comparison and receiver-side projection.
-  - Package: `bits/why-does-motion-make-a-ruler-shorter/`
-
-- [x] **The Clock Reading Is Not the Ontology**
-  - URL: https://soutame.substack.com/p/the-clock-reading-is-not-the-ontology-8d6
-  - External topic: relativistic clock/process-rate measurements.
-  - Framework hook: persistence relation and bounded composite; clock reading is surfaced comparison, not primitive time.
-  - Package: `bits/the-clock-reading-is-not-the-ontology/`
+- [x] **The Twin Paradox Is a Path Comparison** — proper-time/path comparison; path as ordered accumulation of relations. URL: https://soutame.substack.com/p/the-twin-paradox-is-a-path-comparison
+- [x] **Why Does Motion Make a Ruler Shorter?** — length contraction/simultaneity; anchor-closed receiver/source comparison. URL: https://soutame.substack.com/p/why-does-motion-make-a-ruler-shorter-aa1
+- [x] **The Clock Reading Is Not the Ontology** — clock/process-rate measurement; clock readout is surfaced comparison, not primitive time. URL: https://soutame.substack.com/p/the-clock-reading-is-not-the-ontology-8d6
 
 ## 2026-08-25
 
-- [x] **Why Does a Crack Turn?**
-  - URL: https://soutame.substack.com/p/why-does-a-crack-turn
-  - External topic: fracture mechanics, crack-path selection, branching, disorder, evolving stress fields.
-  - Framework hook: resolved history becomes consequential ground without pre-rendering one route.
-  - Package: `bits/why-does-a-crack-turn/`
+- [x] **Why Does a Crack Turn?** — fracture mechanics and evolving stress fields; resolved history becomes consequential ground without pre-rendering one route. URL: https://soutame.substack.com/p/why-does-a-crack-turn
 
 ## 2026-08-23
 
-- [x] **What If Reality Is the Dream That Learned to Anchor Dreams?**
-  - URL: https://soutame.substack.com/p/what-if-reality-is-the-dream-that
-  - Mode: Hope-derived thought experiment, explicitly not framework ground.
-  - Framework hook used as constraint: seated relation becomes ground; anchoring supplies reusable support.
-  - Package: `bits/reality-the-dream-that-learned-to-anchor-dreams/`
+- [x] **What If Reality Is the Dream That Learned to Anchor Dreams?** — Hope-derived thought experiment, explicitly not framework ground; seated relation becomes reusable ground. URL: https://soutame.substack.com/p/what-if-reality-is-the-dream-that
 
 ## 2026-08-21
 
-- [x] **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?**
-  - URL: https://soutame.substack.com/p/why-does-an-air-conditioner-have
-  - External topic: vapor-compression refrigeration, phase change, pressure, heat transfer.
-  - Framework hook: thermodynamic test case for whether several surfaced quantities can correspond to one deeper relational change; mapping provisional.
+- [x] **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?** — vapor-compression refrigeration; thermodynamic correspondence remains provisional. URL: https://soutame.substack.com/p/why-does-an-air-conditioner-have
 
 ## 2026-08-19
 
@@ -170,51 +173,27 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 
 # Prepared but not published
 
-- [ ] **The Apple Falls the Same Relational Distance Every Time** — working title
-  - Status: **ARTICLE-READY; package, article, and image prepared; audio pending**.
-  - Main question: what if gravity does not first warp a completed length, but compute budget warps how the Apple–Earth relation appears on Stage?
-  - Framework hook: `R_A + R_E + R_AE → R_all(A↔E)`; equal deductions in an Earth-anchored compute-stretched coordinate can map to acceleration-like ordinary displacement.
-  - Distinct from **Gravity is the universe deleting space**: that earlier piece foregrounded contraction; this episode owns the semantic correction that contraction and stretch are inverse charts of budget-conditioned perception.
-  - Boundary: no derived `F_E`, constant physical acceleration, inverse-square law, or strong-field metric yet. Keep the black-hole, civilization, dark-matter, and dark-energy branches out of this first episode except for at most one future-work sentence.
-  - Package: `bits/the-apple-falls-the-same-relational-distance-every-time/`.
-  - Source sync: `R20260908-BWP-01`.
-
-- [ ] **Dark Matter Is the Trace; Dark Energy Is the Difference** — working title
-  - Status: **HOLD / preserve, do not deploy beside the gravity Bit**.
+- [ ] **Dark Matter Is the Trace; Dark Energy Is the Difference** — **HOLD**
   - Main question: can retained anchor history surface as dark-matter-like relation while differential refinement between two grounds surfaces as dark-energy-like scale/redshift?
   - Framework hook: stored history is present constraint, not rendered detail; `DE(A↔B)` belongs to the comparison; composition adds active relations without enlarging one cap.
-  - Includes later branches: galaxy/civilization mirrors, observational disagreement between galaxy pairs, black-hole/horizon analogy, and possible internally rich coarse domains.
-  - Boundary: retained trace is not saved budget; civilization-to-gravity bridge is missing; Bullet Cluster lensing and the full cosmological observation web must be recovered. Interior universes and safe black-hole entry are not established.
+  - Boundary: retained trace is not saved budget; civilization-to-gravity bridge and full observational recovery remain missing. Interior universes and safe black-hole entry are not established.
   - Source sync: `R20260908-BWP-01`.
 
 - [ ] **Does a Mind End at the Skin?**
-  - Status: **PREPARED / PACKAGE-READY**; user requested Bit plus source sync.
+  - Status: **PREPARED / PACKAGE-READY**.
   - Main question: how can inner relations and their compartment keep participating, and does a body's outline bound a conscious domain's relations?
   - Framework hook: independent local `R_all` caps survive composition; AB brings its own projection and inherited bias to equally capped AB↔C.
-  - Distinct from Crowd/Mind's collective organization and Perception's successive reusable ground; owns active inner/composite participation and the body-boundary question.
-  - Boundaries: experience criterion unresolved; sound and atomic-direction mappings remain candidate; no personal-event evidence or demonstrated unknown channel.
+  - Nearest overlap: **When Does a Crowd Become a Mind?**, **Perception Is a Chain of Possibilities**.
+  - Boundaries: experience criterion unresolved; sound and atomic-direction mappings remain candidate; no demonstrated unknown channel.
   - Package: `bits/does-a-mind-end-at-the-skin/`.
-  - Source sync: `R20260907-RC-01`; publication outputs remain downstream.
-
-
-- [ ] **Perception Is a Chain of Possibilities**
-  - Status: **PREPARED / PACKAGE-READY**
-  - Selection: explicitly requested from the current perception discussion.
-  - Main question: how does what a domain encounters become support for what it can encounter and do next?
-  - Examples: telescope and intervening M; funded lakeside-house plan; manufactured hammer; shared story and particular reading.
-  - Framework hook: participating domains carry established coarse constraints; a resolved relation can become another domain; fine establishment can create coarse ground for further possibility.
-  - Nearest overlap: **Stage Is Where Light Meets Space**, **Why Our Solutions Become Our Anchors**, **When Does a Crowd Become a Mind?**, **Your Data Is Never Really a 1 or a 0**; prepared **Why Does Ketchup Refuse to Flow Until You Hit It?**.
-  - Why distinct: owns recursive participation through the receiving arrangement and its results, including a hosted project becoming consequential before its final object exists.
-  - Boundary: broad perception does not require consciousness; hosted does not mean independent; asymmetric support remains explicit; coarse projection is a conditional constraint, not guaranteed fulfillment. Gravity and traversal mappings retain their current candidate status.
-  - Package: `bits/perception-is-a-chain-of-possibilities/`
+  - Source sync: `R20260907-RC-01`.
 
 - [x] **The Traffic Jam That Nobody Caused**
-  - Status: **HOLD / do not use as the next Bit yet**
+  - Status: **HOLD / do not use as the next Bit yet**.
   - External topic: phantom traffic jams / stop-and-go waves.
   - Main question: how can a stable jam appear without a bottleneck or single culprit?
   - Framework hook: Lane 3, law among lower relations.
   - Nearest overlap: **When Does a Crowd Become a Mind?**; moderate to high conceptual overlap.
-  - Decision: keep in reserve.
 
 - [ ] **Why Does a Spinning Top Fall Sideways?**
   - Status: **PREPARED**
@@ -229,11 +208,20 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
   - Status: **PREPARED**
   - External topic: non-Newtonian rheology, shear thinning, yield-stress-like behavior, structured suspensions/weak gels, formulation-dependent flow.
   - Main question: why can ketchup sit stubbornly in an upside-down bottle, then become much easier to move after squeezing, shaking, or tapping it?
-  - Framework hook: **a relation can be a consequential participant in present topology**; observed response can belong to state plus interaction rather than an isolated-object scalar alone.
-  - Nearest overlap: **Air Is Not Less Compute Than Stone**, **What Is a Flame If Its Matter Never Stays?**, **Why Does a Crack Turn?**, and prepared **Why Does a Spinning Top Fall Sideways?**.
-  - Why distinct: owns non-Newtonian flow and the difference between a material label and an interaction-dependent constitutive response.
-  - Boundary: rheology already explains ketchup; framework has not derived viscosity, yield stress, shear thinning, thixotropy, or constitutive equations. Budget is not stress or viscosity.
+  - Framework hook: a relation can be a consequential participant in present topology; response can belong to state plus interaction rather than an isolated scalar.
+  - Nearest overlap: **Air Is Not Less Compute Than Stone**, **What Is a Flame If Its Matter Never Stays?**, **Why Does a Crack Turn?**, prepared **Why Does a Spinning Top Fall Sideways?**.
+  - Boundary: rheology already explains ketchup; framework has not derived constitutive equations. Budget is not stress or viscosity.
   - Package: `bits/why-does-ketchup-refuse-to-flow-until-you-hit-it/`
+
+- [ ] **Why Can Bending Metal Make It Stronger?**
+  - Status: **PREPARED**
+  - External topic: work/strain hardening, dislocations, plastic deformation, strain-path dependence, recovery and annealing.
+  - Main question: why can plastic deformation make many metals harder to deform again, even though deformation sounds like damage?
+  - Framework hook: present topology is ground; stored history need not be rendered detail; path changes what becomes cheap or difficult to resolve next.
+  - Nearest overlap: **Why Our Solutions Become Our Anchors**, **Why Does a Crack Turn?**, **Your Data Is Never Really a 1 or a 0**; prepared **Why Does a Spinning Top Fall Sideways?** and **Why Does Ketchup Refuse to Flow Until You Hit It?**.
+  - Why distinct: owns the materials-science mechanism where deformation-generated dislocation structure obstructs later plastic flow.
+  - Boundary: materials science already explains work hardening; the framework has not derived dislocation dynamics, stress-strain curves, recovery, or alloy-specific hardening. Budget is not stress, strain, energy, hardness, or dislocation density.
+  - Package: `bits/why-can-bending-metal-make-it-stronger/`
 
 ---
 
@@ -255,6 +243,7 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 - When Practice Makes Thinking Disappear
 - Why Does a Crack Turn?
 - Your Data Is Never Really a 1 or a 0
+- Why Can Bending Metal Make It Stronger? — prepared; deformation history carried by present microstructure
 
 ### Identity / persistent-pattern caution
 - What Is a Flame If Its Matter Never Stays?
@@ -262,9 +251,10 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 - The Traffic Jam That Nobody Caused — hold
 
 ### Perception / recursive participation
-- Perception Is a Chain of Possibilities — prepared; receiving arrangements and their results become participants
+- Perception Is a Chain of Possibilities — published; receiving arrangements and their results become participants
 - Stage Is Where Light Meets Space — published; perspective and domain-relative encounter
 - Why Our Solutions Become Our Anchors — published; reuse and commitment
+- They Wish for an Object, So They Get an Object — published; wish/apparatus/result grain
 
 ### Relativity / path / Stage sequence
 - The Clock Reading Is Not the Ontology
@@ -297,6 +287,7 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 - The Twin Paradox Is a Path Comparison
 - Why Does a Spinning Top Fall Sideways? — prepared; rotational-vector mechanism
 - Why Does Ketchup Refuse to Flow Until You Hit It? — prepared; constitutive response depends on structured material plus forcing
+- Why Can Bending Metal Make It Stronger? — prepared; deformation changes the microstructure governing later deformation
 
 ### Hope / metaphysical origin thought experiments
 - What If Reality Is the Dream That Learned to Anchor Dreams?
