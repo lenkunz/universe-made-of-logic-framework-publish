@@ -14,6 +14,7 @@ The current publication-facing semantic sources live directly under `source/`:
 - `a-universe-made-of-logic.md`
 - `the-possibility-lane.md`
 - `the-lane-and-the-rung.md`
+- `evidence-and-interpretation.md`
 
 Future semantic revisions should update these stable filenames **in place**. Revision IDs and timestamps remain inside each Markdown file, while Git history supplies the revision archive.
 
@@ -24,6 +25,8 @@ Future semantic revisions should update these stable filenames **in place**. Rev
 Latest scoped extension: **R20260906-0104-01 / 2026-09-06 01:04 +07:00**. The [grain-sweep note](changes/2026-09-06-grain-sweep-and-repeated-comparison.md) adds a conditional repeat-weight construction to the main spectrum section and status ledger. The remaining maintained sources retain the full-set checkpoint above.
 
 Latest semantic correction: **R20260908-BWP-01 / 2026-09-08 +07:00**. The [budget-warped perception map](changes/2026-09-08-budget-warped-perception-gravity-and-cosmology.md) makes Stage resolution prior to length/frequency readout, adds the Apple–Earth stretched-coordinate gravity candidate, and preserves the horizon/dark-sector branches under explicit publication and evidence boundaries.
+
+Latest methodology addition: **R20260911-EVI-01 / 2026-09-11 +07:00**. [`evidence-and-interpretation.md`](evidence-and-interpretation.md) records ontology-conditioned evidential weighting as a qualitative reference profile and keeps correspondence evidence distinct from claims of intentional arrangement or a particular hidden mechanism.
 
 ## Separate personal / speculative source
 
@@ -40,6 +43,7 @@ This document is intentionally **not framework ground** unless a later semantic 
 - `changes/2026-09-06-grain-sweep-and-repeated-comparison.md`
 - `changes/2026-09-07-recursive-compartments-and-relational-reach.md`
 - `changes/2026-09-08-budget-warped-perception-gravity-and-cosmology.md`
+- `changes/2026-09-11-ontology-conditioned-evidence.md`
 
 When a semantic correction changes framework ground, update the affected canonical sources and the relevant status/change-map files in the same sync.
 
