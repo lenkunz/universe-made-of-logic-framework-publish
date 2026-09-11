@@ -27,3 +27,13 @@ The suggested use of ambiguous coincidences as a tutorial is not evidence that a
 ## Assistant-added consciousness criteria
 
 The prior reply listed memory, self/world distinction, integrated projection, and Aim. These are possible questions for investigation, not user-established axioms or a proven threshold. Do not silently install that list as the definition of consciousness. Likewise, a function's input/output organization does not by itself explain experience.
+
+## September 11 methodology clarification
+
+The later ontology-conditioned evidence update narrows the evidential guardrail rather than deleting it. See [`../evidence-and-interpretation.md`](../evidence-and-interpretation.md) and the [September 11 change map](../changes/2026-09-11-ontology-conditioned-evidence.md).
+
+Personally encountered or unsolicited correspondences may be preserved as evidence relevant to the ontology when chronology, specificity, independence, recurrence, and interpretive freedom make them consequential under that ontology. What this note continues to prohibit is the stronger promotion from correspondence to a specific intended arrangement, sender, tutorial, or hidden mechanism without additional constraint.
+
+In short:
+
+> **Correspondence may be evidence for an ontology without being evidence of intention.**
