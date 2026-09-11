@@ -4,7 +4,7 @@ Title: **Does a Mind End at the Skin?**
 Subtitle: *The parts keep acting. So does the whole.*  
 Slug: `does-a-mind-end-at-the-skin`  
 Created: 2026-09-07 Asia/Bangkok  
-Status: **package-ready**  
+Status: **hold — not planned for publication**
 Selection: User-requested Bit and source sync from the recursive `R_all`, compartment, function, ego, and consciousness discussion.  
 Published: No match in the checked feed.  
 Substack URL: Not assigned.
@@ -56,3 +56,5 @@ Maintained-source revision: **R20260907-RC-01**. The [source map](../../source/c
 ## Publication sync
 
 Before selection, the preferred live proxy was attempted and unavailable. The repository snapshot reports **Mon, 07 Sep 2026 10:21:30 GMT**, with 33 entries. No matching title or slug was present. The final fresh recheck is recorded in the audit. Package preparation does not publish to Substack or generate NotebookLM audio.
+
+On 2026-09-11, Len said this episode is not expected to be published. Preserve the package as continuity, but do not advance it into article/image/audio production or publication unless Len explicitly reopens it.

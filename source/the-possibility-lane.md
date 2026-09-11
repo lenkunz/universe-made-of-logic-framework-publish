@@ -2,9 +2,9 @@
 
 *How much can remain open from the ground that already exists — the widening side of the framework.*
 
-<!-- Revision: R20260907-RC-01 -->
-<!-- Updated: 2026-09-07 Asia/Bangkok -->
-<!-- Change: Clarifies recursive compartments, equal local R_all caps, retained inner participation, and scoped candidate applications. -->
+<!-- Revision: R20260911-RHY-01 -->
+<!-- Updated: 2026-09-11 Asia/Bangkok -->
+<!-- Change: Clarifies attention-independent seated constraint, relational continuation, and immediate binding versus budgeted Stage resolution. -->
 <!-- Audited source: the-possibility-lane-updated-2026-08-19.md -->
 <!-- Semantic consistency basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
 <!-- Also incorporates deductions concluded during the 2026-08-21 P-Lane audit conversation and 2026-08-25 retained-history clarification -->
@@ -424,6 +424,18 @@ Nothing needs to be described as a possibility-fuel being consumed.
 
 The difference is simply how much constraint has already seated.
 
+### A seated Aim does not need continuous attention
+
+Once an Aim or other relation has seated into supported ground, the originating domain does not have to keep rendering it consciously for the constraint to remain consequential.
+
+A person can stop thinking about a lakeside house while ownership, access, obligation, and future use remain available relations. A programmer can stop thinking about written code while the code continues to constrain what a supported machine will do when the relevant input reaches it.
+
+This is not action at a distance produced by attention. It is reuse of seated relation.
+
+Nor does storage perform every future step by itself. The house requires an actual later encounter for one of its relations to matter. Code requires an executing arrangement. A durable conversation record can support continuation after a pause without proving that the conversation autonomously resolved in the silence.
+
+> **The originator does not have to keep imagining a relation for later resolution to begin from it.**
+
 ---
 
 ## Projection and interference meet on Stage
@@ -445,6 +457,18 @@ Several projections can meet. Individually weak interference can become a strong
 Projection can change the situation being predicted: a domain's action becomes one of the constraints on the next outcome. That is different from selecting a completed future.
 
 A projection remains interruptible. Changing a bodily, environmental, or other supporting relation can change which continuation can seat.
+
+The user's compact wording is that **projection and interference are instant while Stage resolution is not**. Because time is not primitive here, “instant” should not be pictured as a signal racing through a pre-existing timeline. It means the relation does not need a fundamental clock in order to bind the participating ground. What becomes a usable fine consequence still has to resolve through the budget and support of a Stage encounter.
+
+So:
+
+`immediate coarse binding`
+
+does not imply:
+
+`immediate controllable fine output`.
+
+No faster-than-light signalling channel or backward rewrite of seated history follows from this distinction. Measured causal structure remains part of physical completion.
 
 ## The compartment brings its own projection
 
@@ -1368,4 +1392,3 @@ It can begin from whatever ground has already learned how to stand.
 ---
 
 *This is the canonical semantic source for the rebuilt Possibility Lane article. Its public Substack presentation may later be reorganised, shortened, illustrated, or given article-card placements in Work, but the presentation pass should not change the Lane meanings, the hosted/independent distinction, the resolution-frontier architecture, the retained-history constraint, or the dependency structure stated here.*
-

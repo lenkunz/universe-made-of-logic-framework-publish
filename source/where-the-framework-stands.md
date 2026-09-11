@@ -2,10 +2,10 @@
 
 *What is derived, what corresponds, what is still being completed, what remains unresolved, and how earlier framings resolved. Updated as things move.*
 
-<!-- Revision: R20260908-BWP-01 -->
-<!-- Updated: 2026-09-08 Asia/Bangkok -->
-<!-- Change: Makes budget-conditioned Stage resolution prior to length/frequency readouts and records the revised gravity and cosmology frontier. -->
-<!-- Supersedes: R20260907-RC-01 -->
+<!-- Revision: R20260911-RHY-01 -->
+<!-- Updated: 2026-09-11 Asia/Bangkok -->
+<!-- Change: Records attention-independent seated relation and preserves the boundary between immediate binding and budgeted Stage resolution. -->
+<!-- Supersedes: R20260908-BWP-01 -->
 
 ---
 
@@ -79,6 +79,12 @@ The latest scoped source revision is **R20260908-BWP-01**. Compute budget constr
 
 The [September 8 map](changes/2026-09-08-budget-warped-perception-gravity-and-cosmology.md) records the Apple–Earth stretched-coordinate recurrence, relational horizon distinctions, galaxy/civilization mirror branch, retained-trace dark-matter candidate, and pair-relative dark-energy candidate. Only the gravity/perception Bit is next in publication order; the wider cosmology branches are preserved but held.
 
+## September 11 seated-relation clarification
+
+Revision **R20260911-RHY-01** separates a relation's continued consequence from one participant's continuous attention or fine rendering. Once seated, relation can remain available as present ground and become consequential again when another supported encounter reaches it. Stored constraint alone is not autonomous execution.
+
+The same update preserves the user's wording that projection/interference are instant while Stage resolution is not. In framework terms, immediate relational binding does not require a primitive clock, while usable fine consequence remains budgeted. This does not establish faster-than-light signalling or backward control. See the [September 11 map](changes/2026-09-11-seated-relation-attention-and-stage-resolution.md).
+
 ## Derived internally
 
 *These are framework-native deductions. Physical names are kept out of this section unless the physical identification itself has also been earned.*
@@ -100,6 +106,7 @@ The [September 8 map](changes/2026-09-08-budget-warped-perception-gravity-and-co
 - **Grain and scope are independent.** A coarse relation can be extremely high-leverage without becoming finely specified.
 - **Stored history is not rendered detail.** The present topology can preserve enough constraint to bound later resolution without storing a fully rendered past.
 - **Stored, accessible, and presently rendered are different states.** Failure to retrieve a relation does not by itself mean it was erased.
+- **Attention is not the persistence supply for an already-seated relation.** A relation can remain consequential after the originating participant attends elsewhere. Further execution or resolution still requires an actual supported encounter.
 - **Points and domains are grain-relative, and their unity can itself be relationally produced.** An atom, person, planet, seated relation, or larger structure can count as one point when it participates as one at the grain being considered; at a sufficiently expanded grain, that point/domain can be read as stabilised relational composition.
 - **Referability-as-one recurs without ontological reset.** When a relational composition stabilises enough to participate as one, it can occupy a local zero-role relative to the next unresolved distinction. This does not recreate the original Level 0 or erase accumulated ground.
 - **Identity is topological; size is relational.** Uniformly changing seating density does not by itself change relational identity if the relational pattern is preserved.
@@ -132,6 +139,7 @@ The [September 8 map](changes/2026-09-08-budget-warped-perception-gravity-and-co
 - **Action and reaction are not symmetric costs.** New binding costs; later resolution through already-seated structure can become comparatively cheap. “Reaction = action” names a change of grain: an initiating action can be a finer reaction to a present projection.
 - **Re-seating cost depends on which existing relations a change makes consequential—not simply how many relations the object contains.** Environmental support or resistance belongs in the closure when it changes the continuation.
 - **Projection is outgoing possibility/bias; interference is incoming consequence.** Several weak projections can become consequential together. Projection can be interrupted by a change in support.
+- **Immediate binding and fine resolution are distinct.** Projection/interference can belong to the present relation without waiting for a primitive clock; Stage resolution remains budgeted and ordered. This is not a derived signalling channel.
 - **No external selector chooses a law.** Whatever the present logic permits can grow, and the compatible structure requiring the least relational work per further unit can dominate the surfaced behaviour.
 - **Fastest growth means lowest relational cost per further stable unit, not greatest total budget.**
 - **Growth has several simultaneous channels.** Point/count growth, denser shared relation, configuration/dynamic growth, and logical/reusable-ground growth can continue together while their relative costs change.

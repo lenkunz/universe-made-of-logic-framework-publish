@@ -2,9 +2,9 @@
 
 *A complete semantic-source account of the informational topology framework: how relation becomes ground, why resolution costs, and how increasingly rich structure can grow without changing the primitive.*
 
-<!-- Revision: R20260908-BWP-01 -->
-<!-- Updated: 2026-09-08 Asia/Bangkok -->
-<!-- Change: Makes Stage the budget-conditioned package of resolution and revises gravity, redshift, horizon, and dark-sector candidates around that correction. -->
+<!-- Revision: R20260911-RHY-01 -->
+<!-- Updated: 2026-09-11 Asia/Bangkok -->
+<!-- Change: Clarifies attention-independent seated relation and immediate relational binding versus budgeted Stage resolution. -->
 <!-- Audited source: a-universe-made-of-logic-complete-2026-08-19.md -->
 <!-- Semantic consistency basis: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
 <!-- Also incorporates semantic corrections concluded during the 2026-08-20/21 audit conversation -->
@@ -1833,6 +1833,16 @@ Actual erasure requires stronger loss: the distinctions that formerly separated 
 
 > **Dormant is not erased.**
 
+The same rule applies to attention.
+
+A relation need not remain in one participant's current awareness, or be finely rendered at the current Stage, in order to remain consequential. Once seated, it can wait as present ground until another relation makes it relevant again.
+
+A lakeside house does not leave its owner's relations whenever the owner thinks about something else. A written program does not require its programmer to keep thinking about the instructions. A conversation can resume from preserved context after a pause.
+
+But stored constraint is not autonomous execution. The house, code, or record still needs an actual supported encounter for another consequence to resolve.
+
+> **Unattended is not erased. Seated relation can wait; resolution still needs a Stage.**
+
 Memory is therefore generative.
 
 It changes what future resolution can cheaply do.
@@ -1840,6 +1850,8 @@ It changes what future resolution can cheaply do.
 It does not need to replay an exact stored movie.
 
 There is one presently seated relational ground in this account. Past is surviving constraint; future is projection, interference, and open possibility resolving together. Stage is their encounter, not a storage location in a sequence of fully rendered worlds. This does not introduce a universal simultaneous Cut; comparison remains domain-relative.
+
+In this sense projection and interference can be called immediate while fine Stage resolution is not. “Immediate” belongs to relational binding, not to a measured message travelling in zero clock time. Usable consequence remains budgeted, and the framework has not thereby established faster-than-light signalling or backward control of history.
 
 Later resolution may require finer distinctions that the earlier coarse constraint left open. This can look like “backfilling,” but cannot overwrite surviving evidence to force a coherent story. If several histories remain indistinguishable under the retained constraint, coherence alone does not uniquely recover one of them.
 

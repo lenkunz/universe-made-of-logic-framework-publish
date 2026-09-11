@@ -1,3 +1,7 @@
+# HOLD — Do Not Execute
+
+Len placed this package on hold on 2026-09-11 and does not currently plan to publish it. Preserve the package for editorial history, but do not build its article, image, audio, or publication assets unless Len explicitly reopens it.
+
 # Work Prompt — Does a Mind End at the Skin?
 
 Build the written Substack companion and actual editorial image from this package. This is the later presentation build; the package's existence does not mean those assets already exist.

@@ -2,11 +2,11 @@
 
 *Second of three foundational pieces. “Coarse” is one of the framework's most important words, and one of the easiest to accidentally turn into something the framework does not mean.*
 
-<!-- Revision: R20260907-RC-01 -->
-<!-- Updated: 2026-09-07 Asia/Bangkok -->
-<!-- Change: Clarifies recursive compartments, equal local R_all caps, retained inner participation, and scoped candidate applications. -->
-<!-- Semantic basis: source/changes/2026-09-07-recursive-compartments-and-relational-reach.md; current user correction -->
-<!-- Supersedes: R20260905-2350-01 -->
+<!-- Revision: R20260911-RHY-01 -->
+<!-- Updated: 2026-09-11 Asia/Bangkok -->
+<!-- Change: Clarifies that a seated relation can remain consequential without continuous attention or fine rendering, while stored constraint alone does not guarantee autonomous execution. -->
+<!-- Semantic basis: source/changes/2026-09-11-seated-relation-attention-and-stage-resolution.md; current user correction -->
+<!-- Supersedes: R20260907-RC-01 -->
 
 ---
 
@@ -365,6 +365,30 @@ The useful middle is:
 
 ---
 
+## Unattended is not erased
+
+A relation does not have to remain inside one participant's conscious attention in order to remain consequential.
+
+Once it has seated into present ground, a later encounter can begin from it without requiring the originating participant to reconstruct it continuously.
+
+A person can leave a lakeside house and think about something else. A written program can remain available after its programmer goes home. A conversation can pause while enough of its context remains preserved for another message to continue from it.
+
+These examples separate:
+
+`currently attended`
+
+from:
+
+`still seated and able to constrain a later relation`.
+
+They do not turn every stored relation into an autonomous process. Code on a disk still needs a machine, an input, and an executing arrangement. A conversation record can support a later reply without generating one by itself.
+
+> **A seated relation can wait without needing its originator to keep rendering it.**
+
+“Inactive” must therefore name the relation being asked. Not active in one domain's present attention does not mean erased from every ground or unable to become consequential again.
+
+---
+
 ## Hosted does not mean absent from relation
 
 A hosted logic can be real at its own grain while remaining coarse or difficult to access from a wider Stage. Its low visibility there does not measure all the relation it can support within its domain.
@@ -435,4 +459,3 @@ The answer is where the arithmetic starts becoming strange.
 ---
 
 *Next: **Basics III — One and one make three.***
-

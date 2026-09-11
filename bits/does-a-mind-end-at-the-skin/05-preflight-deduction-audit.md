@@ -1,5 +1,7 @@
 # Preflight Deduction and Publication Audit
 
+> **Hold update — 2026-09-11:** Len does not currently plan to publish this Bit. The package is retained for editorial history and must not advance unless explicitly reopened.
+
 Date: 2026-09-07 Asia/Bangkok  
 Scope: User-requested Bit package plus maintained-source semantic sync  
 Inspected main baseline: `fc41dac86135adf5af3f07f5845a3517afccda0b`  

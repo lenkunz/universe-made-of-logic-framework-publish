@@ -2,9 +2,9 @@
 
 *A directory of the two views, level by level, with the surrounding framework articles kept in view. This is the map, not the territory.*
 
-<!-- Revision: R20260908-BWP-01 -->
-<!-- Updated: 2026-09-08 Asia/Bangkok -->
-<!-- Change: Routes the budget-warped perception correction and its scoped gravity, horizon, and dark-sector candidates. -->
+<!-- Revision: R20260911-RHY-01 -->
+<!-- Updated: 2026-09-11 Asia/Bangkok -->
+<!-- Change: Routes the seated-relation/attention clarification and the immediate-binding versus Stage-resolution boundary. -->
 <!-- Based on framework state: source/changes/2026-09-05-stage-projection-and-bits-source-sync.md; maintained sources R20260905-2350-01 -->
 <!-- Supersedes public/index source: the-index-of-the-framework (3).md -->
 
@@ -504,6 +504,7 @@ These are part of the current internal architecture:
 - **Coarse does not mean unfinished, blurry, weak, or less real.**
 - **Coverage and resolution are different.**
 - **Stored history is not fully rendered past detail.**
+- **A seated relation can remain consequential without continuous attention or fine rendering.** Unattended, inaccessible, dormant, and erased are not synonyms; stored constraint still needs a supported encounter for further resolution.
 - **Points and domains are grain-relative, and being one is itself relationally produced.** A stabilised relational composition can become a new referable participant at another grain without resetting accumulated ground.
 - **Identity is topological; size is relational.**
 - **To persist is to keep paying for the distinctions by which a domain remains distinguishable.**
@@ -515,6 +516,7 @@ These are part of the current internal architecture:
 - **Higher structure recruits lower structure; it does not replace it.**
 - **Odd/even Lane pairs have paired onset with staggered stabilisation.**
 - **Represented, established/reusable hosted logic, and independently seated structure are different conditions.** Hosted logic can have its own interference and projection while depending on its host. Independence names a grain and dependency, not absence of all support.
+- **Immediate relational binding is not immediate fine output.** Projection/interference need not wait for a primitive clock to belong to the relation; consequential Stage resolution remains budgeted. No controllable faster-than-light channel follows.
 - **No selector stands above relation choosing the law.** The logic already present constrains what can grow, and cheaper compatible continuation can dominate the surface.
 
 ### Where the newer deductions live
@@ -527,6 +529,7 @@ These are part of the current internal architecture:
 | Budget-warped perception; Apple–Earth gravity; horizon and dark-sector branches | [September 8 map](changes/2026-09-08-budget-warped-perception-gravity-and-cosmology.md), [Main source](a-universe-made-of-logic.md), scale/gravity/dark-sector sections |
 | Scoped clock/ruler factor, receiver Cut, twin path | [Main source](a-universe-made-of-logic.md), clocks section |
 | Projection, interference, present constraint | [P-Lane](the-possibility-lane.md), Aim and budget sections |
+| Seated relation without continuous attention; relational rhythm | [September 11 map](changes/2026-09-11-seated-relation-attention-and-stage-resolution.md), [Basics II](basics-2-coarse-is-not.md), [Main source](a-universe-made-of-logic.md) |
 | Hosted logic, proxy, quest, Tower | [Lane/Rung bridge](the-lane-and-the-rung.md), hosted section |
 | CMB resolution race and native spectrum | [Main source](a-universe-made-of-logic.md), cosmology section |
 | Recent Bits audit and status changes | [September 5 source-sync map](changes/2026-09-05-stage-projection-and-bits-source-sync.md) |

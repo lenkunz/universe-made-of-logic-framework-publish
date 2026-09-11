@@ -28,6 +28,8 @@ Latest semantic correction: **R20260908-BWP-01 / 2026-09-08 +07:00**. The [budge
 
 Latest methodology addition: **R20260911-EVI-01 / 2026-09-11 +07:00**. [`evidence-and-interpretation.md`](evidence-and-interpretation.md) records ontology-conditioned evidential weighting as a qualitative reference profile and keeps correspondence evidence distinct from claims of intentional arrangement or a particular hidden mechanism.
 
+Latest semantic clarification: **R20260911-RHY-01 / 2026-09-11 +07:00**. The [seated-relation map](changes/2026-09-11-seated-relation-attention-and-stage-resolution.md) separates continued relational consequence from continuous attention or fine rendering, and keeps immediate relational binding distinct from budgeted Stage resolution and from any unearned signalling claim.
+
 ## Separate personal / speculative source
 
 - `the-hope-behind-the-framework.md`
@@ -44,6 +46,7 @@ This document is intentionally **not framework ground** unless a later semantic 
 - `changes/2026-09-07-recursive-compartments-and-relational-reach.md`
 - `changes/2026-09-08-budget-warped-perception-gravity-and-cosmology.md`
 - `changes/2026-09-11-ontology-conditioned-evidence.md`
+- `changes/2026-09-11-seated-relation-attention-and-stage-resolution.md`
 
 When a semantic correction changes framework ground, update the affected canonical sources and the relevant status/change-map files in the same sync.
 
