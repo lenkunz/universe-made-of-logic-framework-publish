@@ -3,9 +3,9 @@
 Title: **A Relation Does Not Need Your Attention to Keep Working**
 Subtitle: *The lake house does not disappear when you think about dinner.*
 Slug: `a-relation-does-not-need-your-attention-to-keep-working`
-Status: **package-ready**
+Status: **article-ready**
 Created: 2026-09-11 Asia/Bangkok
-Published: No exact RSS match at preparation time.
+Published: No exact RSS match at the 2026-09-12 article-build recheck; no Substack publication claimed.
 Substack URL:
 
 ## Central question
@@ -49,9 +49,9 @@ The separate brainstorm titles **A Program Does Not Need Its Programmer to Keep 
 - NotebookLM Audio Overview prompt: `03-notebooklm-audio-prompt.md`
 - Work prompt: `04-work-prompt.md`
 - Preflight audit: `05-preflight-deduction-audit.md`
-- Article target: `article/a-relation-does-not-need-your-attention-to-keep-working.md`
+- Article: `article/a-relation-does-not-need-your-attention-to-keep-working.md`
 - Audio target: `audio/a-relation-does-not-need-your-attention-to-keep-working.m4a`
-- Image target: `article/<generated-image-file>`
+- Image: `article/a-relation-does-not-need-your-attention-to-keep-working.webp`
 
 ## Publication notes
 
@@ -64,6 +64,27 @@ This is first in the three-Bit cluster:
 3. **Is the Body the Continuation—or Its Resolution?**
 
 The order moves from the derived clarification, through externally grounded perception, into the explicitly speculative body/continuation proposal.
+
+## Written article build — 2026-09-12 Asia/Bangkok
+
+- Article: **ready**, 1,398 body words, excluding title/subtitle, image caption, and Article Slot blocks.
+- Hero: **ready**, 1672 × 941 WebP (16:9 framing), stored beside the article and embedded with descriptive alt text and a visible Image Caption.
+- Audio: **pending**; no audio file or transcript produced in this build.
+- Semantic authority: current source and status files, including **R20260911-RHY-01** and the September 5 exploratory continuity correction where relevant. This is a presentation-layer build.
+- Publication recheck: the preferred live proxy and upstream podcast feed could not be read by the web fetcher. The current repository fallback `resource/substack-bits-podcast.rss`, built **Sat, 12 Sep 2026 06:39:25 GMT**, contains 36 items and no exact title or slug match for this cluster. The new Substack URL remains empty.
+- Validation: body length, all relative image embeds, WebP decoding and dimensions, visible captions/Article Slots, existing handoff URLs, and absence of hidden production notes checked. Only the three articles, their heroes/manifests, and the production index are part of this build.
+
+The article defines working as remaining able to constrain a later encounter. Ordinary physical and social support comes first. Saved code remains distinct from running execution, the conversation analogy stays brief, and rhythm is explicitly a metaphor for identity through alteration. No autonomous consciousness or perfect retention is inferred.
+
+### Image generation record
+
+Mode: **built-in image generation**. One generated hero; PNG output converted to WebP without semantic editing. The generated image was visually reviewed.
+
+Final generation prompt:
+
+```text
+Use case: photorealistic-natural. Asset type: wide 16:9 editorial hero for an essay about a supported relation remaining consequential while attention is elsewhere. A calm, unoccupied lakeside house at dusk, seen across a modest stretch of water from a sheltered wooden table or broad windowsill in the foreground. The actual house stands clearly on the right side, grounded on the shoreline among ordinary trees, quietly reflected in the lake. A simple metal house key and a folded unmarked cream letter rest on the foreground wood on the lower right. A faint warm interior light is practical and restrained. Leave the left third quiet with lake, dusk sky, and natural negative space for possible title placement. Natural materials, believable scale, warm traces against cool evening, editorial photography with gentle texture and depth. The scene conveys a house, access, and future correspondence that remain real when no person is attending to them. No people, no writing or visible letters on the paper, no embedded text, title, labels, equations, arrows, logos, glowing networks, supernatural light beams, cosmic scenery, surveillance imagery, thought projection, or watermark. One coherent 16:9 landscape image.
+```
 
 ## Post-publication notes
 

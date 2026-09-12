@@ -1,6 +1,6 @@
 # Bits Production Index
 
-Updated: 2026-09-11
+Updated: 2026-09-12
 Status: ACTIVE PRODUCTION LEDGER
 
 This file tracks **production state** for Bits episodes.
@@ -9,9 +9,9 @@ For topic duplication / conceptual overlap, use `source/internal/bits-topic-chec
 
 | Bit | Slug | Status | NotebookLM source | Audio prompt | Audio | Article | Image | Published | Substack URL |
 |---|---|---|---|---|---|---|---|---|---|
-| A Relation Does Not Need Your Attention to Keep Working | a-relation-does-not-need-your-attention-to-keep-working | package-ready | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |  |
-| You Do Not Have to Render the World to Perceive It | you-do-not-have-to-render-the-world-to-perceive-it | package-ready | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |  |
-| Is the Body the Continuation—or Its Resolution? | is-the-body-the-continuation-or-its-resolution | package-ready | ✅ | ✅ | ⬜ | ⬜ | ⬜ | ⬜ |  |
+| A Relation Does Not Need Your Attention to Keep Working | a-relation-does-not-need-your-attention-to-keep-working | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |
+| You Do Not Have to Render the World to Perceive It | you-do-not-have-to-render-the-world-to-perceive-it | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |
+| Is the Body the Continuation—or Its Resolution? | is-the-body-the-continuation-or-its-resolution | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |
 | The Apple Falls the Same Relational Distance Every Time | the-apple-falls-the-same-relational-distance-every-time | published | ✅ | ✅ | ⬜ | ✅ | ✅ | 2026-09-09 | https://soutame.substack.com/p/the-apple-falls-the-same-relational |
 | Dark Matter Is the Trace; Dark Energy Is the Difference | dark-matter-is-the-trace-dark-energy-is-the-difference | hold | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |  |
 | They Wish for an Object, So They Get an Object | they-wish-for-an-object-so-they-get-an-object | published | ✅ | ✅ | ⬜ | ✅ | ✅ | 2026-09-08 | https://soutame.substack.com/p/they-wish-for-an-object-so-they-get |
