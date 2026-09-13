@@ -1,6 +1,6 @@
 # Bits Production Index
 
-Updated: 2026-09-12
+Updated: 2026-09-13
 Status: ACTIVE PRODUCTION LEDGER
 
 This file tracks **production state** for Bits episodes.
@@ -9,6 +9,7 @@ For topic duplication / conceptual overlap, use `source/internal/bits-topic-chec
 
 | Bit | Slug | Status | NotebookLM source | Audio prompt | Audio | Article | Image | Published | Substack URL |
 |---|---|---|---|---|---|---|---|---|---|
+| Why Can the Same Evidence Mean Different Things? | why-can-the-same-evidence-mean-different-things | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |
 | A Relation Does Not Need Your Attention to Keep Working | a-relation-does-not-need-your-attention-to-keep-working | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |
 | You Do Not Have to Render the World to Perceive It | you-do-not-have-to-render-the-world-to-perceive-it | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |
 | Is the Body the Continuation—or Its Resolution? | is-the-body-the-continuation-or-its-resolution | article-ready | ✅ | ✅ | ⬜ | ✅ | ✅ | ⬜ |  |

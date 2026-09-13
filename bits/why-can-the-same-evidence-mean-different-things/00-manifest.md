@@ -1,10 +1,11 @@
 # Bit Manifest
 
 Title: **Why Can the Same Evidence Mean Different Things?**
+Subtitle: *An observation can stay fixed while the explanations around it move.*
 Slug: `why-can-the-same-evidence-mean-different-things`
-Status: prepared
+Status: **article-ready**
 Created: 2026-09-12
-Published:
+Published: No exact match in the checked 2026-09-13 repository RSS snapshot.
 Substack URL:
 
 ## Central question
@@ -36,12 +37,33 @@ Why this episode is distinct: it owns evidential interpretation itself: why obse
 - NotebookLM Audio Overview prompt: `03-notebooklm-audio-prompt.md`
 - Work prompt: `04-work-prompt.md`
 - Article: `article/why-can-the-same-evidence-mean-different-things.md`
-- Audio: `audio/why-can-the-same-evidence-mean-different-things.m4a`
-- Image: `article/<generated-image-file>`
+- Audio target (pending): `audio/why-can-the-same-evidence-mean-different-things.m4a`
+- Image: `article/why-can-the-same-evidence-mean-different-things.webp`
 
 ## Publication notes
 
 Prepared after RSS/checklist sync on 2026-09-12. Live proxy was not fetchable in this runtime, so the committed RSS snapshot with `lastBuildDate` Sat, 12 Sep 2026 06:39:25 GMT was used.
+
+## Written article build — 2026-09-13 Asia/Bangkok
+
+- Article: **ready**, 1,615 body words, excluding title/subtitle, image caption, and Article Slot blocks.
+- Hero: **ready**, 1672 × 941 WebP, 16:9 framing; generated image visually reviewed, converted from PNG without semantic editing, decoded and dimension-checked. Embedded beside the article with a relative link, descriptive alt text, and a visible caption.
+- Audio: **pending**; no audio file or transcript produced.
+- Authority: this package, current `source/evidence-and-interpretation.md`, **R20260911-EVI-01**, and current framework status. This is a presentation-layer build.
+- External checks: all three named Stanford Encyclopedia of Philosophy references checked for conditional probability, likelihood/prior/posterior roles, comparative odds, and confirmation. The medical example is hypothetical and uses no invented clinical rates or framework numerical predictions.
+- Semantic QA: likelihood-ratio agreement is kept separate from different starting priors and final posteriors; chronology is not automatic confirmation; qualitative independence is not statistical independence; recurrence retains selection/dependence questions. `C/S/I/R/F` is not a calibrated score, Bayes factor, posterior, or replacement for statistics. Correspondence does not establish intention, sender, or mechanism.
+- Publication recheck: preferred live proxy and upstream podcast feed were unavailable to the web fetcher. The current repository fallback `resource/substack-bits-podcast.rss`, built **Sun, 13 Sep 2026 03:55:00 GMT**, contains 36 items and no exact title or slug match. The new Substack URL remains empty.
+- Package QA: real image embed, visible Image Caption and verified existing Article Slot URL, no hidden production notes, article works without audio. The production index now tracks the assets actually produced.
+
+### Image generation record
+
+Mode: **built-in image generation**. One generated hero; no semantic edit.
+
+Final generation prompt:
+
+```text
+Create one refined 16:9 editorial conceptual photograph for an essay titled 'Why Can the Same Evidence Mean Different Things?'. One single crisp physical clue: exactly ONE partial muddy boot-sole footprint on a plain pale stone or concrete investigation surface, placed center-right. The full visible mark is sharply grounded, highly tactile and consistent, with individual tread grooves, small grains of dirt, and a subtle damp edge. No actual boot, person, extra footprint or repeated copy of the clue. Around this one fixed mark, several restrained contextual shadows extend away in different directions and suggest different possible settings: an interior doorway/window frame, an outdoor leafy threshold, and a sparse workshop grid. These are partial atmospheric shadow suggestions on the SAME continuous real surface, not fully illustrated scenes or diagrams and not separate panels. Make one surrounding context relatively coherent and others incomplete and ambiguous, so this does not assert that every explanation fits equally well. The footprint itself never transforms into any other object and remains the single strong focal point. Thoughtful photographic materiality, sober editorial realism, warm ivory and cool slate tones, oblique natural light, deep but gentle shadows, precise modest detail, no sensational crime imagery. Generous quiet negative space across left and upper-left for optional title placement, but do NOT draw text. No labels, equations, numbers, arrows, evidence tags, red string, detective boards, magnifying glasses, weapons, blood, glowing brains, galaxies, sci-fi UI, AI motifs or embedded title. This is a visual metaphor for one observation surrounded by competing explanations; no visual probability rankings. Landscape 16:9.
+```
 
 ## Post-publication notes
 
