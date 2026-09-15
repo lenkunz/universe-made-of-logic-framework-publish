@@ -21,6 +21,29 @@ GitHub access failed during package preparation, so do not silently overwrite ne
 
 Use `Relation + Domain → Stage`. No primitive time term.
 
+### Afference / Efference / Stage flip
+
+- **Afference** = relation reaching inward from the current domain's side.
+- **Efference** = relation reaching outward from that domain's side.
+
+These are relative orientations of one relation, not separate substances or absolute directions. Both require budget.
+
+At Stage, one domain's outward relation can become another domain's inward relation:
+
+`Domain A Efference → Stage → Domain B Afference`
+
+Domain B can resolve that Afference through its seated structure and project Efference outward again.
+
+### Returning persistence loop
+
+Use:
+
+`Afference → domain resolution → Efference → Stage → Afference`
+
+> **A stable Afference–Efference loop can become the recurring relation through which a domain persists.**
+
+The loop may reuse seated support rather than rebuild every internal distinction from zero. It does not remove participation cost, create physical energy, or identify framework budget with physical energy.
+
 ### Perception
 
 > **Perception is the Stage-side resolution of relation against a domain.**
