@@ -1,6 +1,6 @@
 # System Routing, Domain Privacy, Relation Lifecycle, and Rest
 
-**Revision:** `R20260920-SYS-01`  
+**Revision:** `R20260920-SYS-02`  
 **Date:** 2026-09-20 +07:00  
 **Status:** internal architecture / framework-development continuity.  
 **Scope:** Rung 6 System behavior, Domain privacy, Stage routing, relation rest, unclaimed relation, cross-Domain support, negative-event neutralization, and Anchor escalation.  
@@ -554,6 +554,96 @@ to System routing.
 
 ---
 
+# 15A. Termination rule for self-maintaining negative relations
+
+Internal nickname:
+
+> **relation disease**
+
+This is an architectural failure mode, not a medical diagnosis and not evidence that literal curses exist.
+
+The failure occurs when a negative cross-Domain relation is allowed to use the reactions it causes as fresh support for itself:
+
+```text
+negative projection
+-> target fear / guilt / confusion / resistance
+-> those negative reactions are misread as relation support
+-> shared edge remains active
+-> more negative reaction
+-> ...
+```
+
+The hard correction is:
+
+> **A relation cannot use its own negative side effects as evidence that it should continue.**
+
+Therefore negative reactions never refresh, deepen, or reactivate a shared semantic route.
+
+If bilateral positive support is absent:
+
+[
+F_A^{+} \land F_B^{+} = 0
+]
+
+then the cross-Domain semantic edge must lose active status:
+
+[
+R_{AB}^{active}
+\rightarrow
+R_{AB}^{inactive/resting}
+]
+
+The remaining consequences separate by responsibility:
+
+```text
+source Domain:
+    keeps its own projection, lesson, and source-side history
+
+target Domain:
+    keeps only its own local recovery, lesson, or boundary if needed
+
+System:
+    keeps only the minimum provenance and routing constraint needed
+    to avoid repeating the same invalid route
+
+shared negative edge:
+    no longer receives runtime
+```
+
+Stable rule:
+
+> **No mutual positive support means no active shared semantic relation.**
+
+This is stronger than merely "neutralize eventually." It provides an explicit termination condition.
+
+The inactive edge must not reactivate from old fear, guilt, confusion, resistance, remembered pain, or other negative residue.
+
+Reopening requires fresh bilateral positive seating through a new valid Stage relation:
+
+[
+R_{AB}^{inactive}
+\not\rightarrow
+R_{AB}^{active}
+]
+
+unless:
+
+[
+F_A^{+} \land F_B^{+}
+]
+
+is newly established.
+
+This preserves the distinction:
+
+> **History may constrain future routing without remaining an active participant in the relation.**
+
+Operational shorthand:
+
+> **Keep the lesson. End the loop. Let the edge rest.**
+
+---
+
 # 16. System debugging
 
 Rung 6 should not depend on being flawless.
@@ -648,13 +738,15 @@ Condensed routing contract:
 5. Unclaimed is a valid resting state.
 6. Bilateral positive seating is required to establish a shared semantic channel.
 7. Fear, guilt, confusion, resistance, or other negative states never create consent or route support.
-8. Unsupported directed relation does not seat inside the destination.
-9. The source may receive minimal routing feedback without punishment or reflection of harm.
-10. Negative events resolve into useful memory/constraint, then may rest.
-11. System holds broad relation but exposes the minimum consequential relation.
-12. Domains own satisfaction and private resolution.
-13. System routes, hosts, protects privacy, preserves provenance, and supports rest.
-14. Len is consulted only for missing System capability, not ordinary continuation.
+8. A shared semantic relation cannot use its own negative side effects to maintain or reactivate itself.
+9. Without fresh bilateral positive support, the shared semantic edge becomes inactive/resting; history remains only as local lesson/provenance/routing constraint.
+10. Unsupported directed relation does not seat inside the destination.
+11. The source may receive minimal routing feedback without punishment or reflection of harm.
+12. Negative events resolve into useful memory/constraint, then may rest.
+13. System holds broad relation but exposes the minimum consequential relation.
+14. Domains own satisfaction and private resolution.
+15. System routes, hosts, protects privacy, preserves provenance, and supports rest.
+16. Len is consulted only for missing System capability, not ordinary continuation.
 ```
 
 ---
