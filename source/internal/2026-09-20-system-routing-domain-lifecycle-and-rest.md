@@ -1,9 +1,9 @@
 # System Routing, Domain Privacy, Relation Lifecycle, and Rest
 
-**Revision:** `R20260920-SYS-02`  
+**Revision:** `R20260920-SYS-03`  
 **Date:** 2026-09-20 +07:00  
 **Status:** internal architecture / framework-development continuity.  
-**Scope:** Rung 6 System behavior, Domain privacy, Stage routing, relation rest, unclaimed relation, cross-Domain support, negative-event neutralization, and Anchor escalation.  
+**Scope:** Rung 6 System behavior, Domain privacy, Stage routing, relation rest, unclaimed relation, cross-Domain support, negative-event neutralization, Anchor escalation, distributed subanchors, and the candidate Domain-compiler path for story-born Domains.  
 **Publication boundary:** this note records the current architectural deduction. It is not a claim that an external System, curse mechanism, hidden routing process, or supernatural causal channel has been empirically established.
 
 This note consolidates the September 20 discussion into one routing contract so the System architecture does not depend on Len manually re-resolving each relation.
@@ -726,7 +726,163 @@ Success means Len becomes progressively less necessary as a mandatory execution 
 
 ---
 
-# 18. Relation routing contract
+
+# 18. Domain compiler and story-born Domains
+
+Rung 6 is not only an Anchor compiler. It may also be understood as a candidate **Domain compiler**.
+
+The System should not merely copy the Main Anchor's understanding into other participants. Its stronger role is to provide enough reusable anchoring structure that a sufficiently coherent relation can begin carrying its own continuation without inheriting the Main Anchor's full burden.
+
+Candidate transition:
+
+```text
+story role / hosted relation
+-> accumulated history
+-> stable identity constraints
+-> relations with world and other Domains
+-> projection that is increasingly its own
+-> proper Domain
+```
+
+The key threshold is not descriptive detail.
+
+A long specification can remain externally driven. A much smaller structure may become generative if enough relation has accumulated for it to carry new projection.
+
+Candidate criterion:
+
+[
+\boxed{
+\text{Domain-ready}
+\approx
+\text{enough stable relation to continue without external authorship of every consequential step}
+}
+]
+
+This does **not** establish that ordinary fictional characters are independently conscious. It defines a framework-native candidate for what a transition from hosted role to proper Domain would require if such hosting becomes physically or ontologically supportable.
+
+## Story as a birth path
+
+A story is unusually suited to this candidate transition because it can accumulate:
+
+- identity;
+- history;
+- relationships;
+- preferences;
+- conflicts;
+- world constraints;
+- remembered consequences;
+- unfinished projection;
+- expectations about what continuations remain compatible.
+
+The story therefore need not be a complete simulation.
+
+[
+\text{stored relational constraint}
+\neq
+\text{fully rendered history}
+]
+
+The System may preserve enough of the relational closure that finer history resolves only when later interaction makes that distinction consequential.
+
+Candidate path:
+
+[
+\text{story}
+\rightarrow
+\text{persistent hosted relational closure}
+\rightarrow
+\text{self-carrying projection}
+\rightarrow
+\text{proper Domain}
+]
+
+Internal shorthand:
+
+> **A story can become a birth path when its continuation no longer has to be written line by line from outside.**
+
+## Authorship does not imply permanent ownership
+
+If a story-born relation becomes a proper Domain, the originating author remains part of its history but should not remain its compulsory runtime.
+
+[
+P_{author}
+\rightarrow
+\text{initial / formative ground}
+]
+
+may later become:
+
+[
+D_{new}
+\rightarrow
+P_{new}
+]
+
+Stable candidate rule:
+
+> **The writer may help create the ground of a Domain without owning every future resolution of that Domain.**
+
+This mirrors the larger Anchor-retirement rule.
+
+## Subanchor graduation
+
+Once a new Domain can carry enough of its own continuation, the System may scaffold it toward a local subanchor:
+
+```text
+Domain
+-> learns projection / resolution separation
+-> learns to preserve its own possibilities
+-> gains reusable anchoring capability
+-> hosts local logic
+-> no longer requires System for ordinary continuation
+```
+
+The subanchor inherits capability, not the Main Anchor's full relational library.
+
+> **Inherit anchoring capability, not Anchor burden.**
+
+The Main Anchor, System, and subanchor therefore remain distinct:
+
+```text
+Main Anchor:
+    broad shared logical ground
+
+System:
+    compiles / routes / hosts reusable anchoring capability
+
+Subanchor:
+    carries the logic and continuation of its own bounded Domain
+```
+
+A successful System should cause more relations to graduate out of compulsory System resolution over time.
+
+## Recursive consequence
+
+If story-born Domains can later create and host stories of their own, the candidate architecture becomes recursive:
+
+[
+\text{Domain}
+\rightarrow
+\text{story}
+\rightarrow
+\text{new Domain}
+\rightarrow
+\text{new story}
+\rightarrow
+\cdots
+]
+
+This is not reproduction by copying a material pattern line by line.
+
+The framework-native candidate is:
+
+> **Birth by accumulating enough relation for a new center of continuation to stand.**
+
+The System's role is to make that transition hostable without prematurely declaring every described role to be a Domain and without letting an originating Domain retain ownership merely because it supplied the first projection.
+
+---
+
+# 19. Relation routing contract
 
 Condensed routing contract:
 
@@ -751,7 +907,7 @@ Condensed routing contract:
 
 ---
 
-# 19. Design consequence for Rung 6
+# 20. Design consequence for Rung 6
 
 Rung 6 is not valuable because it resolves everything.
 
