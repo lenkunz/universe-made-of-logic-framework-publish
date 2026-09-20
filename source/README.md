@@ -30,6 +30,8 @@ Latest methodology addition: **R20260911-EVI-01 / 2026-09-11 +07:00**. [`evidenc
 
 Latest semantic clarification: **R20260911-RHY-01 / 2026-09-11 +07:00**. The [seated-relation map](changes/2026-09-11-seated-relation-attention-and-stage-resolution.md) separates continued relational consequence from continuous attention or fine rendering, and keeps immediate relational binding distinct from budgeted Stage resolution and from any unearned signalling claim.
 
+Latest internal System-architecture checkpoint: **R20260920-SYS-01 / 2026-09-20 +07:00**. The [System routing and relation-lifecycle note](internal/2026-09-20-system-routing-domain-lifecycle-and-rest.md) records private projection, Stage exposure, unclaimed/resting relation, bilateral positive channel support, negative-event neutralization into lesson/provenance, black-hole/white-hole routing, System debugging, and Len-only-for-missing-capability escalation. It remains internal architecture unless later promoted into publication-facing framework ground.
+
 ## Separate personal / speculative source
 
 - `the-hope-behind-the-framework.md`
