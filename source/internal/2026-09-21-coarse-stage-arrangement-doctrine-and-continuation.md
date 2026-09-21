@@ -1,9 +1,9 @@
 # Coarse Stage Arrangement, Doctrine Survival, and Continuation
 
-**Revision:** R20260921-REL-01  
+**Revision:** R20260921-REL-02  
 **Date:** 2026-09-21 +07:00  
 **Status:** internal architecture / framework-development continuity.  
-**Scope:** coarse/fine Stage resolution, apparent luck and coincidence, satisfaction-directed arrangement, resistance, era-readiness of deduction, ended projections, Rung-6-hosted continuation, identity/duplication, and doctrine as an era-bounded carrier of coarse relation.  
+**Scope:** coarse/fine Stage resolution, apparent luck and coincidence, satisfaction-directed arrangement, resistance, cross-Domain empathy and intention, era-readiness of deduction, ended projections, Rung-6-hosted continuation, identity/duplication, and doctrine as an era-bounded carrier of coarse relation.  
 **Publication boundary:** this note records framework-native deductions and candidate extensions. It does not establish supernatural event control, post-death continuation, reincarnation, hosted worlds, or a hidden causal mechanism as empirical fact.
 
 This note extends the current System and relation-lifecycle work. The common thread is that a coarse relation can continue across fine resolutions even when the fine events do not look locally continuous.
@@ -418,7 +418,165 @@ Different eras, Domains, religions, sciences, philosophies, stories, and persona
 
 ---
 
-# 13. Compact continuity rules
+# 13. Empathy can make another Domain's satisfaction usable without replacing one's own
+
+A Domain does not need to use its own satisfaction as a template for another Domain.
+
+\[
+SAT_A \neq SAT_B
+\]
+
+and:
+
+\[
+SAT_A
+\not\Rightarrow
+\widehat{SAT_B}
+\]
+
+where \(\widehat{SAT_B}\) is merely A's projection of what B ought to find satisfying.
+
+Instead, enough relation with B may let A understand some constraint belonging to B:
+
+\[
+P_B
+\rightarrow
+R_{AB}
+\rightarrow
+A\text{ resolves enough of }SAT_B
+\]
+
+That understood constraint can then become usable ground inside A's own resolution:
+
+\[
+G_A
++
+SAT_A
++
+\widehat{SAT_B}
+\rightarrow
+P_A'
+\rightarrow
+\text{A's action}
+\]
+
+The resulting action remains A's resolution. B's intention does not become authorization and does not replace A's projection.
+
+> **Understanding another's satisfaction can make it available as local ground without making it one's own satisfaction.**
+
+This gives a framework-native form of empathy that is stronger than "I imagine what I would want in your place."
+
+\[
+\boxed{
+\text{empathy}
+\approx
+\text{allow another relation's own constraint to participate without replacing either Domain}
+}
+\]
+
+## Neutrality is not absence of self
+
+A Domain may have a strong self while leaving a particular dimension weakly constrained.
+
+Suppose:
+
+\[
+SAT_A = \{\text{many acceptable continuations}\}
+\]
+
+while:
+
+\[
+SAT_B = \{\text{a smaller strongly preferred region}\}
+\]
+
+Then the compatible overlap may naturally resolve near B's preferred continuation:
+
+\[
+SAT_A \cap SAT_B
+\]
+
+without A being controlled by B or sacrificing a strongly seated satisfaction of its own.
+
+The useful distinction is:
+
+> **Another Domain may resolve what I left free without owning what I constrained.**
+
+If B's continuation later conflicts with a strongly seated constraint of A:
+
+\[
+SAT_A \cap SAT_B = \varnothing
+\]
+
+then A's own resistance becomes part of the available Stage relation.
+
+Therefore:
+
+\[
+\boxed{
+\text{my satisfaction is primary to my own resolution}
+\neq
+\text{my satisfaction has global priority}
+}
+\]
+
+A owns \(SAT_A\). B owns \(SAT_B\). Neither satisfaction can be safely substituted for the other.
+
+## A strong self may become cheap background ground
+
+A stable self need not be constantly rendered as an explicit thought.
+
+\[
+\text{stable self-relation}
+\rightarrow
+\text{cheap persistent constraint}
+\rightarrow
+\text{background ground}
+\]
+
+A Domain may therefore be highly receptive to another Domain's direction while remaining difficult to overwrite precisely because its own constraints are already stable.
+
+Candidate consequence:
+
+\[
+\boxed{
+\text{strong own ground}
++
+\text{high other-relation resolution}
+\rightarrow
+\text{carry another's constraint without becoming the other}
+}
+\]
+
+This may explain why empathy and self-stability need not be opposites.
+
+## Personal-event application and open mechanism
+
+Len currently applies this deduction to a recurring pattern in one friend's behavior: the friend appears able to understand other people's intended direction unusually well, can sometimes act along that direction when his own relation leaves the relevant choice open, and nevertheless appears to retain strong independent self-constraint.
+
+This provides a candidate compression of several previously separate observations.
+
+It does **not** by itself identify how information about another person's direction becomes available to that friend.
+
+Keep these questions separate:
+
+\[
+\boxed{\text{Can the Domain resolve another's direction unusually well?}}
+\]
+
+and:
+
+\[
+\boxed{\text{Through what relation did the information become available?}}
+\]
+
+Ordinary observation, familiarity, inference, and any stronger proposed relational mechanism remain different candidates for the second question.
+
+Len currently treats the first interpretation as personally convincing because it matches both his reported experience and the wider ontology deduction, while leaving the acquisition mechanism open to later relation.
+
+---
+
+# 14. Compact continuity rules
 
 1. Coarse relational continuity may surface as discontinuous fine events.
 2. Luck is not a stored currency; it is a candidate Stage appearance of useful relational arrangement.
@@ -435,10 +593,14 @@ Different eras, Domains, religions, sciences, philosophies, stories, and persona
 13. Same coarse relation does not imply same fine doctrine or same understanding.
 14. Recover the useful relation without forcing the inherited Cut.
 15. Purpose, world, and self can be treated as different orientations of one continuing relational deduction.
+16. Another Domain's satisfaction can become usable relational ground without becoming one's own satisfaction.
+17. A weakly constrained local choice can resolve toward another Domain's stronger compatible preference without implying control.
+18. A strong self may remain background ground rather than requiring constant explicit self-rendering.
+19. Understanding another's direction and explaining how that information became available are separate deductions.
 
 ---
 
-# 14. Current status
+# 15. Current status
 
 The following are framework-native deductions / architectural consequences of the current ontology:
 
@@ -446,7 +608,9 @@ The following are framework-native deductions / architectural consequences of th
 - inherited Stage ground can make later deduction cheaper and more reachable;
 - ended projection can leave consequential relation behind;
 - same coarse relation does not imply same fine understanding;
-- doctrine can be analyzed as a carrier whose useful relation and inherited interpretation are separable.
+- doctrine can be analyzed as a carrier whose useful relation and inherited interpretation are separable;
+- empathy can be modeled as another Domain's constraint becoming usable relational ground without substituting one's own satisfaction for theirs;
+- local neutrality can coexist with strong self-constraint when the self leaves that particular dimension unresolved.
 
 The following remain candidate mechanisms / completion pending:
 
