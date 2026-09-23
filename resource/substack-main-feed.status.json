@@ -1,7 +1,7 @@
 {
-  "state": "ok",
+  "state": "fetch-failed",
   "source": "https://souta.me/rss/feed",
-  "http_status": "200",
+  "http_status": "502",
   "curl_exit": 0,
-  "message": "RSS refreshed successfully."
+  "message": "HTTP 502; curl exit 0. Previous good snapshot preserved."
 }
