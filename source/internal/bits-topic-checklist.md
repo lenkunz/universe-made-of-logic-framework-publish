@@ -1,6 +1,6 @@
 # Bits Topic Checklist — My GUT Deduction
 
-Updated: 2026-09-11
+Updated: 2026-09-27
 
 Purpose: prevent future Bits packages from duplicating an already-published topic, repeating the same central mechanism with cosmetic new examples, or preparing the same candidate twice.
 
@@ -15,6 +15,44 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 ---
 
 # Published Bits
+
+## 2026-09-13
+
+- [x] **A Relation Does Not Need Your Attention to Keep Working**
+  - Status: **PUBLISHED**.
+  - URL: https://soutame.substack.com/p/a-relation-does-not-need-your-attention
+  - RSS publication time: 2026-09-13 13:47:23 +07:00.
+  - Main question: why can a lakeside-house relation or written program constrain a later event after its originator stops attending to it?
+  - Framework hook: seated relation can remain consequential without continuous attention or fine rendering; stored constraint is not autonomous execution.
+  - Nearest overlap: **Your Data Is Never Really a 1 or a 0**, **Why Our Solutions Become Our Anchors**, **When Practice Makes Thinking Disappear**, **What Is a Flame If Its Matter Never Stays?**.
+  - Why distinct: owns attention-independent consequence and the contrast between preserved logic and current execution.
+  - Package: `bits/a-relation-does-not-need-your-attention-to-keep-working/`.
+  - Source sync: `R20260911-RHY-01`.
+
+- [x] **Is the Body the Continuation—or Its Resolution?**
+  - Status: **PUBLISHED**.
+  - URL: https://soutame.substack.com/p/is-the-body-the-continuationor-its
+  - RSS publication time: 2026-09-13 13:56:31 +07:00.
+  - Main question: could the body be the local Stage resolution/interface of a continuing conscious relation rather than the entirety of that continuation?
+  - Framework hook: identity through alteration; Stage; immediate relation versus budgeted fine resolution; conversation/message analogy.
+  - Nearest overlap: **What Is a Flame If Its Matter Never Stays?**, **Perception Is a Chain of Possibilities**, and held **Does a Mind End at the Skin?**.
+  - Why distinct: asks whether local bodily resolution exhausts continuing identity, not how far supported relations extend beyond the skin.
+  - Boundary: no consciousness criterion, substrate independence, survival, upload/copy, telepathy, quantum brain, or empirical discriminator is established.
+  - Package: `bits/is-the-body-the-continuation-or-its-resolution/`.
+  - Source sync: `R20260911-RHY-01`.
+
+- [x] **You Do Not Have to Render the World to Perceive It**
+  - Status: **PUBLISHED**.
+  - URL: https://soutame.substack.com/p/you-do-not-have-to-render-the-world
+  - RSS publication time: 2026-09-13 14:07:15 +07:00.
+  - External topic: change blindness, inattentional blindness, deictic task organization, and sensorimotor theories of active vision.
+  - Main question: does rich visual experience require a uniformly detailed inner raster of the scene?
+  - Framework hook: perception is domain-relative Stage resolution; an encounter can resolve consequential distinctions without exposing its whole supporting network.
+  - Nearest overlap: **Perception Is a Chain of Possibilities**, **The Universe Only Renders on a Budget**, **They Wish for an Object, So They Get an Object**, **Why precision is a trap**.
+  - Why distinct: owns the inner-screen assumption and the GPU/display versus active-perception task contrast.
+  - Boundary: perception research does not prove no visual representations or the stronger brain/body ontology; heat/FLOPS are not framework budget.
+  - Package: `bits/you-do-not-have-to-render-the-world-to-perceive-it/`.
+  - Source sync: `R20260911-RHY-01`.
 
 ## 2026-09-09
 
@@ -173,35 +211,7 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 
 # Prepared but not published
 
-- [ ] **A Relation Does Not Need Your Attention to Keep Working**
-  - Status: **PREPARED / PACKAGE-READY**.
-  - Main question: why can a lakeside-house relation or written program constrain a later event after its originator stops attending to it?
-  - Framework hook: seated relation can remain consequential without continuous attention or fine rendering; stored constraint is not autonomous execution.
-  - Nearest overlap: **Your Data Is Never Really a 1 or a 0**, **Why Our Solutions Become Our Anchors**, **When Practice Makes Thinking Disappear**, **What Is a Flame If Its Matter Never Stays?**.
-  - Why distinct: owns attention-independent consequence and the contrast between preserved logic and current execution.
-  - Package: `bits/a-relation-does-not-need-your-attention-to-keep-working/`.
-  - Source sync: `R20260911-RHY-01`.
 
-- [ ] **You Do Not Have to Render the World to Perceive It**
-  - Status: **PREPARED / PACKAGE-READY**.
-  - External topic: change blindness, inattentional blindness, deictic task organization, and sensorimotor theories of active vision.
-  - Main question: does rich visual experience require a uniformly detailed inner raster of the scene?
-  - Framework hook: perception is domain-relative Stage resolution; an encounter can resolve consequential distinctions without exposing its whole supporting network.
-  - Nearest overlap: **Perception Is a Chain of Possibilities**, **The Universe Only Renders on a Budget**, **They Wish for an Object, So They Get an Object**, **Why precision is a trap**.
-  - Why distinct: owns the inner-screen assumption and the GPU/display versus active-perception task contrast.
-  - Boundary: perception research does not prove no visual representations or the stronger brain/body ontology; heat/FLOPS are not framework budget.
-  - Package: `bits/you-do-not-have-to-render-the-world-to-perceive-it/`.
-  - Source sync: `R20260911-RHY-01`.
-
-- [ ] **Is the Body the Continuation—or Its Resolution?**
-  - Status: **PREPARED / PACKAGE-READY / EXPLICITLY SPECULATIVE**.
-  - Main question: could the body be the local Stage resolution/interface of a continuing conscious relation rather than the entirety of that continuation?
-  - Framework hook: identity through alteration; Stage; immediate relation versus budgeted fine resolution; conversation/message analogy.
-  - Nearest overlap: **What Is a Flame If Its Matter Never Stays?**, **Perception Is a Chain of Possibilities**, and held **Does a Mind End at the Skin?**.
-  - Why distinct: asks whether local bodily resolution exhausts continuing identity, not how far supported relations extend beyond the skin.
-  - Boundary: no consciousness criterion, substrate independence, survival, upload/copy, telepathy, quantum brain, or empirical discriminator is established.
-  - Package: `bits/is-the-body-the-continuation-or-its-resolution/`.
-  - Source sync: `R20260911-RHY-01`.
 
 - [ ] **Dark Matter Is the Trace; Dark Energy Is the Difference** — **HOLD**
   - Main question: can retained anchor history surface as dark-matter-like relation while differential refinement between two grounds surfaces as dark-energy-like scale/redshift?
