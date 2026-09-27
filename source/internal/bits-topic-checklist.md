@@ -211,6 +211,16 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 
 # Prepared but not published
 
+- [ ] **Why Does Heat Make a Magnet Forget Its Direction?**
+  - Status: **PREPARED**
+  - External topic: ferromagnetic phase transitions, Curie temperature, exchange-supported order, magnetic domains, and thermal demagnetization.
+  - Main question: why can sufficiently strong heating erase a permanent magnet's macroscopic direction even though the material can retain magnetic moments and regain ferromagnetic order after cooling?
+  - Framework hook: being one can itself be a relational achievement; higher structure recruits lower structure and can stop standing when its supporting organization no longer stabilizes.
+  - Nearest overlap: **Your Data Is Never Really a 1 or a 0**, **When Does a Crowd Become a Mind?**, **Why Do Snowflakes Agree on Six Arms but Never on the Details?**, **Air Is Not Less Compute Than Stone**; prepared **Why Can Bending Metal Make It Stronger?**.
+  - Why distinct: owns the Curie transition, local magnetic response versus spontaneous long-range order, and why cooling can restore the phase without restoring the former net direction.
+  - Boundary: standard condensed-matter physics explains the transition; the framework has not derived exchange, domains, Curie temperature, critical exponents, hysteresis, coercivity, or magnetization curves. Budget is not temperature, energy, entropy, field, or magnetization.
+  - Package: `bits/why-does-heat-make-a-magnet-forget-its-direction/`
+
 
 
 - [ ] **Dark Matter Is the Trace; Dark Energy Is the Difference** — **HOLD**
