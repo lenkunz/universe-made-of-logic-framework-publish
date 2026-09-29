@@ -2,10 +2,10 @@
 
 Title: The Frog Doesn't Solve Ballistics
 Slug: the-frog-doesnt-solve-ballistics
-Status: article-ready
+Status: published
 Created: 2026-08-25
-Published:
-Substack URL:
+Published: 2026-08-25
+Substack URL: https://soutame.substack.com/p/the-frog-doesnt-solve-ballistics
 
 ## Central question
 
@@ -39,6 +39,8 @@ Why this Short is distinct: it owns the general mechanism of action through accu
 ## Publication notes
 
 Prepared originally by Weekly Short Prep on 2026-08-25 and migrated into the canonical Short package structure.
+
+Publication confirmed by exact punctuation-normalized title match in the main-feed snapshot built 2026-09-28. Feed publication date: 2026-08-25.
 
 Publication status should be verified against `https://soutame.substack.com/feed`, falling back to `resource/substack-main-feed.rss` when direct access is unavailable. New Shorts use the suggested title, so exact or punctuation-normalized title matching is authoritative. Older Shorts may require cautious contextual matching.
 
