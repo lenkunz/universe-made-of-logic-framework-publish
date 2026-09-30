@@ -1,6 +1,6 @@
 # Bits Topic Checklist — My GUT Deduction
 
-Updated: 2026-09-27
+Updated: 2026-09-30
 
 Purpose: prevent future Bits packages from duplicating an already-published topic, repeating the same central mechanism with cosmetic new examples, or preparing the same candidate twice.
 
@@ -210,6 +210,16 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 ---
 
 # Prepared but not published
+
+- [ ] **How Does a Root Know Which Way Is Down?**
+  - Status: **PREPARED**
+  - External topic: plant gravitropism, statolith sedimentation, LZY/PIN polarity, auxin redistribution, and differential root growth.
+  - Main question: if a seedling is laid on its side, how can its root detect which direction is down and turn that information into a bend without eyes, a brain, or a map of its future path?
+  - Framework hook: a path can carry orientation; bias can guide the next local update before the completed route exists — “Bias first. Fine implementation follows.”
+  - Nearest overlap: published **Why Does a Crack Turn?** and **Why Do Snowflakes Agree on Six Arms but Never on the Details?**; prepared **Why Does a Spinning Top Fall Sideways?** and **Why Can a Small Push Make a Big Swing?**.
+  - Why distinct: owns biological direction sensing across separated tissues, mobile signal transport, transient auxin asymmetry, and curvature produced by unequal growth rather than fracture, crystallization, precession, or resonance.
+  - Boundary: established plant biology explains gravitropism; the framework has not derived statolith sedimentation, LZY/PIN localization, auxin transport, gene regulation, growth kinetics, or root curvature. “Know” is metaphorical, and the correspondence does not imply plant consciousness or Aim.
+  - Package: `bits/how-does-a-root-know-which-way-is-down/`
 
 - [ ] **Why Does Heat Make a Magnet Forget Its Direction?**
   - Status: **PREPARED**
