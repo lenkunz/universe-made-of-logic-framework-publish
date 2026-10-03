@@ -211,6 +211,17 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 
 # Prepared but not published
 
+
+- [ ] **How Can a Gecko Stick Without Glue?**
+  - Status: **PREPARED**
+  - External topic: gecko dry adhesion, hierarchical lamellae/setae/spatulae, intermolecular surface forces, directional frictional adhesion, and peeling-based release.
+  - Main question: how can a gecko hold its whole body from a wall or ceiling without wet glue or suction, then detach the same foot almost instantly?
+  - Framework hook: the whole can act as one while the relations making it one keep acting; many locally active contacts can support a larger participant whose available action belongs to their organization.
+  - Nearest overlap: published **When Does a Crowd Become a Mind?**, **Why Do Snowflakes Agree on Six Arms but Never on the Details?**, **Air Is Not Less Compute Than Stone**, and **Why Do Rules Create Freedom?**; prepared **Why Does Heat Make a Magnet Forget Its Direction?**, **Why Can Soap Make Oil Follow Water?**, and **How Does a Root Know Which Way Is Down?**.
+  - Why distinct: owns dry biological adhesion, hierarchical surface contact, direction-dependent engagement, and rapid release by toe rolling and peeling rather than collective phase order, surfactant chemistry, crystallization, or growth response.
+  - Boundary: established biomechanics and surface science explain gecko adhesion. The framework has not derived interfacial forces, surface energy, setal geometry, friction, peeling, humidity dependence, or locomotor control. Budget is not force, contact area, charge, surface energy, friction, adhesion energy, or work.
+  - Package: `bits/how-can-a-gecko-stick-without-glue/`
+
 - [ ] **How Does a Root Know Which Way Is Down?**
   - Status: **PREPARED**
   - External topic: plant gravitropism, statolith sedimentation, LZY/PIN polarity, auxin redistribution, and differential root growth.
