@@ -1,6 +1,6 @@
 # Bits Topic Checklist — My GUT Deduction
 
-Updated: 2026-09-30
+Updated: 2026-10-06
 
 Purpose: prevent future Bits packages from duplicating an already-published topic, repeating the same central mechanism with cosmetic new examples, or preparing the same candidate twice.
 
@@ -210,6 +210,18 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 ---
 
 # Prepared but not published
+
+
+- [ ] **Why Does Metal Feel Colder Than Wood?**
+  - Status: **PREPARED**
+  - External topic: thermal touch, transient conduction, thermal effusivity, contact temperature, material recognition, and perceptual ambiguity.
+  - Main question: why can a metal spoon and a wooden spoon at the same room temperature feel so different to the same hand?
+  - Framework hook: “Appearance belongs to the relation between structure and context” and “Stage is where relation meets an anchoring domain”; felt coldness can surface from the hand–object encounter rather than living inside the object as a permanent property.
+  - Nearest overlap: published **The Clock Reading Is Not the Ontology**, **Why Does an Air Conditioner Have to Make Something Hot to Make You Cold?**, **Why Does Heat Draw a Curve?**, and **Perception Is a Chain of Possibilities**; prepared **Why Do Water Drops Dance on a Hot Pan?**, **Why Can Frosted Glass Turn Clear?**, and **Why Does Heat Make a Magnet Forget Its Direction?**.
+  - Why distinct: owns short-time hand–material contact, conductivity versus effusivity, same-temperature/different-sensation, the hot-side reversal, and controlled cold-wood/ambient-metal ambiguity.
+  - Boundary: established heat-transfer science explains the effect. The framework does not derive the heat equation, material properties, thermoreceptors, contact-temperature curves, or the 93.8% experimental result. Budget is not heat, energy, temperature, conductivity, effusivity, heat capacity, or neural firing.
+  - Package: `bits/why-does-metal-feel-colder-than-wood/`
+
 
 
 - [ ] **How Can a Gecko Stick Without Glue?**
