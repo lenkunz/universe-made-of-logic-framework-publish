@@ -169,7 +169,7 @@ Cold wood can mimic the thermal signal of warmer metal. The Bhattacharjee et al.
 
 - [Thermal effusivity of different tabletop materials in relation to users' perception](https://pubmed.ncbi.nlm.nih.gov/34890830/) — Loredan et al., *Applied Ergonomics* (2022), DOI 10.1016/j.apergo.2021.103664.
 - [Material Recognition via Heat Transfer Given Ambiguous Initial Conditions](https://arxiv.org/abs/2012.02176) — Bhattacharjee et al.; human psychophysics and heat-transfer modelling using metal and wood.
-- [The role of thermal effusivity in heat exchange between finite bodies](https://doi.org/10.1016/j.ijheatmasstransfer.2022.123399) — Jain, *International Journal of Heat and Mass Transfer* (2023).
+- [The role of thermal effusivity in heat exchange between finite bodies](https://doi.org/10.1016/j.ijheatmasstransfer.2022.123721) — Jain, *International Journal of Heat and Mass Transfer* (2023).
 
 ## Desired Audio Overview route
 
