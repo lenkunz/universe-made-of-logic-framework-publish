@@ -26,7 +26,7 @@
   - Why NotebookLM needs it: Detailed human psychophysics and heat-transfer model using metal and wood under ordinary and thermally ambiguous conditions.
   - Established observation / explanation this source supports: Humans use transient thermal cues for material recognition; cold wood was misidentified as ambient metal in 93.8% of ambiguous trials.
 
-- [ ] https://doi.org/10.1016/j.ijheatmasstransfer.2022.123399
+- [ ] https://doi.org/10.1016/j.ijheatmasstransfer.2022.123721
   - Why NotebookLM needs it: Technical treatment of thermal effusivity in contact heat exchange between finite bodies.
   - Established observation / explanation this source supports: Effusivity characterizes a body's surface heat-exchange response; finite-body behavior adds limits to the semi-infinite approximation.
 
