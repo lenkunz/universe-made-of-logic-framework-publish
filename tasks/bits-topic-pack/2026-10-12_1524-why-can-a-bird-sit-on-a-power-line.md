@@ -8,7 +8,9 @@ Package: `bits/why-can-a-bird-sit-on-a-power-line/`
 
 ## Publication sync
 
-The preferred Cloudflare proxy `https://souta.me/rss/podcasts` was attempted first but was inaccessible from the run environment. The required fallback `resource/substack-bits-podcast.rss` was therefore used. Its `lastBuildDate` was **Mon, 12 Oct 2026 05:09:28 GMT**. The newest items remained the three 2026-09-13 publications: **You Do Not Have to Render the World to Perceive It**, **Is the Body the Continuation—or Its Resolution?**, and **A Relation Does Not Need Your Attention to Keep Working**. No newly published prepared title was found before selection.
+The preferred Cloudflare proxy `https://souta.me/rss/podcasts` was attempted first but was inaccessible from the run environment. The required fallback `resource/substack-bits-podcast.rss` was therefore used. Before selection its `lastBuildDate` was **Mon, 12 Oct 2026 05:09:28 GMT**. The newest items remained the three 2026-09-13 publications: **You Do Not Have to Render the World to Perceive It**, **Is the Body the Continuation—or Its Resolution?**, and **A Relation Does Not Need Your Attention to Keep Working**. No newly published prepared title was found.
+
+After package preparation the required second sync used the refreshed fallback snapshot with `lastBuildDate` **Mon, 12 Oct 2026 08:11:02 GMT**. Its newest publication was still **You Do Not Have to Render the World to Perceive It** from 2026-09-13. Therefore no package manifest needed promotion to published during this run.
 
 ## A. Topic/content source
 
@@ -115,6 +117,6 @@ Closest published topics checked: **Stage Is Where Light Meets Space**, **The Cl
 - U.S. Geological Survey, Electrocution: https://www.usgs.gov/publications/electrocution
 - OSHA, Protection From Hazardous Differences in Electric Potential: https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.269AppC
 
-## Checklist / second-sync result
+## Checklist result
 
-The selected title should be recorded under **Prepared but not published** with its package path and overlap notes. The prior 2026-10-09 run's **Why Can Wet Sand Stand Up?** entry was also absent from the current checklist and should be repaired in the same ledger update. After package preparation, the publication feed must be checked again; no title is to be marked published merely because its package exists.
+No RSS-driven publication status changed. The selected title needs a **Prepared but not published** ledger entry. The prior 2026-10-09 run's **Why Can Wet Sand Stand Up?** entry is also absent from the current checklist and should be repaired. The package and archive are complete even if that ledger repair cannot be safely written in this run.
