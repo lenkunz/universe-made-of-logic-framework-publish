@@ -1,8 +1,8 @@
 # Short Notes — the queue
 
-<!-- Revision: R20261013-1512-01 -->
-<!-- Updated: 2026-10-13 15:12 +07:00 -->
-<!-- Change: Points selection to Part 13 as the current editorial correction layer while preserving Parts 1–12 as provenance. -->
+<!-- Revision: R20261020-1539-01 -->
+<!-- Updated: 2026-10-20 15:39 +07:00 -->
+<!-- Change: Points selection to Part 14 as the current editorial correction layer while preserving Parts 1–13 as provenance. -->
 
 *Candidates in rough order of readiness. Each is meant to become a standalone piece with one question, one mechanism, and as little framework vocabulary as possible at the opening.*
 
@@ -10,9 +10,9 @@ This queue is split to preserve its history without repeatedly rewriting a very 
 
 ## Current reading rule
 
-Read **Part 13 first when selecting what to prepare next**.
+Read **Part 14 first when selecting what to prepare next**.
 
-Parts 1–12 preserve the earlier queue and reasoning path. Where an active editorial placement, readiness label, publication status, or old wording conflicts with Part 13, **Part 13 is the current editorial correction layer**.
+Parts 1–13 preserve the earlier queue and reasoning path. Where an active editorial placement, readiness label, publication status, or old wording conflicts with Part 14, **Part 14 is the current editorial correction layer**.
 
 Semantic authority still belongs to the maintained framework source and `source/where-the-framework-stands.md`. The queue is publication planning, not framework ground.
 
@@ -30,13 +30,14 @@ Semantic authority still belongs to the maintained framework source and `source/
 10. `source/internal/short-notes-queue/part-10.md` — 2026-09-22 publication sync and `Domain Is the Noun` preparation status.
 11. `source/internal/short-notes-queue/part-11.md` — 2026-09-29 feed-confirmed publication corrections and `When a Law Becomes a Forecast` preparation status.
 12. `source/internal/short-notes-queue/part-12.md` — 2026-10-06 publication sync and `You Never Meet the Whole Thing` preparation status.
-13. `source/internal/short-notes-queue/part-13.md` — **current through 2026-10-13**; publication sync and `Why Does a Mirror Keep the Angle?` preparation status.
+13. `source/internal/short-notes-queue/part-13.md` — 2026-10-13 publication sync and `Why Does a Mirror Keep the Angle?` preparation status.
+14. `source/internal/short-notes-queue/part-14.md` — **current through 2026-10-20**; publication sync and `Why Reality Does Not Need Infinite Detail` preparation status.
 
 ## Selection discipline
 
 Before preparing a Short:
 
-1. read Part 13;
+1. read Part 14;
 2. follow its references to the relevant older part for the candidate's original reasoning;
 3. check current canonical source/status for semantic drift;
 4. check the repository/feed for already-published or already-prepared material;
