@@ -1,6 +1,6 @@
 # Short Notes — current editorial corrections — 2026-11-03
 
-<!-- Revision: R20261103-1505-01 -->
+<!-- Revision: R20261103-1505-02 -->
 <!-- Updated: 2026-11-03 15:05 +07:00 -->
 <!-- Role: current editorial correction layer after Parts 1–15 -->
 
@@ -8,11 +8,11 @@ Read this part first for current selection/preparation status. Older parts remai
 
 ## Publication sync
 
-The preferred live proxy `https://souta.me/rss/feed` was unavailable to the automation environment and the upstream Substack feed returned XML that could not be ingested directly, so the required repository fallback `resource/substack-main-feed.rss` was used before selection.
+The preferred live proxy `https://souta.me/rss/feed` was unavailable to the automation environment and the upstream Substack feed returned XML that could not be ingested directly, so the required repository fallback `resource/substack-main-feed.rss` was used before selection and again after package preparation.
 
-The pre-selection snapshot reports `lastBuildDate` **Mon, 02 Nov 2026 18:35:17 GMT**. Its newest visible item remains **You Do Not Have to Render the World to Perceive It**, published 2026-09-13.
+The pre-selection snapshot reported `lastBuildDate` **Mon, 02 Nov 2026 18:35:17 GMT**. The post-preparation snapshot refreshed to **Tue, 03 Nov 2026 08:05:45 GMT**. Its newest visible item remains **You Do Not Have to Render the World to Perceive It**, published 2026-09-13.
 
-No exact or punctuation-normalized title match was found for the current prepared set. No existing manifest changed publication status in the pre-selection sync.
+No exact or punctuation-normalized title match was found for the current prepared set or the newly prepared Short. No existing manifest changed publication status in this run.
 
 ## Newly prepared
 
