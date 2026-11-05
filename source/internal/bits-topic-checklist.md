@@ -1,6 +1,6 @@
 # Bits Topic Checklist — My GUT Deduction
 
-Updated: 2026-10-06
+Updated: 2026-11-05
 
 Purpose: prevent future Bits packages from duplicating an already-published topic, repeating the same central mechanism with cosmetic new examples, or preparing the same candidate twice.
 
@@ -210,6 +210,16 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 ---
 
 # Prepared but not published
+
+- [ ] **Why Does a Shadow Have a Blurry Edge?**
+  - Status: **PREPARED**.
+  - External topic: extended light sources, umbra/penumbra, partial illumination, and shadow-edge geometry.
+  - Main question: why does a sharply bounded hand cast a soft-edged shadow, especially farther from the wall?
+  - Framework hook: receiver-relative Stage appearance as a candidate correspondence; **coarse is not blurry** is an essential non-equivalence.
+  - Nearest overlap: published **Stage Is Where Light Meets Space**, **Reality is a cosmic accounting system**, **You Do Not Have to Render the World to Perceive It**; prepared **Why Can Frosted Glass Turn Clear?**, **Why Does Metal Feel Colder Than Wood?**.
+  - Why distinct: owns extended-source occlusion and penumbral visibility geometry, not refraction, perception, or framework resolution.
+  - Package: `bits/why-does-a-shadow-have-a-blurry-edge/`.
+
 
 
 - [ ] **Why Does Metal Feel Colder Than Wood?**
