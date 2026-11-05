@@ -1,0 +1,7 @@
+# NotebookLM Audio Overview Prompt
+
+Use the loaded sources, especially `02-notebooklm-source.md`. Ordinary science first; framework only later; no invented evidence or stronger status.
+
+Open: “If your hand has a sharp edge, why does its shadow sometimes have a blurry one?” Start with the hand moving away from a wall under a broad lamp. Explain an extended source as many emitting points: full light outside, no direct source in the umbra, partial source in the penumbra. Contrast a near-point source and a large diffused window, then use NASA's solar-eclipse umbra/penumbra as the striking larger-scale confirmation. Emphasize that changing the source–hand–wall geometry changes the shadow without changing the hand. Only afterward introduce My GUT Deduction's limited Stage/receiver-relative lens: appearance can depend on an encounter. Explicitly distinguish **optically blurry penumbra** from the framework's **coarse is not blurry** rule; they are not the same mechanism. Ask whether the framework predicts penumbral widths: no, conventional optics does; no framework derivation of radiometry, diffraction or eclipse geometry is established. Avoid equating budget with photons, light intensity, pixel count or optical resolution. Close: “If your hand's edge never changed, why did its shadow change? Maybe the shadow was never the hand's property alone.”
+
+Keep one or two examples, preserve all caveats, and do not turn the episode into a framework lecture.
