@@ -1,6 +1,6 @@
 # Bits Topic Checklist — My GUT Deduction
 
-Updated: 2026-11-05
+Updated: 2026-11-08
 
 Purpose: prevent future Bits packages from duplicating an already-published topic, repeating the same central mechanism with cosmetic new examples, or preparing the same candidate twice.
 
@@ -210,6 +210,17 @@ A package existing under `bits/` means prepared, not published. Exact RSS title 
 ---
 
 # Prepared but not published
+
+- [ ] **Why Can You Hear a Train on Some Nights but Not Others?**
+  - Status: **PREPARED**.
+  - External topic: weather-dependent sound propagation through atmospheric temperature gradients (daytime lapse / nighttime inversion), wind shear, acoustic shadowing, and the distinction between sound arriving and sound being noticed.
+  - Main question: how can the same distant sound source become much more audible at the same receiver on some nights than on others?
+  - Framework hook: candidate sound as a material mode of recursive relation; the medium's organization belongs in the account of propagation. The quantitative target \(v_s^2=K_s/\rho\) and density-regime propagation remain **Completion pending**.
+  - Nearest overlap: published **Air Is Not Less Compute Than Stone**, **Stage Is Where Light Meets Space**, **Why Does Heat Draw a Curve?**, and **You Do Not Have to Render the World to Perceive It**; prepared **Why Does a Shadow Have a Blurry Edge?**.
+  - Why distinct: owns atmospheric acoustic refraction from vertical temperature profiles and wind shear, not optical occlusion/refraction, thermal spectra, or selective perception.
+  - Boundary: conventional acoustics explains the weather effect. The framework has not derived atmospheric ray bending, wind shear, absorption, turbulence, measured sound speed, or decibel changes. Budget is not pressure, energy, temperature, or sound intensity.
+  - Package: `bits/why-can-you-hear-a-train-on-some-nights-but-not-others/`
+  - Publication sync: exact title absent from the RSS snapshot; prepared, not published. Live proxy inaccessible; snapshot status was successful and latest item date was 2026-09-13.
 
 - [ ] **Why Does a Shadow Have a Blurry Edge?**
   - Status: **PREPARED**.
