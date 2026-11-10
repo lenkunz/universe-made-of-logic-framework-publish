@@ -8,11 +8,11 @@ Read this part first for current selection/preparation status. Parts 1–16 rema
 
 ## Publication sync
 
-The preferred live proxy `https://souta.me/rss/feed` was unavailable before selection and again after package preparation. The upstream Substack feed returned XML with an unsupported content type. The repository workflow status reports `fetch-failed`, HTTP 502, with the previous good snapshot preserved.
+Pre-selection sync: the direct live proxy `https://souta.me/rss/feed` was unavailable from this environment, and the upstream Substack feed returned XML with an unsupported content type. The repository status file then reported `fetch-failed`, HTTP 502, so the required fallback snapshot was used. Its `lastBuildDate` was **Tue, 03 Nov 2026 08:05:45 GMT** and it contained 20 items; it was stale at that point.
 
-The required fallback `resource/substack-main-feed.rss` has `lastBuildDate` **Tue, 03 Nov 2026 08:05:45 GMT** and contains 20 items. Its newest visible publication is **You Do Not Have to Render the World to Perceive It**, published 2026-09-13. The snapshot is stale relative to this run; it cannot establish whether anything was published after 2026-11-03.
+Post-preparation sync: after the package/source commits, the repository workflow successfully refreshed the snapshot through the proxy. The status file now reports `state: ok`, HTTP 200. The committed snapshot has `lastBuildDate` **Tue, 10 Nov 2026 08:09:08 GMT** and contains 20 items. Its newest visible publication remains **You Do Not Have to Render the World to Perceive It**, published 2026-09-13.
 
-No exact or punctuation-normalized title match was found for **Two Things That Can't Agree Still Relate**. No existing prepared Short gained a new confirmed match in the available snapshot. No existing manifest changed publication status in this run.
+No exact or punctuation-normalized title match was found for **Two Things That Can't Agree Still Relate**. No other current prepared Short gained a new confirmed title match in the refreshed snapshot. No existing manifest changed publication status in this run. The refreshed snapshot is the latest successfully fetched live-proxy representation available to this run; its visible feed still has no post-2026-09-13 entries.
 
 The feed-confirmed manifests for **The Frog Doesn't Solve Ballistics** (2026-08-25) and **The Future Does Not Start from Zero** (2026-09-01) already contain their publication dates and Substack URLs. They remain published.
 
