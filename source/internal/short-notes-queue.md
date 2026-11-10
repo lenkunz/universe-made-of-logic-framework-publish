@@ -1,8 +1,8 @@
 # Short Notes — the queue
 
-<!-- Revision: R20261103-1505-01 -->
-<!-- Updated: 2026-11-03 15:05 +07:00 -->
-<!-- Change: Points selection to Part 16 as the current editorial correction layer while preserving Parts 1–15 as provenance. -->
+<!-- Revision: R20261110-1508-01 -->
+<!-- Updated: 2026-11-10 15:08 +07:00 -->
+<!-- Change: Points selection to Part 17 as the current editorial correction layer while preserving Parts 1–16 as provenance. -->
 
 *Candidates in rough order of readiness. Each is meant to become a standalone piece with one question, one mechanism, and as little framework vocabulary as possible at the opening.*
 
@@ -10,9 +10,9 @@ This queue is split to preserve its history without repeatedly rewriting a very 
 
 ## Current reading rule
 
-Read **Part 16 first when selecting what to prepare next**.
+Read **Part 17 first when selecting what to prepare next**.
 
-Parts 1–15 preserve the earlier queue and reasoning path. Where an active editorial placement, readiness label, publication status, or old wording conflicts with Part 16, **Part 16 is the current editorial correction layer**.
+Parts 1–16 preserve the earlier queue and reasoning path. Where an active editorial placement, readiness label, publication status, or old wording conflicts with Part 17, **Part 17 is the current editorial correction layer**.
 
 Semantic authority still belongs to the maintained framework source and `source/where-the-framework-stands.md`. The queue is publication planning, not framework ground.
 
@@ -33,13 +33,14 @@ Semantic authority still belongs to the maintained framework source and `source/
 13. `source/internal/short-notes-queue/part-13.md` — 2026-10-13 publication sync and `Why Does a Mirror Keep the Angle?` preparation status.
 14. `source/internal/short-notes-queue/part-14.md` — 2026-10-20 publication sync and `Why Reality Does Not Need Infinite Detail` preparation status.
 15. `source/internal/short-notes-queue/part-15.md` — 2026-10-27 publication sync and `Adding Things Multiplies Relationships` preparation status.
-16. `source/internal/short-notes-queue/part-16.md` — **current through 2026-11-03**; publication sync and `Why Can Unrelated Things End Up Similar?` preparation status.
+16. `source/internal/short-notes-queue/part-16.md` — 2026-11-03 publication sync and `Why Can Unrelated Things End Up Similar?` preparation status.
+17. `source/internal/short-notes-queue/part-17.md` — **current through 2026-11-10**; publication sync and `Two Things That Can't Agree Still Relate` preparation status.
 
 ## Selection discipline
 
 Before preparing a Short:
 
-1. read Part 16;
+1. read Part 17;
 2. follow its references to the relevant older part for the candidate's original reasoning;
 3. check current canonical source/status for semantic drift;
 4. check the repository/feed for already-published or already-prepared material;
