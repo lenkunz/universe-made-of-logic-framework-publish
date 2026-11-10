@@ -50,6 +50,10 @@ Pre-selection sync:
 - No exact or punctuation-normalized title match for this Short was present. The snapshot is stale relative to this run; no claim is made about posts after its lastBuildDate.
 - Existing feed-confirmed manifests for **The Frog Doesn't Solve Ballistics** and **The Future Does Not Start from Zero** already record their publication dates and URLs. No additional existing Short status was changed before selection.
 
-Post-preparation sync: pending final snapshot/status check.
+Post-preparation sync:
+- The direct live proxy remained inaccessible from this environment, but the repository workflow successfully refreshed the snapshot through the proxy after the package/source commits.
+- `resource/substack-main-feed.rss` now reports `lastBuildDate` **Tue, 10 Nov 2026 08:09:08 GMT**, 20 items; `resource/substack-main-feed.status.json` reports `state: ok`, HTTP 200.
+- The newest visible item remains **You Do Not Have to Render the World to Perceive It** (2026-09-13). No exact or punctuation-normalized match for this Short was found.
+- No existing prepared Short gained a new confirmed title match; the two already feed-confirmed published manifests remain unchanged. This Short remains **prepared**, not published.
 
 Shorts have no audio/NotebookLM package by default.
