@@ -56,7 +56,9 @@ Pre-selection sync:
 - No exact or punctuation-normalized title match for this Short. The existing published Short corrections remain **The Frog Doesn't Solve Ballistics** (2026-08-25) and **The Future Does Not Start from Zero** (2026-09-01). The current prepared set had no confirmed feed matches.
 
 Post-preparation sync:
-- To be recorded after the package commit and second feed check.
+- The live proxy remained unavailable; fallback snapshot was fetched again after the package commit.
+- Snapshot lastBuildDate: **Tue, 17 Nov 2026 03:27:27 GMT**; 20 items; newest visible publication remains **You Do Not Have to Render the World to Perceive It** (2026-09-13).
+- No exact or punctuation-normalized title match for **Dormant Is Not Erased**. Status remains **prepared**; Published and Substack URL remain blank.
 
 ## Post-publication notes
 
