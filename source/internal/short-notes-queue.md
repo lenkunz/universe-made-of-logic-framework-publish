@@ -12,7 +12,7 @@ This queue is split to preserve its history without repeatedly rewriting a very 
 
 Read **Part 18 first when selecting what to prepare next**.
 
-Parts 1–16 preserve the earlier queue and reasoning path. Where an active editorial placement, readiness label, publication status, or old wording conflicts with Part 18, **Part 18 is the current editorial correction layer**.
+Parts 1–17 preserve the earlier queue and reasoning path. Where an active editorial placement, readiness label, publication status, or old wording conflicts with Part 18, **Part 18 is the current editorial correction layer**.
 
 Semantic authority still belongs to the maintained framework source and `source/where-the-framework-stands.md`. The queue is publication planning, not framework ground.
 
