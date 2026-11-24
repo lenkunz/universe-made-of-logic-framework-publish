@@ -61,7 +61,12 @@ Pre-selection sync:
 - `resource/substack-main-feed.status.json` reports `fetch-failed`, HTTP **502**, with the previous good snapshot preserved.
 - No exact or normalized-title match for this Short. The snapshot is stale relative to the run date, so absence is not proof of non-publication.
 
-Post-preparation sync: pending completion after package creation.
+Post-preparation sync:
+- The live proxy was attempted again after package creation and remained unavailable.
+- The fallback snapshot was fetched again; it is unchanged, with `lastBuildDate` Wed, 18 Nov 2026 14:21:39 GMT, 20 items, and newest visible publication 2026-09-13.
+- The status file still reports `fetch-failed`, HTTP 502.
+- No exact or normalized-title match for this Short; no existing prepared Short gained a confirmed match.
+- Publication remains unconfirmed. Published and Substack URL remain blank. Do not infer publication from package existence.
 
 ## Post-publication notes
 
